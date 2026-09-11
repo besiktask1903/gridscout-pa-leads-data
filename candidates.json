@@ -1,20 +1,51 @@
 {
-  "updated": "2026-09-11T10:44:19Z",
-  "count": 978,
+  "updated": "2026-09-11T20:34:18Z",
+  "count": 1004,
   "candidates": [
     {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165394876725135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165394876725135",
-      "title": "Why is it hard to make ends meet in the Lehigh Valley? - Facebook",
-      "snippet": "People are not understanding that if you take a price of a home, electricity and etc. which is what it cost for you to live in a home. Then divide it by what",
+      "id": "https://www.facebook.com/groups/wildacreslake/posts/1605335894381399",
+      "url": "https://www.facebook.com/groups/wildacreslake/posts/1605335894381399",
+      "title": "Yearly maintenance costs for propane fireplaces, Generac ...",
+      "snippet": "$100/month Generator electrical inlets from $375 Natural gas generator. All for a flat rate of $250! Electric and Gas Line connection, every 8-14 months for $",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Easton Post",
-      "posted": "2026-09-07",
+      "group": "Wild Acres Lake Community",
+      "posted": "2026-09-09",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
       "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups/wildacreslake (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/2350406885413177/posts/2568655156921681",
+      "url": "https://www.facebook.com/groups/2350406885413177/posts/2568655156921681",
+      "title": "Write and/or call! Support the Shermansdale community, stop PAX1 ...",
+      "snippet": "Invitium Energy LLC, which does NOT include PPL Electric Utilities or PPL's other regulated subsidiaries, plans to build, own, and operate new natural gas-fired",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pennsylvania Data Center Resistance",
+      "posted": "2026-09-10",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -25,7 +56,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
@@ -34,18 +65,236 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/whitbyresidents/posts/1982738025590697",
-      "url": "https://www.facebook.com/groups/whitbyresidents/posts/1982738025590697",
-      "title": "Whitby Residents | Looking to explore installing a natural gas powered Inverter generator with transfer switch | Facebook",
-      "snippet": "Title: Whitby Residents | Looking to explore installing a natural gas powered Inverter generator with transfer switch | Facebook\n# Whitby Residents | Looking to explore installing a natural gas powered Inverter generator with transfer switch | Facebook. Has anyone installed a natural gas inverter ge…",
+      "id": "https://www.facebook.com/groups/2319274425158285/posts/2668899223529135",
+      "url": "https://www.facebook.com/groups/2319274425158285/posts/2668899223529135",
+      "title": "Write and/or call! Support the Shermansdale community, stop PAX1 ...",
+      "snippet": "Write and/or call! Support the Shermansdale community, stop PAX1 by stopping the power plant!",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Whitby Residents",
-      "posted": "2025-04-14",
+      "group": "Coalition to Protect Cumberland County PA from Data Centers",
+      "posted": "2026-09-10",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
       "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Easton Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165394876725135",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-07",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "People are not understanding that if you take a price of a home, electricity and etc. which is what it cost for you to live in a home. Then divide it by what",
+      "source": "Facebook",
+      "title": "Why is it hard to make ends meet in the Lehigh Valley? - Facebook",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165394876725135"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1775970472619353/posts/4833127276903642",
+      "url": "https://www.facebook.com/groups/1775970472619353/posts/4833127276903642",
+      "title": "Why has my Duquesne Light bill tripled in Hopewell Twp., Beaver ...",
+      "snippet": "Penn Power will always be your distributor in this area. PAPowerSeitch is the state sponsored site where you can shop for electric supplier by zipcode. Penn",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "The News Alerts of Beaver County",
+      "posted": "2026-09-11",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": true,
+        "semantic_accepted": true,
+        "reason": "accepted",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "984e25d55ebc",
+        "freshness": "fresh"
+      },
+      "production": {
+        "accepted": true,
+        "source": "rules",
+        "reason": "accepted"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1597285337222719/posts/4060812384203323",
+      "url": "https://www.facebook.com/groups/1597285337222719/posts/4060812384203323",
+      "title": "Why does Penelec blame customers for power outages in Erie ...",
+      "snippet": "Why does Penelec blame customers for power outages in Erie, Pennsylvania? Summarized by AI from the post below Anyone noticed Penelec is basically blaming customers for power outages? Let's face it we live in a climate where it's -0 to 90+ through out the year. Yes people use their AC, but Penelec c…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "All Things Millcreek, Pa.",
+      "posted": "2025-06-25",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/137842564900921/posts/1588976439787519",
+      "url": "https://www.facebook.com/groups/137842564900921/posts/1588976439787519",
+      "title": "Who offers good rates? Please share. - Facebook",
+      "snippet": "HELOAN 7.75% Fix Rate@15yr and 7.99%@20yrs … 9.74% interest is a good deal! Looking for a power supplier under $0.10 per kWh. ANYTHING Catasauqua, PA 3y",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Animal Crossing New Horizons Community",
+      "posted": "2026-09-11",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Whitby Residents",
+      "id": "https://www.facebook.com/groups/whitbyresidents/posts/1982738025590697",
+      "last_seen": "2026-09-11",
+      "posted": "2025-04-14",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Title: Whitby Residents | Looking to explore installing a natural gas powered Inverter generator with transfer switch | Facebook\n# Whitby Residents | Looking to explore installing a natural gas powered Inverter generator with transfer switch | Facebook. Has anyone installed a natural gas inverter ge…",
+      "source": "Facebook",
+      "title": "Whitby Residents | Looking to explore installing a natural gas powered Inverter generator with transfer switch | Facebook",
+      "url": "https://www.facebook.com/groups/whitbyresidents/posts/1982738025590697"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2618031091718961/posts/3182937505228314",
+      "url": "https://www.facebook.com/groups/2618031091718961/posts/3182937505228314",
+      "title": "Where to buy or rent RMP gas cylinders in Zayas or Carmen?",
+      "snippet": "Where to buy or rent RMP gas cylinders in Zayas or Carmen? Who is a reliable gas supplier in Chelem Chuburna Beach? gas tank service - reliable ppl that accept",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "PHINMA COC STUDENT'S",
+      "posted": "2026-09-11",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/262495357096078/preview/1091305339949935",
+      "url": "https://www.facebook.com/groups/262495357096078/preview/1091305339949935",
+      "title": "What is the best company to use for electric supply",
+      "snippet": "Updated to add: We have Direct Energy as our supplier right now and they're charging $0.1554 per kWh. Apparently our total usage for 29 days (June 21-Jul 20)",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "",
+      "posted": "",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -56,7 +305,7 @@
         "pennsylvania": false,
         "lead": true,
         "hard_exclusion": false,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
@@ -65,18 +314,235 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "My Efficient Electric Home MEEH",
       "id": "https://www.facebook.com/groups/MyEfficientElectricHome/posts/28642434998707571",
-      "url": "https://www.facebook.com/groups/MyEfficientElectricHome/posts/28642434998707571",
-      "title": "What are the most cost-effective options for replacing or ... - Facebook",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
       "snippet": "Ditching gas for electric hot water and cooking, with a big solar battery system, is recommended for long -term cost-effectiveness.",
       "source": "Facebook",
+      "title": "What are the most cost-effective options for replacing or ... - Facebook",
+      "url": "https://www.facebook.com/groups/MyEfficientElectricHome/posts/28642434998707571"
+    },
+    {
       "context": "facebook.com",
-      "group": "My Efficient Electric Home MEEH",
+      "first_seen": "2026-09-11",
+      "group": "N gauge layout building",
+      "id": "https://www.facebook.com/groups/1627200744252119/posts/4059603251011844",
+      "last_seen": "2026-09-11",
       "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "PECO Model Railways Lots of Facebook groups claiming that Peco track is in short supply....not here at Great Eastern Models. 95% of the range in streamline",
+      "source": "Facebook",
+      "title": "Well, I found a problem with some Peco Code 55 track. Now, in the ...",
+      "url": "https://www.facebook.com/groups/1627200744252119/posts/4059603251011844"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "",
+      "id": "https://www.facebook.com/groups/1191300768283373/posts/2192306718182768",
+      "last_seen": "2026-09-11",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Title: We Love Ukraine - Ми Любимо Україну | Europe is going switch it to buy oil and gas from Russia | Facebook\nWe Love Ukraine - Ми Любимо Україну | Europe is going switch it to buy oil and gas from Russia | Facebook. Image 1 We Love Ukraine - Ми Любимо Україну | Europe is going switch it to buy o…",
+      "source": "Facebook",
+      "title": "We Love Ukraine - Ми Любимо Україну | Europe is going switch it to buy oil and gas from Russia | Facebook",
+      "url": "https://www.facebook.com/groups/1191300768283373/posts/2192306718182768"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Coin and Banknote Collectors Association of Australia",
+      "id": "https://www.facebook.com/groups/157968757565428/posts/29054808040788115",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "PECO will never demand immediate payment, nor will we ever require one specific form of payment, such as a prepaid card or bitcoin. Do not pay on-site for",
+      "source": "Facebook",
+      "title": "Warning about PeerMetals scam using OsKO payments - Facebook",
+      "url": "https://www.facebook.com/groups/157968757565428/posts/29054808040788115"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Easton Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165390350715135",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-06",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Tune in about 2:40 PM to hear Michael take over the airwaves. Before that, beginning at 1:00 PM, we'll celebrate Labor Day - songs about work, workers and all",
+      "source": "Facebook",
+      "title": "WDIY Labor Day Blend with guest DJ Michael Spigel (Sept 7)",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165390350715135"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "",
+      "id": "https://www.facebook.com/groups/319578812553295/posts/756562912188214",
+      "last_seen": "2026-09-11",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Vintage gas stations and vintage style pump girls ·. This was once a Falcon brand gas station, located in PA. Benjamin Moser Here you go.",
+      "source": "Facebook",
+      "title": "Vintage gas stations and vintage style pump girls | This was once a Falcon brand gas station, located in PA | Facebook",
+      "url": "https://www.facebook.com/groups/319578812553295/posts/756562912188214"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Easton Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165410587580135",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Complex Regional Pain Syndrome (CRPS) achronic neurological condition that usually develops after injury, surgery, trauma causes persistent, intense pain",
+      "source": "Facebook",
+      "title": "Understanding Complex Regional Pain Syndrome (CRPS) and its ...",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165410587580135"
+    },
+    {
+      "id": "https://www.facebook.com/groups/TVOHNY/posts/2104224180074475",
+      "url": "https://www.facebook.com/groups/TVOHNY/posts/2104224180074475",
+      "title": "Town/Village of Harrison, NY | From Community Services- Con Ed Rate Cases Public Statement Hearings | Facebook",
+      "snippet": "Con Ed rate case public hearings in White Plains. Summarized by AI from the post below. Town/Village of Harrison, NY ·. From Community Services- Con Ed Rate Cases Public Statement Hearings. Members of the public can testify at hearings in White Plains or Cortlandt in the ongoing Con Ed rate case. To…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Town/Village of Harrison, NY",
+      "posted": "2025-07-08",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -86,8 +552,8 @@
         "keyword": true,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
-        "version": "0a5b39ffcda4"
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
@@ -96,18 +562,49 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1627200744252119/posts/4059603251011844",
-      "url": "https://www.facebook.com/groups/1627200744252119/posts/4059603251011844",
-      "title": "Well, I found a problem with some Peco Code 55 track. Now, in the ...",
-      "snippet": "PECO Model Railways Lots of Facebook groups claiming that Peco track is in short supply....not here at Great Eastern Models. 95% of the range in streamline",
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Pottstown to Reading and Everywhere in Between  and Surrounding Areas",
+      "id": "https://www.facebook.com/groups/391969557629101/posts/3617812745044750",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "PECO Supply + Transmission: 0.10312 per kWh Distribution: 0.07813 per per kWh Connect Charge: $10.52 Monthly Consumer Charge (1,000 kWh): $191.77. Consumer",
+      "source": "Facebook",
+      "title": "This can be picked up in Perkasie, 18944. - Facebook",
+      "url": "https://www.facebook.com/groups/391969557629101/posts/3617812745044750"
+    },
+    {
+      "id": "https://www.facebook.com/groups/133850844085469/posts/2319190032218195",
+      "url": "https://www.facebook.com/groups/133850844085469/posts/2319190032218195",
+      "title": "This can be picked up in Perkasie, 18944. - Facebook",
+      "snippet": "Compare rates for 1,000 kWh is. PPL ($183.12) and PECO ($191.77). PECO and PPL changed their rates on June 1st. Connect: $17.00 Monthly Consumer Charge (1,000",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "N gauge layout building",
+      "group": "Tri-County Pennsylvania Yard Sale Group",
       "posted": "2026-09-10",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -118,7 +615,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
@@ -127,204 +624,142 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1191300768283373/posts/2192306718182768",
-      "url": "https://www.facebook.com/groups/1191300768283373/posts/2192306718182768",
-      "title": "We Love Ukraine - Ми Любимо Україну | Europe is going switch it to buy oil and gas from Russia | Facebook",
-      "snippet": "Title: We Love Ukraine - Ми Любимо Україну | Europe is going switch it to buy oil and gas from Russia | Facebook\nWe Love Ukraine - Ми Любимо Україну | Europe is going switch it to buy oil and gas from Russia | Facebook. Image 1 We Love Ukraine - Ми Любимо Україну | Europe is going switch it to buy o…",
+      "id": "https://www.facebook.com/groups/2350406885413177/posts/2568806806906516",
+      "url": "https://www.facebook.com/groups/2350406885413177/posts/2568806806906516",
+      "title": "These plants were closed for a reason. If the reason wasn't fixed ...",
+      "snippet": "Invitium Energy LLC, which does NOT include PPL Electric Utilities or PPL's other regulated subsidiaries, plans to build, own, and operate new natural gas-fired",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "",
-      "posted": "",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/157968757565428/posts/29054808040788115",
-      "url": "https://www.facebook.com/groups/157968757565428/posts/29054808040788115",
-      "title": "Warning about PeerMetals scam using OsKO payments - Facebook",
-      "snippet": "PECO will never demand immediate payment, nor will we ever require one specific form of payment, such as a prepaid card or bitcoin. Do not pay on-site for",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Coin and Banknote Collectors Association of Australia",
+      "group": "Pennsylvania Data Center Resistance",
       "posted": "2026-09-11",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
+        "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "intent"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165390350715135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165390350715135",
-      "title": "WDIY Labor Day Blend with guest DJ Michael Spigel (Sept 7)",
-      "snippet": "Tune in about 2:40 PM to hear Michael take over the airwaves. Before that, beginning at 1:00 PM, we'll celebrate Labor Day - songs about work, workers and all",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Easton Post",
-      "posted": "2026-09-06",
       "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/319578812553295/posts/756562912188214",
-      "url": "https://www.facebook.com/groups/319578812553295/posts/756562912188214",
-      "title": "Vintage gas stations and vintage style pump girls | This was once a Falcon brand gas station, located in PA | Facebook",
-      "snippet": "Vintage gas stations and vintage style pump girls ·. This was once a Falcon brand gas station, located in PA. Benjamin Moser Here you go.",
-      "source": "Facebook",
-      "context": "facebook.com",
       "group": "",
-      "posted": "",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165410587580135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165410587580135",
-      "title": "Understanding Complex Regional Pain Syndrome (CRPS) and its ...",
-      "snippet": "Complex Regional Pain Syndrome (CRPS) achronic neurological condition that usually develops after injury, surgery, trauma causes persistent, intense pain",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Easton Post",
-      "posted": "2026-09-11",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/391969557629101/posts/3617812745044750",
-      "url": "https://www.facebook.com/groups/391969557629101/posts/3617812745044750",
-      "title": "This can be picked up in Perkasie, 18944. - Facebook",
-      "snippet": "PECO Supply + Transmission: 0.10312 per kWh Distribution: 0.07813 per per kWh Connect Charge: $10.52 Monthly Consumer Charge (1,000 kWh): $191.77. Consumer",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Pottstown to Reading and Everywhere in Between  and Surrounding Areas",
-      "posted": "2026-09-10",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
       "id": "https://www.facebook.com/groups/mikerielly/posts/24201902412825306",
-      "url": "https://www.facebook.com/groups/mikerielly/posts/24201902412825306",
-      "title": "The Valley Spreader",
+      "last_seen": "2026-09-11",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
       "snippet": "[](\n\n# The Valley Spreader\n\nPrivate group\n\n23.8K members\n\nJoin group\n\nAbout\n\nDiscussion\n\nMore\n\nAboutDiscussion\n\nThe Valley Spreader\n\nJoin group\n\n## About this group\n\nWelcome to the Valley Spreader, a polite, non-religious and non-political affiliated group which encourages discussions of local event…",
       "source": "Facebook",
+      "title": "The Valley Spreader",
+      "url": "https://www.facebook.com/groups/mikerielly/posts/24201902412825306"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2395376463812529/posts/29488077737449035",
+      "url": "https://www.facebook.com/groups/2395376463812529/posts/29488077737449035",
+      "title": "The PUC will review how rates are set as electricity customers worry ...",
+      "snippet": "PUC To Investigate Proposed 18.4% Rate + 37.5% Customer Charge Increase By Wellsboro Electric; 18% Gas Increase + 13.4% Customer Charge Increase For Valley",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "",
-      "posted": "",
+      "group": "SOUTH  WHITEHALL  AND LEHIGH VALLEY",
+      "posted": "2026-09-10",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
       "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Middletown PA News and Information",
+      "id": "https://www.facebook.com/groups/1529304447729313/posts/1975679783091775",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "PA Gas tax 57.6 cents/gallon, but the reason PA is paying so much more for gas is because of SHEETZ! They ARE price gouging, but all the other gas stations",
+      "source": "Facebook",
+      "title": "Sheetz is showing 4.59 and Wawa's 4.29. I am sure one of them will ...",
+      "url": "https://www.facebook.com/groups/1529304447729313/posts/1975679783091775"
+    },
+    {
+      "id": "https://www.facebook.com/groups/wildacreslake/posts/1603934777854844",
+      "url": "https://www.facebook.com/groups/wildacreslake/posts/1603934777854844",
+      "title": "Roof repair needed in Wild Acres Lake area - Facebook",
+      "snippet": "Reattachment is a simple fix, but a new fascia piece is likely needed due to the bend and potential water damage.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Wild Acres Lake Community",
+      "posted": "2026-09-08",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups/wildacreslake (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -335,7 +770,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
@@ -344,49 +779,111 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1529304447729313/posts/1975679783091775",
-      "url": "https://www.facebook.com/groups/1529304447729313/posts/1975679783091775",
-      "title": "Sheetz is showing 4.59 and Wawa's 4.29. I am sure one of them will ...",
-      "snippet": "PA Gas tax 57.6 cents/gallon, but the reason PA is paying so much more for gas is because of SHEETZ! They ARE price gouging, but all the other gas stations",
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Easton Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165408737230135",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Rest in peace all of the murdered victims of 911. disease completely heal. electricity use fell by 560 kWh per year",
+      "source": "Facebook",
+      "title": "Rest in peace all of the murdered victims of 911. May all ... - Facebook",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165408737230135"
+    },
+    {
+      "id": "https://www.facebook.com/groups/188965777784802/posts/26493035440284477",
+      "url": "https://www.facebook.com/groups/188965777784802/posts/26493035440284477",
+      "title": "Reading PA, Community Watch & Surrounding Areas | there are people going door to door claiming to be from met ed, claiming theyre looking into energy costs overcharges | Facebook",
+      "snippet": "Title: Reading PA, Community Watch & Surrounding Areas | there are people going door to door claiming to be from met ed, claiming theyre looking into energy costs overcharges | Facebook\nReading PA, Community Watch & Surrounding Areas | there are people going door to door claiming to be from met ed, …",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Middletown PA News and Information",
+      "group": "",
+      "posted": "2026-01-16",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/mortgageprofessionals/posts/29018719181062855",
+      "url": "https://www.facebook.com/groups/mortgageprofessionals/posts/29018719181062855",
+      "title": "Rate versus Sofi for processing role. Thoughts? Which company is ...",
+      "snippet": "Since its wholesale, obviously rates are higher with keyed in and rewards cards and some international. 3.3% is way to high.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Mortgage Professionals Network",
+      "posted": "2026-09-10",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1795874100584152/posts/3296912577146956",
+      "url": "https://www.facebook.com/groups/1795874100584152/posts/3296912577146956",
+      "title": "Power outages reported in Cambria County, PA, 1,467 ... - Facebook",
+      "snippet": "PPL Electric Utilities is reporting 2,598 customers without power and is actively working to restore service. Power Outages: KU: 1,426 Kenergy: 0 Pennyrile: 36",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "The Johnstown Update - Community Group",
       "posted": "2026-09-11",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165408737230135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165408737230135",
-      "title": "Rest in peace all of the murdered victims of 911. May all ... - Facebook",
-      "snippet": "Rest in peace all of the murdered victims of 911. disease completely heal. electricity use fell by 560 kWh per year",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Easton Post",
-      "posted": "2026-09-10",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -397,7 +894,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
@@ -406,49 +903,80 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Exeter Area Community Page Pennsylvania 18643",
       "id": "https://www.facebook.com/groups/415369539272518/posts/2413233166152802",
-      "url": "https://www.facebook.com/groups/415369539272518/posts/2413233166152802",
-      "title": "Posting for a family member in Pennsylvania. Contracting Supply Sale",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
       "snippet": "Contracting Supply Sale - located Between Scranton Pa and Wilkes Barre Pa September 11th, 12th and 13th Friday & Saturday 9:00 a.m. to 5:00 p.m. Sunday 10:00",
       "source": "Facebook",
+      "title": "Posting for a family member in Pennsylvania. Contracting Supply Sale",
+      "url": "https://www.facebook.com/groups/415369539272518/posts/2413233166152802"
+    },
+    {
       "context": "facebook.com",
-      "group": "Exeter Area Community Page Pennsylvania 18643",
-      "posted": "2026-09-10",
       "first_seen": "2026-09-11",
+      "group": "",
+      "id": "https://www.facebook.com/groups/pennsylvaniaphotos/posts/3883641061906267",
       "last_seen": "2026-09-11",
+      "posted": "2024-12-29",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/pennsylvaniaphotos/posts/3883641061906267",
-      "url": "https://www.facebook.com/groups/pennsylvaniaphotos/posts/3883641061906267",
-      "title": "Pennsylvania Photography with Uncovering PA | \"Convenience war\" | Facebook",
       "snippet": "Title: Pennsylvania Photography with Uncovering PA | \"Convenience war\" | Facebook\n# Pennsylvania Photography with Uncovering PA | \"Convenience war\" | Facebook. Which convenience store is your favorite? Summarized by AI from the post below. ## Pennsylvania Photography with Uncovering PA ·. All of whi…",
       "source": "Facebook",
+      "title": "Pennsylvania Photography with Uncovering PA | \"Convenience war\" | Facebook",
+      "url": "https://www.facebook.com/groups/pennsylvaniaphotos/posts/3883641061906267"
+    },
+    {
+      "id": "https://www.facebook.com/groups/boneheadtruckersoftheweek/posts/1377052794203036",
+      "url": "https://www.facebook.com/groups/boneheadtruckersoftheweek/posts/1377052794203036",
+      "title": "Parked at a fuel station here at quails in Newport News off of ...",
+      "snippet": "❗️THE KWIKWAY STILL HAS GASOLINE❗️ I'm seeing ppl post that they can't find anywhere to fuel up so y'all can help out by commenting other places that",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "",
-      "posted": "2024-12-29",
+      "group": "Bonehead Truckers",
+      "posted": "2026-09-11",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -456,10 +984,10 @@
         "reason": "keyword",
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
+        "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
@@ -468,173 +996,204 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/992935571604835/posts/2166089690956078",
+      "url": "https://www.facebook.com/groups/992935571604835/posts/2166089690956078",
+      "title": "Pa approved Admin swap power pipe 3cut h2 or kou - Facebook",
+      "snippet": "Public Effective June 1, PPL will raise its residential rate for electricity to 12.366 cents per kilowatt hour from 8.941 cents per kWh,",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "BOHOL MOTOR PARTS BUY AND SELL ACCESSORIES",
+      "posted": "2026-09-11",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Wilkeson and Carbonado Community Page",
       "id": "https://www.facebook.com/groups/789838571110238/posts/28289693167364741",
-      "url": "https://www.facebook.com/groups/789838571110238/posts/28289693167364741",
-      "title": "PSE proposes 16.75% residential electric rate increase in 2027",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
       "snippet": "Pennsylvania's ... Also included in that settlement was a pilot program that would offer financial incentives for around 10,000 PSE customers to switch from gas",
       "source": "Facebook",
+      "title": "PSE proposes 16.75% residential electric rate increase in 2027",
+      "url": "https://www.facebook.com/groups/789838571110238/posts/28289693167364741"
+    },
+    {
       "context": "facebook.com",
-      "group": "Wilkeson and Carbonado Community Page",
-      "posted": "2026-09-10",
       "first_seen": "2026-09-11",
+      "group": "Carbondale and NEPA Small business Advertising",
+      "id": "https://www.facebook.com/groups/375276459281099/posts/4062599823882059",
       "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/375276459281099/posts/4062599823882059",
-      "url": "https://www.facebook.com/groups/375276459281099/posts/4062599823882059",
-      "title": "Oil to natural gas conversion services in Peckville, NEPA - Facebook",
       "snippet": "give us a call at 434-447-3146. If you're looking into making the switch from oil/ propane to natural gas, give us a call",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Carbondale and NEPA Small business Advertising",
-      "posted": "2026-09-10",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "title": "Oil to natural gas conversion services in Peckville, NEPA - Facebook",
+      "url": "https://www.facebook.com/groups/375276459281099/posts/4062599823882059"
     },
     {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165391371515135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165391371515135",
-      "title": "Northampton County Prison workers need support and investigation",
-      "snippet": "The Compensation Board estimated a total average daily cost of operating local and regional jails at $107 .09 per inmate in FY2021, of which $59.03 was",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Easton Post",
-      "posted": "2026-09-07",
       "first_seen": "2026-09-11",
+      "group": "Easton Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165391371515135",
       "last_seen": "2026-09-11",
+      "posted": "2026-09-07",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "The Compensation Board estimated a total average daily cost of operating local and regional jails at $107 .09 per inmate in FY2021, of which $59.03 was",
+      "source": "Facebook",
+      "title": "Northampton County Prison workers need support and investigation",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165391371515135"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2081841635756461/posts/2216546638952626",
+      "url": "https://www.facebook.com/groups/2081841635756461/posts/2216546638952626",
+      "title": "My whinge is price of electricity when we have the best and ...",
+      "snippet": "electricity is about $650 a quarter. we average around $700 a quarter (no solar). about 250 - 350 a quarter and we have 5 ppl … i called our current supplier",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "WHINGE AWAY, ILLAWARRA",
+      "posted": "2026-09-10",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
+        "hard_exclusion": false,
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "geography"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1667351196829129/posts/4579581415606078",
-      "url": "https://www.facebook.com/groups/1667351196829129/posts/4579581415606078",
-      "title": "Minimum 2–3 years in civil/construction drafting. Responsibilities ...",
-      "snippet": "Progressive Engineering and Construction (PECO) Drafts and reviews drawings prepared by others as requested.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "DAE CIVIL DIPLOMA ASSOCIATE ENGINEERING",
-      "posted": "2026-09-10",
       "first_seen": "2026-09-11",
+      "group": "DAE CIVIL DIPLOMA ASSOCIATE ENGINEERING",
+      "id": "https://www.facebook.com/groups/1667351196829129/posts/4579581415606078",
       "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1927885953906513/posts/9965367543491607",
-      "url": "https://www.facebook.com/groups/1927885953906513/posts/9965367543491607",
-      "title": "Martinsburg, Pa. Then, and Martinsburg, Pa. Now | Regarding the water break and gas leak on S | Facebook",
-      "snippet": "Water break and gas leak on S. Summarised by AI from the post below. Martinsburg, Pa. Then, and Martinsburg, Pa. Now ·. Regarding the water break and gas leak on S. Walnut St. I'm pleased to report that all is under control. Regarding the water break and gas leak on S. Walnut St. I'm pleased to repo…",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "",
-      "posted": "2025-01-25",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
+        "pennsylvania": false,
+        "reason": "geography",
         "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "Progressive Engineering and Construction (PECO) Drafts and reviews drawings prepared by others as requested.",
+      "source": "Facebook",
+      "title": "Minimum 2–3 years in civil/construction drafting. Responsibilities ...",
+      "url": "https://www.facebook.com/groups/1667351196829129/posts/4579581415606078"
     },
     {
-      "id": "https://www.facebook.com/groups/504659276407422/posts/3319179788288676",
-      "url": "https://www.facebook.com/groups/504659276407422/posts/3319179788288676",
-      "title": "Licensed LP propane stove installers in Fairfield, PA - Facebook",
-      "snippet": "Looking for someone to install a propane gas line for a new stove, easily located within 4-6 feet from stove to outside who will not charge an arm and two legs.",
+      "id": "https://www.facebook.com/groups/489023776043751/posts/1591815425764575",
+      "url": "https://www.facebook.com/groups/489023776043751/posts/1591815425764575",
+      "title": "Mini Pamcajes Catering end of the year sale!! - Facebook",
+      "snippet": "JULY -AUGUST SALE PRICES 30 ppl $210 50 50ppl ppl $350 80 ppl $560 100 ppl $700 Every Package Includes: 8 TOPPINGS 3 DRIZZLE 2 HR SERVICE TOPPING CHOICES",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Littlestown Neighborhood And Surrounding Areas",
+      "group": "emprendedores del valley van nuys sherman Oaks panorama city san Fernando",
       "posted": "2026-09-11",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -645,7 +1204,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
@@ -654,35 +1213,97 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165395230505135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165395230505135",
-      "title": "Kitchen tile installation and countertop replacement services in Easton",
-      "snippet": "reasonable prices and high-quality workmanship. call at +14848384031. Call or text anytime for your free estimate. Affordable high quality workmanship!",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Easton Post",
-      "posted": "2026-09-07",
       "first_seen": "2026-09-11",
+      "group": "",
+      "id": "https://www.facebook.com/groups/1927885953906513/posts/9965367543491607",
       "last_seen": "2026-09-11",
+      "posted": "2025-01-25",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Water break and gas leak on S. Summarised by AI from the post below. Martinsburg, Pa. Then, and Martinsburg, Pa. Now ·. Regarding the water break and gas leak on S. Walnut St. I'm pleased to report that all is under control. Regarding the water break and gas leak on S. Walnut St. I'm pleased to repo…",
+      "source": "Facebook",
+      "title": "Martinsburg, Pa. Then, and Martinsburg, Pa. Now | Regarding the water break and gas leak on S | Facebook",
+      "url": "https://www.facebook.com/groups/1927885953906513/posts/9965367543491607"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Littlestown Neighborhood And Surrounding Areas",
+      "id": "https://www.facebook.com/groups/504659276407422/posts/3319179788288676",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Looking for someone to install a propane gas line for a new stove, easily located within 4-6 feet from stove to outside who will not charge an arm and two legs.",
+      "source": "Facebook",
+      "title": "Licensed LP propane stove installers in Fairfield, PA - Facebook",
+      "url": "https://www.facebook.com/groups/504659276407422/posts/3319179788288676"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Easton Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165395230505135",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-07",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "reasonable prices and high-quality workmanship. call at +14848384031. Call or text anytime for your free estimate. Affordable high quality workmanship!",
+      "source": "Facebook",
+      "title": "Kitchen tile installation and countertop replacement services in Easton",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165395230505135"
     },
     {
       "id": "https://www.facebook.com/groups/528388175165247/posts/1551010832902971",
@@ -696,7 +1317,8 @@
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")",
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -707,7 +1329,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": false,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
@@ -716,269 +1338,146 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165406398175135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165406398175135",
-      "title": "I'm just gonna leave this here. - Facebook",
-      "snippet": "Electric is a tricky situation, not even solar panels cut it anymore in my opinion. lower energy costs and in turn also helps with their overall health.",
+      "id": "https://www.facebook.com/groups/307529755949759/posts/28329805616628797",
+      "url": "https://www.facebook.com/groups/307529755949759/posts/28329805616628797",
+      "title": "Is anyone on Peco's budget billing? What are your bills looking like",
+      "snippet": "Budget bills range from $30 to $567 monthly, Only works if there are suppliers. As rates are going up, they should be the lowest rate. Normally gas prices come",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Easton Post",
+      "group": "Levittown PA",
       "posted": "2026-09-10",
       "first_seen": "2026-09-11",
       "last_seen": "2026-09-11",
       "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/191984864735535/posts/2158227421444593",
-      "url": "https://www.facebook.com/groups/191984864735535/posts/2158227421444593",
-      "title": "How to dispose of a non-working refrigerator in Bala Cynwyd?",
-      "snippet": "Kings Delivery & Removal Services will haul it away. PECO doesn't take them anymore unfortunately. 4h.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Main Line Community Network",
-      "posted": "2026-09-10",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165409941640135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165409941640135",
-      "title": "Historic view of Canal St. in Easton, PA, 1907 - Facebook",
-      "snippet": "A postcard view of Kahn's Art Gallery, post office, and Easton Gas and Electric Co., N. E. corner of Center Square, Easton, PA in the early 1900s",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Easton Post",
-      "posted": "2026-09-10",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "accepted": true,
+        "semantic_accepted": true,
+        "reason": "accepted",
         "host": true,
         "keyword": true,
         "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1161149482498917/posts/1345921604021703",
-      "url": "https://www.facebook.com/groups/1161149482498917/posts/1345921604021703",
-      "title": "Has anyone not received a bill since June?! - Facebook",
-      "snippet": "My bill posted today My gas usage was like $34.00. My electric was much higher bill have to look at the last two summer bills to see if that's normal.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "NIPSCO Monopoly Madness",
-      "posted": "2026-09-10",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/226427627492831/preview/1750809502675587",
-      "url": "https://www.facebook.com/groups/226427627492831/preview/1750809502675587",
-      "title": "Has anyone converted from heating oil to natural gas and if so, how ...",
-      "snippet": "Has anyone converted from heating oil to natural gas and if so, how much did it cost and would you recommend whomever you used? Thanks in advance!",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "",
-      "posted": "",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
         "lead": true,
         "hard_exclusion": false,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc",
+        "freshness": "fresh"
       },
       "production": {
-        "accepted": false,
+        "accepted": true,
         "source": "rules",
-        "reason": "geography"
+        "reason": "accepted"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165408158835135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165408158835135",
-      "title": "Good morning everyone! ☕️ Just a reminder Lucky 7 is taking ...",
-      "snippet": "Good morning everyone! ☕️ Just a reminder Lucky 7 is taking stage tonight for the final Live At The Falls of the season at Scott Park! Weather looks ok",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Easton Post",
-      "posted": "2026-09-10",
       "first_seen": "2026-09-11",
+      "group": "Easton Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165406398175135",
       "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
-        "keyword": false,
+        "keyword": true,
+        "lead": false,
         "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165404237775135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165404237775135",
-      "title": "Free Microforest Exploration and Star Party in Easton, PA on ...",
-      "snippet": "We have two exciting programs celebrating the Earth and Sky coming up next Saturday, September 19th - an exploration of Easton's Microforest in the",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Easton Post",
-      "posted": "2026-09-09",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
+        "reason": "geography",
         "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "Electric is a tricky situation, not even solar panels cut it anymore in my opinion. lower energy costs and in turn also helps with their overall health.",
+      "source": "Facebook",
+      "title": "I'm just gonna leave this here. - Facebook",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165406398175135"
     },
     {
-      "id": "https://www.facebook.com/groups/1830075914194667/posts/2034538657081724",
-      "url": "https://www.facebook.com/groups/1830075914194667/posts/2034538657081724",
-      "title": "Average gas prices in your state. According to the August report ...",
-      "snippet": "Average gas prices in your state. According to the August report, Inflation is hot; up to 5.4%.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Norman Finkelstein",
-      "posted": "2026-09-10",
       "first_seen": "2026-09-11",
+      "group": "Main Line Community Network",
+      "id": "https://www.facebook.com/groups/191984864735535/posts/2158227421444593",
       "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
+      "posted": "2026-09-10",
+      "production": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
+        "reason": "geography",
+        "source": "rules"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/803727177673913/posts/1861061648607122",
-      "url": "https://www.facebook.com/groups/803727177673913/posts/1861061648607122",
-      "title": "Anyone else cleco bill sky high? Mine has been 500 the last 3 months",
-      "snippet": "Just coming on here to ask if everyone else's PECO bills have been doubling each month. Back in November I think I paid about $120, last month was $220, and",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Eunice, Louisiana 70535",
-      "posted": "2026-09-10",
-      "first_seen": "2026-09-11",
-      "last_seen": "2026-09-11",
       "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Kings Delivery & Removal Services will haul it away. PECO doesn't take them anymore unfortunately. 4h.",
+      "source": "Facebook",
+      "title": "How to dispose of a non-working refrigerator in Bala Cynwyd?",
+      "url": "https://www.facebook.com/groups/191984864735535/posts/2158227421444593"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Easton Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165409941640135",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "A postcard view of Kahn's Art Gallery, post office, and Easton Gas and Electric Co., N. E. corner of Center Square, Easton, PA in the early 1900s",
+      "source": "Facebook",
+      "title": "Historic view of Canal St. in Easton, PA, 1907 - Facebook",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165409941640135"
+    },
+    {
+      "id": "https://www.facebook.com/groups/comparetariffs/posts/2645911992534961",
+      "url": "https://www.facebook.com/groups/comparetariffs/posts/2645911992534961",
+      "title": "Hi I have created this locally usable webpage that can compare EV ...",
+      "snippet": "Octopus have really good fixed EV tariffs which mean you can get night rate electricity for 7.5p per Kwh. Day rate is 40p per kwh. If you can shift washing",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Comparing EV, Solar & storage, Heat Pump and TOU Tariffs UK",
+      "posted": "2026-09-11",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
         "semantic_accepted": false,
         "reason": "geography",
         "host": true,
@@ -986,7 +1485,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
@@ -995,66 +1494,376 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1649328788631231/posts/4721066351457444",
-      "url": "https://www.facebook.com/groups/1649328788631231/posts/4721066351457444",
-      "title": "90,000 BTUS FURNACE you can use it as propane or natural gas ...",
-      "snippet": "Standard Features include: Stainless steel breeze burner Stainless steel pilot ring Cast iron combustion ring Welded steel heat exchanger Counter flow, two",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Vandergrift/apollo leechburg/rural valley/surrounding buy sell",
-      "posted": "2026-09-10",
       "first_seen": "2026-09-11",
+      "group": "NIPSCO Monopoly Madness",
+      "id": "https://www.facebook.com/groups/1161149482498917/posts/1345921604021703",
       "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "My bill posted today My gas usage was like $34.00. My electric was much higher bill have to look at the last two summer bills to see if that's normal.",
+      "source": "Facebook",
+      "title": "Has anyone not received a bill since June?! - Facebook",
+      "url": "https://www.facebook.com/groups/1161149482498917/posts/1345921604021703"
     },
     {
-      "id": "https://www.facebook.com/groups/416962283933995/posts/1250857987211083",
-      "url": "https://www.facebook.com/groups/416962283933995/posts/1250857987211083",
-      "title": "2023-2026 Toyota Tundra Owners | Anybody know how a 2026 hybrid decides to switch from gas to hybrid and back to gas | Facebook",
-      "snippet": "Title: 2023-2026 Toyota Tundra Owners | Anybody know how a 2026 hybrid decides to switch from gas to hybrid and back to gas | Facebook\n# 2023-2026 Toyota Tundra Owners | Anybody know how a 2026 hybrid decides to switch from gas to hybrid and back to gas | Facebook. How does 2026 hybrid switch betwee…",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "2023-2027 Toyota Tundra Owners",
-      "posted": "2026-03-20",
       "first_seen": "2026-09-11",
+      "group": "",
+      "id": "https://www.facebook.com/groups/226427627492831/preview/1750809502675587",
       "last_seen": "2026-09-11",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": false,
+        "reason": "geography",
         "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Has anyone converted from heating oil to natural gas and if so, how much did it cost and would you recommend whomever you used? Thanks in advance!",
+      "source": "Facebook",
+      "title": "Has anyone converted from heating oil to natural gas and if so, how ...",
+      "url": "https://www.facebook.com/groups/226427627492831/preview/1750809502675587"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Easton Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165408158835135",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
         "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Good morning everyone! ☕️ Just a reminder Lucky 7 is taking stage tonight for the final Live At The Falls of the season at Scott Park! Weather looks ok",
+      "source": "Facebook",
+      "title": "Good morning everyone! ☕️ Just a reminder Lucky 7 is taking ...",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165408158835135"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Easton Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165404237775135",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-09",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "We have two exciting programs celebrating the Earth and Sky coming up next Saturday, September 19th - an exploration of Easton's Microforest in the",
+      "source": "Facebook",
+      "title": "Free Microforest Exploration and Star Party in Easton, PA on ...",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165404237775135"
+    },
+    {
+      "id": "https://www.facebook.com/groups/AllThingsChesco/posts/3795310217437350",
+      "url": "https://www.facebook.com/groups/AllThingsChesco/posts/3795310217437350",
+      "title": "Dr. Barbara O'Neill Health Tips | Has anyone noticed ed that PECOs rate just went from $ .0773 (or just under 8 cents) per kilowatt to | Facebook",
+      "snippet": "Title: Dr. Barbara O'Neill Health Tips | Has anyone noticed ed that PECOs rate just went from $ .0773 (or just under 8 cents) per kilowatt to | Facebook\n# Dr. Barbara O'Neill Health Tips | Has anyone noticed ed that PECOs rate just went from $ .0773 (or just under 8 cents) per kilowatt to | Facebook…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Dr. Barbara O'Neill Health Tips",
+      "posted": "2026-01-29",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0a5b39ffcda4"
+        "version": "984e25d55ebc"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "geography"
       }
+    },
+    {
+      "id": "https://www.facebook.com/groups/2319274425158285/posts/2669535396798851",
+      "url": "https://www.facebook.com/groups/2319274425158285/posts/2669535396798851",
+      "title": "Data center proposals will impact the Appalachian trail both at PAX1 ...",
+      "snippet": "In PPL Electric Utilities' service territory alone, data center interest tops 60,000 MW of potential projects, with more than 13,000 MW in advanced stages of",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Coalition to Protect Cumberland County PA from Data Centers",
+      "posted": "2026-09-11",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/wildacreslake/posts/1603239294591059",
+      "url": "https://www.facebook.com/groups/wildacreslake/posts/1603239294591059",
+      "title": "Data center meeting in Wild Acres Lake on Sept. 9 at JT Lambert ...",
+      "snippet": "A meeting will be held Wednesday, Sept. 9 regarding a 500,000 sq. ft. data center near Delaware Water Gap. sell electric to these entities … entrance to the",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Wild Acres Lake Community",
+      "posted": "2026-09-07",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups/wildacreslake (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/fergusontalk/posts/1386610209721433",
+      "url": "https://www.facebook.com/groups/fergusontalk/posts/1386610209721433",
+      "title": "Chris Sudlik's claims on data center impact and Ameren rate increases",
+      "snippet": "We've been paying higher rates year after year as Ameren comes to rate meetings and tells the public that buying these other utilities \"makes it easier to",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "I Care About Ferguson",
+      "posted": "2026-09-11",
+      "first_seen": "2026-09-11",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Norman Finkelstein",
+      "id": "https://www.facebook.com/groups/1830075914194667/posts/2034538657081724",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Average gas prices in your state. According to the August report, Inflation is hot; up to 5.4%.",
+      "source": "Facebook",
+      "title": "Average gas prices in your state. According to the August report ...",
+      "url": "https://www.facebook.com/groups/1830075914194667/posts/2034538657081724"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Eunice, Louisiana 70535",
+      "id": "https://www.facebook.com/groups/803727177673913/posts/1861061648607122",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Just coming on here to ask if everyone else's PECO bills have been doubling each month. Back in November I think I paid about $120, last month was $220, and",
+      "source": "Facebook",
+      "title": "Anyone else cleco bill sky high? Mine has been 500 the last 3 months",
+      "url": "https://www.facebook.com/groups/803727177673913/posts/1861061648607122"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "Vandergrift/apollo leechburg/rural valley/surrounding buy sell",
+      "id": "https://www.facebook.com/groups/1649328788631231/posts/4721066351457444",
+      "last_seen": "2026-09-11",
+      "posted": "2026-09-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Standard Features include: Stainless steel breeze burner Stainless steel pilot ring Cast iron combustion ring Welded steel heat exchanger Counter flow, two",
+      "source": "Facebook",
+      "title": "90,000 BTUS FURNACE you can use it as propane or natural gas ...",
+      "url": "https://www.facebook.com/groups/1649328788631231/posts/4721066351457444"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-11",
+      "group": "2023-2027 Toyota Tundra Owners",
+      "id": "https://www.facebook.com/groups/416962283933995/posts/1250857987211083",
+      "last_seen": "2026-09-11",
+      "posted": "2026-03-20",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
+      "snippet": "Title: 2023-2026 Toyota Tundra Owners | Anybody know how a 2026 hybrid decides to switch from gas to hybrid and back to gas | Facebook\n# 2023-2026 Toyota Tundra Owners | Anybody know how a 2026 hybrid decides to switch from gas to hybrid and back to gas | Facebook. How does 2026 hybrid switch betwee…",
+      "source": "Facebook",
+      "title": "2023-2026 Toyota Tundra Owners | Anybody know how a 2026 hybrid decides to switch from gas to hybrid and back to gas | Facebook",
+      "url": "https://www.facebook.com/groups/416962283933995/posts/1250857987211083"
     },
     {
       "context": "facebook.com",
@@ -4004,36 +4813,36 @@
       "url": "https://www.facebook.com/groups/TheCHS/posts/10159720124700660"
     },
     {
-      "id": "https://www.facebook.com/groups/480830828944279/posts/2437305869963422",
-      "url": "https://www.facebook.com/groups/480830828944279/posts/2437305869963422",
-      "title": "The Informative Jersey Shore, Pa. News | Public Utility Commission to host hearing on UGI rate increase proposal | Facebook",
-      "snippet": "UGI Rate Increase Proposal Hearing in Williamsport, Pennsylvania. Summarized by AI from the post below. The Informative Jersey Shore, Pa. News ·. Public Utility Commission to host hearing on UGI rate increase proposal. UGI customers may be facing a rate increase and there is a Public Utility Commiss…",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "The Informative Jersey Shore, Pa. News",
-      "posted": "2025-04-04",
       "first_seen": "2026-09-09",
+      "group": "The Informative Jersey Shore, Pa. News",
+      "id": "https://www.facebook.com/groups/480830828944279/posts/2437305869963422",
       "last_seen": "2026-09-11",
+      "posted": "2025-04-04",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")",
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "snippet": "UGI Rate Increase Proposal Hearing in Williamsport, Pennsylvania. Summarized by AI from the post below. The Informative Jersey Shore, Pa. News ·. Public Utility Commission to host hearing on UGI rate increase proposal. UGI customers may be facing a rate increase and there is a Public Utility Commiss…",
+      "source": "Facebook",
+      "title": "The Informative Jersey Shore, Pa. News | Public Utility Commission to host hearing on UGI rate increase proposal | Facebook",
+      "url": "https://www.facebook.com/groups/480830828944279/posts/2437305869963422"
     },
     {
       "context": "facebook.com",
@@ -9537,36 +10346,36 @@
       "url": "https://www.facebook.com/groups/1164589916931959/posts/28311919801772270"
     },
     {
-      "id": "https://www.facebook.com/groups/749605705687296/posts/1868274087153780",
-      "url": "https://www.facebook.com/groups/749605705687296/posts/1868274087153780",
-      "title": "411 Wayne County PA,Honesdale Hawley and surround area 411 | The Pennsylvania Public Utility Commission (PA PUC) is the state-level regulatory body that ensures safe, reliable electric, natural gas, water, waste... | Facebook",
-      "snippet": "411 Wayne County PA,Honesdale Hawley and surround area 411 ·. The Pennsylvania Public Utility Commission (PA PUC) is the state-level regulatory body that ensures safe, reliable electric, natural gas, water, wastewater, and telecommunications services at reasonable rates for residents and businesses.…",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "",
-      "posted": "",
       "first_seen": "2026-09-07",
+      "group": "",
+      "id": "https://www.facebook.com/groups/749605705687296/posts/1868274087153780",
       "last_seen": "2026-09-11",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")",
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "snippet": "411 Wayne County PA,Honesdale Hawley and surround area 411 ·. The Pennsylvania Public Utility Commission (PA PUC) is the state-level regulatory body that ensures safe, reliable electric, natural gas, water, wastewater, and telecommunications services at reasonable rates for residents and businesses.…",
+      "source": "Facebook",
+      "title": "411 Wayne County PA,Honesdale Hawley and surround area 411 | The Pennsylvania Public Utility Commission (PA PUC) is the state-level regulatory body that ensures safe, reliable electric, natural gas, water, waste... | Facebook",
+      "url": "https://www.facebook.com/groups/749605705687296/posts/1868274087153780"
     },
     {
       "context": "facebook.com",
@@ -11310,35 +12119,36 @@
       "url": "https://oeg.us.com"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-09-06",
-      "group": "",
       "id": "https://www.facebook.com/groups/703037529834104/posts/3404443096360187",
-      "last_seen": "2026-09-06",
+      "url": "https://www.facebook.com/groups/703037529834104/posts/3404443096360187",
+      "title": "Have you used an electricity supplier called Direct Energy? I am a ...",
+      "snippet": "· September 22 at 8:50 PM · Have you used an electricity supplier called Direct Energy? I am a Penelec customer. I received a notice from my electricity supplier, Energy Harbor, that my current plan will end in October. I checked the list of suppliers/rates, and found one called Direct Energy that l…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "",
       "posted": "",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-06",
+      "last_seen": "2026-09-11",
       "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")",
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": true,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "7e1817e3b0d3"
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "984e25d55ebc"
       },
-      "snippet": "· September 22 at 8:50 PM · Have you used an electricity supplier called Direct Energy? I am a Penelec customer. I received a notice from my electricity supplier, Energy Harbor, that my current plan will end in October. I checked the list of suppliers/rates, and found one called Direct Energy that l…",
-      "source": "Facebook",
-      "title": "Have you used an electricity supplier called Direct Energy? I am a ...",
-      "url": "https://www.facebook.com/groups/703037529834104/posts/3404443096360187"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -12179,35 +12989,35 @@
       "url": "https://www.facebook.com/groups/plattsburghstreetteam/posts/2126543574659999"
     },
     {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165380032515135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165380032515135",
-      "title": "Who installs vinyl basement windows in Easton, PA? - Facebook",
-      "snippet": "Joel's HandyMan Services, LLC very reliable and fully insured highly recommend for all types of work|Feel free to DM me! I'm flexible on scheduling and",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Easton PA Post",
-      "posted": "2026-09-04",
       "first_seen": "2026-09-05",
+      "group": "Easton PA Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165380032515135",
       "last_seen": "2026-09-11",
+      "posted": "2026-09-04",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "Joel's HandyMan Services, LLC very reliable and fully insured highly recommend for all types of work|Feel free to DM me! I'm flexible on scheduling and",
+      "source": "Facebook",
+      "title": "Who installs vinyl basement windows in Easton, PA? - Facebook",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165380032515135"
     },
     {
       "context": "facebook.com",
@@ -12366,36 +13176,36 @@
       "url": "https://www.facebook.com/groups/985770168464469/posts/3011866262521506"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-09-05",
-      "group": "Washington Area Residents Unfiltered",
       "id": "https://www.facebook.com/groups/1102360750583162/posts/2085111085641452",
-      "last_seen": "2026-09-08",
+      "url": "https://www.facebook.com/groups/1102360750583162/posts/2085111085641452",
+      "title": "Washington Area Residents Unfiltered | Received my Met-Ed bill today | Facebook",
+      "snippet": "Title: Washington Area Residents Unfiltered | Received my Met-Ed bill today | Facebook\nWashington Area Residents Unfiltered | Received my Met-Ed bill today | Facebook. Image 1 Washington Area Residents Unfiltered | Received my Met-Ed bill today =======================================================…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Washington Area Residents Unfiltered",
       "posted": "2026-02-18",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-05",
+      "last_seen": "2026-09-11",
       "queries": [
         "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")",
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "b84bedb2072f"
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "984e25d55ebc"
       },
-      "snippet": "Title: Washington Area Residents Unfiltered | Received my Met-Ed bill today | Facebook\nWashington Area Residents Unfiltered | Received my Met-Ed bill today | Facebook. Image 1 Washington Area Residents Unfiltered | Received my Met-Ed bill today =======================================================…",
-      "source": "Facebook",
-      "title": "Washington Area Residents Unfiltered | Received my Met-Ed bill today | Facebook",
-      "url": "https://www.facebook.com/groups/1102360750583162/posts/2085111085641452"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -12679,35 +13489,35 @@
       "url": "https://www.facebook.com/groups/494239713958898/posts/28158508953771935"
     },
     {
-      "id": "https://www.facebook.com/groups/schreiberforupperpottsgrove/posts/2631054420412678",
-      "url": "https://www.facebook.com/groups/schreiberforupperpottsgrove/posts/2631054420412678",
-      "title": "Past Commissioner Schreiber's Upper Pottsgrove News | https://www.pottsmerc.com/2024/12/13/rates-going-up-for-peco-electric-and-gas-customers-in-2025/ The average residential electric customer, using 700 ... | Facebook",
-      "snippet": "PECO Electric and Gas Rate Increase in 2025 for Upper Pottsgrove Customers. Summarized by AI from the post below. Past Commissioner Schreiber's Upper Pottsgrove News ·. The average residential electric customer, using 700 kWh of electricity per month will see an increase in their monthly bill of abo…",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "",
-      "posted": "2024-12-13",
       "first_seen": "2026-09-05",
+      "group": "",
+      "id": "https://www.facebook.com/groups/schreiberforupperpottsgrove/posts/2631054420412678",
       "last_seen": "2026-09-11",
+      "posted": "2024-12-13",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "snippet": "PECO Electric and Gas Rate Increase in 2025 for Upper Pottsgrove Customers. Summarized by AI from the post below. Past Commissioner Schreiber's Upper Pottsgrove News ·. The average residential electric customer, using 700 kWh of electricity per month will see an increase in their monthly bill of abo…",
+      "source": "Facebook",
+      "title": "Past Commissioner Schreiber's Upper Pottsgrove News | https://www.pottsmerc.com/2024/12/13/rates-going-up-for-peco-electric-and-gas-customers-in-2025/ The average residential electric customer, using 700 ... | Facebook",
+      "url": "https://www.facebook.com/groups/schreiberforupperpottsgrove/posts/2631054420412678"
     },
     {
       "context": "facebook.com",
@@ -12866,66 +13676,66 @@
       "url": "https://www.facebook.com/groups/985770168464469/posts/3006846073023525"
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-09-05",
+      "group": "Landenberg You can't get there from here",
       "id": "https://www.facebook.com/groups/LandenbergPa/posts/25789189534000323",
-      "url": "https://www.facebook.com/groups/LandenbergPa/posts/25789189534000323",
-      "title": "Landenberg (You can't get there from here) | It looks like PECO raised electricity rates starting December 1, and the bill is about more than 30% higher. | Facebook",
+      "last_seen": "2026-09-11",
+      "posted": "2025-12-22",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
       "snippet": "Landenberg (You can't get there from here) ·. It looks like PECO raised electricity rates starting December 1, and the bill is about more than 30% higher. When are we going to be able to make more money to accommodate for all this cost of living. Have you thought about transitioning to solar ? Could…",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Landenberg You can't get there from here",
-      "posted": "2025-12-22",
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "title": "Landenberg (You can't get there from here) | It looks like PECO raised electricity rates starting December 1, and the bill is about more than 30% higher. | Facebook",
+      "url": "https://www.facebook.com/groups/LandenbergPa/posts/25789189534000323"
     },
     {
-      "id": "https://www.facebook.com/groups/LandenbergPa/posts/24055798554006105",
-      "url": "https://www.facebook.com/groups/LandenbergPa/posts/24055798554006105",
-      "title": "Landenberg (You can't get there from here) | Hi everyone- question about electric suppliers | Facebook",
-      "snippet": "What are the best electric suppliers to switch to in the PECO area? Summarized by AI from the post below. **Gina Murphy** is ****feeling annoyed. Hi everyone- question about electric suppliers. Has anyone ever switched to a supplier other than PECO? I'm thinking about switching due to PECO's 12% rat…",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Landenberg You can't get there from here",
-      "posted": "2025-06-05",
       "first_seen": "2026-09-05",
+      "group": "Landenberg You can't get there from here",
+      "id": "https://www.facebook.com/groups/LandenbergPa/posts/24055798554006105",
       "last_seen": "2026-09-11",
+      "posted": "2025-06-05",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "What are the best electric suppliers to switch to in the PECO area? Summarized by AI from the post below. **Gina Murphy** is ****feeling annoyed. Hi everyone- question about electric suppliers. Has anyone ever switched to a supplier other than PECO? I'm thinking about switching due to PECO's 12% rat…",
+      "source": "Facebook",
+      "title": "Landenberg (You can't get there from here) | Hi everyone- question about electric suppliers | Facebook",
+      "url": "https://www.facebook.com/groups/LandenbergPa/posts/24055798554006105"
     },
     {
       "context": "facebook.com",
@@ -12991,35 +13801,35 @@
       "url": "https://www.facebook.com/groups/899348570088410/posts/9508478402508674"
     },
     {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165380379985135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165380379985135",
-      "title": "How to stop an ex-partner from showing up at your door at night?",
-      "snippet": "Filing for custody and a PFA, and calling the police each time he shows up, are the most common recommendations.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Easton PA Post",
-      "posted": "2026-09-04",
       "first_seen": "2026-09-05",
+      "group": "Easton PA Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165380379985135",
       "last_seen": "2026-09-11",
+      "posted": "2026-09-04",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "Filing for custody and a PFA, and calling the police each time he shows up, are the most common recommendations.",
+      "source": "Facebook",
+      "title": "How to stop an ex-partner from showing up at your door at night?",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165380379985135"
     },
     {
       "context": "facebook.com",
@@ -13053,97 +13863,97 @@
       "url": "https://www.facebook.com/groups/1010483399100526/posts/3679036015578571"
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-09-05",
+      "group": "Glenside & Wyncote PA Community",
       "id": "https://www.facebook.com/groups/236904570880192/posts/1599385461298756",
-      "url": "https://www.facebook.com/groups/236904570880192/posts/1599385461298756",
-      "title": "Glenside & Wyncote PA Community | My Peco bill seems exceptionally high to me | Facebook",
+      "last_seen": "2026-09-11",
+      "posted": "2026-01-24",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "0a5b39ffcda4"
+      },
       "snippet": "Title: Glenside & Wyncote PA Community | My Peco bill seems exceptionally high to me | Facebook\nGlenside & Wyncote PA Community | My Peco bill seems exceptionally high to me | Facebook. · January 24 at 7:37 PM ·. My Peco bill seems exceptionally high to me. I know it has been a cold winter and I hav…",
       "source": "Facebook",
+      "title": "Glenside & Wyncote PA Community | My Peco bill seems exceptionally high to me | Facebook",
+      "url": "https://www.facebook.com/groups/236904570880192/posts/1599385461298756"
+    },
+    {
       "context": "facebook.com",
-      "group": "Glenside & Wyncote PA Community",
-      "posted": "2026-01-24",
       "first_seen": "2026-09-05",
+      "group": "Cheltenham Infrastructure Solutions",
+      "id": "https://www.facebook.com/groups/1239798932720607/posts/8167574609942970",
       "last_seen": "2026-09-11",
+      "posted": "2024-05-30",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1239798932720607/posts/8167574609942970",
-      "url": "https://www.facebook.com/groups/1239798932720607/posts/8167574609942970",
-      "title": "Cheltenham Infrastructure Solutions | This has to do with the Utility rate increase proposed ( AQUA and PECO) | Facebook",
       "snippet": "Title: Cheltenham Infrastructure Solutions | This has to do with the Utility rate increase proposed ( AQUA and PECO) | Facebook\nCheltenham Infrastructure Solutions | This has to do with the Utility rate increase proposed ( AQUA and PECO) | Facebook. What is the process for reviewing and approving ut…",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Cheltenham Infrastructure Solutions",
-      "posted": "2024-05-30",
-      "first_seen": "2026-09-05",
-      "last_seen": "2026-09-11",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "0a5b39ffcda4"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "title": "Cheltenham Infrastructure Solutions | This has to do with the Utility rate increase proposed ( AQUA and PECO) | Facebook",
+      "url": "https://www.facebook.com/groups/1239798932720607/posts/8167574609942970"
     },
     {
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10165384901585135",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10165384901585135",
-      "title": "Brad Roccanova Big Band at Italian Food Festival in Easton, PA",
-      "snippet": "Come see the Brad Roccanova Big Band at the Italian Food Festival at the Holy Cross Celebration Friday, September 11 & Saturday September 12, 2026,",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Easton PA Post",
-      "posted": "2026-09-05",
       "first_seen": "2026-09-05",
+      "group": "Easton PA Post",
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165384901585135",
       "last_seen": "2026-09-11",
+      "posted": "2026-09-05",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "Come see the Brad Roccanova Big Band at the Italian Food Festival at the Holy Cross Celebration Friday, September 11 & Saturday September 12, 2026,",
+      "source": "Facebook",
+      "title": "Brad Roccanova Big Band at Italian Food Festival in Easton, PA",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165384901585135"
     },
     {
       "context": "facebook.com",
@@ -13333,35 +14143,35 @@
       "url": "https://www.facebook.com/groups/985770168464469/posts/3012611709113628"
     },
     {
-      "id": "https://www.facebook.com/groups/1324788797564648/posts/25632615109688678",
-      "url": "https://www.facebook.com/groups/1324788797564648/posts/25632615109688678",
-      "title": "$1,087 this month with Peco | Facebook",
-      "snippet": "Why is my peco bill too high? Summarized by AI from the post below. · January 15 at 7:57 PM ·. $1,087 this month with Peco. Do you know why too high any tips? Heat is normally 72 and it’s a town house one room is always cold because heat barely gets there. From looking at your bill, you’re using 25-…",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Warminster Community Group USA",
-      "posted": "2026-01-15",
       "first_seen": "2026-09-05",
+      "group": "Warminster Community Group USA",
+      "id": "https://www.facebook.com/groups/1324788797564648/posts/25632615109688678",
       "last_seen": "2026-09-11",
+      "posted": "2026-01-15",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "0a5b39ffcda4"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "snippet": "Why is my peco bill too high? Summarized by AI from the post below. · January 15 at 7:57 PM ·. $1,087 this month with Peco. Do you know why too high any tips? Heat is normally 72 and it’s a town house one room is always cold because heat barely gets there. From looking at your bill, you’re using 25-…",
+      "source": "Facebook",
+      "title": "$1,087 this month with Peco | Facebook",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/25632615109688678"
     },
     {
       "context": "facebook.com",
@@ -24939,35 +25749,35 @@
       "url": "https://www.facebook.com/groups/239621727079836/posts/1750962495945744"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-08-30",
-      "group": "Lawrence Park",
       "id": "https://www.facebook.com/groups/335275386492342/posts/25468811419378725",
-      "last_seen": "2026-08-30",
+      "url": "https://www.facebook.com/groups/335275386492342/posts/25468811419378725",
+      "title": "Lawrence Park | # **Planned Power Outage - ** | Facebook",
+      "snippet": "Penelec planned power outage on 10/27 from 8-10:30am. Summarized by AI from the post below. ### **Planned Power Outage -**. Penelec has scheduled a planned power outage for Monday, October 27, from 8:00 a.m. to 10:30 a.m. This outage will largely affect residents in the Lake Cliff neighborhood. For …",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Lawrence Park",
       "posted": "2025-10-25",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-09-11",
       "queries": [
         "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "0e10a0fd48b2"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
       },
-      "snippet": "Penelec planned power outage on 10/27 from 8-10:30am. Summarized by AI from the post below. ### **Planned Power Outage -**. Penelec has scheduled a planned power outage for Monday, October 27, from 8:00 a.m. to 10:30 a.m. This outage will largely affect residents in the Lake Cliff neighborhood. For …",
-      "source": "Facebook",
-      "title": "Lawrence Park | # **Planned Power Outage - ** | Facebook",
-      "url": "https://www.facebook.com/groups/335275386492342/posts/25468811419378725"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -25282,97 +26092,97 @@
       "url": "https://www.facebook.com/groups/2350406885413177/posts/2557627508024446"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-08-30",
-      "group": "FYI Crawford County NON-DISCRIMINATING",
       "id": "https://www.facebook.com/groups/1747243495535542/posts/3874830642776806",
-      "last_seen": "2026-09-05",
-      "posted": "2025-03-22",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
-      "queries": [
-        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": false,
-        "host": true,
-        "keyword": true,
-        "lead": false,
-        "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "d7f5b05056be"
-      },
+      "url": "https://www.facebook.com/groups/1747243495535542/posts/3874830642776806",
+      "title": "FYI Crawford County NON-DISCRIMINATING | If you get a phone call from a company asking if you want to start getting pure,cleaner electricity.....DO NOT DO IT | Facebook",
       "snippet": "Beware of Third-Party Electricity Companies Promising Cleaner Energy. Summarized by AI from the post below. FYI Crawford County NON-DISCRIMINATING ·. If you get a phone call from a company asking if you want to start getting pure,cleaner electricity.....DO NOT DO IT!!! we got a call about 6 months a…",
       "source": "Facebook",
-      "title": "FYI Crawford County NON-DISCRIMINATING | If you get a phone call from a company asking if you want to start getting pure,cleaner electricity.....DO NOT DO IT | Facebook",
-      "url": "https://www.facebook.com/groups/1747243495535542/posts/3874830642776806"
-    },
-    {
       "context": "facebook.com",
+      "group": "FYI Crawford County NON-DISCRIMINATING",
+      "posted": "2025-03-22",
       "first_seen": "2026-08-30",
-      "group": "Everything EASTON",
-      "id": "https://www.facebook.com/groups/300873505348496/posts/1245449894224181",
-      "last_seen": "2026-08-30",
-      "posted": "2026-02-20",
-      "production": {
-        "accepted": false,
-        "reason": "intent",
-        "source": "rules"
-      },
+      "last_seen": "2026-09-11",
       "queries": [
         "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
+        "pennsylvania": false,
         "lead": false,
-        "pennsylvania": true,
-        "reason": "intent",
-        "semantic_accepted": false,
-        "version": "0e10a0fd48b2"
+        "hard_exclusion": false,
+        "version": "984e25d55ebc"
       },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/300873505348496/posts/1245449894224181",
+      "url": "https://www.facebook.com/groups/300873505348496/posts/1245449894224181",
+      "title": "Everything EASTON | Due to a fire in the downtown, Met-Ed has shut down the power | Facebook",
       "snippet": "Title: Everything EASTON | Due to a fire in the downtown, Met-Ed has shut down the power | Facebook\nEverything EASTON | Due to a fire in the downtown, Met-Ed has shut down the power | Facebook. Due to a fire in the downtown, Met-Ed has shut down the power. At this time, we do not have an estimated t…",
       "source": "Facebook",
-      "title": "Everything EASTON | Due to a fire in the downtown, Met-Ed has shut down the power | Facebook",
-      "url": "https://www.facebook.com/groups/300873505348496/posts/1245449894224181"
-    },
-    {
       "context": "facebook.com",
+      "group": "Everything EASTON",
+      "posted": "2026-02-20",
       "first_seen": "2026-08-30",
-      "group": "Easton PA Post",
-      "id": "https://www.facebook.com/groups/eastonpost/posts/10162571791480135",
-      "last_seen": "2026-08-30",
-      "posted": "2025-01-07",
-      "production": {
-        "accepted": false,
-        "reason": "intent",
-        "source": "rules"
-      },
+      "last_seen": "2026-09-11",
       "queries": [
         "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": true,
-        "reason": "intent",
-        "semantic_accepted": false,
-        "version": "0e10a0fd48b2"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
       },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10162571791480135",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10162571791480135",
+      "title": "Easton PA Post 🌈 | Mayor Panto and City Administrator Luis Campos reached out to Met-Ed for a meeting, Councilman Frank Pintabone said, and Met-Ed/FirstEnergy Corp | Facebook",
       "snippet": "Title: Easton PA Post 🌈 | Mayor Panto and City Administrator Luis Campos reached out to Met-Ed for a meeting, Councilman Frank Pintabone said, and Met-Ed/FirstEnergy Corp | Facebook\nEaston PA Post 🌈 | Mayor Panto and City Administrator Luis Campos reached out to Met-Ed for a meeting, Councilman Fran…",
       "source": "Facebook",
-      "title": "Easton PA Post 🌈 | Mayor Panto and City Administrator Luis Campos reached out to Met-Ed for a meeting, Councilman Frank Pintabone said, and Met-Ed/FirstEnergy Corp | Facebook",
-      "url": "https://www.facebook.com/groups/eastonpost/posts/10162571791480135"
+      "context": "facebook.com",
+      "group": "Easton PA Post",
+      "posted": "2025-01-07",
+      "first_seen": "2026-08-30",
+      "last_seen": "2026-09-11",
+      "queries": [
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "984e25d55ebc"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
     },
     {
       "context": "facebook.com",
