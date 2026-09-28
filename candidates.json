@@ -1,202 +1,233 @@
 {
-  "updated": "2026-09-28T13:05:58Z",
-  "count": 1093,
+  "updated": "2026-09-28T22:59:41Z",
+  "count": 1119,
   "candidates": [
     {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Brentwood Pennsylvania Community Group",
       "id": "https://www.facebook.com/groups/BrentwoodCRG/posts/28748948751409167",
-      "url": "https://www.facebook.com/groups/BrentwoodCRG/posts/28748948751409167",
-      "title": "support for families & caregivers",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
       "snippet": "Caregiver Connection is a free Pennsylvania resource created for families and caregivers. Find local and online support groups, Call 717-221-8004 for more",
       "source": "Facebook",
+      "title": "support for families & caregivers",
+      "url": "https://www.facebook.com/groups/BrentwoodCRG/posts/28748948751409167"
+    },
+    {
       "context": "facebook.com",
-      "group": "Brentwood Pennsylvania Community Group",
-      "posted": "2026-09-27",
       "first_seen": "2026-09-28",
+      "group": "Home Buddies",
+      "id": "https://www.facebook.com/groups/homebuddiesph/posts/2277159539637982",
       "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "a82ab6c205cc"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/homebuddiesph/posts/2277159539637982",
-      "url": "https://www.facebook.com/groups/homebuddiesph/posts/2277159539637982",
-      "title": "portable power station or hybrid solar rooftop",
       "snippet": "Upon Power restoration, the on-delay switch will prevent the Portable Power station from being energized first. Allowing the transfer switch to changeover.",
       "source": "Facebook",
+      "title": "portable power station or hybrid solar rooftop",
+      "url": "https://www.facebook.com/groups/homebuddiesph/posts/2277159539637982"
+    },
+    {
       "context": "facebook.com",
-      "group": "Home Buddies",
-      "posted": "2026-09-27",
       "first_seen": "2026-09-28",
+      "group": "Pennsylvania Data Center Resistance",
+      "id": "https://www.facebook.com/groups/2350406885413177/posts/2584905951963268",
       "last_seen": "2026-09-28",
+      "posted": "2026-09-28",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "a82ab6c205cc"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2350406885413177/posts/2584905951963268",
-      "url": "https://www.facebook.com/groups/2350406885413177/posts/2584905951963268",
-      "title": "https://www.facebook.com/share/1HRsXaeDFC/?mibextid= ...",
       "snippet": "Now communities across Pennsylvania — and all over America — are starting to push back against massive data center projects targeting rural towns, farmland,",
       "source": "Facebook",
+      "title": "https://www.facebook.com/share/1HRsXaeDFC/?mibextid= ...",
+      "url": "https://www.facebook.com/groups/2350406885413177/posts/2584905951963268"
+    },
+    {
       "context": "facebook.com",
-      "group": "Pennsylvania Data Center Resistance",
-      "posted": "2026-09-28",
       "first_seen": "2026-09-28",
+      "group": "eWeLink & Sonoff User Group",
+      "id": "https://www.facebook.com/groups/ewelinkandsonoff/posts/1092602707973274",
       "last_seen": "2026-09-28",
+      "posted": "2021-12-15",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "a82ab6c205cc"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/ewelinkandsonoff/posts/1092602707973274",
-      "url": "https://www.facebook.com/groups/ewelinkandsonoff/posts/1092602707973274",
-      "title": "eWeLink & Sonoff User Group | Hello, please recommend smart switch to control Mitsubishi cassette ac, power 2 Ton, i also want to control the temperature not just power on and off,... | Facebook",
       "snippet": "Title: eWeLink & Sonoff User Group | Hello, please recommend smart switch to control Mitsubishi cassette ac, power 2 Ton, i also want to control the temperature not just power on and off,... | Facebook\nWhat smart switch controls Mitsubishi 2-ton cassette AC temperature? Summarised by AI from the pos…",
       "source": "Facebook",
+      "title": "eWeLink & Sonoff User Group | Hello, please recommend smart switch to control Mitsubishi cassette ac, power 2 Ton, i also want to control the temperature not just power on and off,... | Facebook",
+      "url": "https://www.facebook.com/groups/ewelinkandsonoff/posts/1092602707973274"
+    },
+    {
       "context": "facebook.com",
-      "group": "eWeLink & Sonoff User Group",
-      "posted": "2021-12-15",
       "first_seen": "2026-09-28",
+      "group": "circuit breaker buy &sell",
+      "id": "https://www.facebook.com/groups/931915304533022/posts/1167557357635481",
       "last_seen": "2026-09-28",
+      "posted": "2024-09-07",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "a82ab6c205cc"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/931915304533022/posts/1167557357635481",
-      "url": "https://www.facebook.com/groups/931915304533022/posts/1167557357635481",
-      "title": "circuit breaker buy &sell | EK125 model Manual Changeover switch for multi power supply applications | Facebook",
       "snippet": "Title: circuit breaker buy &sell | EK125 model Manual Changeover switch for multi power supply applications | Facebook\ncircuit breaker buy &sell | EK125 model Manual Changeover switch for multi power supply applications | Facebook. EK125 model Manual Changeover switch for multi power supply applicat…",
       "source": "Facebook",
+      "title": "circuit breaker buy &sell | EK125 model Manual Changeover switch for multi power supply applications | Facebook",
+      "url": "https://www.facebook.com/groups/931915304533022/posts/1167557357635481"
+    },
+    {
       "context": "facebook.com",
-      "group": "circuit breaker buy &sell",
-      "posted": "2024-09-07",
       "first_seen": "2026-09-28",
+      "group": "Cheyenne Community Connections",
+      "id": "https://www.facebook.com/groups/CheyenneCommunityConnections/posts/28942988748629990",
       "last_seen": "2026-09-28",
+      "posted": "2026-09-28",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "a82ab6c205cc"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/CheyenneCommunityConnections/posts/28942988748629990",
-      "url": "https://www.facebook.com/groups/CheyenneCommunityConnections/posts/28942988748629990",
-      "title": "Why do posts about AI data centers get comments turned off?",
       "snippet": "Why make a post like this and then turn off the commenting, because you know it's false this is simply not true",
       "source": "Facebook",
+      "title": "Why do posts about AI data centers get comments turned off?",
+      "url": "https://www.facebook.com/groups/CheyenneCommunityConnections/posts/28942988748629990"
+    },
+    {
       "context": "facebook.com",
-      "group": "Cheyenne Community Connections",
-      "posted": "2026-09-28",
       "first_seen": "2026-09-28",
+      "group": "No Data Centers",
+      "id": "https://www.facebook.com/groups/608580552313480/posts/846882615149938",
       "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "a82ab6c205cc"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/608580552313480/posts/846882615149938",
-      "url": "https://www.facebook.com/groups/608580552313480/posts/846882615149938",
-      "title": "Why are private corporations allowed to strain public power ...",
       "snippet": "The ECs are unlike large private utilities that can secure long-term power supply agreements at scale and negotiate lower fuel or capacity costs. Many ECs must",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "No Data Centers",
-      "posted": "2026-09-27",
+      "title": "Why are private corporations allowed to strain public power ...",
+      "url": "https://www.facebook.com/groups/608580552313480/posts/846882615149938"
+    },
+    {
+      "id": "https://www.rd.com/article/what-is-community",
+      "url": "https://www.rd.com/article/what-is-community",
+      "title": "Why Community Is So Important—and How to Find Yours",
+      "snippet": "Sources: [...] Skip to main content\n\nFresh Stories & Smart Tips – Now Just $10Subscribe Now\n\nImage 1\n\nMENU\n\nImage 2: Reader's Digest Logo\n\nA Trusted Friend in a Complicated World\n\n Search terms  \n\n   Image 3The Healthy \n   Games \n   Home \n   Humor \n   Knowledge \n   Holidays \n   Subscribe \n\nImage 4: …",
+      "source": "rd.com",
+      "context": "rd.com",
+      "group": "What Is CommunityAnd How Can You Build One of Your Own",
+      "posted": "",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "queries": [
@@ -205,250 +236,188 @@
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
+        "reason": "host",
+        "host": false,
+        "keyword": false,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "host"
       }
     },
     {
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3040149999655232",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3040149999655232",
+      "title": "Who can fix a Toro push lawn mower in Royersford, PA?",
+      "snippet": "Give Scott's Power Equipment Service LLC. A call. He comes right to your doorstep. He is fair w price. They have pick-up and delivery service",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Living in Royersford",
+      "posted": "2026-09-22",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "NC Contractors",
       "id": "https://www.facebook.com/groups/469820494480580/posts/1673846944077923",
-      "url": "https://www.facebook.com/groups/469820494480580/posts/1673846944077923",
-      "title": "What is the most important thing to check during an ...",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-28",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
       "snippet": "Research Utility Suppliers If the community doesn't have a partnership with a utility provider, research available options first to find out if they fit",
       "source": "Facebook",
+      "title": "What is the most important thing to check during an ...",
+      "url": "https://www.facebook.com/groups/469820494480580/posts/1673846944077923"
+    },
+    {
       "context": "facebook.com",
-      "group": "NC Contractors",
-      "posted": "2026-09-28",
       "first_seen": "2026-09-28",
+      "group": "Washington County PA What's Going On",
+      "id": "https://www.facebook.com/groups/424407457686205/posts/9482235018570025",
       "last_seen": "2026-09-28",
+      "posted": "2025-05-02",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "a82ab6c205cc"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/424407457686205/posts/9482235018570025",
-      "url": "https://www.facebook.com/groups/424407457686205/posts/9482235018570025",
-      "title": "Washington County PA What's Going On! | POWER BLOWOUT SALE | Facebook",
       "snippet": "Title: Washington County PA What's Going On! | POWER BLOWOUT SALE | Facebook\nStandby generators from Cummins, Kohler, and Generac for sale. Summarized by AI from the post below. ## Washington County PA What's Going On! 7 year generac full warranty. Why go without power when you can get a Standby Gen…",
       "source": "Facebook",
+      "title": "Washington County PA What's Going On! | POWER BLOWOUT SALE | Facebook",
+      "url": "https://www.facebook.com/groups/424407457686205/posts/9482235018570025"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2402617806606320/posts/3304258093108949",
+      "url": "https://www.facebook.com/groups/2402617806606320/posts/3304258093108949",
+      "title": "Vote Lucas Electric Inc. for Best Electrician in Southwestern ...",
+      "snippet": "We're nominated as one of the Best Electrical Service Companies in the Best of Lubbock's Community's Choice Awards. Vote for us daily through 7/28.",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Washington County PA What's Going On",
-      "posted": "2025-05-02",
+      "group": "PETERS TOWNSHIP - Anything & Everything GOING ON",
+      "posted": "2026-09-23",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "waynesboro PA and surrounding areas community page",
+      "id": "https://www.facebook.com/groups/375015789372104/posts/3326889940851326",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "a82ab6c205cc"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/375015789372104/posts/3326889940851326",
-      "url": "https://www.facebook.com/groups/375015789372104/posts/3326889940851326",
-      "title": "Vintage bicycle headlight with dual switch",
       "snippet": "It has positions for on, off and dim with a connection for tail lights in both on positions. I haven't been able to find one like it on the web, so if anybody",
       "source": "Facebook",
+      "title": "Vintage bicycle headlight with dual switch",
+      "url": "https://www.facebook.com/groups/375015789372104/posts/3326889940851326"
+    },
+    {
+      "id": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29088188824120762",
+      "url": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29088188824120762",
+      "title": "Upgrading to a heat pump electric water heater for energy ...",
+      "snippet": "Switching to a heat pump water heater (HPWH) helps the environment and can save you money. HPWHs are up to three times more efficient than gas water heaters",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "waynesboro PA and surrounding areas community page",
+      "group": "Pennsylvania Small Business Advertising",
       "posted": "2026-09-27",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "queries": [
         "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2008215246720121/posts/2176998679841776",
-      "url": "https://www.facebook.com/groups/2008215246720121/posts/2176998679841776",
-      "title": "This is insane. Stop.",
-      "snippet": "Prairieland Energy Center. support massive, inter-connected server clusters and commercial data transit. acres of Texas land and locking up gigawatts of grid",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Texas Coalition Against Datacenters",
-      "posted": "2026-09-27",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/zombiewaves/posts/1685287373288113",
-      "url": "https://www.facebook.com/groups/zombiewaves/posts/1685287373288113",
-      "title": "The option to buy energy went away?",
-      "snippet": "You can still grab the Power Choice rate of 11.500¢/kWh now, good for a year, UPDATE: call 1-888-585-3788 to Opt out. paying on average £0.2/kwh for",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Zombie Waves Global Official Group",
-      "posted": "2026-09-27",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/872781323058788/posts/3039937926343106",
-      "url": "https://www.facebook.com/groups/872781323058788/posts/3039937926343106",
-      "title": "Royersford, PA data center ordinance public meeting on ...",
-      "snippet": "Greenwood County Council will hold a public hearing on Ordinance 2026-19, a proposed data center text amendment, during its meeting on Tuesday, June 2, 2026.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Living in Royersford",
-      "posted": "2026-09-21",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/872781323058788/posts/3039917593011806",
-      "url": "https://www.facebook.com/groups/872781323058788/posts/3039917593011806",
-      "title": "Private Ride Services in Royersford, PA for Airport, Events, ...",
-      "snippet": "Fees include gas, tolls and door to door nonstop service. To book or get a quote please text/ call (304) 906-3573 … $175; Fairmont - $195; All fees include gas",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Living in Royersford",
-      "posted": "2026-09-21",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1149438363979083/posts/1419804633609120",
-      "url": "https://www.facebook.com/groups/1149438363979083/posts/1419804633609120",
-      "title": "Pennsylvania data centers generate over $1 billion in tax ...",
-      "snippet": "PPL Electric Utilities will connect the campuses to their transmission system, “ensuring the reliable delivery of power to the data center campuses and the",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Stop Archbald Data Centers",
-      "posted": "2026-09-27",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
@@ -458,8 +427,8 @@
         "keyword": true,
         "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "hard_exclusion": false,
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -468,14 +437,107 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/gettysburgandsurroundingareas/posts/2550597442103776",
-      "url": "https://www.facebook.com/groups/gettysburgandsurroundingareas/posts/2550597442103776",
-      "title": "POWER SURGE Strength Class on Tuesdays at 6:15-7:00 ...",
-      "snippet": "⚡️ Tuesday nights are for turning up the energy! POWER SURGE combines dumbbell strength + cardio bursts to give you a full-body challenge that will leave",
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Texas Coalition Against Datacenters",
+      "id": "https://www.facebook.com/groups/2008215246720121/posts/2176998679841776",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Prairieland Energy Center. support massive, inter-connected server clusters and commercial data transit. acres of Texas land and locking up gigawatts of grid",
+      "source": "Facebook",
+      "title": "This is insane. Stop.",
+      "url": "https://www.facebook.com/groups/2008215246720121/posts/2176998679841776"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Zombie Waves Global Official Group",
+      "id": "https://www.facebook.com/groups/zombiewaves/posts/1685287373288113",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "You can still grab the Power Choice rate of 11.500¢/kWh now, good for a year, UPDATE: call 1-888-585-3788 to Opt out. paying on average £0.2/kwh for",
+      "source": "Facebook",
+      "title": "The option to buy energy went away?",
+      "url": "https://www.facebook.com/groups/zombiewaves/posts/1685287373288113"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1281657712493385/posts/2029596327699516",
+      "url": "https://www.facebook.com/groups/1281657712493385/posts/2029596327699516",
+      "title": "Special rates won't last long!",
+      "snippet": "If you pay annually for Prime your rates are going to increase a little starting May 11, 2018 for new members, and June 16, 2018 for existing. If you pay",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Gettysburg and Surrounding Areas",
-      "posted": "2026-09-27",
+      "group": "Looking for a Travel Agent - Find Your Travel Planner",
+      "posted": "2026-09-26",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/233119076791997/posts/27850266961317170",
+      "url": "https://www.facebook.com/groups/233119076791997/posts/27850266961317170",
+      "title": "Smart Energy Choices & Resources Event in Deposit, NY ...",
+      "snippet": "This is a great opportunity to: ✓ Learn about HEAP and other energy assistance programs ✓ Get information on smart meters and energy efficiency programs ✓",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "DELAWARE COUNTY, NY - NEWS & CROSSTALK",
+      "posted": "2026-09-25",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "queries": [
@@ -490,7 +552,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -499,107 +561,107 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/811928043213732/posts/1714582209614973",
-      "url": "https://www.facebook.com/groups/811928043213732/posts/1714582209614973",
-      "title": "PA school housing near UNC-Chapel Hill, NC campus",
-      "snippet": "On- campus housing might be more expensive but includes utilities and maintenance. something less than $900 a month including utilities.",
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3040094522994113",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3040094522994113",
+      "title": "Rufus needs help! Consider donating",
+      "snippet": "Please consider donating toward Rufus's emergency medical care. Whether it's $5, $10, $20, or simply sharing his story, prices, and saturated in pesticides.",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Pre-PA, PA Students, & PA-C",
-      "posted": "2026-09-28",
+      "group": "Living in Royersford",
+      "posted": "2026-09-21",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Living in Royersford",
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3039937926343106",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-21",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Greenwood County Council will hold a public hearing on Ordinance 2026-19, a proposed data center text amendment, during its meeting on Tuesday, June 2, 2026.",
+      "source": "Facebook",
+      "title": "Royersford, PA data center ordinance public meeting on ...",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3039937926343106"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Living in Royersford",
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3039917593011806",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-21",
+      "production": {
+        "accepted": false,
         "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "a82ab6c205cc"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "Fees include gas, tolls and door to door nonstop service. To book or get a quote please text/ call (304) 906-3573 … $175; Fairmont - $195; All fees include gas",
+      "source": "Facebook",
+      "title": "Private Ride Services in Royersford, PA for Airport, Events, ...",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3039917593011806"
     },
     {
-      "id": "https://www.facebook.com/groups/washingtoncountydatacenterawareness/posts/1061685970194575",
-      "url": "https://www.facebook.com/groups/washingtoncountydatacenterawareness/posts/1061685970194575",
-      "title": "PA parents oppose data centers, generative AI, sign petition",
-      "snippet": "Signed by more than 75 organizations, the petition points to the dangers of expanding AI and data centers in Pennsylvania, and its impacts on affordability, the",
+      "id": "https://www.facebook.com/groups/2319274425158285/posts/2680137749071949",
+      "url": "https://www.facebook.com/groups/2319274425158285/posts/2680137749071949",
+      "title": "Prince William County State representatives- Senator ...",
+      "snippet": "Prince William County State representatives- Senator DeGuzman and Senator Roem are standing up with their constituents as they fight against an electrical",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "",
-      "posted": "2026-09-27",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2319274425158285/posts/2684866758599048",
-      "url": "https://www.facebook.com/groups/2319274425158285/posts/2684866758599048",
-      "title": "PA parents oppose data centers, AI, sign petition for officials",
-      "snippet": "Signed by more than 75 organizations, the petition points to the dangers of expanding AI and data centers in Pennsylvania, and its impacts on affordability,",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "",
-      "posted": "2026-09-27",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1598785397037162/posts/4512414885674184",
-      "url": "https://www.facebook.com/groups/1598785397037162/posts/4512414885674184",
-      "title": "Outlets are new. Sold as is. No returns. 125v, 15 amp",
-      "snippet": "Thinking of upgrading your switches and outlet? These electrical supplies are left over from a construction job The value of these are over $150. asking $50 All",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Trade/Sell Central PA yardsale items",
-      "posted": "2026-09-28",
+      "posted": "2026-09-23",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "queries": [
@@ -614,7 +676,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -623,18 +685,80 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1378644156900199/posts/1821323052632305",
-      "url": "https://www.facebook.com/groups/1378644156900199/posts/1821323052632305",
-      "title": "Minnesota introduces Amish Cybertruck made from wood ...",
-      "snippet": "A Tesla Cybertruck has become the electric vehicle of choice for an Amish electrician who has made it his mission to bring solar energy to his conservative",
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3040617959608436",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3040617959608436",
+      "title": "Power outages in Spring City: anyone else experiencing ...",
+      "snippet": "Multiple residents in Spring City and nearby Phoenixville report intermittent power outages, with some experiencing flickering or prolonged loss.",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Everything Minnesota",
-      "posted": "2026-09-27",
+      "group": "Living in Royersford",
+      "posted": "2026-09-22",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Stop Archbald Data Centers",
+      "id": "https://www.facebook.com/groups/1149438363979083/posts/1419804633609120",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
         "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "PPL Electric Utilities will connect the campuses to their transmission system, “ensuring the reliable delivery of power to the data center campuses and the",
+      "source": "Facebook",
+      "title": "Pennsylvania data centers generate over $1 billion in tax ...",
+      "url": "https://www.facebook.com/groups/1149438363979083/posts/1419804633609120"
+    },
+    {
+      "id": "https://www.facebook.com/groups/726196652188509/posts/1621782522629913",
+      "url": "https://www.facebook.com/groups/726196652188509/posts/1621782522629913",
+      "title": "Pa supply norms, bulk needed drop pl",
+      "snippet": "Pennsylvania's state-run liquor system will begin rationing sales of a few dozen products on Friday in supply shortages beyond its control. papowerswitch.com/),",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "𝙃𝘼𝙉𝘿𝙇𝙀𝙍𝙎 𝙖𝙣𝙙 𝘾𝙐𝙎𝙏𝙊𝙈𝙀𝙍 𝙎𝙀𝙍𝙑𝙄𝘾𝙀",
+      "posted": "2026-09-22",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
@@ -645,12 +769,260 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Gettysburg and Surrounding Areas",
+      "id": "https://www.facebook.com/groups/gettysburgandsurroundingareas/posts/2550597442103776",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "⚡️ Tuesday nights are for turning up the energy! POWER SURGE combines dumbbell strength + cardio bursts to give you a full-body challenge that will leave",
+      "source": "Facebook",
+      "title": "POWER SURGE Strength Class on Tuesdays at 6:15-7:00 ...",
+      "url": "https://www.facebook.com/groups/gettysburgandsurroundingareas/posts/2550597442103776"
+    },
+    {
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3043056709364561",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3043056709364561",
+      "title": "PIZZERIA & GRILLE Since 1999 Wilke's Thursday Specials ...",
+      "snippet": "PIZZERIA & GRILLE Since 1999 Wilke's Thursday Specials Detroit Style! 14\" Detroit style plain cheese pizza -$17.99 Spaghetti & 1 meatball + side salad +",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Living in Royersford",
+      "posted": "2026-09-24",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Pre-PA, PA Students, & PA-C",
+      "id": "https://www.facebook.com/groups/811928043213732/posts/1714582209614973",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-28",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "On- campus housing might be more expensive but includes utilities and maintenance. something less than $900 a month including utilities.",
+      "source": "Facebook",
+      "title": "PA school housing near UNC-Chapel Hill, NC campus",
+      "url": "https://www.facebook.com/groups/811928043213732/posts/1714582209614973"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "",
+      "id": "https://www.facebook.com/groups/washingtoncountydatacenterawareness/posts/1061685970194575",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Signed by more than 75 organizations, the petition points to the dangers of expanding AI and data centers in Pennsylvania, and its impacts on affordability, the",
+      "source": "Facebook",
+      "title": "PA parents oppose data centers, generative AI, sign petition",
+      "url": "https://www.facebook.com/groups/washingtoncountydatacenterawareness/posts/1061685970194575"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "",
+      "id": "https://www.facebook.com/groups/2319274425158285/posts/2684866758599048",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Signed by more than 75 organizations, the petition points to the dangers of expanding AI and data centers in Pennsylvania, and its impacts on affordability,",
+      "source": "Facebook",
+      "title": "PA parents oppose data centers, AI, sign petition for officials",
+      "url": "https://www.facebook.com/groups/2319274425158285/posts/2684866758599048"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Trade/Sell Central PA yardsale items",
+      "id": "https://www.facebook.com/groups/1598785397037162/posts/4512414885674184",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-28",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Thinking of upgrading your switches and outlet? These electrical supplies are left over from a construction job The value of these are over $150. asking $50 All",
+      "source": "Facebook",
+      "title": "Outlets are new. Sold as is. No returns. 125v, 15 amp",
+      "url": "https://www.facebook.com/groups/1598785397037162/posts/4512414885674184"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Everything Minnesota",
+      "id": "https://www.facebook.com/groups/1378644156900199/posts/1821323052632305",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "A Tesla Cybertruck has become the electric vehicle of choice for an Amish electrician who has made it his mission to bring solar energy to his conservative",
+      "source": "Facebook",
+      "title": "Minnesota introduces Amish Cybertruck made from wood ...",
+      "url": "https://www.facebook.com/groups/1378644156900199/posts/1821323052632305"
+    },
+    {
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3045392162464349",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3045392162464349",
+      "title": "Lost kitty at Nissan dealership in Limerick, PA hiding from ...",
+      "snippet": "Deceased black and white kitty on rt 30, Ligonier, directly across from Giant Eagle. Looks to be long haired, but soaked from the rain.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Living in Royersford",
+      "posted": "2026-09-26",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
       }
     },
     {
@@ -676,7 +1048,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -685,35 +1057,35 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/popshopspaces/posts/2186431296083049",
-      "url": "https://www.facebook.com/groups/popshopspaces/posts/2186431296083049",
-      "title": "Looking for Vendors!",
-      "snippet": "Looking for Vendors! Follow Gather & Glow Markets this is my lineup for pop up events if you are interested Dm me ONLY I am the ONLY host for these",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Houston Pop Up Shops",
-      "posted": "2026-09-27",
       "first_seen": "2026-09-28",
+      "group": "Houston Pop Up Shops",
+      "id": "https://www.facebook.com/groups/popshopspaces/posts/2186431296083049",
       "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "a82ab6c205cc"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "Looking for Vendors! Follow Gather & Glow Markets this is my lineup for pop up events if you are interested Dm me ONLY I am the ONLY host for these",
+      "source": "Facebook",
+      "title": "Looking for Vendors!",
+      "url": "https://www.facebook.com/groups/popshopspaces/posts/2186431296083049"
     },
     {
       "id": "https://www.facebook.com/groups/872781323058788/posts/2871076069895960",
@@ -738,7 +1110,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -769,7 +1141,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -800,7 +1172,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -831,7 +1203,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -862,7 +1234,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -871,107 +1243,14 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/541747296955608/posts/1794207365042922",
-      "url": "https://www.facebook.com/groups/541747296955608/posts/1794207365042922",
-      "title": "I got this for a 2001 Dodge Dakota power window, but it ...",
-      "snippet": "I took the switch apart and readjusted the micro switches and it now works, but the cable and track stop at the top and won't go down any farther.",
+      "id": "https://www.facebook.com/groups/805297347075015/posts/2149361489335254",
+      "url": "https://www.facebook.com/groups/805297347075015/posts/2149361489335254",
+      "title": "LIHEAP applications start October 1, 2026, for Ruskin low- ...",
+      "snippet": "LIHEAP (Low‐Income Home Energy Assistance Program) helps Pennsylvania households pay heating bills through cash grants ($200–$1,000) and crisis grants ($25–$1,",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Hamburg pa Yardsales and Selling",
-      "posted": "2026-09-27",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1983878372207530/posts/2166337200628312",
-      "url": "https://www.facebook.com/groups/1983878372207530/posts/2166337200628312",
-      "title": "How to access home modifications and support services ...",
-      "snippet": "My husband and I are so blessed. We contacted the Department of Aging in our area. They told us about the Waiver Program. They worked with our insurance",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Polio & Post-Polio Support Community",
-      "posted": "2026-09-28",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/theioniqguy/posts/1725801422110396",
-      "url": "https://www.facebook.com/groups/theioniqguy/posts/1725801422110396",
-      "title": "Home Manual Transfer Switch for V2L power distribution | Facebook",
-      "snippet": "Title: Home Manual Transfer Switch for V2L power distribution | Facebook\n## The Ioniq Guy ·. ### **Home Manual Transfer Switch for V2L power distribution**. Looking for a Manual Transfer Switch to safely power up to 6 breakers in my house in a power failure using a Vehicle to Load Adaptor from my 20…",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "The Ioniq Guy",
-      "posted": "2026-05-26",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1821462508066392/posts/4423088441237106",
-      "url": "https://www.facebook.com/groups/1821462508066392/posts/4423088441237106",
-      "title": "Hi there! Would anyone have any guidance or direction to ...",
-      "snippet": "Dominion Energy has a program called Energy Share. Help with high electric bill and shut off notice in Columbia, Mountville, PA. PA Local Community 8w",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Free Everything  In the Richmond, VA and Surrounding areas",
-      "posted": "2026-09-28",
+      "group": "Ruskin folks",
+      "posted": "2026-09-22",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "queries": [
@@ -986,7 +1265,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -995,216 +1274,29 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/272327395617067/posts/1064337829749349",
-      "url": "https://www.facebook.com/groups/272327395617067/posts/1064337829749349",
-      "title": "Generator transfer switch complete kit six ...",
-      "snippet": "Generator transfer switch complete kit six switch switches available it's new never used . Can be used as 20amp or 30 amp service.",
+      "id": "https://www.facebook.com/groups/1117169335159279/posts/3414464552096401",
+      "url": "https://www.facebook.com/groups/1117169335159279/posts/3414464552096401",
+      "title": "Knapp Solutions for Lower Electric Bills in Pittston",
+      "snippet": "Are there cheaper electric suppliers than PPL in Pennsylvania? ... For more information on the Community Choice Power Supply Program, call 413-499-9344.",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Snap-on Tool Box Junkies",
-      "posted": "2026-09-27",
+      "group": "Pittston Community Page",
+      "posted": "2026-09-24",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "queries": [
-        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/hersheypa/posts/3569768146672722",
-      "url": "https://www.facebook.com/groups/hersheypa/posts/3569768146672722",
-      "title": "Friends of Hershey PA | I currently have PPL electric and I’m looking to switch distributors  as the prices have been too high | Facebook",
-      "snippet": "Title: Friends of Hershey PA | I currently have PPL electric and I’m looking to switch distributors  as the prices have been too high | Facebook\nWhat are alternative electric distributors in Briarcrest? Summarized by AI from the post below. ## Friends of Hershey PA ·. I currently have PPL electric a…",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Friends of Hershey PA",
-      "posted": "2023-12-28",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": true,
-        "reason": "too-old",
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
-        "lead": true,
+        "pennsylvania": false,
+        "lead": false,
         "hard_exclusion": false,
-        "version": "a82ab6c205cc",
-        "freshness": "stale"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "too-old"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/132135530194372/posts/30386427367671790",
-      "url": "https://www.facebook.com/groups/132135530194372/posts/30386427367671790",
-      "title": "Electrical Technician | Manual Changeover Switch Wiring Diagram | Facebook",
-      "snippet": "Manual changeover switch wiring diagram. Summarized by AI from the post below. Manual Changeover Switch Wiring Diagram. This diagram illustrates the wiring of a manual changeover switch used to transfer power supply between the main grid and a generator. The system includes circuit breakers for both…",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Electrical Technician",
-      "posted": "2025-07-21",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/561434418544964/posts/1391233668898364",
-      "url": "https://www.facebook.com/groups/561434418544964/posts/1391233668898364",
-      "title": "ELECTRICAL Engineer USA CoMMuNiTy | The wiring and connection procedure for a 3-phase rotary selector switch, which is used as a manual changeover switch | Facebook",
-      "snippet": "Wiring a 3-phase rotary selector switch for manual phase control. Summarized by AI from the post below. The wiring and connection procedure for a 3-phase rotary selector switch, which is used as a manual changeover switch. The setup includes three rotary switches, each assigned to one phase: Red (R)…",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "ELECTRICAL Engineer USA CoMMuNiTy",
-      "posted": "2025-03-24",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2040113832859464/posts/3228942310643271",
-      "url": "https://www.facebook.com/groups/2040113832859464/posts/3228942310643271",
-      "title": "Deputy out with two individuals at Patterson Field ...",
-      "snippet": "Trooper Brian Patterson was killed when he came in contact with a high voltage power line which had been dislodged in a motor vehicle crash.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Tuolumne County Dispatch",
-      "posted": "2026-09-27",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2405527829714588/posts/4472641176336566",
-      "url": "https://www.facebook.com/groups/2405527829714588/posts/4472641176336566",
-      "title": "Come out and join us Oct 2nd &/or 3rd!!! Let's check what ...",
-      "snippet": "Come out and join us Oct 2nd &/or 3rd!!! Let's check what we can save you by switching to solar!! (Already have solar through us? Stop and say Hi!!) Fun",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Mount Joy PA Business Advertising Page",
-      "posted": "2026-09-27",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2319274425158285/posts/2515393052213087",
-      "url": "https://www.facebook.com/groups/2319274425158285/posts/2515393052213087",
-      "title": "Coalition to Protect Cumberland County PA from Data Centers | Facebook",
-      "snippet": "Title: Coalition to Protect Cumberland County PA from Data Centers | Facebook\n# Coalition to Protect Cumberland County PA from Data Centers | Facebook. ## Coalition to Protect Cumberland County PA from Data Centers ·. The utility Company and the Data Centers hate You! The people in a 10-mile radius …",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "",
-      "posted": "2026-03-24",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -1213,14 +1305,14 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/872781323058788/posts/3044390072564558",
-      "url": "https://www.facebook.com/groups/872781323058788/posts/3044390072564558",
-      "title": "Barbecue sale in Royersford, PA on 9/26",
-      "snippet": "This Wednesday 9/27 from 1:30-4 we will be out in the lot next to Bill's Appliance Center 2098 lycoming creek road. Come out and get some delicious BBQ and",
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3042939912709574",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3042939912709574",
+      "title": "Kids items and toys for sale in Spring City - pay what you can",
+      "snippet": "$10 Fisher price baby/toddler play station works and lights up with sounds, $10 Standard infant bath: $2 … $15 3-6 mon. Football snowsuit, brand new: $25 3-6",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Living in Royersford",
-      "posted": "2026-09-25",
+      "posted": "2026-09-24",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "queries": [
@@ -1235,7 +1327,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -1244,80 +1336,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1117169335159279/posts/3417316025144587",
-      "url": "https://www.facebook.com/groups/1117169335159279/posts/3417316025144587",
-      "title": "BONIFANTI ELECTRICAL SERVICES SAFE RELIABLE ...",
-      "snippet": "We remain committed to serving the communities of Northeast Pennsylvania and the Poconos, and we will continue to do so with the same professionalism that has",
+      "id": "https://www.facebook.com/groups/577747966156189/posts/2124338878163749",
+      "url": "https://www.facebook.com/groups/577747966156189/posts/2124338878163749",
+      "title": "Is there any places that help with Electric bills?",
+      "snippet": "Energy assistance programs like EAP and local organizations like Brightpoint and Salvation Army can help with electric bills. Katelin Turner. Starting October",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Pittston Community Page",
-      "posted": "2026-09-27",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/872781323058788/posts/3042062962797269",
-      "url": "https://www.facebook.com/groups/872781323058788/posts/3042062962797269",
-      "title": "Affordable life insurance options in Royersford",
-      "snippet": "(610) 731-5646. We have an affordable plan wherein you can have LIFE INSURANCE coverage and INVESTMENT for as low as 799 per month ONLY❗. Price may vary",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Living in Royersford",
+      "group": "Huntington Neighbors Helping Neighbors",
       "posted": "2026-09-23",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "queries": [
-        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/872781323058788/posts/3046394462364119",
-      "url": "https://www.facebook.com/groups/872781323058788/posts/3046394462364119",
-      "title": "Aachi Biryani & Grandma's Kitchen Weekend Lunch Buffet ...",
-      "snippet": "at just $21.99 per adult 👶 Kids under 10: Half price 👶 Kids under 5: Eat FREE -you- can-eat buffet lunch from 10:30 AM – 2:00 PM! Enjoy special family rates …",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Living in Royersford",
-      "posted": "2026-09-27",
-      "first_seen": "2026-09-28",
-      "last_seen": "2026-09-28",
-      "queries": [
-        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
@@ -1326,9 +1356,9 @@
         "host": true,
         "keyword": true,
         "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -1337,14 +1367,45 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1683516718562443/posts/4028965750684183",
-      "url": "https://www.facebook.com/groups/1683516718562443/posts/4028965750684183",
-      "title": "ATS Automatic transfer switch | 🚀 Power the Future at Canton Fair 2025 | Facebook",
-      "snippet": "Title: ATS Automatic transfer switch | 🚀 Power the Future at Canton Fair 2025 | Facebook\n# ATS Automatic transfer switch | 🚀 Power the Future at Canton Fair 2025 | Facebook. ## ATS Automatic transfer switch ·. Image 1: 🚀 Power the Future at Canton Fair 2025! Image 3: 📍 Booth ZONE C-15.2H30 | Image 4…",
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Hamburg pa Yardsales and Selling",
+      "id": "https://www.facebook.com/groups/541747296955608/posts/1794207365042922",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "I took the switch apart and readjusted the micro switches and it now works, but the cable and track stop at the top and won't go down any farther.",
+      "source": "Facebook",
+      "title": "I got this for a 2001 Dodge Dakota power window, but it ...",
+      "url": "https://www.facebook.com/groups/541747296955608/posts/1794207365042922"
+    },
+    {
+      "id": "https://www.facebook.com/groups/35300324554/posts/10164867315184555",
+      "url": "https://www.facebook.com/groups/35300324554/posts/10164867315184555",
+      "title": "How to properly power on and off audio equipment with ...",
+      "snippet": "Do you guys use Main power socket to power off and on your equipments directly? or 1st switch off amp or subwoofer via there power switch then main",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "ATS Automatic transfer switch",
-      "posted": "2025-04-14",
+      "group": "McIntosh",
+      "posted": "2026-09-26",
       "first_seen": "2026-09-28",
       "last_seen": "2026-09-28",
       "queries": [
@@ -1359,13 +1420,758 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "keyword"
       }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Polio & Post-Polio Support Community",
+      "id": "https://www.facebook.com/groups/1983878372207530/posts/2166337200628312",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-28",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "My husband and I are so blessed. We contacted the Department of Aging in our area. They told us about the Waiver Program. They worked with our insurance",
+      "source": "Facebook",
+      "title": "How to access home modifications and support services ...",
+      "url": "https://www.facebook.com/groups/1983878372207530/posts/2166337200628312"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "The Ioniq Guy",
+      "id": "https://www.facebook.com/groups/theioniqguy/posts/1725801422110396",
+      "last_seen": "2026-09-28",
+      "posted": "2026-05-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Title: Home Manual Transfer Switch for V2L power distribution | Facebook\n## The Ioniq Guy ·. ### **Home Manual Transfer Switch for V2L power distribution**. Looking for a Manual Transfer Switch to safely power up to 6 breakers in my house in a power failure using a Vehicle to Load Adaptor from my 20…",
+      "source": "Facebook",
+      "title": "Home Manual Transfer Switch for V2L power distribution | Facebook",
+      "url": "https://www.facebook.com/groups/theioniqguy/posts/1725801422110396"
+    },
+    {
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3040726002930965",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3040726002930965",
+      "title": "Historical Royersford Ads (circa 1950s).",
+      "snippet": "In January 1929, Tilghman & Moyer had a special advertising booklet printed that showed off the new Royersford bank building. They used them in their",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Living in Royersford",
+      "posted": "2026-09-22",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Free Everything  In the Richmond, VA and Surrounding areas",
+      "id": "https://www.facebook.com/groups/1821462508066392/posts/4423088441237106",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-28",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Dominion Energy has a program called Energy Share. Help with high electric bill and shut off notice in Columbia, Mountville, PA. PA Local Community 8w",
+      "source": "Facebook",
+      "title": "Hi there! Would anyone have any guidance or direction to ...",
+      "url": "https://www.facebook.com/groups/1821462508066392/posts/4423088441237106"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Snap-on Tool Box Junkies",
+      "id": "https://www.facebook.com/groups/272327395617067/posts/1064337829749349",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Generator transfer switch complete kit six switch switches available it's new never used . Can be used as 20amp or 30 amp service.",
+      "source": "Facebook",
+      "title": "Generator transfer switch complete kit six ...",
+      "url": "https://www.facebook.com/groups/272327395617067/posts/1064337829749349"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Friends of Hershey PA",
+      "id": "https://www.facebook.com/groups/hersheypa/posts/3569768146672722",
+      "last_seen": "2026-09-28",
+      "posted": "2023-12-28",
+      "production": {
+        "accepted": false,
+        "reason": "too-old",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "freshness": "stale",
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": true,
+        "reason": "too-old",
+        "semantic_accepted": true,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Title: Friends of Hershey PA | I currently have PPL electric and I’m looking to switch distributors  as the prices have been too high | Facebook\nWhat are alternative electric distributors in Briarcrest? Summarized by AI from the post below. ## Friends of Hershey PA ·. I currently have PPL electric a…",
+      "source": "Facebook",
+      "title": "Friends of Hershey PA | I currently have PPL electric and I’m looking to switch distributors  as the prices have been too high | Facebook",
+      "url": "https://www.facebook.com/groups/hersheypa/posts/3569768146672722"
+    },
+    {
+      "id": "https://www.facebook.com/groups/730621574471966/posts/2134512050749571",
+      "url": "https://www.facebook.com/groups/730621574471966/posts/2134512050749571",
+      "title": "Free smart energy resources and cost savings tips in ...",
+      "snippet": "Learn about heat pumps, insulation, and how to take advantage of federal tax credits, utility rebates, and state incentives. The session will also cover",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Friends of Roxbury in the Catskills",
+      "posted": "2026-09-25",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/376752505751672/posts/28320068404326707",
+      "url": "https://www.facebook.com/groups/376752505751672/posts/28320068404326707",
+      "title": "For those in central PA you might want to consider this.",
+      "snippet": "Visit: PAPowerSwitch.com We developed a shopping guide explaining the process and contract terms and we also send out updates when utility rates are",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Central Pennsylvania IPMS",
+      "posted": "2026-09-26",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1324788797564648/posts/28565440659739427",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/28565440659739427",
+      "title": "Experiences with solar panels and PPA?",
+      "snippet": "What would you do? I'm considering having solar panels installed on my home through a PPA (Power Purchase Agreement) system, with a rate of $0.21 per kilowatt.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Warminster Community Group USA",
+      "posted": "2026-09-28",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Electrical Technician",
+      "id": "https://www.facebook.com/groups/132135530194372/posts/30386427367671790",
+      "last_seen": "2026-09-28",
+      "posted": "2025-07-21",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Manual changeover switch wiring diagram. Summarized by AI from the post below. Manual Changeover Switch Wiring Diagram. This diagram illustrates the wiring of a manual changeover switch used to transfer power supply between the main grid and a generator. The system includes circuit breakers for both…",
+      "source": "Facebook",
+      "title": "Electrical Technician | Manual Changeover Switch Wiring Diagram | Facebook",
+      "url": "https://www.facebook.com/groups/132135530194372/posts/30386427367671790"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "ELECTRICAL Engineer USA CoMMuNiTy",
+      "id": "https://www.facebook.com/groups/561434418544964/posts/1391233668898364",
+      "last_seen": "2026-09-28",
+      "posted": "2025-03-24",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Wiring a 3-phase rotary selector switch for manual phase control. Summarized by AI from the post below. The wiring and connection procedure for a 3-phase rotary selector switch, which is used as a manual changeover switch. The setup includes three rotary switches, each assigned to one phase: Red (R)…",
+      "source": "Facebook",
+      "title": "ELECTRICAL Engineer USA CoMMuNiTy | The wiring and connection procedure for a 3-phase rotary selector switch, which is used as a manual changeover switch | Facebook",
+      "url": "https://www.facebook.com/groups/561434418544964/posts/1391233668898364"
+    },
+    {
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3041135612890004",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3041135612890004",
+      "title": "E-bike rider steals dinner from Royersford, PA porch on ...",
+      "snippet": "Anyone know this kid on the e-bike? Stole my dinner right off my porch before I could grab it because I was giving baths, less than 5 minutes He covers.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Living in Royersford",
+      "posted": "2026-09-22",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Tuolumne County Dispatch",
+      "id": "https://www.facebook.com/groups/2040113832859464/posts/3228942310643271",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Trooper Brian Patterson was killed when he came in contact with a high voltage power line which had been dislodged in a motor vehicle crash.",
+      "source": "Facebook",
+      "title": "Deputy out with two individuals at Patterson Field ...",
+      "url": "https://www.facebook.com/groups/2040113832859464/posts/3228942310643271"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Mount Joy PA Business Advertising Page",
+      "id": "https://www.facebook.com/groups/2405527829714588/posts/4472641176336566",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Come out and join us Oct 2nd &/or 3rd!!! Let's check what we can save you by switching to solar!! (Already have solar through us? Stop and say Hi!!) Fun",
+      "source": "Facebook",
+      "title": "Come out and join us Oct 2nd &/or 3rd!!! Let's check what ...",
+      "url": "https://www.facebook.com/groups/2405527829714588/posts/4472641176336566"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "",
+      "id": "https://www.facebook.com/groups/2319274425158285/posts/2515393052213087",
+      "last_seen": "2026-09-28",
+      "posted": "2026-03-24",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Title: Coalition to Protect Cumberland County PA from Data Centers | Facebook\n# Coalition to Protect Cumberland County PA from Data Centers | Facebook. ## Coalition to Protect Cumberland County PA from Data Centers ·. The utility Company and the Data Centers hate You! The people in a 10-mile radius …",
+      "source": "Facebook",
+      "title": "Coalition to Protect Cumberland County PA from Data Centers | Facebook",
+      "url": "https://www.facebook.com/groups/2319274425158285/posts/2515393052213087"
+    },
+    {
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3040906049579627",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3040906049579627",
+      "title": "Car jumpstart needed in Royersford public lot on N 3rd Ave",
+      "snippet": "Public lot on N 3rd Ave. Public Rosfim Portable Car Jump Starter with Smart Jumper Cable (Up to 5.0L Gas or 3.0L Diesel Engine) Car",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Living in Royersford",
+      "posted": "2026-09-22",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://dictionary.cambridge.org/dictionary/english/community",
+      "url": "https://dictionary.cambridge.org/dictionary/english/community",
+      "title": "COMMUNITY | English meaning - Cambridge Dictionary",
+      "snippet": "Your browser doesn't support HTML5 audio\n\nsea creatures that live in shells and are eaten as food, or one of these creatures\n\nAre you free on Saturday? Phrases for invitations.\n\nBlog\n\nAre you free on Saturday? Phrases for invitations.\n\n<p>tasteslop\n\nNew Words\n\ntasteslop\n\nAI icon\n\nAI icon\ncdo logo\ncd…",
+      "source": "dictionary.cambridge.org",
+      "context": "dictionary.cambridge.org",
+      "group": "COMMUNITY",
+      "posted": "",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "host",
+        "host": false,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "host"
+      }
+    },
+    {
+      "id": "https://www.dictionary.com/browse/community",
+      "url": "https://www.dictionary.com/browse/community",
+      "title": "COMMUNITY Definition & Meaning | Dictionary.com",
+      "snippet": "A community is a social group whose members have something in common, such as a shared government, geographic location, culture, or heritage. Community can also refer to the physical location where such a group lives. It can refer to a town, city, village, or other area with a formal government whos…",
+      "source": "dictionary.com",
+      "context": "dictionary.com",
+      "group": "COMMUNITY Definition & Meaning",
+      "posted": "",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "host",
+        "host": false,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "host"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/443852532315524/posts/29096536673287061",
+      "url": "https://www.facebook.com/groups/443852532315524/posts/29096536673287061",
+      "title": "Beware of electric supplier scam in Osceola Mills, ...",
+      "snippet": "Just had a guy come to the door saying he was from an electric supplier. Wanted my Penelec account number. I asked if he worked for Penelec, he said",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Osceola Mills PA",
+      "posted": "2026-09-25",
+      "first_seen": "2026-09-28",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Living in Royersford",
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3044390072564558",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-25",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "This Wednesday 9/27 from 1:30-4 we will be out in the lot next to Bill's Appliance Center 2098 lycoming creek road. Come out and get some delicious BBQ and",
+      "source": "Facebook",
+      "title": "Barbecue sale in Royersford, PA on 9/26",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3044390072564558"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Pittston Community Page",
+      "id": "https://www.facebook.com/groups/1117169335159279/posts/3417316025144587",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "We remain committed to serving the communities of Northeast Pennsylvania and the Poconos, and we will continue to do so with the same professionalism that has",
+      "source": "Facebook",
+      "title": "BONIFANTI ELECTRICAL SERVICES SAFE RELIABLE ...",
+      "url": "https://www.facebook.com/groups/1117169335159279/posts/3417316025144587"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Living in Royersford",
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3042062962797269",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-23",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "(610) 731-5646. We have an affordable plan wherein you can have LIFE INSURANCE coverage and INVESTMENT for as low as 799 per month ONLY❗. Price may vary",
+      "source": "Facebook",
+      "title": "Affordable life insurance options in Royersford",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3042062962797269"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "Living in Royersford",
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3046394462364119",
+      "last_seen": "2026-09-28",
+      "posted": "2026-09-27",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/872781323058788 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "at just $21.99 per adult 👶 Kids under 10: Half price 👶 Kids under 5: Eat FREE -you- can-eat buffet lunch from 10:30 AM – 2:00 PM! Enjoy special family rates …",
+      "source": "Facebook",
+      "title": "Aachi Biryani & Grandma's Kitchen Weekend Lunch Buffet ...",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3046394462364119"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-09-28",
+      "group": "ATS Automatic transfer switch",
+      "id": "https://www.facebook.com/groups/1683516718562443/posts/4028965750684183",
+      "last_seen": "2026-09-28",
+      "posted": "2025-04-14",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "a82ab6c205cc"
+      },
+      "snippet": "Title: ATS Automatic transfer switch | 🚀 Power the Future at Canton Fair 2025 | Facebook\n# ATS Automatic transfer switch | 🚀 Power the Future at Canton Fair 2025 | Facebook. ## ATS Automatic transfer switch ·. Image 1: 🚀 Power the Future at Canton Fair 2025! Image 3: 📍 Booth ZONE C-15.2H30 | Image 4…",
+      "source": "Facebook",
+      "title": "ATS Automatic transfer switch | 🚀 Power the Future at Canton Fair 2025 | Facebook",
+      "url": "https://www.facebook.com/groups/1683516718562443/posts/4028965750684183"
     },
     {
       "context": "facebook.com",
@@ -3445,35 +4251,36 @@
       "url": "https://www.facebook.com/groups/251941363127196/posts/1615005646820754"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-09-27",
-      "group": "Lancaster MA Mass Massachusetts",
       "id": "https://www.facebook.com/groups/1024731417724912/posts/3333839556814075",
-      "last_seen": "2026-09-27",
+      "url": "https://www.facebook.com/groups/1024731417724912/posts/3333839556814075",
+      "title": "Has anyone signed up for the Colonial Power Group being ...",
+      "snippet": "An update to Lancaster's page on the Colonial Power website shows that Lancaster's electric aggregation program has contracted for a rate of 15.1 cents per kWh",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Lancaster MA Mass Massachusetts",
       "posted": "2026-09-26",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-27",
+      "last_seen": "2026-09-28",
       "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")",
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "9bc380c3ddad"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
       },
-      "snippet": "Lancaster's electric aggregation program has contracted for a rate of 15.1 cents per kWh for two years, beginning this December.",
-      "source": "Facebook",
-      "title": "Has anyone signed up for the Colonial Power Group being ...",
-      "url": "https://www.facebook.com/groups/1024731417724912/posts/3333839556814075"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -4624,35 +5431,36 @@
       "url": "https://www.facebook.com/groups/3459435521018611/posts/3980900888872069"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-09-26",
-      "group": "Coalition to Protect Cumberland County PA from Data Centers",
       "id": "https://www.facebook.com/groups/2319274425158285/posts/2682531798832544",
-      "last_seen": "2026-09-26",
+      "url": "https://www.facebook.com/groups/2319274425158285/posts/2682531798832544",
+      "title": "Something to keep in mind. The feds will help the energy ...",
+      "snippet": "The feds will help the energy companies upgrade their feeder lines but will do nothing to help the locals pay their ever-increasing electric bill.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Coalition to Protect Cumberland County PA from Data Centers",
       "posted": "2026-09-25",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-26",
+      "last_seen": "2026-09-28",
       "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania",
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "6d8dd4dd0680"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
       },
-      "snippet": "Something to keep in mind. The feds will help the energy companies upgrade their feeder lines but will do nothing to help the locals pay their",
-      "source": "Facebook",
-      "title": "Something to keep in mind. The feds will help the energy ...",
-      "url": "https://www.facebook.com/groups/2319274425158285/posts/2682531798832544"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -6889,36 +7697,37 @@
       "url": "https://www.facebook.com/groups/Pennsaukentalks/posts/2731130413742177"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-09-25",
-      "group": "Columbia, PA Local Community",
       "id": "https://www.facebook.com/groups/3220519168173285/posts/5578436512381527",
-      "last_seen": "2026-09-25",
+      "url": "https://www.facebook.com/groups/3220519168173285/posts/5578436512381527",
+      "title": "Ontrack program assists with PPL electric and UGI utility ...",
+      "snippet": "OnTrack program makes managing energy bills easier by offering lower fixed monthly payments, debt forgiveness and referrals to energy saving programs.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Columbia, PA Local Community",
       "posted": "2026-09-25",
-      "production": {
-        "accepted": false,
-        "reason": "intent",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-28",
       "queries": [
         "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")",
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": true,
-        "reason": "intent",
-        "semantic_accepted": false,
-        "version": "ec24524e5c3d"
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "713f46bdacc2"
       },
-      "snippet": "Our OnTrack program makes managing energy bills easier by offering lower fixed monthly payments, debt forgiveness and referrals to energy saving programs. Find",
-      "source": "Facebook",
-      "title": "Ontrack program assists with PPL electric and UGI utility ...",
-      "url": "https://www.facebook.com/groups/3220519168173285/posts/5578436512381527"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
     },
     {
       "context": "facebook.com",
@@ -7231,35 +8040,36 @@
       "url": "https://www.facebook.com/groups/3137022059952709/posts/4617466475241586"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-09-25",
-      "group": "Tesla Model Y group",
       "id": "https://www.facebook.com/groups/1049943870644349/posts/1394696509502415",
-      "last_seen": "2026-09-25",
+      "url": "https://www.facebook.com/groups/1049943870644349/posts/1394696509502415",
+      "title": "How do you calculate your per KW charge from ...",
+      "snippet": "Look on your bill for the KWH and multiply it by what your cars computer says you used for a particular charging sesion. 3d.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Tesla Model Y group",
       "posted": "2026-09-24",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-25",
+      "last_seen": "2026-09-28",
       "queries": [
-        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania",
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "ec24524e5c3d"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
       },
-      "snippet": "I have Ameren's PowerSmart pricing plan. The rates are variable based on demand. The overnight rate is usually around .02-.03 k/Wh.",
-      "source": "Facebook",
-      "title": "How do you calculate your per KW charge from ...",
-      "url": "https://www.facebook.com/groups/1049943870644349/posts/1394696509502415"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -8161,35 +8971,36 @@
       "url": "https://www.facebook.com/groups/connectednetworkers/posts/3402588223246458"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-09-24",
-      "group": "Collegeville Community",
       "id": "https://www.facebook.com/groups/1805965986426027/posts/2840115873011028",
-      "last_seen": "2026-09-24",
+      "url": "https://www.facebook.com/groups/1805965986426027/posts/2840115873011028",
+      "title": "What are average power and heating bills in Perkiomen ...",
+      "snippet": "The PA Power Switch website only shows about half of your electric bill: the supply of electric you buy. If you look at the image below, that is only the",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Collegeville Community",
       "posted": "2026-09-23",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-28",
       "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")",
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "31be68c77f51"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
       },
-      "snippet": "Current bill $336.98 and last month $473.38. Penn Power offered the better fixed rate overall. electric bill $460?",
-      "source": "Facebook",
-      "title": "What are average power and heating bills in Perkiomen Woods?",
-      "url": "https://www.facebook.com/groups/1805965986426027/posts/2840115873011028"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -8905,36 +9716,37 @@
       "url": "https://www.facebook.com/groups/779886579133941/posts/2664182114037702"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-09-24",
-      "group": "Winston And Surrounding Areas Community Watch",
       "id": "https://www.facebook.com/groups/349997538854877/posts/2520526265135316",
-      "last_seen": "2026-09-25",
+      "url": "https://www.facebook.com/groups/349997538854877/posts/2520526265135316",
+      "title": "It's called peak energy pricing, or something similar",
+      "snippet": "\"The Standard Offer Program, through participating suppliers, offers a 7% discount off the price to compare, also known as the PPL Electric Utilities default",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Winston And Surrounding Areas Community Watch",
       "posted": "2026-09-23",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-28",
       "queries": [
         "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")",
-        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania",
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "ec24524e5c3d"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
       },
-      "snippet": "PPL Price to compare rate is going to jump from 7.544 to 9.502! That's a 25% increase on your electric generation cost. I shop around often for electric",
-      "source": "Facebook",
-      "title": "It's called peak energy pricing, or something similar",
-      "url": "https://www.facebook.com/groups/349997538854877/posts/2520526265135316"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -9558,35 +10370,36 @@
       "url": "https://www.facebook.com/groups/365290727876426/posts/1735096797562472"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-09-24",
-      "group": "DALLAS RENTAL HOMES",
       "id": "https://www.facebook.com/groups/1286059885287580/posts/2211361122757447",
-      "last_seen": "2026-09-24",
+      "url": "https://www.facebook.com/groups/1286059885287580/posts/2211361122757447",
+      "title": "Anyone looking for a cheaper electric provider? I can help ...",
+      "snippet": "Can y'all help me out? Looking for suggestions on the best electricity provider. Low deposit or no deposit, usage deals, and price per kilowatt. Thanks!",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "DALLAS RENTAL HOMES",
       "posted": "2026-09-21",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-24",
+      "last_seen": "2026-09-28",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")",
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": true,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "31be68c77f51"
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "713f46bdacc2"
       },
-      "snippet": "Can y'all help me out? Looking for suggestions on the best electricity provider. Low deposit or no deposit, usage deals, and price per kilowatt. Thanks!",
-      "source": "Facebook",
-      "title": "Anyone looking for a cheaper electric provider? I can help drop zip ...",
-      "url": "https://www.facebook.com/groups/1286059885287580/posts/2211361122757447"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -20672,7 +21485,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -20765,7 +21578,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -20858,7 +21671,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -22255,7 +23068,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "a82ab6c205cc"
+        "version": "713f46bdacc2"
       },
       "production": {
         "accepted": false,
@@ -27218,35 +28031,35 @@
       "url": "https://www.facebook.com/groups/2392721797414856/posts/28817427021184307"
     },
     {
-      "context": "simplicable.com",
-      "first_seen": "2026-09-16",
-      "group": "",
       "id": "https://simplicable.com/society/what-is-community",
-      "last_seen": "2026-09-16",
+      "url": "https://simplicable.com/society/what-is-community",
+      "title": "What is a Community? (14 Key Points) - Simplicable",
+      "snippet": "|  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |  |\n ---  ---  ---  ---  ---  ---  …",
+      "source": "simplicable.com",
+      "context": "simplicable.com",
+      "group": "",
       "posted": "",
-      "production": {
-        "accepted": false,
-        "reason": "host",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-28",
       "queries": [
         "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "host",
         "host": false,
         "keyword": false,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "host",
-        "semantic_accepted": false,
-        "version": "bdae565c57ba"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
       },
-      "snippet": "circumstance who form a sense of mutual belonging. The word community originates with the Latin communitas that refers to unstructured social groups in which members are equal and share some sense of fellowship, shared responsibility and joint ownership. The following are the key things to know abou…",
-      "source": "simplicable.com",
-      "title": "What is a Community? (14 Key Points) - Simplicable",
-      "url": "https://simplicable.com/society/what-is-community"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "host"
+      }
     },
     {
       "context": "support.microsoft.com",
@@ -29518,66 +30331,66 @@
       "url": "https://www.facebook.com/groups/516740654199549/posts/1092550746618534"
     },
     {
-      "context": "en.wikipedia.org",
-      "first_seen": "2026-09-16",
-      "group": "",
       "id": "https://en.wikipedia.org/wiki/Community",
-      "last_seen": "2026-09-16",
-      "posted": "",
-      "production": {
-        "accepted": false,
-        "reason": "host",
-        "source": "rules"
-      },
-      "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": true,
-        "host": false,
-        "keyword": false,
-        "lead": false,
-        "pennsylvania": false,
-        "reason": "host",
-        "semantic_accepted": false,
-        "version": "bdae565c57ba"
-      },
+      "url": "https://en.wikipedia.org/wiki/Community",
+      "title": "Community - Wikipedia",
       "snippet": "Community organizing can focus on more than just resolving specific issues. Organizing often means building a widely accessible power structure, often with the end goal of distributing power equally throughout the community. Community organizers generally seek to build groups that are open and democ…",
       "source": "en.wikipedia.org",
-      "title": "Community - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Community"
-    },
-    {
       "context": "en.wikipedia.org",
-      "first_seen": "2026-09-16",
       "group": "",
-      "id": "https://en.wikipedia.org/wiki/Community_(TV_series)",
-      "last_seen": "2026-09-16",
       "posted": "",
-      "production": {
-        "accepted": false,
-        "reason": "host",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-28",
       "queries": [
         "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "host",
         "host": false,
         "keyword": false,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "host",
-        "semantic_accepted": false,
-        "version": "bdae565c57ba"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
       },
-      "snippet": "Community is an American television sitcom created by Dan Harmon. The series ran for 110 episodes over six seasons, with its first five seasons airing on NBC from... Looking for community events in Seattle? Whether you're a local, new in town, or just passing through, you'll be sure to find somethin…",
-      "source": "en.wikipedia.org",
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "host"
+      }
+    },
+    {
+      "id": "https://en.wikipedia.org/wiki/Community_(TV_series)",
+      "url": "https://en.wikipedia.org/wiki/Community_(TV_series)",
       "title": "Community (TV series) - Wikipedia",
-      "url": "https://en.wikipedia.org/wiki/Community_(TV_series)"
+      "snippet": "|  v  t  e  Critics' Choice Television Award for Best Comedy Series | [...] 1. ↑ Hester, Jere (December 1, 2010). \"The Surreal Season of 'Community'\". NBC 10 Philadelphia. Retrieved September 24, 2022.\n2. ↑ Stevens, Hampton (May 12, 2011). \"The Meta, Innovative Genius of Community\". The Atlantic. Re…",
+      "source": "en.wikipedia.org",
+      "context": "en.wikipedia.org",
+      "group": "",
+      "posted": "",
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-28",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "host",
+        "host": false,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "host"
+      }
     },
     {
       "context": "imdb.com",
@@ -29642,35 +30455,35 @@
       "url": "https://support.microsoft.com/en-us/edge/change-your-default-search-engine-in-microsoft-edge"
     },
     {
-      "id": "https://www.facebook.com/groups/CenterValleyPA/posts/1512194702966189",
-      "url": "https://www.facebook.com/groups/CenterValleyPA/posts/1512194702966189",
-      "title": "Center Valley, PA Neighborhood | Curious to see if anyone on here uses different electricity suppliers than pp&l | Facebook",
-      "snippet": "Title: Center Valley, PA Neighborhood | Curious to see if anyone on here uses different electricity suppliers than pp&l | Facebook\nAlternative electricity suppliers to PPL in Center Valley, PA. Summarized by AI from the post below. ## Center Valley, PA Neighborhood ·. Curious to see if anyone on her…",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Center Valley, PA Neighborhood",
-      "posted": "2023-10-06",
       "first_seen": "2026-09-16",
+      "group": "Center Valley, PA Neighborhood",
+      "id": "https://www.facebook.com/groups/CenterValleyPA/posts/1512194702966189",
       "last_seen": "2026-09-28",
+      "posted": "2023-10-06",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": true,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "a82ab6c205cc"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "Title: Center Valley, PA Neighborhood | Curious to see if anyone on here uses different electricity suppliers than pp&l | Facebook\nAlternative electricity suppliers to PPL in Center Valley, PA. Summarized by AI from the post below. ## Center Valley, PA Neighborhood ·. Curious to see if anyone on her…",
+      "source": "Facebook",
+      "title": "Center Valley, PA Neighborhood | Curious to see if anyone on here uses different electricity suppliers than pp&l | Facebook",
+      "url": "https://www.facebook.com/groups/CenterValleyPA/posts/1512194702966189"
     },
     {
       "context": "facebook.com",
@@ -29704,35 +30517,35 @@
       "url": "https://www.facebook.com/groups/2350406885413177/posts/2573380986449098"
     },
     {
-      "context": "merriam-webster.com",
-      "first_seen": "2026-09-16",
-      "group": "COMMUNITY Definition & Meaning - Merriam-Webster",
       "id": "https://www.merriam-webster.com/dictionary/community",
-      "last_seen": "2026-09-16",
+      "url": "https://www.merriam-webster.com/dictionary/community",
+      "title": "COMMUNITY Definition & Meaning - Merriam-Webster",
+      "snippet": "a spouse may not…lease to a third person his undivided interest in the community or in particular things of the community—Louisiana Civil Code\n\nb\n\n: the entity created upon the marriage of a husband and wife for the purposes of ownership of property in community property states  see also community p…",
+      "source": "merriam-webster.com",
+      "context": "merriam-webster.com",
+      "group": "COMMUNITY Definition & Meaning - Merriam-Webster",
       "posted": "",
-      "production": {
-        "accepted": false,
-        "reason": "host",
-        "source": "rules"
-      },
+      "first_seen": "2026-09-16",
+      "last_seen": "2026-09-28",
       "queries": [
         "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "host",
         "host": false,
         "keyword": false,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "host",
-        "semantic_accepted": false,
-        "version": "bdae565c57ba"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "713f46bdacc2"
       },
-      "snippet": "Britannica.com: Encyclopedia article about community\n\nSubscribe to America's largest dictionary and get thousands more definitions and advanced search—ad free!\n\n## More from Merriam-Webster\n\n#### Word of the Day\n\n#### gist\n\nSee Definitions and Examples »\n\nGet Word of the Day daily email!\n\n## Popular…",
-      "source": "merriam-webster.com",
-      "title": "COMMUNITY Definition & Meaning",
-      "url": "https://www.merriam-webster.com/dictionary/community"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "host"
+      }
     },
     {
       "context": "facebook.com",
