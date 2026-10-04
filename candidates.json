@@ -1,82 +1,144 @@
 {
-  "updated": "2026-10-04T11:53:08Z",
-  "count": 1020,
+  "updated": "2026-10-04T20:56:38Z",
+  "count": 1052,
   "candidates": [
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Houses For Rent In Utah/Rent To Own/Private Landlord",
       "id": "https://www.facebook.com/groups/314580284278029/posts/1087534740315909",
-      "url": "https://www.facebook.com/groups/314580284278029/posts/1087534740315909",
-      "title": "🗣️🗣️ I need to rent a place asap guys, I wanna be around ...",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-04",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
       "snippet": "stay below $800 a month if possible. Utilities included is definitely a plus. Private 3-bedroom house for rent under $1700/month",
       "source": "Facebook",
+      "title": "🗣️🗣️ I need to rent a place asap guys, I wanna be around ...",
+      "url": "https://www.facebook.com/groups/314580284278029/posts/1087534740315909"
+    },
+    {
       "context": "facebook.com",
-      "group": "Houses For Rent In Utah/Rent To Own/Private Landlord",
-      "posted": "2026-10-04",
       "first_seen": "2026-10-04",
+      "group": "Philadelphia Rooms For Rent, Apartments, Rentals and Private Landlords",
+      "id": "https://www.facebook.com/groups/1006417747393404/posts/1902661201102383",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1006417747393404/posts/1902661201102383",
-      "url": "https://www.facebook.com/groups/1006417747393404/posts/1902661201102383",
-      "title": "🏡 FOR RENT | Philadelphia, PA 19154",
       "snippet": "FOR RENT | Philadelphia, PA 19154 2 Bedrooms | 1.5 Bathrooms | 2 Levels | 1133 sq ft $1900/month A spacious, comfortable home with everything you",
       "source": "Facebook",
+      "title": "🏡 FOR RENT | Philadelphia, PA 19154",
+      "url": "https://www.facebook.com/groups/1006417747393404/posts/1902661201102383"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2773228599586104/posts/4499617130280567",
+      "url": "https://www.facebook.com/groups/2773228599586104/posts/4499617130280567",
+      "title": "️ Thinking about going solar in Panama? Here's what you ...",
+      "snippet": "We guide you through the entire process, from understanding your electricity consumption. Solar is one of the few ways you can lock in a predictable energy",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Philadelphia Rooms For Rent, Apartments, Rentals and Private Landlords",
+      "group": "Coronado, Panama-  Buy, Sell, advertise and promote business",
       "posted": "2026-10-03",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "DANAO HOUSE/LOT FOR RENT/SALE",
+      "id": "https://www.facebook.com/groups/houseforrentsaledanaocity/posts/1770767768387456",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/houseforrentsaledanaocity/posts/1770767768387456",
-      "url": "https://www.facebook.com/groups/houseforrentsaledanaocity/posts/1770767768387456",
-      "title": "️ BRAND NEW HOUSE FOR RENT – ELIZABETH HOMES ...",
       "snippet": "BRAND NEW HOUSE FOR RENT ・ 3 Bedrooms • 2 Toilets & Bathrooms. Minimum 1-Year Contract ・ 2K deposit for electric bills 💵",
       "source": "Facebook",
+      "title": "️ BRAND NEW HOUSE FOR RENT – ELIZABETH HOMES ...",
+      "url": "https://www.facebook.com/groups/houseforrentsaledanaocity/posts/1770767768387456"
+    },
+    {
+      "id": "https://www.facebook.com/groups/849994733672039/posts/1497457335592439",
+      "url": "https://www.facebook.com/groups/849994733672039/posts/1497457335592439",
+      "title": "placing high-energy computing infrastructure near ...",
+      "snippet": "France's nuclear fleet has sparked an interesting idea for powering and cooling data centers: placing high-energy computing infrastructure near existing",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "DANAO HOUSE/LOT FOR RENT/SALE",
-      "posted": "2026-10-03",
+      "group": "neil degrasse tyson",
+      "posted": "2026-10-04",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
@@ -87,7 +149,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
@@ -96,18 +158,80 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/1124941508267587/posts/2325767828184943",
+      "url": "https://www.facebook.com/groups/1124941508267587/posts/2325767828184943",
+      "title": "ZMP ELECTRONICS TRADING 📍686 Ronquillo St. ...",
+      "snippet": "... Power Switch Controller Imix Skeletal Amplifier Rack XLR Connectors And Wires Sold! Thank you bossing from Bagong Silangan Quezon! We Accept Credit Card",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "BAGSAK PRESYO POWER AMPLIFIER AT IBA PA",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Newton-Ransom PA Community Page",
       "id": "https://www.facebook.com/groups/452435626214923/posts/1655898849201922",
-      "url": "https://www.facebook.com/groups/452435626214923/posts/1655898849201922",
-      "title": "WoodMaster Outdoor Stove financing options for affordable ...",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
       "snippet": "Need a new chimney? Want to add a wood stove or fireplace to supplement your heating bill? Now you have options! You can apply privately in the.",
       "source": "Facebook",
+      "title": "WoodMaster Outdoor Stove financing options for affordable ...",
+      "url": "https://www.facebook.com/groups/452435626214923/posts/1655898849201922"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2405461026400704/posts/4613199435626841",
+      "url": "https://www.facebook.com/groups/2405461026400704/posts/4613199435626841",
+      "title": "Winter storms are coming",
+      "snippet": "Reach out for a free estimate … s Electrical 586 586-576-9375. We are a authorized and factory trained service. Licensed Master Electrician since 1984.",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Newton-Ransom PA Community Page",
-      "posted": "2026-10-03",
+      "group": "What's Happening in Unionville, Michigan",
+      "posted": "2026-10-04",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
@@ -118,7 +242,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
@@ -127,49 +251,142 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/627266990378510/posts/871961759242364",
+      "url": "https://www.facebook.com/groups/627266990378510/posts/871961759242364",
+      "title": "Why doesn't PA 233 include solar panel and battery ...",
+      "snippet": "PA 233 forces communities to accept massive industrial solar projects, No recycling requirement for solar panels. No recycling requirement for batteries.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Zeeland Township Bulletin",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1180177059850710/posts/1819171422617934",
+      "url": "https://www.facebook.com/groups/1180177059850710/posts/1819171422617934",
+      "title": "Why does my red shower switch stay on when turned off?",
+      "snippet": "If the wiring connected to the switch is faulty or incorrectly installed, it can cause a continuous flow of electrical current to the light, keeping it lit. To",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Electrical Work",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "2026 Tesla Model Y Owners Group",
       "id": "https://www.facebook.com/groups/3231406813657421/posts/4034160183382076",
-      "url": "https://www.facebook.com/groups/3231406813657421/posts/4034160183382076",
-      "title": "What electricity plans are best for Tesla owners with high ...",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
       "snippet": "Hi everyone\nI need some advice. Since getting my Tesla, my electric bill has increased from $150–$180 to $350–$400/month. My usage went from under 2,000",
       "source": "Facebook",
+      "title": "What electricity plans are best for Tesla owners with high ...",
+      "url": "https://www.facebook.com/groups/3231406813657421/posts/4034160183382076"
+    },
+    {
       "context": "facebook.com",
-      "group": "2026 Tesla Model Y Owners Group",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "Mobile Home Living The Simple Life",
+      "id": "https://www.facebook.com/groups/410332816616557/posts/1853101982339626",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/410332816616557/posts/1853101982339626",
-      "url": "https://www.facebook.com/groups/410332816616557/posts/1853101982339626",
-      "title": "What are the heating costs for electric and gas in mobile ...",
       "snippet": "I am considering a mobile home, not sure whether sw or dw, in the spring. My husband and I lived in one in the 90s, so heat was much cheaper, and it was",
       "source": "Facebook",
+      "title": "What are the heating costs for electric and gas in mobile ...",
+      "url": "https://www.facebook.com/groups/410332816616557/posts/1853101982339626"
+    },
+    {
+      "id": "https://www.facebook.com/groups/backyardchickensforbeginnerss/posts/1545930220898404",
+      "url": "https://www.facebook.com/groups/backyardchickensforbeginnerss/posts/1545930220898404",
+      "title": "What are the best winter water hacks for backyard chickens ...",
+      "snippet": "Best water hacks for winter in western PA?! I just started free ranging this summer and my coop isn't close to electric now so I won't have any heat.",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Mobile Home Living The Simple Life",
-      "posted": "2026-10-03",
+      "group": "Backyard Chickens For Beginners",
+      "posted": "2026-10-04",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
@@ -179,8 +396,8 @@
         "keyword": true,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
-        "version": "e01a2dc37924"
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
@@ -189,204 +406,328 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/1339350483939390/posts/1758501618690939",
+      "url": "https://www.facebook.com/groups/1339350483939390/posts/1758501618690939",
+      "title": "What are some data center contacts for power generation ...",
+      "snippet": "As a market-leading provider of reliable and secure power solutions, we have been protecting our customers' Data centres against unplanned outages across the",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Data Center Jobs - USA",
+      "posted": "2026-10-03",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/595968593812853/posts/28609207412062262",
+      "url": "https://www.facebook.com/groups/595968593812853/posts/28609207412062262",
+      "title": "Want to get some time back in your day? 👀 Join Jodi and I ...",
+      "snippet": "Come learn something new, meet other local business owners, and support small businesses in Central PA! Tue, Oct 20 at 6:00PM EDT.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pennsylvania Business Network",
+      "posted": "2026-10-03",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Green Ridge Section Of Scranton Pa",
       "id": "https://www.facebook.com/groups/633232590072068/posts/28968405499461398",
-      "url": "https://www.facebook.com/groups/633232590072068/posts/28968405499461398",
-      "title": "University of Scranton hiring food service workers for ...",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
       "snippet": "The University of Scranton Dining Services is actively hiring for FT/PT Food Service Workers for new service outlets on campus!",
       "source": "Facebook",
+      "title": "University of Scranton hiring food service workers for ...",
+      "url": "https://www.facebook.com/groups/633232590072068/posts/28968405499461398"
+    },
+    {
       "context": "facebook.com",
-      "group": "Green Ridge Section Of Scranton Pa",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "AMERICAN Steam Locomotive Rail Fans",
+      "id": "https://www.facebook.com/groups/442645732513387/posts/28841842622166985",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-04",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/442645732513387/posts/28841842622166985",
-      "url": "https://www.facebook.com/groups/442645732513387/posts/28841842622166985",
-      "title": "Union Pacific Railroad Locomotive 4012 at Steamtown ...",
       "snippet": "Initially displayed in Vermont, the locomotive was relocated in 1984 to Scranton, Pennsylvania, now home to Steamtown National Historic Site. These photographs,",
       "source": "Facebook",
+      "title": "Union Pacific Railroad Locomotive 4012 at Steamtown ...",
+      "url": "https://www.facebook.com/groups/442645732513387/posts/28841842622166985"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1460273451089085/posts/2695946664188418",
+      "url": "https://www.facebook.com/groups/1460273451089085/posts/2695946664188418",
+      "title": "Transformative Solar Powered Community Water Solutions",
+      "snippet": "This involves installing solar panels that generate electricity to power the water pump, providing a sustainable and cost-effective water supply for communities",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "AMERICAN Steam Locomotive Rail Fans",
+      "group": "Amasampo Pa Kitwe",
       "posted": "2026-10-04",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "keyword",
+        "reason": "geography",
         "host": true,
-        "keyword": false,
+        "keyword": true,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "geography"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/yardsaleevents/posts/4585476191723558",
-      "url": "https://www.facebook.com/groups/yardsaleevents/posts/4585476191723558",
-      "title": "This is a beautiful, brand-new apartment just completed ...",
-      "snippet": "Each unit has dedicated water and electrical meters as well as entry doors. Each unit comes with multiple paved parking spots as well as guest parking and is",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "SNYDER/UNION County Pa Yard Sales And Events",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "SNYDER/UNION County Pa Yard Sales And Events",
+      "id": "https://www.facebook.com/groups/yardsaleevents/posts/4585472835057227",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/yardsaleevents/posts/4585472835057227",
-      "url": "https://www.facebook.com/groups/yardsaleevents/posts/4585472835057227",
-      "title": "This is a beautiful, brand-new apartment just completed ...",
       "snippet": "Spacious 2 Bedroom Apartment in Federalsburg $1,400/Month This beautifully renovated 2-bedroom, 1-bathroom apartment is now available for rent! Located on Main",
       "source": "Facebook",
+      "title": "This is a beautiful, brand-new apartment just completed ...",
+      "url": "https://www.facebook.com/groups/yardsaleevents/posts/4585472835057227"
+    },
+    {
       "context": "facebook.com",
-      "group": "SNYDER/UNION County Pa Yard Sales And Events",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "SNYDER/UNION County Pa Yard Sales And Events",
+      "id": "https://www.facebook.com/groups/yardsaleevents/posts/4585476191723558",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "Each unit has dedicated water and electrical meters as well as entry doors. Each unit comes with multiple paved parking spots as well as guest parking and is",
+      "source": "Facebook",
+      "title": "This is a beautiful, brand-new apartment just completed ...",
+      "url": "https://www.facebook.com/groups/yardsaleevents/posts/4585476191723558"
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Bucks County PA Best Buy Sell Trade",
       "id": "https://www.facebook.com/groups/1854385478148578/posts/4435436693376764",
-      "url": "https://www.facebook.com/groups/1854385478148578/posts/4435436693376764",
-      "title": "This doesn't fit between my screen door and door ...",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
       "snippet": "Just moved into this house and these are terribly hard to close and don't provide enough darkness for my liking. Does anyone have a better option for sliding",
       "source": "Facebook",
+      "title": "This doesn't fit between my screen door and door ...",
+      "url": "https://www.facebook.com/groups/1854385478148578/posts/4435436693376764"
+    },
+    {
       "context": "facebook.com",
-      "group": "Bucks County PA Best Buy Sell Trade",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "MINERAL COUNTY NEWS News, Politics and Memes",
+      "id": "https://www.facebook.com/groups/mineralcountynews/posts/10175468430615587",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/mineralcountynews/posts/10175468430615587",
-      "url": "https://www.facebook.com/groups/mineralcountynews/posts/10175468430615587",
-      "title": "This cartoon captures one of the most misunderstood facts ...",
       "snippet": "Rent pays property taxes, insurance, maintenance, repairs, utilities, and compliance costs. When one of those costs rises quickly, the pressure moves through",
       "source": "Facebook",
+      "title": "This cartoon captures one of the most misunderstood facts ...",
+      "url": "https://www.facebook.com/groups/mineralcountynews/posts/10175468430615587"
+    },
+    {
       "context": "facebook.com",
-      "group": "MINERAL COUNTY NEWS News, Politics and Memes",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "The Office Memes Group",
+      "id": "https://www.facebook.com/groups/206766641278771/posts/1523065686315520",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-04",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/206766641278771/posts/1523065686315520",
-      "url": "https://www.facebook.com/groups/206766641278771/posts/1523065686315520",
-      "title": "They actually recreated it!! 📄✨ Once a Dunder Mifflin ...",
       "snippet": "Jim's sports company shut down and he decided to move back to Scranton and gets a job as a salesman again at Dunder Mifflin and it's almost like",
       "source": "Facebook",
+      "title": "They actually recreated it!! 📄✨ Once a Dunder Mifflin ...",
+      "url": "https://www.facebook.com/groups/206766641278771/posts/1523065686315520"
+    },
+    {
+      "id": "https://www.facebook.com/groups/fabulousthingsneverseenbefore/posts/2167642987296650",
+      "url": "https://www.facebook.com/groups/fabulousthingsneverseenbefore/posts/2167642987296650",
+      "title": "The Power of a Hallway Light: A Story of Connection | Erie, ...",
+      "snippet": "Instead of turning on the light switch in my room, which is connected to the fan and was a bit further away, I decided to illuminate my path by turning",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "The Office Memes Group",
+      "group": "Fabulous things Never Seen Before",
       "posted": "2026-10-04",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
@@ -397,7 +738,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
@@ -406,142 +747,173 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Car Spotting  in NJ DE PA",
       "id": "https://www.facebook.com/groups/2047947608939612/posts/2837751423292556",
-      "url": "https://www.facebook.com/groups/2047947608939612/posts/2837751423292556",
-      "title": "Spotted in Allentown, Pennsylvania ￼ F - DriveTime SE0318",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
       "snippet": "Spotted in Allentown, Pennsylvania.",
       "source": "Facebook",
+      "title": "Spotted in Allentown, Pennsylvania ￼ F - DriveTime SE0318",
+      "url": "https://www.facebook.com/groups/2047947608939612/posts/2837751423292556"
+    },
+    {
       "context": "facebook.com",
-      "group": "Car Spotting  in NJ DE PA",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "Philadelphia Housing, Rooms, Apartments, Sublets & Roommates",
+      "id": "https://www.facebook.com/groups/239415726402101/posts/2914363778907269",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/239415726402101/posts/2914363778907269",
-      "url": "https://www.facebook.com/groups/239415726402101/posts/2914363778907269",
-      "title": "Spacious Ranch-Style Apartment ...",
       "snippet": "Pennsylvania offers spacious two- and three-bedroom ranch-style apartment homes … $1,250 Per Month Available 8.1.25. Brand new appliances included * ch *",
       "source": "Facebook",
+      "title": "Spacious Ranch-Style Apartment ...",
+      "url": "https://www.facebook.com/groups/239415726402101/posts/2914363778907269"
+    },
+    {
       "context": "facebook.com",
-      "group": "Philadelphia Housing, Rooms, Apartments, Sublets & Roommates",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "East Pikeland Community Forum",
+      "id": "https://www.facebook.com/groups/265755870531674/posts/2612501685857069",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/265755870531674/posts/2612501685857069",
-      "url": "https://www.facebook.com/groups/265755870531674/posts/2612501685857069",
-      "title": "So now they want to restart power generation at Cromby?",
       "snippet": "The project promises to provide up to 500 megawatts of electricity when needed to cover spikes in power demand during cold snaps in the winter months and to",
       "source": "Facebook",
+      "title": "So now they want to restart power generation at Cromby?",
+      "url": "https://www.facebook.com/groups/265755870531674/posts/2612501685857069"
+    },
+    {
       "context": "facebook.com",
-      "group": "East Pikeland Community Forum",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "buy and sell all goods",
+      "id": "https://www.facebook.com/groups/364416114306775/posts/2307239546691079",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/364416114306775/posts/2307239546691079",
-      "url": "https://www.facebook.com/groups/364416114306775/posts/2307239546691079",
-      "title": "Small one bedroom apartment Utilities included",
       "snippet": "Rent is $1350 plus utilities (Internet, Elect & Gas: $100-130 each depending on the season, maybe a bit higher in the summer). To move in you need to pay a",
       "source": "Facebook",
+      "title": "Small one bedroom apartment Utilities included",
+      "url": "https://www.facebook.com/groups/364416114306775/posts/2307239546691079"
+    },
+    {
       "context": "facebook.com",
-      "group": "buy and sell all goods",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "",
+      "id": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241714830076730",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241714830076730",
-      "url": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241714830076730",
-      "title": "Scranton/Wilkes-Barre Area Community Page",
       "snippet": "Rivet Contractor LLC is in Scranton, PA. Deep cleans ✨ Move-in & move-out cleans ✨ Regular/maintenance cleaning ✨ Kitchens & bathrooms ✨ And more! Move-In /",
       "source": "Facebook",
+      "title": "Scranton/Wilkes-Barre Area Community Page",
+      "url": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241714830076730"
+    },
+    {
+      "id": "https://www.facebook.com/groups/577201645671300/posts/1699120060146114",
+      "url": "https://www.facebook.com/groups/577201645671300/posts/1699120060146114",
+      "title": "Point Marion, Pennsylvania",
+      "snippet": "[](\n\n# Point Marion, Pennsylvania\n\nPrivate group\n\n·\n\n8.9K members\n\nJoin Group\n\nAbout\n\nDiscussion\n\nMore\n\nAboutDiscussion\n\nPoint Marion, Pennsylvania\n\nJoin Group\n\n## About this group\n\nA group that is dedicated to the modern day enhancement of Point Marion, Pennsylvania. No politics please.\n\nPrivate\n\nO…",
+      "source": "Facebook",
       "context": "facebook.com",
       "group": "",
-      "posted": "2026-10-03",
+      "posted": "",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
@@ -552,7 +924,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
@@ -561,80 +933,111 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Fort myers Lehigh Acres Cape Coral Naples, sanibel, imokale, sarasota y mas",
       "id": "https://www.facebook.com/groups/1506574713449633/posts/2354721155301647",
-      "url": "https://www.facebook.com/groups/1506574713449633/posts/2354721155301647",
-      "title": "Pick up off bell blvd in Lehigh",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
       "snippet": "... Allentown drivers ⚠️ Route 378 construction is starting this evening ... Please avoid the area as utility work is completed.",
       "source": "Facebook",
+      "title": "Pick up off bell blvd in Lehigh",
+      "url": "https://www.facebook.com/groups/1506574713449633/posts/2354721155301647"
+    },
+    {
       "context": "facebook.com",
-      "group": "Fort myers Lehigh Acres Cape Coral Naples, sanibel, imokale, sarasota y mas",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "Beaver County News & Events",
+      "id": "https://www.facebook.com/groups/2502915029924950/posts/4521222988094134",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2502915029924950/posts/4521222988094134",
-      "url": "https://www.facebook.com/groups/2502915029924950/posts/4521222988094134",
-      "title": "Pet-friendly 1-2 bedroom apartments for rent in Beaver ...",
       "snippet": "in looks for a move in ready 1-2 ( depends how big) bedroom pet friendly around the price range of $1200 theres alot of scam ads out there trying not",
       "source": "Facebook",
+      "title": "Pet-friendly 1-2 bedroom apartments for rent in Beaver ...",
+      "url": "https://www.facebook.com/groups/2502915029924950/posts/4521222988094134"
+    },
+    {
       "context": "facebook.com",
-      "group": "Beaver County News & Events",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "",
+      "id": "https://www.facebook.com/groups/1435849056716146/posts/4094767524157606",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1435849056716146/posts/4094767524157606",
-      "url": "https://www.facebook.com/groups/1435849056716146/posts/4094767524157606",
-      "title": "Pa Real Estate For Sale/Rent",
       "snippet": "Rent includes heat (own thermostat), Wi-Fi and water. Does not include electric, has own meter. New Kitchen with Granite Countertops. Tenant responsible for",
       "source": "Facebook",
+      "title": "Pa Real Estate For Sale/Rent",
+      "url": "https://www.facebook.com/groups/1435849056716146/posts/4094767524157606"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2319274425158285/posts/2691349661284091",
+      "url": "https://www.facebook.com/groups/2319274425158285/posts/2691349661284091",
+      "title": "Our developers are telling us it will employ around 200 ...",
+      "snippet": "It's Pennsylvania energy that goes to drive the data centers. Modernization To Develop New Electric Generation At 21 Deactivated Energy Sites To Support Large",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "",
+      "group": "Coalition to Protect Cumberland County PA from Data Centers",
       "posted": "2026-10-03",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
@@ -645,7 +1048,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
@@ -654,266 +1057,142 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/114494348705304/posts/3759651684189534",
-      "url": "https://www.facebook.com/groups/114494348705304/posts/3759651684189534",
-      "title": "NNN investment property just listed in Sellersville, Bucks ...",
-      "snippet": "Tenant covers taxes, condo fees, utilities, and all interior maintenance under a NNN lease. NOI equals gross rent — $57,305/yr. Cap rate is 8.8% at the $650,000",
+      "id": "https://www.facebook.com/groups/292957267810116/posts/2627376064368213",
+      "url": "https://www.facebook.com/groups/292957267810116/posts/2627376064368213",
+      "title": "Ondo State News | ITAOGBOLU NEWS UPDATE | Facebook",
+      "snippet": "2027: 𝗔𝗣𝗖 𝗰𝗵𝗮𝗶𝗿𝗺𝗲𝗻 𝗱𝗶𝘃𝗶𝗱𝗲𝗱 𝗼𝘃𝗲𝗿 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗪𝗶𝗸𝗲\n\n State chairmen of the All Progressives Congress are divided over working with FCT Minister Nyesom Wike ahead of the 2027 general elections.... \n\n𝗖𝗮𝗻𝗮𝗱𝗶𝗮𝗻 𝗰𝗶𝘁𝘆 𝗺𝗮𝗿𝗸𝘀 𝗡𝗶𝗴𝗲𝗿𝗶𝗮’𝘀 𝗶𝗻𝗱𝗲𝗽𝗲𝗻𝗱𝗲𝗻𝗰𝗲\n\n The Nigerian flag was raised at Winnipeg City Hall in Cana…",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Philadelphia Real Estate",
-      "posted": "2026-10-03",
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "queries": [
-        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e01a2dc37924"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1137102794296221/posts/1567168451289651",
-      "url": "https://www.facebook.com/groups/1137102794296221/posts/1567168451289651",
-      "title": "Looking for a clean and remodeled place to rent in Hazen ...",
-      "snippet": "In the market for a new place? Available at 633 McKinley Street in Hazleton, PA are 2 bedroom/2 bath loft style units - that offer high ceilings, ample space,",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Houses for sale in Moncton & nearby areas",
-      "posted": "2026-10-03",
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "queries": [
-        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e01a2dc37924"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/300873505348496/posts/1432521165517052",
-      "url": "https://www.facebook.com/groups/300873505348496/posts/1432521165517052",
-      "title": "Large garage or shop for rent in Easton with electric, water, ...",
-      "snippet": "Apartment for RENT Price: $1,600 - 2 bedroom & 1 bath Due at signing $3,200 (first month & deposit) Contact: 484-627-1619 For rent by owner Description: This",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Everything EASTON",
-      "posted": "2026-10-03",
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "queries": [
-        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e01a2dc37924"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241833873398159",
-      "url": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241833873398159",
-      "title": "LOCAL CLEANING SERVICES 🧼✨ Hi everyone! 👋🏼 I'm ...",
-      "snippet": "We clean houses, apartments, offices, move-ins, move-outs, Airbnb, and more! We offer one-time cleans, monthly, weekly, and bi-weekly.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Scranton/Wilkes-Barre Area Community Page",
-      "posted": "2026-10-03",
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e01a2dc37924"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1117169335159279/posts/3427696857439837",
-      "url": "https://www.facebook.com/groups/1117169335159279/posts/3427696857439837",
-      "title": "Is the gentleman looking for a place to stay in Pittston okay?",
-      "snippet": "moving is to be spend 1000.00 to 1200.00 month in rent plus utilities. a unit available please reach out. We are great tenants. I just moved to pittston in May",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Pittston Community Page",
+      "group": "Ondo State News",
       "posted": "2026-10-04",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "keyword",
         "host": true,
-        "keyword": true,
+        "keyword": false,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "keyword"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241991976715682",
-      "url": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241991976715682",
-      "title": "Houses for rent in Scranton area with service dogs and ...",
-      "snippet": "What apartments or houses are available for rent in Carbondale to Scranton area that allow pets and include utilities? Tenant pays utilities (garbage included)",
+      "id": "https://www.facebook.com/groups/2350406885413177/posts/2590757388044791",
+      "url": "https://www.facebook.com/groups/2350406885413177/posts/2590757388044791",
+      "title": "Negative impacts of data centers in Pennsylvania on the ...",
+      "snippet": "BOTTOM LINE PEOPLE! If ANY of you OWNERS of these data centers can name JUST ONE POSITIVE IMPACT, that building these data centers ai centers, super ai",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Scranton/Wilkes-Barre Area Community Page",
+      "group": "Pennsylvania Data Center Resistance",
       "posted": "2026-10-03",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Philadelphia Real Estate",
+      "id": "https://www.facebook.com/groups/114494348705304/posts/3759651684189534",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
         "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "snippet": "Tenant covers taxes, condo fees, utilities, and all interior maintenance under a NNN lease. NOI equals gross rent — $57,305/yr. Cap rate is 8.8% at the $650,000",
+      "source": "Facebook",
+      "title": "NNN investment property just listed in Sellersville, Bucks ...",
+      "url": "https://www.facebook.com/groups/114494348705304/posts/3759651684189534"
     },
     {
-      "id": "https://www.facebook.com/groups/supportlocaldoverpa/posts/2953752891643551",
-      "url": "https://www.facebook.com/groups/supportlocaldoverpa/posts/2953752891643551",
-      "title": "House for rent in West York, PA",
-      "snippet": "New rental on the market today. A $1091 home in York, PA. The coveted brick rancher with the suburban lifestyle in West Manchester Township, West York Schools!",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Dover PA Community - Support Local",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "Houses for sale in Moncton & nearby areas",
+      "id": "https://www.facebook.com/groups/1137102794296221/posts/1567168451289651",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "In the market for a new place? Available at 633 McKinley Street in Hazleton, PA are 2 bedroom/2 bath loft style units - that offer high ceilings, ample space,",
+      "source": "Facebook",
+      "title": "Looking for a clean and remodeled place to rent in Hazen ...",
+      "url": "https://www.facebook.com/groups/1137102794296221/posts/1567168451289651"
     },
     {
-      "id": "https://www.facebook.com/groups/phillyjobs/posts/26737440339249503",
-      "url": "https://www.facebook.com/groups/phillyjobs/posts/26737440339249503",
-      "title": "Hey My Name Zaire. From Philadelphia & I'm Looking For ...",
-      "snippet": "I'm 23 & recently just moved to Allentown. I have experience in customer service, server, inventory, organizing, retail, babysitting & hair styling as well. My",
+      "id": "https://www.facebook.com/groups/haverhillma411/posts/2120645315247329",
+      "url": "https://www.facebook.com/groups/haverhillma411/posts/2120645315247329",
+      "title": "Look at this beautiful home! Please contact Carol Duggan ...",
+      "snippet": "city's Community Choice power program just locked in a new rate for the next year: $0.15999/kWh starting November, down from $0.16728. Fixed for 12 months",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Jobs In Philly, PA, Jersey & Delaware",
+      "group": "HAVERHILL MA INFO 411",
       "posted": "2026-10-03",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e01a2dc37924"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1720546544973115/posts/2966566763704414",
-      "url": "https://www.facebook.com/groups/1720546544973115/posts/2966566763704414",
-      "title": "HOUSE FOR RENT‼️‼️‼️ 1 unit (Unit 10 - Right Side ng ...",
-      "snippet": "Own electricity ✅ Own water meter ✅ Wifi ready. Own electricity ✅ ・ your own preferred provider. new apartment 📍 under construction ・ 2K deposit for electric",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "LOS BAÑOS Apartment Room RENTALS",
-      "posted": "2026-10-03",
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "queries": [
-        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
@@ -924,7 +1203,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
@@ -933,18 +1212,204 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/Villageofglenwood/posts/29387257720901883",
-      "url": "https://www.facebook.com/groups/Villageofglenwood/posts/29387257720901883",
-      "title": "Energywell supplier for electric",
-      "snippet": "Energywell supplier for electric\nSo a gentleman came to the door offering A battery backup energywell.com is the website. It saves 25-28%over Com-Ed’s",
+      "id": "https://www.facebook.com/groups/2310304829257799/posts/4525904707697789",
+      "url": "https://www.facebook.com/groups/2310304829257799/posts/4525904707697789",
+      "title": "Locally Owned and Operated providing excellent service ...",
+      "snippet": "(570) 575-4618. Electrical Diagnostics and Repair 🚘 & More! We do charge a Emergency service call fee of $100 which will be added to your invoice along with",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Citizens Organize Glenwood-COG",
+      "group": "Carbon County TODAY",
       "posted": "2026-10-03",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
+        "site:facebook.com/groups/2310304829257799 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Everything EASTON",
+      "id": "https://www.facebook.com/groups/300873505348496/posts/1432521165517052",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
         "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "Apartment for RENT Price: $1,600 - 2 bedroom & 1 bath Due at signing $3,200 (first month & deposit) Contact: 484-627-1619 For rent by owner Description: This",
+      "source": "Facebook",
+      "title": "Large garage or shop for rent in Easton with electric, water, ...",
+      "url": "https://www.facebook.com/groups/300873505348496/posts/1432521165517052"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Scranton/Wilkes-Barre Area Community Page",
+      "id": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241833873398159",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "We clean houses, apartments, offices, move-ins, move-outs, Airbnb, and more! We offer one-time cleans, monthly, weekly, and bi-weekly.",
+      "source": "Facebook",
+      "title": "LOCAL CLEANING SERVICES 🧼✨ Hi everyone! 👋🏼 I'm ...",
+      "url": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241833873398159"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Pittston Community Page",
+      "id": "https://www.facebook.com/groups/1117169335159279/posts/3427696857439837",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-04",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "moving is to be spend 1000.00 to 1200.00 month in rent plus utilities. a unit available please reach out. We are great tenants. I just moved to pittston in May",
+      "source": "Facebook",
+      "title": "Is the gentleman looking for a place to stay in Pittston okay?",
+      "url": "https://www.facebook.com/groups/1117169335159279/posts/3427696857439837"
+    },
+    {
+      "id": "https://www.facebook.com/groups/grandledgecommunitypage/posts/28628092713466306",
+      "url": "https://www.facebook.com/groups/grandledgecommunitypage/posts/28628092713466306",
+      "title": "Is anyone missing a chocolate lab? High energy and friendly.",
+      "snippet": "Anybody missing 2 chocolate labs? They have collars but no tags. Very friendly ... No photo description available. Tom Everett and 160 others.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Grand Ledge Community",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/dadswagg/posts/28671401342520690",
+      "url": "https://www.facebook.com/groups/dadswagg/posts/28671401342520690",
+      "title": "How to install smart switches safely at home",
+      "snippet": "The smart switch is designed to replace a traditional switch, allowing automation or remote control via an app. The diagram in the manual clearly marks each",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/3220519168173285/posts/5591207044437807",
+      "url": "https://www.facebook.com/groups/3220519168173285/posts/5591207044437807",
+      "title": "How to install a new electric starter on a 150cc Tao ...",
+      "snippet": "Might be a long shot but was wondering if anyone knows how to install a new electric sstarter on a 150 cc tao tao gas scooter n wont charge me an arm an leg!!!",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Columbia, PA Local Community",
+      "posted": "2026-10-03",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
@@ -955,7 +1420,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": false,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
@@ -964,80 +1429,452 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Scranton/Wilkes-Barre Area Community Page",
+      "id": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241991976715682",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "What apartments or houses are available for rent in Carbondale to Scranton area that allow pets and include utilities? Tenant pays utilities (garbage included)",
+      "source": "Facebook",
+      "title": "Houses for rent in Scranton area with service dogs and ...",
+      "url": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241991976715682"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Dover PA Community - Support Local",
+      "id": "https://www.facebook.com/groups/supportlocaldoverpa/posts/2953752891643551",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "New rental on the market today. A $1091 home in York, PA. The coveted brick rancher with the suburban lifestyle in West Manchester Township, West York Schools!",
+      "source": "Facebook",
+      "title": "House for rent in West York, PA",
+      "url": "https://www.facebook.com/groups/supportlocaldoverpa/posts/2953752891643551"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1693907120840917/posts/4648823812015885",
+      "url": "https://www.facebook.com/groups/1693907120840917/posts/4648823812015885",
+      "title": "Hey Quad Cities. Do you need GAV, A2, Corporate Event ...",
+      "snippet": "Setting up everything with the stage including the PA and running all power and XLR, then mixing the live show. Selling merch during breaks. I can easily",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Local Live Music Quad Cities",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Jobs In Philly, PA, Jersey & Delaware",
+      "id": "https://www.facebook.com/groups/phillyjobs/posts/26737440339249503",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "I'm 23 & recently just moved to Allentown. I have experience in customer service, server, inventory, organizing, retail, babysitting & hair styling as well. My",
+      "source": "Facebook",
+      "title": "Hey My Name Zaire. From Philadelphia & I'm Looking For ...",
+      "url": "https://www.facebook.com/groups/phillyjobs/posts/26737440339249503"
+    },
+    {
+      "id": "https://www.facebook.com/groups/MyEfficientElectricHome/posts/28958918667059201",
+      "url": "https://www.facebook.com/groups/MyEfficientElectricHome/posts/28958918667059201",
+      "title": "Has anyone used Jim's Energy for solar and battery ...",
+      "snippet": "Has anybody used Jim's Energy for their solar and battery install? I understand that they use subcontractors and that this is not ideal and of concern if",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "My Efficient Electric Home MEEH",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "LOS BAÑOS Apartment Room RENTALS",
+      "id": "https://www.facebook.com/groups/1720546544973115/posts/2966566763704414",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "Own electricity ✅ Own water meter ✅ Wifi ready. Own electricity ✅ ・ your own preferred provider. new apartment 📍 under construction ・ 2K deposit for electric",
+      "source": "Facebook",
+      "title": "HOUSE FOR RENT‼️‼️‼️ 1 unit (Unit 10 - Right Side ng ...",
+      "url": "https://www.facebook.com/groups/1720546544973115/posts/2966566763704414"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1904658670337366/posts/2371102700359625",
+      "url": "https://www.facebook.com/groups/1904658670337366/posts/2371102700359625",
+      "title": "Germany's underground electricity highways: 3x cost for 4x ...",
+      "snippet": "Underground cables cost approximately three times as much as overhead equivalents per kilometre — roughly €3 billion for SuedLink versus €1 billion if strung",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Neil Degrasse Tyson",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1060838894651790/posts/2302300890505578",
+      "url": "https://www.facebook.com/groups/1060838894651790/posts/2302300890505578",
+      "title": "Entegra Odyssey owners add AC remote switch for ...",
+      "snippet": "Added AC remote switch for refrigerator. Under $15 at Home Depot. draws 300 watts when on AC which quickly draws the battery down. shore power turn switch on.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Entegra Odyssey/Esteem Owner Group",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Citizens Organize Glenwood-COG",
+      "id": "https://www.facebook.com/groups/Villageofglenwood/posts/29387257720901883",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "Energywell supplier for electric\nSo a gentleman came to the door offering A battery backup energywell.com is the website. It saves 25-28%over Com-Ed’s",
+      "source": "Facebook",
+      "title": "Energywell supplier for electric",
+      "url": "https://www.facebook.com/groups/Villageofglenwood/posts/29387257720901883"
+    },
+    {
+      "id": "https://www.facebook.com/groups/872781323058788/posts/3054147111588854",
+      "url": "https://www.facebook.com/groups/872781323058788/posts/3054147111588854",
+      "title": "Emergency electrician services in Royersford, PA needed ...",
+      "snippet": "Hello, we have an electrical emergency. Need someone to come in asap. Please provide at contacts you have, thank you.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Living in Royersford",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Scranton/Wilkes-Barre Area Community Page",
       "id": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241685200079693",
-      "url": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241685200079693",
-      "title": "Dump&Go Removal Services 570-921-1960 2 spots ...",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
       "snippet": "Reach out to them at 865-705-2916 … local moving and more! For a free estimate, please call or text us at 949 510 9408. open 7 days a week, with same-day",
       "source": "Facebook",
+      "title": "Dump&Go Removal Services 570-921-1960 2 spots ...",
+      "url": "https://www.facebook.com/groups/scrantonwbwhatshappening/posts/2241685200079693"
+    },
+    {
       "context": "facebook.com",
-      "group": "Scranton/Wilkes-Barre Area Community Page",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "Clarks Summit Community Page",
+      "id": "https://www.facebook.com/groups/665299781033927/posts/2167896717440885",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/665299781033927/posts/2167896717440885",
-      "url": "https://www.facebook.com/groups/665299781033927/posts/2167896717440885",
-      "title": "Desperately seeking single family house for rent under $2k ...",
       "snippet": "Requirements: • 3 bedrooms • Around $1,500/month • Must allow pets 🐾 • Have a yard • Ideally includes some utilities, but not required",
       "source": "Facebook",
+      "title": "Desperately seeking single family house for rent under $2k ...",
+      "url": "https://www.facebook.com/groups/665299781033927/posts/2167896717440885"
+    },
+    {
       "context": "facebook.com",
-      "group": "Clarks Summit Community Page",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "ЖИЛЬЁ-Philadelphia",
+      "id": "https://www.facebook.com/groups/593794177482426/posts/3221342274727590",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-04",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/593794177482426/posts/3221342274727590",
-      "url": "https://www.facebook.com/groups/593794177482426/posts/3221342274727590",
-      "title": "Brand new 1bed 1bath unit for rent in Philadelphia, PA",
       "snippet": "FOR $100 A MONTH! Rent is $1,310, Utilities: Water, hot water and trash included. You will be responsible for electricity, gas, and internet.",
       "source": "Facebook",
+      "title": "Brand new 1bed 1bath unit for rent in Philadelphia, PA",
+      "url": "https://www.facebook.com/groups/593794177482426/posts/3221342274727590"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2900307263365867/posts/28886759034294001",
+      "url": "https://www.facebook.com/groups/2900307263365867/posts/28886759034294001",
+      "title": "Bloomsburg, PA Fair team appreciation and memories",
+      "snippet": "Bloomsburg Fair, the directors, Jennifer, and all the electricians and maintenance folks for trusting in us to provide the community with another",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "ЖИЛЬЁ-Philadelphia",
+      "group": "Danville, PA Events",
       "posted": "2026-10-04",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/399650140056389/posts/29068821999379154",
+      "url": "https://www.facebook.com/groups/399650140056389/posts/29068821999379154",
+      "title": "Black & Decker BV3100 Electric Leaf Blower Vacuum",
+      "snippet": "Used Black & Decker BV3100 electric leaf blower and vacuum. This corded tool is black with a red power switch and speed dial. It has a 12 Amp motor and",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Wilkes-Barre PA",
+      "posted": "2026-10-03",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
       ],
       "rules": {
         "accepted": false,
@@ -1047,8 +1884,8 @@
         "keyword": true,
         "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "hard_exclusion": false,
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
@@ -1057,49 +1894,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/633232590072068/posts/28980457164922898",
-      "url": "https://www.facebook.com/groups/633232590072068/posts/28980457164922898",
-      "title": "Another history of Scranton , Pennsylvania 😊🏠🌃🚂",
-      "snippet": "Another history of Scranton , Pennsylvania. Scranton Pa Rudis Electrical LLC. Our family moved to Scranton from Mt. Carmel area.",
+      "id": "https://www.facebook.com/groups/1904658670337366/posts/2370582100411685",
+      "url": "https://www.facebook.com/groups/1904658670337366/posts/2370582100411685",
+      "title": "Belgium's innovative battery storage system supports ...",
+      "snippet": "Belgium has pioneered a revolutionary national energy storage solution by converting its network of 847 abandoned coal mine shafts into gravity battery systems,",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Green Ridge Section Of Scranton Pa",
-      "posted": "2026-10-03",
+      "group": "Neil Degrasse Tyson",
+      "posted": "2026-10-04",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e01a2dc37924"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/807930965942654/posts/28730857126556663",
-      "url": "https://www.facebook.com/groups/807930965942654/posts/28730857126556663",
-      "title": "713-205-2971 Let me check what options may be available ...",
-      "snippet": "With energy costs rising, here are 3 reputable fixed- rate electricity providers I found that offer solid pricing, transparent contracts, and no surprises:",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "ventas en houston Texas.",
-      "posted": "2026-10-03",
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "queries": [
-        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
       ],
       "rules": {
         "accepted": false,
@@ -1110,7 +1916,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
@@ -1119,128 +1925,314 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/635223606608305/posts/4187416371388993",
-      "url": "https://www.facebook.com/groups/635223606608305/posts/4187416371388993",
-      "title": "2014 Mazda CX-5 Grand Touring Sport Utility 4D",
-      "snippet": "2014 Mazda CX-5 Gran Touring AWD Clean Title Inspected 4 Cylinder Automatic Transmission. PHONE NAV SETUP SEEK14 Please check urroundings. Join Allentown,",
+      "id": "https://www.facebook.com/groups/2209651286489619/posts/2233139107474170",
+      "url": "https://www.facebook.com/groups/2209651286489619/posts/2233139107474170",
+      "title": "Beacon Data Centre Community Watch | I wanted to share again this article ( and highlight the work and the advocacy of Erin Brokovich) in regards of the Meta data centre braking ground ye... | Facebook",
+      "snippet": "4 comments\n\n1 share\n\nLike\n\nComment\n\nShare\n\nMost relevant\n\n and all along Greenlight is in the background progressing. There was an NDA with the county for this because I wasn’t getting much f… \n\nSee more\n\n   12w \n\n2\n\nImage 4Image 5\n\nEstel Villard replied\n\n · \n\n1 Reply\n\n[](\n\nCindy Morrison Haywood\n\nW…",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "allentown bethlehem easton electronic & car sale buy trade fix ect",
+      "group": "Beacon Data Centre Community Watch",
+      "posted": "2026-07-09",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/cypruseasternforum/posts/10163493319838994",
+      "url": "https://www.facebook.com/groups/cypruseasternforum/posts/10163493319838994",
+      "title": "Any one else's power off lin vrysoulles",
+      "snippet": "I currently have my batteries, which are connected in parallel to each other, connected to a lynx distributor with an isolator switch to shut all battery power",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Eastern Cyprus Forum",
       "posted": "2026-10-04",
       "first_seen": "2026-10-04",
       "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b44b539f3874"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Green Ridge Section Of Scranton Pa",
+      "id": "https://www.facebook.com/groups/633232590072068/posts/28980457164922898",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": true,
         "host": true,
-        "keyword": true,
+        "keyword": false,
+        "lead": false,
         "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "Another history of Scranton , Pennsylvania. Scranton Pa Rudis Electrical LLC. Our family moved to Scranton from Mt. Carmel area.",
+      "source": "Facebook",
+      "title": "Another history of Scranton , Pennsylvania 😊🏠🌃🚂",
+      "url": "https://www.facebook.com/groups/633232590072068/posts/28980457164922898"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1636935600896127/posts/1672043397385347",
+      "url": "https://www.facebook.com/groups/1636935600896127/posts/1672043397385347",
+      "title": "AWI Reenactor Crown Forces Officer/NCO Resource Group | \"Time for the Manual.. | Facebook",
+      "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n[](\n\n## AWI Reenactor Crown Forces Officer/NCO Resource Group · \n\nJoin\n\nSteve Rayner\n\n · June 19 · \n\nWhat is the optimal time for military manual exercises according to John Williamson's \"The Elements of Military Arrangement\"?\n\nTitles are generated by AI from Meta\n\n\"…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "",
+      "posted": "2026-06-19",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "intent"
+        "reason": "keyword"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/530706140982205/posts/2046818762704261",
-      "url": "https://www.facebook.com/groups/530706140982205/posts/2046818762704261",
-      "title": "1-bedroom apartment for rent in Philadelphia, PA with ...",
-      "snippet": "Grab this fully furnished 1- bedroom on Foulkrod St. For $1,300/month, you get a move-in-ready space with a full kitchen and walk-in closet. ✓ Wi-Fi Included",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Что Где Когда Philadelphia",
-      "posted": "2026-10-04",
       "first_seen": "2026-10-04",
+      "group": "ventas en houston Texas.",
+      "id": "https://www.facebook.com/groups/807930965942654/posts/28730857126556663",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/philadelphiareia/posts/4665271203703385",
-      "url": "https://www.facebook.com/groups/philadelphiareia/posts/4665271203703385",
-      "title": "$650000 NNN Investment Property for Sale in Sellersville, PA",
-      "snippet": "Tenant covers taxes, condo fees, utilities, and all interior maintenance under a NNN lease. $57,305/yr. Clean transfer to a new owner. or call/text 267-934-",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Philadelphia Real Estate Investors Association",
-      "posted": "2026-10-03",
-      "first_seen": "2026-10-04",
-      "last_seen": "2026-10-04",
-      "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "With energy costs rising, here are 3 reputable fixed- rate electricity providers I found that offer solid pricing, transparent contracts, and no surprises:",
+      "source": "Facebook",
+      "title": "713-205-2971 Let me check what options may be available ...",
+      "url": "https://www.facebook.com/groups/807930965942654/posts/28730857126556663"
+    },
+    {
+      "id": "https://www.facebook.com/groups/20037715888/posts/10163730648705889",
+      "url": "https://www.facebook.com/groups/20037715888/posts/10163730648705889",
+      "title": "4 Beds 3 Baths - Townhouse 1 Pleasant Ave, New ...",
+      "snippet": "Tenants are responsible for electricity and $200/Month for the utility fee for trash, gas, water, sewer, and lawncare.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Maryland Real Estate",
+      "posted": "2026-10-03",
+      "first_seen": "2026-10-04",
+      "last_seen": "2026-10-04",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e01a2dc37924"
+        "version": "b44b539f3874"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "intent"
+        "reason": "geography"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/2516316142044475/posts/3065992863743464",
-      "url": "https://www.facebook.com/groups/2516316142044475/posts/3065992863743464",
-      "title": "#Allentown #rentalproperty #investmentproperty",
-      "snippet": "Cash-flowing investment opportunity in Allentown PA! This well-maintained 3-unit property offers spacious living areas, modern updates, and low- maintenance",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Businesses for Sale by Owner",
-      "posted": "2026-10-03",
       "first_seen": "2026-10-04",
+      "group": "allentown bethlehem easton electronic & car sale buy trade fix ect",
+      "id": "https://www.facebook.com/groups/635223606608305/posts/4187416371388993",
       "last_seen": "2026-10-04",
+      "posted": "2026-10-04",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "e01a2dc37924"
       },
+      "snippet": "2014 Mazda CX-5 Gran Touring AWD Clean Title Inspected 4 Cylinder Automatic Transmission. PHONE NAV SETUP SEEK14 Please check urroundings. Join Allentown,",
+      "source": "Facebook",
+      "title": "2014 Mazda CX-5 Grand Touring Sport Utility 4D",
+      "url": "https://www.facebook.com/groups/635223606608305/posts/4187416371388993"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Что Где Когда Philadelphia",
+      "id": "https://www.facebook.com/groups/530706140982205/posts/2046818762704261",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-04",
       "production": {
         "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "Grab this fully furnished 1- bedroom on Foulkrod St. For $1,300/month, you get a move-in-ready space with a full kitchen and walk-in closet. ✓ Wi-Fi Included",
+      "source": "Facebook",
+      "title": "1-bedroom apartment for rent in Philadelphia, PA with ...",
+      "url": "https://www.facebook.com/groups/530706140982205/posts/2046818762704261"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Philadelphia Real Estate Investors Association",
+      "id": "https://www.facebook.com/groups/philadelphiareia/posts/4665271203703385",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "Tenant covers taxes, condo fees, utilities, and all interior maintenance under a NNN lease. $57,305/yr. Clean transfer to a new owner. or call/text 267-934-",
+      "source": "Facebook",
+      "title": "$650000 NNN Investment Property for Sale in Sellersville, PA",
+      "url": "https://www.facebook.com/groups/philadelphiareia/posts/4665271203703385"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-04",
+      "group": "Businesses for Sale by Owner",
+      "id": "https://www.facebook.com/groups/2516316142044475/posts/3065992863743464",
+      "last_seen": "2026-10-04",
+      "posted": "2026-10-03",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Allentown\" OR \"Scranton\") utilities"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e01a2dc37924"
+      },
+      "snippet": "Cash-flowing investment opportunity in Allentown PA! This well-maintained 3-unit property offers spacious living areas, modern updates, and low- maintenance",
+      "source": "Facebook",
+      "title": "#Allentown #rentalproperty #investmentproperty",
+      "url": "https://www.facebook.com/groups/2516316142044475/posts/3065992863743464"
     },
     {
       "context": "facebook.com",
