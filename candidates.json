@@ -1,201 +1,77 @@
 {
-  "updated": "2026-10-09T12:42:31Z",
-  "count": 947,
+  "updated": "2026-10-09T22:22:05Z",
+  "count": 981,
   "candidates": [
     {
+      "id": "https://www.facebook.com/groups/119135612015585/posts/2130029970926129",
+      "url": "https://www.facebook.com/groups/119135612015585/posts/2130029970926129",
+      "title": "🏡 FOR RENT | Philadelphia, PA 19154",
+      "snippet": "... electricity and gas Available for immediate move-in Enjoy a bright and spacious layout, comfortable living and dining areas, an updated kitchen with",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Ukrainians in Philadelphia / Українці в  Філадельфії / Житло / Робота",
+      "posted": "2026-10-03",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "ЖИЛЬЁ-Philadelphia",
       "id": "https://www.facebook.com/groups/593794177482426/posts/3226239917571159",
-      "url": "https://www.facebook.com/groups/593794177482426/posts/3226239917571159",
-      "title": "🏠 STUDIO FOR RENT",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
       "snippet": "STUDIO FOR RENT Studio available in the 19116 ZIP code. Rent: • $1250/month for one person • $1500/month for a couple All utilities are",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "ЖИЛЬЁ-Philadelphia",
-      "posted": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "title": "🏠 STUDIO FOR RENT",
+      "url": "https://www.facebook.com/groups/593794177482426/posts/3226239917571159"
     },
     {
-      "id": "https://www.facebook.com/groups/1006417747393404/posts/1907714460597057",
-      "url": "https://www.facebook.com/groups/1006417747393404/posts/1907714460597057",
-      "title": "cedar park rooms for rent — philadelphia",
-      "snippet": "I have a furnished ROOM for rent in Philadelphia PA 700 a month utilities & Wi-Fi included. No pets , no guests single occupancy only . 1st month & 500 dollar",
+      "id": "https://www.facebook.com/groups/1631274990712456/posts/2542246049615341",
+      "url": "https://www.facebook.com/groups/1631274990712456/posts/2542246049615341",
+      "title": "pittsburgh",
+      "snippet": "Thinking about moving to Pittsburgh, PA? Here are 5 things you need to know. 00:10. Thinking about moving to Pittsburgh, PA? Here are 5 thi... Jul 29, 2026",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Philadelphia Rooms For Rent, Apartments, Rentals and Private Landlords",
-      "posted": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/LafayetteMemories/posts/39124609997153625",
-      "url": "https://www.facebook.com/groups/LafayetteMemories/posts/39124609997153625",
-      "title": "What was the name of the gas station owner at 4 Corners ...",
-      "snippet": "Around 1950 there was a gas station at 4 corners, present day university and hwy 90.\nAnyone remember the owner and have pictures?\n\nIt was on corner same",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Lafayette Memories",
-      "posted": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2008215246720121/posts/2187147222160255",
-      "url": "https://www.facebook.com/groups/2008215246720121/posts/2187147222160255",
-      "title": "This was an interesting read.. https://earthjustice.org/wp- ...",
-      "snippet": "The methane from gas is a growing contributor to climate change. Now, the US runs the risk of repeating history, and natural gas utilities find themselves",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Texas Coalition Against Datacenters",
-      "posted": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1685643553222364",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1685643553222364",
-      "title": "Terry Hill Electric offers electrical services in Latrobe, PA ...",
-      "snippet": "Terry Hill Electric offers electrical services in Latrobe, PA, Greensburg, and Ligonier. Summarized by AI from the post below. across Westmoreland.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "across Westmoreland",
-      "posted": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://my.xcelenergy.com/s",
-      "url": "https://my.xcelenergy.com/s",
-      "title": "State Selector | Xcel Energy",
-      "snippet": "Select a Service Area to Explore Colorado Michigan Minnesota New Mexico North Dakota South Dakota Texas Wisconsin",
-      "source": "my.xcelenergy.com",
-      "context": "my.xcelenergy.com",
-      "group": "State Selector",
-      "posted": "",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/truefwhistory/posts/2083615365622823",
-      "url": "https://www.facebook.com/groups/truefwhistory/posts/2083615365622823",
-      "title": "Sights of the city at Electric Works AcIoN 621 עחו CHI điể -",
-      "snippet": "Top of the old Philadelphia Electric Company, once an industrial giant power producing plant for the city, now converted to a luxury hotel.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "True Fort Wayne Indiana History",
+      "group": "liminal photography",
       "posted": "2026-10-09",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
@@ -205,44 +81,13 @@
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1434456940102314/posts/4691819311032711",
-      "url": "https://www.facebook.com/groups/1434456940102314/posts/4691819311032711",
-      "title": "Read about the origins of 801 Locust, otherwise known as ...",
-      "snippet": "The facility closed on September 29, 2008 when main distribution center activities moved to a new facility adjacent to the Philadelphia International Airport.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Vintage Philadelphia",
-      "posted": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
         "reason": "keyword",
         "host": true,
         "keyword": false,
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -251,14 +96,45 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/904509544135710/posts/1771700504083272",
-      "url": "https://www.facebook.com/groups/904509544135710/posts/1771700504083272",
-      "title": "Public hearing draws some support and plenty of ...",
-      "snippet": "Proponents say the plant in western Licking County would bring jobs and tax revenue, while opponents say it would bring unacceptable pollution. Public hearing",
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Philadelphia Rooms For Rent, Apartments, Rentals and Private Landlords",
+      "id": "https://www.facebook.com/groups/1006417747393404/posts/1907714460597057",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "I have a furnished ROOM for rent in Philadelphia PA 700 a month utilities & Wi-Fi included. No pets , no guests single occupancy only . 1st month & 500 dollar",
+      "source": "Facebook",
+      "title": "cedar park rooms for rent — philadelphia",
+      "url": "https://www.facebook.com/groups/1006417747393404/posts/1907714460597057"
+    },
+    {
+      "id": "https://www.facebook.com/groups/voiceofcustomerpk/posts/2325173798067963",
+      "url": "https://www.facebook.com/groups/voiceofcustomerpk/posts/2325173798067963",
+      "title": "Why is my gas bill $6200 for 415 rps usage?",
+      "snippet": "Only $211 of the $604 total was actual gas. Most of the bill isn't the gas. It's maintenance, infrastructure, and public benefit charges layered on top. Those",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Raccoon Creek Environmental Alliance Clean Air and Water for Alex/SA Twp",
-      "posted": "2026-10-08",
+      "group": "Voice Of Customer",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "queries": [
@@ -267,33 +143,126 @@
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "keyword",
+        "reason": "geography",
         "host": true,
-        "keyword": false,
+        "keyword": true,
         "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "geography"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/806466416226709/posts/3395706010636057",
-      "url": "https://www.facebook.com/groups/806466416226709/posts/3395706010636057",
-      "title": "Private room for rent in Philadelphia by January or March, ...",
-      "snippet": "I have a furnished room for rent in Philadelphia PA 800 a month utilities & Wi-Fi included. No pets , no guests single occupancy only . 1st month & 500 dollar",
+      "id": "https://www.facebook.com/groups/houstoncomprayvendemanualidades/posts/28683357664608475",
+      "url": "https://www.facebook.com/groups/houstoncomprayvendemanualidades/posts/28683357664608475",
+      "title": "Whole Home Hookup for Natural Gas & More.",
+      "snippet": "Installing gas lines is one of our specialties at Mrfixit Plumbing/CNJ Home Services 732-792-1299 If you need us to install a gas line in your home for any",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Philadelphia Roommates",
-      "posted": "2026-10-08",
+      "group": "HOUSTON COMPRA Y VENDE MANUALIDADES",
+      "posted": "2026-10-06",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Lafayette Memories",
+      "id": "https://www.facebook.com/groups/LafayetteMemories/posts/39124609997153625",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "Around 1950 there was a gas station at 4 corners, present day university and hwy 90.\nAnyone remember the owner and have pictures?\n\nIt was on corner same",
+      "source": "Facebook",
+      "title": "What was the name of the gas station owner at 4 Corners ...",
+      "url": "https://www.facebook.com/groups/LafayetteMemories/posts/39124609997153625"
+    },
+    {
+      "id": "https://www.facebook.com/groups/948613053925809/posts/1384765360310574",
+      "url": "https://www.facebook.com/groups/948613053925809/posts/1384765360310574",
+      "title": "What natural gas utility company serves the Belmont area ...",
+      "snippet": "We are looking into purchasing a home in the Belmont area, which utility company is used for natural gas? Thanks in advance",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pueblo helping Pueblo",
+      "posted": "2026-10-03",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/PhiladelphiaIndustrialHeritage/posts/4574194202869197",
+      "url": "https://www.facebook.com/groups/PhiladelphiaIndustrialHeritage/posts/4574194202869197",
+      "title": "What does PBW stand for on utility covers in Philadelphia?",
+      "snippet": "PBW utility cover, on 4th, between Market and Arch. (Of note, the B pattern letter was done upside down.)\nWhat is PBW? Philadelphia Bureau of Water?",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Philadelphia Industrial & Commercial Heritage",
+      "posted": "2026-10-06",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -304,7 +273,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -313,48 +282,17 @@
       }
     },
     {
-      "id": "https://core.coop/pay-a-bill",
-      "url": "https://core.coop/pay-a-bill",
-      "title": "Pay a Bill - CORE",
-      "snippet": "Start/Stop ServiceNew ConstructionPay a BillOutage Center\n\nThe My Account login is temporarily unavailable. Please use The One-Time/Guest Pay function to pay your bill.CareersContactSmartHub Login\n\nLogo Logo Logo Logo Logo\n\n##### Modal title\n\n...\n\n \n\n# Pay a Bill\n\n## Pay My Bill\n\nClick the button be…",
-      "source": "core.coop",
-      "context": "core.coop",
+      "id": "https://www.facebook.com/groups/PittSubleasesRoommates/posts/4701530910087246",
+      "url": "https://www.facebook.com/groups/PittSubleasesRoommates/posts/4701530910087246",
+      "title": "WILKINSBURG, PA ### Modern. Comfortable. ...",
+      "snippet": "setting up utilities, **Starting at just $650/month** Your rent includes: ✅ Electricity ✅. Pittsburgh PITT & CMU , water & trash included (Electricity + WiFi",
+      "source": "Facebook",
+      "context": "facebook.com",
       "group": "",
       "posted": "",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/NemacolinPA15351/posts/10162939098536653",
-      "url": "https://www.facebook.com/groups/NemacolinPA15351/posts/10162939098536653",
-      "title": "PJM Electricity Export / Import. https://www. ...",
-      "snippet": "... Philadelphia: Jefferson Smurfit Corp JSC (fuel oil) -- Washington County: Elrama Power Plant (coal) -- Washington County: Mitchell Power Station (coal) PA",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Nemacolin, PA 15351 USA Greene County",
-      "posted": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
       ],
       "rules": {
@@ -365,8 +303,8 @@
         "keyword": true,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
-        "version": "bdd4e0e82046"
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -375,14 +313,355 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/849994733672039/posts/1501257681879071",
-      "url": "https://www.facebook.com/groups/849994733672039/posts/1501257681879071",
-      "title": "Ontario will now pay offices and institutions to cool down ...",
-      "snippet": "fuels like natural gas for heating. That works out to $11 on the average tax bill. For a city of 130,000 $150 and cost the provincial treasury $162-million.",
+      "id": "https://www.facebook.com/groups/71206289382/posts/10164737927729383",
+      "url": "https://www.facebook.com/groups/71206289382/posts/10164737927729383",
+      "title": "Tips for a smooth move in Croydon, PA, Bucks County",
+      "snippet": "Call your utilities, internet and trash company at least two weeks before a move, and schedule the new place to turn on the day before you get there.",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "neil degrasse tyson",
+      "group": "Croydon, Bucks County PA.",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Texas Coalition Against Datacenters",
+      "id": "https://www.facebook.com/groups/2008215246720121/posts/2187147222160255",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "The methane from gas is a growing contributor to climate change. Now, the US runs the risk of repeating history, and natural gas utilities find themselves",
+      "source": "Facebook",
+      "title": "This was an interesting read.. https://earthjustice.org/wp- ...",
+      "url": "https://www.facebook.com/groups/2008215246720121/posts/2187147222160255"
+    },
+    {
+      "id": "https://www.facebook.com/groups/565765698352808/posts/1416662419929794",
+      "url": "https://www.facebook.com/groups/565765698352808/posts/1416662419929794",
+      "title": "The present-day WPXI in Pittsburgh. Joseph J. Pratt",
+      "snippet": "Pittsburgh Railways Company (PRC), formed in 1902, operated Pittsburgh's vast electric trolley network until 1964, when the system was turned over to the Port",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "The Retro Television Group",
+      "posted": "2026-10-06",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1685643553222364",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "Terry Hill Electric offers electrical services in Latrobe, PA, Greensburg, and Ligonier. Summarized by AI from the post below. across Westmoreland.",
+      "source": "Facebook",
+      "title": "Terry Hill Electric offers electrical services in Latrobe, PA ...",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1685643553222364"
+    },
+    {
+      "id": "https://www.facebook.com/groups/399650140056389/posts/29117818871146133",
+      "url": "https://www.facebook.com/groups/399650140056389/posts/29117818871146133",
+      "title": "Taken out of service June 2026. It was fully operational ...",
+      "snippet": "*NOTE: THIS IS A PROPANE POWERED BUS. IF YOU WANT TO RUN ON GAS YOU WILL NEED TO HAVE IT CONVERTED OVER. No photo description available.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Wilkes-Barre PA",
+      "posted": "2026-10-07",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/214878512490890/posts/2036515980327125",
+      "url": "https://www.facebook.com/groups/214878512490890/posts/2036515980327125",
+      "title": "Subleased room available in South Side, Pittsburgh, near ...",
+      "snippet": "[Rent] $700 for each room all-inclusive (includes wireless internet, water, electricity, gas, and garbage disposal fees). [Lease Period] From January 1, 2024,",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pittsburgh Housing, Rooms, Apartments, Sublets",
+      "posted": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/3830668433826194/posts/5122009518025406",
+      "url": "https://www.facebook.com/groups/3830668433826194/posts/5122009518025406",
+      "title": "Studio Apartment Rent: 700 USD / month (Utilities ...",
+      "snippet": "Rent: $950 per month (all utilities included) ✨ Property Features: • Private entrance • All utilities included (electricity, water, heating) • Fresh",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Cộng đồng người Việt Philadelphia, New Jersey, New York, Delaware",
+      "posted": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "my.xcelenergy.com",
+      "first_seen": "2026-10-09",
+      "group": "State Selector",
+      "id": "https://my.xcelenergy.com/s",
+      "last_seen": "2026-10-09",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "Select a Service Area to Explore Colorado Michigan Minnesota New Mexico North Dakota South Dakota Texas Wisconsin",
+      "source": "my.xcelenergy.com",
+      "title": "State Selector | Xcel Energy",
+      "url": "https://my.xcelenergy.com/s"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "True Fort Wayne Indiana History",
+      "id": "https://www.facebook.com/groups/truefwhistory/posts/2083615365622823",
+      "last_seen": "2026-10-09",
       "posted": "2026-10-09",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "Top of the old Philadelphia Electric Company, once an industrial giant power producing plant for the city, now converted to a luxury hotel.",
+      "source": "Facebook",
+      "title": "Sights of the city at Electric Works AcIoN 621 עחו CHI điể -",
+      "url": "https://www.facebook.com/groups/truefwhistory/posts/2083615365622823"
+    },
+    {
+      "id": "https://www.facebook.com/groups/uni.of.pittsburgh.rentals.pitt.off.campus.housing/posts/1194278619589135",
+      "url": "https://www.facebook.com/groups/uni.of.pittsburgh.rentals.pitt.off.campus.housing/posts/1194278619589135",
+      "title": "Seeking affordable apartment in Shadyside with street ...",
+      "snippet": "Rent: $1,040/month Tenant covers electricity + Wifi (electric bill averages $20/month). All other utilities included. in Shadyside, Pittsburgh for a one",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "University of Pittsburgh Pitt off Campus Housing, Room Rentals & Roommate",
+      "posted": "2026-10-03",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Vintage Philadelphia",
+      "id": "https://www.facebook.com/groups/1434456940102314/posts/4691819311032711",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "The facility closed on September 29, 2008 when main distribution center activities moved to a new facility adjacent to the Philadelphia International Airport.",
+      "source": "Facebook",
+      "title": "Read about the origins of 801 Locust, otherwise known as ...",
+      "url": "https://www.facebook.com/groups/1434456940102314/posts/4691819311032711"
+    },
+    {
+      "id": "https://www.facebook.com/groups/344455912331324/posts/28815657274784474",
+      "url": "https://www.facebook.com/groups/344455912331324/posts/28815657274784474",
+      "title": "Public hearing today on proposed Woodward Park North ...",
+      "snippet": "Columbia Gas' proposed Woodward Park North Columbus high-pressure gas pipeline. increase rates will take place next Friday at the Toledo City Council Chambers",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "What's Going On Clintonville",
+      "posted": "2026-10-06",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "queries": [
@@ -397,13 +676,168 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
       }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Raccoon Creek Environmental Alliance Clean Air and Water for Alex/SA Twp",
+      "id": "https://www.facebook.com/groups/904509544135710/posts/1771700504083272",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "Proponents say the plant in western Licking County would bring jobs and tax revenue, while opponents say it would bring unacceptable pollution. Public hearing",
+      "source": "Facebook",
+      "title": "Public hearing draws some support and plenty of ...",
+      "url": "https://www.facebook.com/groups/904509544135710/posts/1771700504083272"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Philadelphia Roommates",
+      "id": "https://www.facebook.com/groups/806466416226709/posts/3395706010636057",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "I have a furnished room for rent in Philadelphia PA 800 a month utilities & Wi-Fi included. No pets , no guests single occupancy only . 1st month & 500 dollar",
+      "source": "Facebook",
+      "title": "Private room for rent in Philadelphia by January or March, ...",
+      "url": "https://www.facebook.com/groups/806466416226709/posts/3395706010636057"
+    },
+    {
+      "context": "core.coop",
+      "first_seen": "2026-10-09",
+      "group": "",
+      "id": "https://core.coop/pay-a-bill",
+      "last_seen": "2026-10-09",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": false,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "Start/Stop ServiceNew ConstructionPay a BillOutage Center\n\nThe My Account login is temporarily unavailable. Please use The One-Time/Guest Pay function to pay your bill.CareersContactSmartHub Login\n\nLogo Logo Logo Logo Logo\n\n##### Modal title\n\n...\n\n \n\n# Pay a Bill\n\n## Pay My Bill\n\nClick the button be…",
+      "source": "core.coop",
+      "title": "Pay a Bill - CORE",
+      "url": "https://core.coop/pay-a-bill"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Nemacolin, PA 15351 USA Greene County",
+      "id": "https://www.facebook.com/groups/NemacolinPA15351/posts/10162939098536653",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "... Philadelphia: Jefferson Smurfit Corp JSC (fuel oil) -- Washington County: Elrama Power Plant (coal) -- Washington County: Mitchell Power Station (coal) PA",
+      "source": "Facebook",
+      "title": "PJM Electricity Export / Import. https://www. ...",
+      "url": "https://www.facebook.com/groups/NemacolinPA15351/posts/10162939098536653"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "neil degrasse tyson",
+      "id": "https://www.facebook.com/groups/849994733672039/posts/1501257681879071",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-09",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "fuels like natural gas for heating. That works out to $11 on the average tax bill. For a city of 130,000 $150 and cost the provincial treasury $162-million.",
+      "source": "Facebook",
+      "title": "Ontario will now pay offices and institutions to cool down ...",
+      "url": "https://www.facebook.com/groups/849994733672039/posts/1501257681879071"
     },
     {
       "id": "https://www.facebook.com/groups/eastonpost/posts/10165522494265135",
@@ -428,7 +862,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -437,41 +871,165 @@
       }
     },
     {
-      "id": "https://mvea.coop/",
-      "url": "https://mvea.coop",
-      "title": "Mountain View Electric",
-      "snippet": "11140 East Woodmen Road Falcon, CO 80831-8127 Directions to Falcon Office 1655 5th Street Limon, CO 80828-1600 Directions to Limon Office PO Box 1600 Limon, CO 80828-1600 Monday through Thursday 7 a.m. to 5:30 p.m.",
-      "source": "mvea.coop",
-      "context": "mvea.coop",
-      "group": "",
-      "posted": "",
+      "id": "https://www.facebook.com/groups/NemacolinPA15351/posts/10162926774116653",
+      "url": "https://www.facebook.com/groups/NemacolinPA15351/posts/10162926774116653",
+      "title": "New electric generation sites in Pennsylvania to support ...",
+      "snippet": "# New Electric Generation At 21 Deactivated Energy Sites To Support Large Loads \n\nThe analysis identified 21 candidate deactivated energy sites",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Nemacolin, PA 15351 USA Greene County",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/367894683393160/posts/3409617305887534",
+      "url": "https://www.facebook.com/groups/367894683393160/posts/3409617305887534",
+      "title": "Natural gas pipeline trenching will take place soon.",
+      "snippet": "On an equivalent-energy basis, natural gas works out to roughly $1.04 per litre of oil equivalent, while delivered heating oil is closer to about $1.90-$2.10",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Our Chebucto Neighbourhood",
+      "posted": "2026-10-06",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "mvea.coop",
+      "first_seen": "2026-10-09",
+      "group": "",
+      "id": "https://mvea.coop/",
+      "last_seen": "2026-10-09",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "bdd4e0e82046"
+      },
+      "snippet": "11140 East Woodmen Road Falcon, CO 80831-8127 Directions to Falcon Office 1655 5th Street Limon, CO 80828-1600 Directions to Limon Office PO Box 1600 Limon, CO 80828-1600 Monday through Thursday 7 a.m. to 5:30 p.m.",
+      "source": "mvea.coop",
+      "title": "Mountain View Electric",
+      "url": "https://mvea.coop"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1006417747393404/posts/1907085763993260",
+      "url": "https://www.facebook.com/groups/1006417747393404/posts/1907085763993260",
+      "title": "Modern 2-3 Bedroom Apartments for Rent in Philadelphia",
+      "snippet": "Rent is $1900 per month. Landlord pays for water. Tenant(s) pay for electric (PECO) and gas (PGW). The apartment is well insulated so bills are fairly",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Philadelphia Rooms For Rent, Apartments, Rentals and Private Landlords",
+      "posted": "2026-10-08",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "host"
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/322116498222090/posts/2731720583928324",
+      "url": "https://www.facebook.com/groups/322116498222090/posts/2731720583928324",
+      "title": "Modern 1b1b apartment for rent in downtown Pittsburgh",
+      "snippet": "Rent: $1,450/month + Electricity In-unit Washer and Dryer available Gym on the top floor. Flat is on 9th floor of 12 floors. Great view and ventilation. May be",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Indian Community in Pennsylvania",
+      "posted": "2026-10-07",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
       }
     },
     {
       "id": "https://www.facebook.com/groups/139543376664047/posts/2098200004131698",
       "url": "https://www.facebook.com/groups/139543376664047/posts/2098200004131698",
       "title": "Looking to possibly have someone take over our lease as ...",
-      "snippet": "You would be expected to pay utilities starting in November. • October rent will be pro-rated. Security will be due upon signing. Half of October and last month",
+      "snippet": "Rent: $600/month (water $30, gas/electric usually under $100 wifi $10-$20) Utilities: roughly $120+/mo. You would be expected to pay utilities starting in",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Long Island Homes and Apartments",
@@ -490,7 +1048,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -499,14 +1057,14 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/drexel.university.rentals.philadelphia.housing/posts/1136289739352032",
-      "url": "https://www.facebook.com/groups/drexel.university.rentals.philadelphia.housing/posts/1136289739352032",
-      "title": "I'm looking for someone to take over one bedroom and ...",
-      "snippet": "You would be expected to pay utilities starting in November. • October rent will be pro-rated. Security will be due upon signing. Half of October and last month",
+      "id": "https://www.facebook.com/groups/355054821447/posts/10163961623266448",
+      "url": "https://www.facebook.com/groups/355054821447/posts/10163961623266448",
+      "title": "Looking for 3 bed room to rent moving to Pittsburgh",
+      "snippet": "Rent is $1,429 each room not including water or electric but everything else is included. The other 2 rooms will be vacant as well if interested in rooming",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "",
-      "posted": "2026-10-08",
+      "group": "Pittsburgh, Pennsylvania",
+      "posted": "2026-10-09",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "queries": [
@@ -521,7 +1079,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -530,169 +1088,45 @@
       }
     },
     {
-      "id": "https://lpea.coop/",
-      "url": "https://lpea.coop",
-      "title": "Home | La Plata Electric Association",
-      "snippet": "Account & Billing \n  + 1. My Account\n       1. Pay Your Bill\n       2. Start/Stop Service\n       3. Rates\n       4. SmartHub Registration\n       5. Billing Scams\n       6. High Bills\n       7. Go Paperless\n    2. Member Programs\n       1. Bill Pay Programs\n       2. Capital Credits - CashBack\n      …",
-      "source": "lpea.coop",
-      "context": "lpea.coop",
-      "group": "Home",
-      "posted": "",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.hawaiianelectric.com/",
-      "url": "https://www.hawaiianelectric.com",
-      "title": "Home | Hawaiian Electric",
-      "snippet": "Billing & Payment\n  + How to Pay Your Bill\n    - One-Time Payment Service\n    - Paperless Billing\n  + Understanding Your Bill\n    - Understanding Elements of Your Bill\n    - Common Causes of High Bills\n    - How to Read Your Meter\n    - Customer Newsletters\n  + Fraud Prevention\n    - Report Fraudule…",
-      "source": "hawaiianelectric.com",
-      "context": "hawaiianelectric.com",
-      "group": "Home",
-      "posted": "",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.chugachelectric.com/",
-      "url": "https://www.chugachelectric.com",
-      "title": "Home | Chugach Electric Association Inc.",
-      "snippet": "### New\n\nTime of Use Pilot Program\n\nTime of Use offers different energy rates depending on the time of day electricity is used. Learn if Time of Use is right for you.\n\nLearn More\n\n## News & Community\n\nView More\n\nA crowd watches musicians perform under a white tent at an outdoor event. A Chugach Elec…",
-      "source": "chugachelectric.com",
-      "context": "chugachelectric.com",
-      "group": "",
-      "posted": "",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.holycross.com/",
-      "url": "https://www.holycross.com",
-      "title": "Home - Holy Cross Energy",
-      "snippet": "English\n\n (970) 945-5491\n\n. The remaining 40% is supplied by wholesale partners and is not time-matched.\n\n75 %\n\n##### CLEAN ENERGY IN 2026\n\n###### PERCENTAGE OF CLEAN ENERGY BY MONTH\n\nAugust 2026 74%\n\nJuly 2026 80%\n\nJune 2026 96%\n\nMay 2026 94%\n\nApril 2026 96%\n\nMarch 2026 100%\n\nFebruary 2026 92%\n\nJan…",
-      "source": "holycross.com",
-      "context": "holycross.com",
-      "group": "",
-      "posted": "",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/296392030563247/posts/3441042132764872",
-      "url": "https://www.facebook.com/groups/296392030563247/posts/3441042132764872",
-      "title": "Hello! My name is Brianna and I recently moved here from ...",
-      "snippet": "My name is Brianna and I recently moved here from Philadelphia. I am 22 years old. My weekday availability is 9 AM - 1 PM Monday through Friday, with",
+      "id": "https://www.facebook.com/groups/1580628378848993/posts/4645071225738011",
+      "url": "https://www.facebook.com/groups/1580628378848993/posts/4645071225738011",
+      "title": "Lawyers for WSSC utility issues in PG County",
+      "snippet": "WSSC (PG County) utility issue ・ another bill for $1900 and some change ・ resolution from WSSC only allows for 50% off of the bill. Citizens filed a motion",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Fairfield County Moms Group",
-      "posted": "2026-10-08",
+      "group": "Charles County Matters Established 2015 via X CCMatters2015",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "keyword",
+        "reason": "geography",
         "host": true,
-        "keyword": false,
+        "keyword": true,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "geography"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/764724473644699/posts/28792310350459402",
-      "url": "https://www.facebook.com/groups/764724473644699/posts/28792310350459402",
-      "title": "Hello everyone, A newly renovated, fully furnished private ...",
-      "snippet": "Enjoy hassle-free living with all utilities included: • Electricity • Water & Hydro • Heating • High-speed Wi-Fi • In-unit Washer & Dryer ⸻ Move-In Ready –",
+      "id": "https://www.facebook.com/groups/405649847389260/posts/1765426374744927",
+      "url": "https://www.facebook.com/groups/405649847389260/posts/1765426374744927",
+      "title": "If rented by November 1, I will cover the rental fee. All ...",
+      "snippet": "Rent is $1275/month which includes utilities except electricity and wifi (which typically are an additional $25-$150 depending on the month).",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Seattle Housing, Rooms, Apartments, Sublets",
-      "posted": "2026-10-08",
+      "group": "Philly Section 8 tenants and landlords",
+      "posted": "2026-10-05",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "queries": [
@@ -707,7 +1141,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -716,10 +1150,258 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "",
+      "id": "https://www.facebook.com/groups/drexel.university.rentals.philadelphia.housing/posts/1136289739352032",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "You would be expected to pay utilities starting in November. • October rent will be pro-rated. Security will be due upon signing. Half of October and last month",
+      "source": "Facebook",
+      "title": "I'm looking for someone to take over one bedroom and ...",
+      "url": "https://www.facebook.com/groups/drexel.university.rentals.philadelphia.housing/posts/1136289739352032"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1670710459879726/posts/4689684214648987",
+      "url": "https://www.facebook.com/groups/1670710459879726/posts/4689684214648987",
+      "title": "How to get a gas connection installed at your property",
+      "snippet": "The natural gas connection is the piping necessary for a new supply point to gain access to natural gas and enjoy all its benefits",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "2206 Earlwood",
+      "posted": "2026-10-06",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "lpea.coop",
+      "first_seen": "2026-10-09",
+      "group": "Home",
+      "id": "https://lpea.coop/",
+      "last_seen": "2026-10-09",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "Account & Billing \n  + 1. My Account\n       1. Pay Your Bill\n       2. Start/Stop Service\n       3. Rates\n       4. SmartHub Registration\n       5. Billing Scams\n       6. High Bills\n       7. Go Paperless\n    2. Member Programs\n       1. Bill Pay Programs\n       2. Capital Credits - CashBack\n      …",
+      "source": "lpea.coop",
+      "title": "Home | La Plata Electric Association",
+      "url": "https://lpea.coop"
+    },
+    {
+      "context": "hawaiianelectric.com",
+      "first_seen": "2026-10-09",
+      "group": "Home",
+      "id": "https://www.hawaiianelectric.com/",
+      "last_seen": "2026-10-09",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "Billing & Payment\n  + How to Pay Your Bill\n    - One-Time Payment Service\n    - Paperless Billing\n  + Understanding Your Bill\n    - Understanding Elements of Your Bill\n    - Common Causes of High Bills\n    - How to Read Your Meter\n    - Customer Newsletters\n  + Fraud Prevention\n    - Report Fraudule…",
+      "source": "hawaiianelectric.com",
+      "title": "Home | Hawaiian Electric",
+      "url": "https://www.hawaiianelectric.com"
+    },
+    {
+      "context": "chugachelectric.com",
+      "first_seen": "2026-10-09",
+      "group": "",
+      "id": "https://www.chugachelectric.com/",
+      "last_seen": "2026-10-09",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "### New\n\nTime of Use Pilot Program\n\nTime of Use offers different energy rates depending on the time of day electricity is used. Learn if Time of Use is right for you.\n\nLearn More\n\n## News & Community\n\nView More\n\nA crowd watches musicians perform under a white tent at an outdoor event. A Chugach Elec…",
+      "source": "chugachelectric.com",
+      "title": "Home | Chugach Electric Association Inc.",
+      "url": "https://www.chugachelectric.com"
+    },
+    {
+      "context": "holycross.com",
+      "first_seen": "2026-10-09",
+      "group": "",
+      "id": "https://www.holycross.com/",
+      "last_seen": "2026-10-09",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "English\n\n (970) 945-5491\n\n. The remaining 40% is supplied by wholesale partners and is not time-matched.\n\n75 %\n\n##### CLEAN ENERGY IN 2026\n\n###### PERCENTAGE OF CLEAN ENERGY BY MONTH\n\nAugust 2026 74%\n\nJuly 2026 80%\n\nJune 2026 96%\n\nMay 2026 94%\n\nApril 2026 96%\n\nMarch 2026 100%\n\nFebruary 2026 92%\n\nJan…",
+      "source": "holycross.com",
+      "title": "Home - Holy Cross Energy",
+      "url": "https://www.holycross.com"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Fairfield County Moms Group",
+      "id": "https://www.facebook.com/groups/296392030563247/posts/3441042132764872",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "My name is Brianna and I recently moved here from Philadelphia. I am 22 years old. My weekday availability is 9 AM - 1 PM Monday through Friday, with",
+      "source": "Facebook",
+      "title": "Hello! My name is Brianna and I recently moved here from ...",
+      "url": "https://www.facebook.com/groups/296392030563247/posts/3441042132764872"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Seattle Housing, Rooms, Apartments, Sublets",
+      "id": "https://www.facebook.com/groups/764724473644699/posts/28792310350459402",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "Enjoy hassle-free living with all utilities included: • Electricity • Water & Hydro • Heating • High-speed Wi-Fi • In-unit Washer & Dryer ⸻ Move-In Ready –",
+      "source": "Facebook",
+      "title": "Hello everyone, A newly renovated, fully furnished private ...",
+      "url": "https://www.facebook.com/groups/764724473644699/posts/28792310350459402"
+    },
+    {
       "id": "https://www.facebook.com/groups/504659276407422/posts/3349726048567383",
       "url": "https://www.facebook.com/groups/504659276407422/posts/3349726048567383",
       "title": "Heating oil prices in Littlestown, PA Neighborhood And ...",
-      "snippet": "$5.25 per gallon is considered a good quote, with some paying over $7; alternatives like propane, electric, or mini splits are suggested. Public Gas in",
+      "snippet": "$5.25 per gallon is considered a good quote, with some paying over $7; alternatives like propane, electric, or mini splits are suggested. Stephanie Hill.",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Littlestown Neighborhood And Surrounding Areas",
@@ -738,7 +1420,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -747,14 +1429,14 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/665110736878629/posts/28915417064754618",
-      "url": "https://www.facebook.com/groups/665110736878629/posts/28915417064754618",
-      "title": "Flat rates Local & Long distance Professional & Reliable",
-      "snippet": "Wondering how our pricing works? We offer flat-rate pricing, not hourly — meaning you'll know the cost of your move upfront, with no surprises on moving day.",
+      "id": "https://www.facebook.com/groups/1621376671414119/posts/4651257248426031",
+      "url": "https://www.facebook.com/groups/1621376671414119/posts/4651257248426031",
+      "title": "Haven't had it a full year yet. Moved and our new place is ...",
+      "snippet": "Im trying to figure out why my electric would be drawing way more electricity at my new house compared to my old house. my monthly usage was 1,300 kwh the month",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Philly Garage Sale",
-      "posted": "2026-10-09",
+      "group": "JUST SELL IT",
+      "posted": "2026-10-07",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "queries": [
@@ -769,7 +1451,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -778,14 +1460,14 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/thenorthend/posts/29208844628723034",
-      "url": "https://www.facebook.com/groups/thenorthend/posts/29208844628723034",
-      "title": "Female roommates wanted for 3 bed, 2 bath house in ...",
-      "snippet": "The monthly rent fee is $924 or $884 excluding utilities (gas, electricity, and wifi). You can find the photo of the room below (photos pf the second, smaller",
+      "id": "https://www.facebook.com/groups/861098342401097/posts/1820345729809682",
+      "url": "https://www.facebook.com/groups/861098342401097/posts/1820345729809682",
+      "title": "For Rent 2219 Philadelphia unit 1 2 bd 1 bath Washer and ...",
+      "snippet": "gas also varies depending on season, (from january to march its higher due to the gas but pretty low rest of the year.) https://www.zillow.com/homedetails/1919-",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "The Northend",
-      "posted": "2026-10-09",
+      "group": "Los Negocios de Laredo",
+      "posted": "2026-10-04",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "queries": [
@@ -794,81 +1476,143 @@
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "keyword",
         "host": true,
-        "keyword": true,
-        "pennsylvania": false,
+        "keyword": false,
+        "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "keyword"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/706442656455822/posts/2679901985776536",
-      "url": "https://www.facebook.com/groups/706442656455822/posts/2679901985776536",
-      "title": "Essential moving tips for new Perkasie homeowners",
-      "snippet": "A few things we share with every guest right after closing: Rekey or change the locks before move in day. Set up electric, gas, water, trash and internet a week",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Perkasie PA Community",
-      "posted": "2026-10-08",
       "first_seen": "2026-10-09",
+      "group": "Philly Garage Sale",
+      "id": "https://www.facebook.com/groups/665110736878629/posts/28915417064754618",
       "last_seen": "2026-10-09",
+      "posted": "2026-10-09",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "bdd4e0e82046"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "Wondering how our pricing works? We offer flat-rate pricing, not hourly — meaning you'll know the cost of your move upfront, with no surprises on moving day.",
+      "source": "Facebook",
+      "title": "Flat rates Local & Long distance Professional & Reliable",
+      "url": "https://www.facebook.com/groups/665110736878629/posts/28915417064754618"
     },
     {
-      "id": "https://en.wikipedia.org/wiki/Electricity",
-      "url": "https://en.wikipedia.org/wiki/Electricity",
-      "title": "Electricity - Wikipedia",
-      "snippet": "where\n\nElectric power is generally supplied to businesses and homes by the electric power industry. Electricity is usually sold by the kilowatt hour (3.6 MJ) which is the product of power in kilowatts multiplied by running time in hours. Electric utilities measure power using electricity meters, whi…",
-      "source": "en.wikipedia.org",
-      "context": "en.wikipedia.org",
-      "group": "",
-      "posted": "",
+      "context": "facebook.com",
       "first_seen": "2026-10-09",
+      "group": "The Northend",
+      "id": "https://www.facebook.com/groups/thenorthend/posts/29208844628723034",
       "last_seen": "2026-10-09",
+      "posted": "2026-10-09",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "The monthly rent fee is $924 or $884 excluding utilities (gas, electricity, and wifi). You can find the photo of the room below (photos pf the second, smaller",
+      "source": "Facebook",
+      "title": "Female roommates wanted for 3 bed, 2 bath house in ...",
+      "url": "https://www.facebook.com/groups/thenorthend/posts/29208844628723034"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Perkasie PA Community",
+      "id": "https://www.facebook.com/groups/706442656455822/posts/2679901985776536",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "A few things we share with every guest right after closing: Rekey or change the locks before move in day. Set up electric, gas, water, trash and internet a week",
+      "source": "Facebook",
+      "title": "Essential moving tips for new Perkasie homeowners",
+      "url": "https://www.facebook.com/groups/706442656455822/posts/2679901985776536"
+    },
+    {
+      "context": "en.wikipedia.org",
+      "first_seen": "2026-10-09",
+      "group": "",
+      "id": "https://en.wikipedia.org/wiki/Electricity",
+      "last_seen": "2026-10-09",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "bdd4e0e82046"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
+      "snippet": "where\n\nElectric power is generally supplied to businesses and homes by the electric power industry. Electricity is usually sold by the kilowatt hour (3.6 MJ) which is the product of power in kilowatts multiplied by running time in hours. Electric utilities measure power using electricity meters, whi…",
+      "source": "en.wikipedia.org",
+      "title": "Electricity - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electricity"
     },
     {
       "id": "https://www.facebook.com/groups/173901476663648/posts/2038517960201981",
@@ -893,7 +1637,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -902,35 +1646,35 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/2282118495162602/posts/39057106977236957",
-      "url": "https://www.facebook.com/groups/2282118495162602/posts/39057106977236957",
-      "title": "Electrical service calls, troubleshooting, and repairs 🔌 ...",
-      "snippet": "We specialize in all aspects of electrical work with over 25 years experience. Also partnered up with licensed electricians in NJ and Philadelphia.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Word of Mouth Lakewood, CO",
-      "posted": "2026-10-08",
       "first_seen": "2026-10-09",
+      "group": "Word of Mouth Lakewood, CO",
+      "id": "https://www.facebook.com/groups/2282118495162602/posts/39057106977236957",
       "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "bdd4e0e82046"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "We specialize in all aspects of electrical work with over 25 years experience. Also partnered up with licensed electricians in NJ and Philadelphia.",
+      "source": "Facebook",
+      "title": "Electrical service calls, troubleshooting, and repairs 🔌 ...",
+      "url": "https://www.facebook.com/groups/2282118495162602/posts/39057106977236957"
     },
     {
       "id": "https://www.facebook.com/groups/1775970472619353/posts/4864228553793514",
@@ -955,7 +1699,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -964,49 +1708,49 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/pa.democratic.women.of.westmoreland/posts/2960298570970272",
-      "url": "https://www.facebook.com/groups/pa.democratic.women.of.westmoreland/posts/2960298570970272",
-      "title": "Current kerosene and heating oil prices in Fredericksburg, ...",
-      "snippet": "WOW!!\nJust passed Redner's market in Fredericksburg, PA. Was greatly surprised, kerosene is being sold for $5.99 per gallon. Heating oil is currently $5.29",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "PA Democratic Women of Westmoreland",
-      "posted": "2026-10-08",
       "first_seen": "2026-10-09",
+      "group": "PA Democratic Women of Westmoreland",
+      "id": "https://www.facebook.com/groups/pa.democratic.women.of.westmoreland/posts/2960298570970272",
       "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "bdd4e0e82046"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "WOW!!\nJust passed Redner's market in Fredericksburg, PA. Was greatly surprised, kerosene is being sold for $5.99 per gallon. Heating oil is currently $5.29",
+      "source": "Facebook",
+      "title": "Current kerosene and heating oil prices in Fredericksburg, ...",
+      "url": "https://www.facebook.com/groups/pa.democratic.women.of.westmoreland/posts/2960298570970272"
     },
     {
-      "id": "https://www.facebook.com/groups/eastalgarveexpats/posts/1997356424295380",
-      "url": "https://www.facebook.com/groups/eastalgarveexpats/posts/1997356424295380",
-      "title": "Certified electrician at your service 24/7",
-      "snippet": "Energy Efficiency Audits and Upgrades - Assessing electrical systems for energy efficiency and recommending upgrades like LED lighting or improved insulation. -",
+      "id": "https://www.facebook.com/groups/NemacolinPA15351/posts/10162930573151653",
+      "url": "https://www.facebook.com/groups/NemacolinPA15351/posts/10162930573151653",
+      "title": "Columbia Gas Transmission LLC proposes to abandon ...",
+      "snippet": "Columbia Gas Transmission (a TC Energy company) has asked federal regulators for permission to permanently walk away from three underground natural gas",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "East Algarve Expats",
-      "posted": "2026-10-08",
+      "group": "Nemacolin, PA 15351 USA Greene County",
+      "posted": "2026-10-06",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -1017,7 +1761,100 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/675637667637630/posts/1605424584658929",
+      "url": "https://www.facebook.com/groups/675637667637630/posts/1605424584658929",
+      "title": "Christiana's move to Philadelphia with LendaHand Hand ...",
+      "snippet": "Nice Sunday move with Christiana to her new residence in Philadelphia. With a another win from the flock is icing on the cake. ✨ Lend A Hand Moving Services.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Phoenix, MD Neighbors",
+      "posted": "2026-10-06",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "East Algarve Expats",
+      "id": "https://www.facebook.com/groups/eastalgarveexpats/posts/1997356424295380",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "bdd4e0e82046"
+      },
+      "snippet": "Energy Efficiency Audits and Upgrades - Assessing electrical systems for energy efficiency and recommending upgrades like LED lighting or improved insulation. -",
+      "source": "Facebook",
+      "title": "Certified electrician at your service 24/7",
+      "url": "https://www.facebook.com/groups/eastalgarveexpats/posts/1997356424295380"
+    },
+    {
+      "id": "https://www.facebook.com/groups/243412396396155/posts/2377702906300416",
+      "url": "https://www.facebook.com/groups/243412396396155/posts/2377702906300416",
+      "title": "Can anyone recommend a gas company that is reliable ...",
+      "snippet": "Can anyone recommend a gas company that is reliable/affordable for a new build in Oriental? Thank you.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Love For Oriental, NC",
+      "posted": "2026-10-03",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -1048,7 +1885,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": false,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -1057,49 +1894,80 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Speak Up, CNMI",
       "id": "https://www.facebook.com/groups/619692184755865/posts/28783164397981933",
-      "url": "https://www.facebook.com/groups/619692184755865/posts/28783164397981933",
-      "title": "As we deal with utility rate increases, we must also keep in ...",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
       "snippet": "As we deal with utility rate increases, we must also keep in mind that other places are dealing with rate increases as well.",
       "source": "Facebook",
+      "title": "As we deal with utility rate increases, we must also keep in ...",
+      "url": "https://www.facebook.com/groups/619692184755865/posts/28783164397981933"
+    },
+    {
       "context": "facebook.com",
-      "group": "Speak Up, CNMI",
-      "posted": "2026-10-08",
       "first_seen": "2026-10-09",
+      "group": "Apollo Beach, Ruskin, Riverview, Gibsonton, residence of 10 years or more",
+      "id": "https://www.facebook.com/groups/1655958821313541/posts/4564433123799415",
       "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "bdd4e0e82046"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1655958821313541/posts/4564433123799415",
-      "url": "https://www.facebook.com/groups/1655958821313541/posts/4564433123799415",
-      "title": "Are you moving? Local or long distance? 🚛",
       "snippet": "Moving- Moving-Assembly Assembly & Removal Services LLC. CALL FOR A FREE QUOTE (203)-300-7206 … setup or breakdown. We serve Philadelphia & New Jersey.",
       "source": "Facebook",
+      "title": "Are you moving? Local or long distance? 🚛",
+      "url": "https://www.facebook.com/groups/1655958821313541/posts/4564433123799415"
+    },
+    {
+      "id": "https://www.facebook.com/groups/301731178022062/posts/1607555700772930",
+      "url": "https://www.facebook.com/groups/301731178022062/posts/1607555700772930",
+      "title": "Are there any local resources that help with getting gas ...",
+      "snippet": "Get a doctor's note and send it in then they give you 30 days and you also get a payment plan in place. It's called a medical certification.",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Apollo Beach, Ruskin, Riverview, Gibsonton, residence of 10 years or more",
-      "posted": "2026-10-08",
+      "group": "California, PA community",
+      "posted": "2026-10-06",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
       "queries": [
-        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -1110,7 +1978,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -1119,106 +1987,44 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Whats Happening In Mason Mi 2.0",
       "id": "https://www.facebook.com/groups/274448472277085/posts/1061403293581595",
-      "url": "https://www.facebook.com/groups/274448472277085/posts/1061403293581595",
-      "title": "And whats it with the gas price difference from Mason ...",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
       "snippet": "And whats it with the gas price difference from Mason and Lansing",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Whats Happening In Mason Mi 2.0",
-      "posted": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "title": "And whats it with the gas price difference from Mason ...",
+      "url": "https://www.facebook.com/groups/274448472277085/posts/1061403293581595"
     },
     {
-      "id": "https://www.facebook.com/groups/485483631543809/posts/28578363695162426",
-      "url": "https://www.facebook.com/groups/485483631543809/posts/28578363695162426",
-      "title": "724-461-7510 📍 Visit us at Appliance Plus – 6518 Route ...",
-      "snippet": "Call us today: 724-461-7510 18 Route 22, Store 436, Delmont, PA. Open Monday–Friday: 10AM–4PM | Saturday: until 3PM - in Delmont, PA. It is not a Columbia Gas",
+      "id": "https://www.facebook.com/groups/1308306177168705/posts/1575923037073683",
+      "url": "https://www.facebook.com/groups/1308306177168705/posts/1575923037073683",
+      "title": "Amazon's data centers drive gas generation, shifting costs ...",
+      "snippet": "Amazon alone is backing 17.5 Gigawatts of gas generation to power their data centers. 17 cents/kWh Average residential electricity rate 8.5 cents/",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Mountain News",
-      "posted": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/ManheimandMountJoyPAyardsales/posts/28523780463899780",
-      "url": "https://www.facebook.com/groups/ManheimandMountJoyPAyardsales/posts/28523780463899780",
-      "title": "3 WEED WACKERS! ALL 3 FOR $80. THE PICTURE OF ...",
-      "snippet": "3 WEED WACKERS! ALL 3 FOR $80. THE PICTURE OF THE ONE BY IT SELF NEEDS NEW GAS LINE.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Mount Joy, Columbia, Hempfield and Manheim Too Good to Be True Yard Sale",
-      "posted": "2026-10-08",
-      "first_seen": "2026-10-09",
-      "last_seen": "2026-10-09",
-      "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "bdd4e0e82046"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1735128803478127/posts/4777421952582115",
-      "url": "https://www.facebook.com/groups/1735128803478127/posts/4777421952582115",
-      "title": "180000 BTU tankless gas, hot water heater new in box￼ ...",
-      "snippet": "Tankless Water Heater - New -Takagi. Natural Gas. 199,000 BTUs. Model ATI-540H-P. This unit is designed for easy installation using PVC for exhaust and intake",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Bargains of NJ",
+      "group": "Goochland Residents Alliance",
       "posted": "2026-10-08",
       "first_seen": "2026-10-09",
       "last_seen": "2026-10-09",
@@ -1234,12 +2040,260 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1164589916931959/posts/28723601313937448",
+      "url": "https://www.facebook.com/groups/1164589916931959/posts/28723601313937448",
+      "title": "Allentown hosts free event to help residents with rising ...",
+      "snippet": "Pennsylvania residents struggling to pay utility bills as cooler weather approaches have several programs and services to turn to for help. See link below",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Allentown PA community",
+      "posted": "2026-10-07",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Mountain News",
+      "id": "https://www.facebook.com/groups/485483631543809/posts/28578363695162426",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "Call us today: 724-461-7510 18 Route 22, Store 436, Delmont, PA. Open Monday–Friday: 10AM–4PM | Saturday: until 3PM - in Delmont, PA. It is not a Columbia Gas",
+      "source": "Facebook",
+      "title": "724-461-7510 📍 Visit us at Appliance Plus – 6518 Route ...",
+      "url": "https://www.facebook.com/groups/485483631543809/posts/28578363695162426"
+    },
+    {
+      "id": "https://www.facebook.com/groups/453686588142698/posts/3610832249094767",
+      "url": "https://www.facebook.com/groups/453686588142698/posts/3610832249094767",
+      "title": "6-month lease apartments in Philadelphia under ...",
+      "snippet": "Rent is $1275/month which includes utilities except electricity and wifi (which typically are an additional $25-$150 depending on the month).",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Philadelphia Housing, Rooms, Apartments, Sublets",
+      "posted": "2026-10-07",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Mount Joy, Columbia, Hempfield and Manheim Too Good to Be True Yard Sale",
+      "id": "https://www.facebook.com/groups/ManheimandMountJoyPAyardsales/posts/28523780463899780",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "3 WEED WACKERS! ALL 3 FOR $80. THE PICTURE OF THE ONE BY IT SELF NEEDS NEW GAS LINE.",
+      "source": "Facebook",
+      "title": "3 WEED WACKERS! ALL 3 FOR $80. THE PICTURE OF ...",
+      "url": "https://www.facebook.com/groups/ManheimandMountJoyPAyardsales/posts/28523780463899780"
+    },
+    {
+      "id": "https://www.facebook.com/groups/406195966457019/posts/2469466056796656",
+      "url": "https://www.facebook.com/groups/406195966457019/posts/2469466056796656",
+      "title": "2 Beds 1 Bath - Apartment",
+      "snippet": "$1400-electricity and water included for this newly renovated, move in ready 2 Bdrm/1 bath. Private laundry hookups. $1000 deposit. $32 application fee",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "New Orleans Housing, Rooms, Apartments, Sublets, Roommates",
+      "posted": "2026-10-05",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-09",
+      "group": "Bargains of NJ",
+      "id": "https://www.facebook.com/groups/1735128803478127/posts/4777421952582115",
+      "last_seen": "2026-10-09",
+      "posted": "2026-10-08",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "bdd4e0e82046"
+      },
+      "snippet": "Tankless Water Heater - New -Takagi. Natural Gas. 199,000 BTUs. Model ATI-540H-P. This unit is designed for easy installation using PVC for exhaust and intake",
+      "source": "Facebook",
+      "title": "180000 BTU tankless gas, hot water heater new in box￼ ...",
+      "url": "https://www.facebook.com/groups/1735128803478127/posts/4777421952582115"
+    },
+    {
+      "id": "https://www.facebook.com/groups/pomogaem.philadelphia.apartment.rent/posts/2189936178235907",
+      "url": "https://www.facebook.com/groups/pomogaem.philadelphia.apartment.rent/posts/2189936178235907",
+      "title": "1 bedroom apartment for rent in Philadelphia, PA with ...",
+      "snippet": "1-BR | Furnished | All Utilities Included! For $1,300/month, you get a move-in-ready space. Tenant only pays electric!",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Филадельфия Аренда Жилья Оренда Житла Apartment Rent Phila Pomogaem.ORG",
+      "posted": "2026-10-04",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/180325334213572/posts/1416103713969055",
+      "url": "https://www.facebook.com/groups/180325334213572/posts/1416103713969055",
+      "title": "1 Bedroom Apartment for Rent in 19115, Philadelphia, PA",
+      "snippet": "Call for info: 215-570-2025. PGW for gas, an additional flat fee of $100 flat water fee and $75. PRICE: $1500/MONTH + BILLS PM FOR INQUIRIES",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Что Где Когда Филадельфия",
+      "posted": "2026-10-06",
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-09",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "8ef2a2cecb34"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
       }
     },
     {
@@ -3934,7 +4988,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "bdd4e0e82046"
+        "version": "8ef2a2cecb34"
       },
       "production": {
         "accepted": false,
@@ -10744,35 +11798,35 @@
       "url": "https://www.facebook.com/groups/300873505348496/posts/1431163065652862"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-10-03",
-      "group": "Springfield, MA Open Forum",
       "id": "https://www.facebook.com/groups/1364647736883680/posts/29848957354692671",
-      "last_seen": "2026-10-03",
+      "url": "https://www.facebook.com/groups/1364647736883680/posts/29848957354692671",
+      "title": "What are the effects of switching to a third-party natural gas ...",
+      "snippet": "Has anyone in the city switched to a third party supplier for their natural gas? And if you have, how did it affect your bill over the winter/ after",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Springfield, MA Open Forum",
       "posted": "2026-10-03",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-10-03",
+      "last_seen": "2026-10-09",
       "queries": [
         "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": true,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "a5362ee2a656"
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "8ef2a2cecb34"
       },
-      "snippet": "\"Switching your natural gas supplier only affects the supply charge portion of your Eversource gas bill\" And the rates are variable. ... Columbia Gas to another",
-      "source": "Facebook",
-      "title": "What are the effects of switching to a third-party natural gas ...",
-      "url": "https://www.facebook.com/groups/1364647736883680/posts/29848957354692671"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
