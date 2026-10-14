@@ -1,113 +1,175 @@
 {
-  "updated": "2026-10-14T11:20:50Z",
-  "count": 900,
+  "updated": "2026-10-14T21:20:10Z",
+  "count": 915,
   "candidates": [
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "NEPA SMALL BUSINESS BULLETIN BOARD",
       "id": "https://www.facebook.com/groups/506707439445979/posts/29189629090727098",
-      "url": "https://www.facebook.com/groups/506707439445979/posts/29189629090727098",
-      "title": "📦 NEW AT BOXED & LOADED LLC! 📦 📣 MAILING TUBES ...",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
       "snippet": "Let Boxed & Loaded help you get them packed and shipped! Boxed & Loaded LLC 1114 Texas Palmyra Highway Honesdale, PA 18431 570-616-8080 store@",
       "source": "Facebook",
+      "title": "📦 NEW AT BOXED & LOADED LLC! 📦 📣 MAILING TUBES ...",
+      "url": "https://www.facebook.com/groups/506707439445979/posts/29189629090727098"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2253145671400879/posts/28659886676966752",
+      "url": "https://www.facebook.com/groups/2253145671400879/posts/28659886676966752",
+      "title": "is anyone having any issues paying their electric bill for this ...",
+      "snippet": "is anyone having any issues paying their electric bill for this month? I received my statement and see my bill, but when I go online to pay it, it says",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "NEPA SMALL BUSINESS BULLETIN BOARD",
+      "group": "We Are Radford",
       "posted": "2026-10-13",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "fd2d27efef20"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Purchasing and Procurement Group PH",
+      "id": "https://www.facebook.com/groups/394884384874261/posts/1871429447219740",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-14",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": false,
         "host": true,
-        "keyword": false,
+        "keyword": true,
+        "lead": true,
         "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/394884384874261/posts/1871429447219740",
-      "url": "https://www.facebook.com/groups/394884384874261/posts/1871429447219740",
-      "title": "goodmorning guys looking for supplier drop your viber pls, ...",
       "snippet": "Im looking for a new supplier maybe our accredited supplier for the following items. Kindly send me a message thru viber 09773526583",
       "source": "Facebook",
+      "title": "goodmorning guys looking for supplier drop your viber pls, ...",
+      "url": "https://www.facebook.com/groups/394884384874261/posts/1871429447219740"
+    },
+    {
       "context": "facebook.com",
-      "group": "Purchasing and Procurement Group PH",
-      "posted": "2026-10-14",
       "first_seen": "2026-10-14",
+      "group": "Mebane, NC",
+      "id": "https://www.facebook.com/groups/1233877113462687/posts/3298624166987961",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
+        "lead": false,
         "pennsylvania": false,
-        "lead": true,
-        "hard_exclusion": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1233877113462687/posts/3298624166987961",
-      "url": "https://www.facebook.com/groups/1233877113462687/posts/3298624166987961",
-      "title": "federal emergency declared 13 states + washington, dc",
       "snippet": "They do not make enough electricity in Virginia, so those data companies are buying our Pennsylvania electricity from underneath us on the market. That is",
       "source": "Facebook",
+      "title": "federal emergency declared 13 states + washington, dc",
+      "url": "https://www.facebook.com/groups/1233877113462687/posts/3298624166987961"
+    },
+    {
       "context": "facebook.com",
-      "group": "Mebane, NC",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "Armstrong County Bulletin Board",
+      "id": "https://www.facebook.com/groups/407579602767830/posts/3326721587520269",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/407579602767830/posts/3326721587520269",
-      "url": "https://www.facebook.com/groups/407579602767830/posts/3326721587520269",
-      "title": "armstrong county! did you know you have a local dtf ...",
       "snippet": "LOCATED IN THE RURAL VALLEY/DAYTON, PA AREA! We'd love to become your new favorite DTF transfer supplier! Press-and-go convenience",
       "source": "Facebook",
+      "title": "armstrong county! did you know you have a local dtf ...",
+      "url": "https://www.facebook.com/groups/407579602767830/posts/3326721587520269"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2319274425158285/posts/2700075110411546",
+      "url": "https://www.facebook.com/groups/2319274425158285/posts/2700075110411546",
+      "title": "Will PAX data center at 246-250 Country Club Road ...",
+      "snippet": "PPL Electric increased its residential rates by 3.23% on July 1, 2026, adding roughly $6.48 to the average monthly customer bill.",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Armstrong County Bulletin Board",
-      "posted": "2026-10-13",
+      "group": "Coalition to Protect Cumberland County PA from Data Centers",
+      "posted": "2026-10-12",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
       "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
       ],
       "rules": {
         "accepted": false,
@@ -118,7 +180,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "b607e96add3a"
+        "version": "fd2d27efef20"
       },
       "production": {
         "accepted": false,
@@ -127,297 +189,421 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/992130641143812/posts/3010102109346645",
+      "url": "https://www.facebook.com/groups/992130641143812/posts/3010102109346645",
+      "title": "Why is my electric bill increasing? | Harvest, AL",
+      "snippet": "Hot temperatures and fuel surcharges are common reasons cited for the increase, with some mentioning data centers as a potential future factor. Kelli Sepanen",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "What's Happening in Huntsville, Madison, Athens",
+      "posted": "2026-10-12",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "fd2d27efef20"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/6409996152437054/posts/27661914900151871",
+      "url": "https://www.facebook.com/groups/6409996152437054/posts/27661914900151871",
+      "title": "Why are my HVAC bills suddenly doubling or tripling?",
+      "snippet": "It could be a sign of an issue with your HVAC system. Dirty filters, duct leaks, low refrigerant, failing parts, or other problems could be to blame.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Alabama Power Corruption",
+      "posted": "2026-10-09",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "fd2d27efef20"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Weddings Chester & North West",
       "id": "https://www.facebook.com/groups/1433133150267142/posts/4517359445177815",
-      "url": "https://www.facebook.com/groups/1433133150267142/posts/4517359445177815",
-      "title": "We're Boredom Busters, a unique wedding entertainment ...",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
       "snippet": "We're Boredom Busters, a unique wedding entertainment supplier specialising in retro gaming experiences for weddings. 90s and 00s,",
       "source": "Facebook",
+      "title": "We're Boredom Busters, a unique wedding entertainment ...",
+      "url": "https://www.facebook.com/groups/1433133150267142/posts/4517359445177815"
+    },
+    {
+      "id": "https://www.facebook.com/groups/badserviceintandt/posts/3126839354188537",
+      "url": "https://www.facebook.com/groups/badserviceintandt/posts/3126839354188537",
+      "title": "Update from the post on September 16th about my mom's ...",
+      "snippet": "I noticed an increase in my bill by about 300-400 per billing cycle since January this year. 5h. Cyn Nan.",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Weddings Chester & North West",
+      "group": "Bad customer service in T&T",
       "posted": "2026-10-13",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
       "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "keyword",
         "host": true,
-        "keyword": true,
+        "keyword": false,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "b607e96add3a"
+        "version": "fd2d27efef20"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "keyword"
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Slatington, Walnutport, Emerald, Slatedale - In the Know... Unchained",
       "id": "https://www.facebook.com/groups/lehighvalleyintheknow/posts/2712555765863920",
-      "url": "https://www.facebook.com/groups/lehighvalleyintheknow/posts/2712555765863920",
-      "title": "UGI",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-14",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
       "snippet": "\"UGI committed to providing safe, reliable, and affordable energy to our customers,' says Dan Adamo, UGI vice president of customer relations. \"As UGI prepares",
       "source": "Facebook",
+      "title": "UGI",
+      "url": "https://www.facebook.com/groups/lehighvalleyintheknow/posts/2712555765863920"
+    },
+    {
       "context": "facebook.com",
-      "group": "Slatington, Walnutport, Emerald, Slatedale - In the Know... Unchained",
-      "posted": "2026-10-14",
       "first_seen": "2026-10-14",
+      "group": "Soaring In Hershey PA",
+      "id": "https://www.facebook.com/groups/3318696298355396/posts/5512168572341480",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/3318696298355396/posts/5512168572341480",
-      "url": "https://www.facebook.com/groups/3318696298355396/posts/5512168572341480",
-      "title": "Tonight, October 13 at 7pm 🕖 is the Derry Township ...",
       "snippet": "If you or anyone you may know is in this position, please have them contact the statewide hotline at 1-866-857-7095 or to apply online at www.dhs.pa.gov/COMPASS",
       "source": "Facebook",
+      "title": "Tonight, October 13 at 7pm 🕖 is the Derry Township ...",
+      "url": "https://www.facebook.com/groups/3318696298355396/posts/5512168572341480"
+    },
+    {
       "context": "facebook.com",
-      "group": "Soaring In Hershey PA",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "Kingfisher Events & More",
+      "id": "https://www.facebook.com/groups/1178206069620681/posts/2334067357367874",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1178206069620681/posts/2334067357367874",
-      "url": "https://www.facebook.com/groups/1178206069620681/posts/2334067357367874",
-      "title": "The Office that determines Public Utility Rates, and will ...",
       "snippet": "electricity prices have risen by up to 267% over five years. In Pennsylvania, utility shutoffs increased 21% last year. Data centers cause utility rate",
       "source": "Facebook",
+      "title": "The Office that determines Public Utility Rates, and will ...",
+      "url": "https://www.facebook.com/groups/1178206069620681/posts/2334067357367874"
+    },
+    {
       "context": "facebook.com",
-      "group": "Kingfisher Events & More",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "Alva Oklahoma Rants And Raves And Gossip",
+      "id": "https://www.facebook.com/groups/6388725041145229/posts/39587567940834178",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/6388725041145229/posts/39587567940834178",
-      "url": "https://www.facebook.com/groups/6388725041145229/posts/39587567940834178",
-      "title": "The Office that determines Public Utility Rates, and will ...",
       "snippet": "The Office that determines Public Utility Rates, and will have some oversite with Data Centers is on your November Ballot.",
       "source": "Facebook",
+      "title": "The Office that determines Public Utility Rates, and will ...",
+      "url": "https://www.facebook.com/groups/6388725041145229/posts/39587567940834178"
+    },
+    {
       "context": "facebook.com",
-      "group": "Alva Oklahoma Rants And Raves And Gossip",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "Crafters Marketplace",
+      "id": "https://www.facebook.com/groups/495923820239333/posts/977370105428033",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/495923820239333/posts/977370105428033",
-      "url": "https://www.facebook.com/groups/495923820239333/posts/977370105428033",
-      "title": "Sudsations Candle Company introduces handcrafted soy ...",
       "snippet": "Our candles are made with 100% soy wax from U.S.- grown soybeans, sourced through a Pennsylvania supplier.",
       "source": "Facebook",
+      "title": "Sudsations Candle Company introduces handcrafted soy ...",
+      "url": "https://www.facebook.com/groups/495923820239333/posts/977370105428033"
+    },
+    {
       "context": "facebook.com",
-      "group": "Crafters Marketplace",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "Pennsylvania Small Business Advertising",
+      "id": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29306818838924425",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29306818838924425",
-      "url": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29306818838924425",
-      "title": "Service providers in Pennsylvania",
       "snippet": "Service provider check in! Realtors , plumbers , roofers , Insurance etc., tell me what you do and what areas you serve! #philadelphia",
       "source": "Facebook",
+      "title": "Service providers in Pennsylvania",
+      "url": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29306818838924425"
+    },
+    {
       "context": "facebook.com",
-      "group": "Pennsylvania Small Business Advertising",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "Collinsville,Oklahoma 411 2.0",
+      "id": "https://www.facebook.com/groups/583145221344340/posts/1111996075125916",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-14",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/583145221344340/posts/1111996075125916",
-      "url": "https://www.facebook.com/groups/583145221344340/posts/1111996075125916",
-      "title": "Seems about right….",
       "snippet": "Collinsville electric rate negotiation with Ameren. Jim Scheffel ▻ The Collinsville Connection. 4y · Public · I'm just curious why does Collinsville not",
       "source": "Facebook",
+      "title": "Seems about right….",
+      "url": "https://www.facebook.com/groups/583145221344340/posts/1111996075125916"
+    },
+    {
       "context": "facebook.com",
-      "group": "Collinsville,Oklahoma 411 2.0",
-      "posted": "2026-10-14",
       "first_seen": "2026-10-14",
+      "group": "Small Businesses in Somerset County, Somerset Pennsylvania",
+      "id": "https://www.facebook.com/groups/smallbusinessesinsomersetcountypa/posts/3545415785609862",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/smallbusinessesinsomersetcountypa/posts/3545415785609862",
-      "url": "https://www.facebook.com/groups/smallbusinessesinsomersetcountypa/posts/3545415785609862",
-      "title": "Safe to say, our crew brings the laughs AND the generator ...",
       "snippet": "⚡ Have questions about your standby generator? We've got you covered! Give us a call at 724-686-5198. - in Latrobe, PA.",
       "source": "Facebook",
+      "title": "Safe to say, our crew brings the laughs AND the generator ...",
+      "url": "https://www.facebook.com/groups/smallbusinessesinsomersetcountypa/posts/3545415785609862"
+    },
+    {
       "context": "facebook.com",
-      "group": "Small Businesses in Somerset County, Somerset Pennsylvania",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "",
+      "id": "https://www.facebook.com/groups/1580628378848993/posts/4655268488051618",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-14",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1580628378848993/posts/4655268488051618",
-      "url": "https://www.facebook.com/groups/1580628378848993/posts/4655268488051618",
-      "title": "Residents and businesses across the 13-state region could ...",
       "snippet": "Residents and businesses across the 13-state region could be asked to voluntarily reduce non-essential electricity consumption during peak demand periods.",
       "source": "Facebook",
+      "title": "Residents and businesses across the 13-state region could ...",
+      "url": "https://www.facebook.com/groups/1580628378848993/posts/4655268488051618"
+    },
+    {
+      "id": "https://www.facebook.com/groups/739622937344920/posts/1792401422067061",
+      "url": "https://www.facebook.com/groups/739622937344920/posts/1792401422067061",
+      "title": "Rant about paying for AI plans and metered utilities",
+      "snippet": "So let me get this straight: MY electric bill is higher because AI is sucking up all the power! Greeeeeat! Peggy Aimaro and 5 others. 6 reactions ·. 9",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "",
-      "posted": "2026-10-14",
+      "group": "Rant & Rave Sevier County, UT",
+      "posted": "2026-10-09",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
       "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")"
       ],
       "rules": {
         "accepted": false,
@@ -428,7 +614,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "b607e96add3a"
+        "version": "fd2d27efef20"
       },
       "production": {
         "accepted": false,
@@ -437,111 +623,142 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "What's Going On In Everett, Pennsylvania",
       "id": "https://www.facebook.com/groups/1236191723473578/posts/2568232176936186",
-      "url": "https://www.facebook.com/groups/1236191723473578/posts/2568232176936186",
-      "title": "Propane tank installation and furnace conversion options ...",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
       "snippet": "We remove oil tanks FOR FREE when you're converting to propane for home heating and choose CES as your supplier. You can use the heating contractor of your",
       "source": "Facebook",
+      "title": "Propane tank installation and furnace conversion options ...",
+      "url": "https://www.facebook.com/groups/1236191723473578/posts/2568232176936186"
+    },
+    {
       "context": "facebook.com",
-      "group": "What's Going On In Everett, Pennsylvania",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "The News Alerts of Beaver County",
+      "id": "https://www.facebook.com/groups/1775970472619353/posts/4870090246540678",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-14",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1775970472619353/posts/4870090246540678",
-      "url": "https://www.facebook.com/groups/1775970472619353/posts/4870090246540678",
-      "title": "Private office suites for rent in New Brighton, PA",
       "snippet": "New Brighton, PA. Supplies building in New Brighton, PA. Call for more information: 724‐462‐5189 ? Contact Equity Investment Group, LLC today at 724-610-9323",
       "source": "Facebook",
+      "title": "Private office suites for rent in New Brighton, PA",
+      "url": "https://www.facebook.com/groups/1775970472619353/posts/4870090246540678"
+    },
+    {
       "context": "facebook.com",
-      "group": "The News Alerts of Beaver County",
-      "posted": "2026-10-14",
       "first_seen": "2026-10-14",
+      "group": "Castle Rock CO BuySellTradeSwapWantFree",
+      "id": "https://www.facebook.com/groups/376691916087510/posts/2654768128279866",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": false,
         "host": true,
-        "keyword": false,
-        "pennsylvania": true,
+        "keyword": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/376691916087510/posts/2654768128279866",
-      "url": "https://www.facebook.com/groups/376691916087510/posts/2654768128279866",
-      "title": "Paid off solar! Save thousands on electric bills!",
       "snippet": "PRICE ADJUSTMENTI $799,000 5BEDROOM HOME. Our monthly payment is $100.00 LESS … we've even had bills as low as $10 (like August)! $89/month electric bill.",
       "source": "Facebook",
+      "title": "Paid off solar! Save thousands on electric bills!",
+      "url": "https://www.facebook.com/groups/376691916087510/posts/2654768128279866"
+    },
+    {
       "context": "facebook.com",
-      "group": "Castle Rock CO BuySellTradeSwapWantFree",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "Delaware.",
+      "id": "https://www.facebook.com/groups/684371670154821/posts/1571108654814447",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/684371670154821/posts/1571108654814447",
-      "url": "https://www.facebook.com/groups/684371670154821/posts/1571108654814447",
-      "title": "New Castle, DE's historic Read House museum",
       "snippet": "Carpenter Peter Crouding of Philadelphia was hired, and he visited sawmills to price lumber, choosing a supplier near Dagsboro, Sussex County. Drawings made",
       "source": "Facebook",
+      "title": "New Castle, DE's historic Read House museum",
+      "url": "https://www.facebook.com/groups/684371670154821/posts/1571108654814447"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1727383471283564/posts/1988635278491714",
+      "url": "https://www.facebook.com/groups/1727383471283564/posts/1988635278491714",
+      "title": "NJ declares energy emergency, solar options for ...",
+      "snippet": "electricity bills recently doubled. Minimum of $100/energy bill for higher income families. Lower and middle income families will receive up to $250 off of",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Delaware.",
-      "posted": "2026-10-13",
+      "group": "The City of Clifton NJ,  UNFILTERED",
+      "posted": "2026-10-10",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
       "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")"
       ],
       "rules": {
         "accepted": false,
@@ -552,7 +769,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "b607e96add3a"
+        "version": "fd2d27efef20"
       },
       "production": {
         "accepted": false,
@@ -561,173 +778,235 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/348293689060800/posts/2229850464238437",
+      "url": "https://www.facebook.com/groups/348293689060800/posts/2229850464238437",
+      "title": "My utility bill used to be free, but now I have to pay for it. 💆‍♂️",
+      "snippet": "I noticed the pattern every month we are billed twice. Why is my Massachusetts electricity bill so high? Over $900 utility bill shock with doubled charges",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Complaint Singapore",
+      "posted": "2026-10-13",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "fd2d27efef20"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Michigan City, Indiana Uncensored-ish",
       "id": "https://www.facebook.com/groups/michigancityindianauncensoredish/posts/4123450501283792",
-      "url": "https://www.facebook.com/groups/michigancityindianauncensoredish/posts/4123450501283792",
-      "title": "My sister was out of town for three weeks in 2025 and the ...",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
       "snippet": "I had no power for 12 1/2 days and NIPSCO tried saying I used almost 100kw more in August than the previous month,and I self report my meter readings!!!",
       "source": "Facebook",
+      "title": "My sister was out of town for three weeks in 2025 and the ...",
+      "url": "https://www.facebook.com/groups/michigancityindianauncensoredish/posts/4123450501283792"
+    },
+    {
       "context": "facebook.com",
-      "group": "Michigan City, Indiana Uncensored-ish",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "Greater Johnstown Pennsylvania - Restaurants & Businesses",
+      "id": "https://www.facebook.com/groups/140601574004128/posts/1592465282151076",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/140601574004128/posts/1592465282151076",
-      "url": "https://www.facebook.com/groups/140601574004128/posts/1592465282151076",
-      "title": "Meat market hours in Greater Johnstown, Pennsylvania",
       "snippet": "OPEN: Monday, Wednesday, Friday 4-6 Saturday 10-12. A HUGE selection of BEEF, PORK AND CHICKEN IS AVAILBLE 24/7! 193 LaGange Rd, Johnstown!😁 … 9 a.m. to 2 p.m.",
       "source": "Facebook",
+      "title": "Meat market hours in Greater Johnstown, Pennsylvania",
+      "url": "https://www.facebook.com/groups/140601574004128/posts/1592465282151076"
+    },
+    {
       "context": "facebook.com",
-      "group": "Greater Johnstown Pennsylvania - Restaurants & Businesses",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "PH Government Procurement/ Bidding Procedures/ Bidding Documents Preparatio",
+      "id": "https://www.facebook.com/groups/544214733285729/posts/1783166372723886",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": false,
         "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/544214733285729/posts/1783166372723886",
-      "url": "https://www.facebook.com/groups/544214733285729/posts/1783166372723886",
-      "title": "Looking for a reliable IT products and equipment supplier? ...",
       "snippet": "We can assist you with laptops,desktop,computer parts,accessories and other IT equipment. Send me a message here or contact me via Viber: 09065116398",
       "source": "Facebook",
+      "title": "Looking for a reliable IT products and equipment supplier? ...",
+      "url": "https://www.facebook.com/groups/544214733285729/posts/1783166372723886"
+    },
+    {
       "context": "facebook.com",
-      "group": "PH Government Procurement/ Bidding Procedures/ Bidding Documents Preparatio",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "Mandaluyong Food Hub",
+      "id": "https://www.facebook.com/groups/4242489269184795/posts/28176765138663873",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-14",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
+        "lead": false,
         "pennsylvania": false,
-        "lead": true,
-        "hard_exclusion": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/4242489269184795/posts/28176765138663873",
-      "url": "https://www.facebook.com/groups/4242489269184795/posts/28176765138663873",
-      "title": "Lf po milktea yung nag dedeliver po sana mura lang sf",
       "snippet": "Hi, LF A DIRECT SUPPLIER FOR MY MILKTEA BUSINESS!!! I HAVE 2 SHOP AS OF NOW. PLANNING TO CHANGE SUPPLIER. PLS PM ME YOUR PRICELIST. THANKS! Boba Craft and",
       "source": "Facebook",
+      "title": "Lf po milktea yung nag dedeliver po sana mura lang sf",
+      "url": "https://www.facebook.com/groups/4242489269184795/posts/28176765138663873"
+    },
+    {
       "context": "facebook.com",
-      "group": "Mandaluyong Food Hub",
-      "posted": "2026-10-14",
       "first_seen": "2026-10-14",
+      "group": "CORPORATE GIVEAWAYS supplier's & purchasing group",
+      "id": "https://www.facebook.com/groups/973540144393830/posts/1676470900767414",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/973540144393830/posts/1676470900767414",
-      "url": "https://www.facebook.com/groups/973540144393830/posts/1676470900767414",
-      "title": "LF : Direct Supplier",
       "snippet": "Catherine Yambao Ramos ▻ PURCHASING GROUP & SUPPLIERS PHI. 2y · Public · LF 1k pcs pa send lowest price. direct message po asap.",
       "source": "Facebook",
+      "title": "LF : Direct Supplier",
+      "url": "https://www.facebook.com/groups/973540144393830/posts/1676470900767414"
+    },
+    {
       "context": "facebook.com",
-      "group": "CORPORATE GIVEAWAYS supplier's & purchasing group",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "Green Valley, Arizona Community Billboard",
+      "id": "https://www.facebook.com/groups/790256452755619/posts/1631235001991089",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/790256452755619/posts/1631235001991089",
-      "url": "https://www.facebook.com/groups/790256452755619/posts/1631235001991089",
-      "title": "I found this article to be very insightful as to electric utility ...",
       "snippet": "Discounted Deals: Some utilities offer major tech companies discounted rates or special tariffs to attract them, meaning data centers pay less for the new",
       "source": "Facebook",
+      "title": "I found this article to be very insightful as to electric utility ...",
+      "url": "https://www.facebook.com/groups/790256452755619/posts/1631235001991089"
+    },
+    {
+      "id": "https://www.facebook.com/groups/222762833349924/posts/1403655141927348",
+      "url": "https://www.facebook.com/groups/222762833349924/posts/1403655141927348",
+      "title": "How to understand and interpret your electric bill details",
+      "snippet": "Your bill is based on three main things: how much you use, for how many days, and your rate per kWh. $133.80 kWh electric plan.",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Green Valley, Arizona Community Billboard",
-      "posted": "2026-10-13",
+      "group": "Moms of Flower Mound Tx",
+      "posted": "2026-10-08",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
       "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")"
       ],
       "rules": {
         "accepted": false,
@@ -738,7 +1017,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": false,
-        "version": "b607e96add3a"
+        "version": "fd2d27efef20"
       },
       "production": {
         "accepted": false,
@@ -747,328 +1026,80 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "MONROE, New Jersey",
       "id": "https://www.facebook.com/groups/7375225795840413/posts/29547786208157721",
-      "url": "https://www.facebook.com/groups/7375225795840413/posts/29547786208157721",
-      "title": "How rising data center demand affects Monroe, NJ ...",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
       "snippet": "Utilities says capacity charges now account for roughly 15% to 20% of a typical electric bill. demand from AI data centers pushes electric rates up by 20%.",
       "source": "Facebook",
+      "title": "How rising data center demand affects Monroe, NJ ...",
+      "url": "https://www.facebook.com/groups/7375225795840413/posts/29547786208157721"
+    },
+    {
       "context": "facebook.com",
-      "group": "MONROE, New Jersey",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "Stop Archbald Data Centers",
+      "id": "https://www.facebook.com/groups/1149438363979083/posts/1435090428747207",
       "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "b607e96add3a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1149438363979083/posts/1435090428747207",
-      "url": "https://www.facebook.com/groups/1149438363979083/posts/1435090428747207",
-      "title": "Hmmmm.. interesting. Currently 66 degrees at noon...",
       "snippet": "... companies are buying our Pennsylvania electricity from underneath us on the market. ... electricity prices to surge past $2,500 per MWh in strained areas.",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Stop Archbald Data Centers",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "b607e96add3a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "title": "Hmmmm.. interesting. Currently 66 degrees at noon...",
+      "url": "https://www.facebook.com/groups/1149438363979083/posts/1435090428747207"
     },
     {
-      "id": "https://www.facebook.com/groups/aerc.org/posts/10166017218497139",
-      "url": "https://www.facebook.com/groups/aerc.org/posts/10166017218497139",
-      "title": "Hi there,",
-      "snippet": "Looking to move to Pennsylvania and trying to locate a horse friendly area.",
+      "id": "https://www.facebook.com/groups/909602069095894/posts/28850067847955941",
+      "url": "https://www.facebook.com/groups/909602069095894/posts/28850067847955941",
+      "title": "High electric bills in Medway, MA: Is it an error or a trend?",
+      "snippet": "Has anyone noticed how high their electric bill is ? This is Ridiculous!!\n\nI’m paying over 150$ just for the delivery ????? Has anyone seen that ?",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "AERC American Endurance Ride Conference",
-      "posted": "2026-10-13",
+      "group": "Medway- say what you want",
+      "posted": "2026-10-10",
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
       "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "b607e96add3a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/281610891289409/posts/951063794344112",
-      "url": "https://www.facebook.com/groups/281610891289409/posts/951063794344112",
-      "title": "Heavy-Duty Galvanized Welded Eye Bolts (Premium Quality)",
-      "snippet": "JC Guzman ▻ CONTRACTOR / SUPPLIER / DESIGNER / INSTALLER Construction Projects Phil. 2y · Public · Looking for Hardware, Construction and Aggregate Supplier",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "PHILIPPINES BOLTS AND NUTS",
-      "posted": "2026-10-14",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "b607e96add3a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/629259284249975/posts/2555430911632793",
-      "url": "https://www.facebook.com/groups/629259284249975/posts/2555430911632793",
-      "title": "Heartland Engineering Solutions",
-      "snippet": "PHILIPPINES GROUP OF CONTRACTORS AND SUPPLIER. Mechanical & Electrical Services. PA system supplier and commercial public address system supplier,",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "PHILIPPINES GROUP OF CONTRACTORS AND SUPPLIER",
-      "posted": "2026-10-14",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "b607e96add3a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/4276205809164572/posts/28541782692180212",
-      "url": "https://www.facebook.com/groups/4276205809164572/posts/28541782692180212",
-      "title": "Greetings! My brothers and I own DMG Hardwoods, an import",
-      "snippet": "DMG Hardwoods, an import company. We are direct supplier from south America for all our runners. Available at both retail and wholesale pricing (wholesale",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Marketplace-Boothbay, Maine",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "b607e96add3a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/583604185820698/posts/2309821393198960",
-      "url": "https://www.facebook.com/groups/583604185820698/posts/2309821393198960",
-      "title": "Fs. Baka meron need neto indoor only goods pa wla den ...",
-      "snippet": "Public LF budget friendly who will make Ceiling, tiles, electrical, switch breaker, 1i room Partition, Gate fence, roof, flooring outside.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Aircon technician,contractor,installer philippines",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "b607e96add3a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/robinsontownshipconnect/posts/4584196571726714",
-      "url": "https://www.facebook.com/groups/robinsontownshipconnect/posts/4584196571726714",
-      "title": "FFE Electric llc",
-      "snippet": "FFE Electric llc 724-498-8906 With 25 years of trusted experience, we specialize in the tough repair jobs that leave other companies scratching their heads.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Robinson Township Connect",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "b607e96add3a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2390763891164327/posts/4501446620096033",
-      "url": "https://www.facebook.com/groups/2390763891164327/posts/4501446620096033",
-      "title": "DOE issues emergency order for PJM region, Oct 13–16 ...",
-      "snippet": "SMECO & PEPCO Zone: DOE issues emergency order for PJM region, Oct 13–16\nBREAKING: The U.S. Department of Energy issued Order No. 202-26-50 on October",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "SOMD Daily News",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "b607e96add3a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2179650955565246/posts/3185090331687965",
-      "url": "https://www.facebook.com/groups/2179650955565246/posts/3185090331687965",
-      "title": "DIRECT SUPPLIER 📌Solar Street Light UP-80 Series ✅ ...",
-      "snippet": "Switch to Solar powered lights/lamps now! Applicable for both indoor and outdoor use. Applications: ☑️ Homes ☑️ Buildings ☑️ Subdivisions ☑️ Schools",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "SOLAR PANELS ,BATTERIES AND INVERTERS &INSTALLATION COMPANY",
-      "posted": "2026-10-14",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "b607e96add3a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/gettysburgandsurroundingareas/posts/2566596443837209",
-      "url": "https://www.facebook.com/groups/gettysburgandsurroundingareas/posts/2566596443837209",
-      "title": "Cost to build electric goat fence at Oak Hill Tomestead?",
-      "snippet": "Pricing (Cost Estimate from 2022) 8-10 Strand Barbed Wire … $328-$437 per quarter mile",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Gettysburg and Surrounding Areas",
-      "posted": "2026-10-14",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
       ],
       "rules": {
         "accepted": false,
@@ -1079,7 +1110,7 @@
         "pennsylvania": false,
         "lead": true,
         "hard_exclusion": false,
-        "version": "b607e96add3a"
+        "version": "fd2d27efef20"
       },
       "production": {
         "accepted": false,
@@ -1088,10 +1119,41 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1247482432927671/posts/1853028905706351",
-      "url": "https://www.facebook.com/groups/1247482432927671/posts/1853028905706351",
-      "title": "Blue-state energy policies, just like here in New York, are ...",
-      "snippet": "This is more than double last winter, when prices averaged under $3. “This rise – driven by several economic factors, including global demand for domestically",
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "AERC American Endurance Ride Conference",
+      "id": "https://www.facebook.com/groups/aerc.org/posts/10166017218497139",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "Looking to move to Pennsylvania and trying to locate a horse friendly area.",
+      "source": "Facebook",
+      "title": "Hi there,",
+      "url": "https://www.facebook.com/groups/aerc.org/posts/10166017218497139"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1284454463031434/posts/1435903707886508",
+      "url": "https://www.facebook.com/groups/1284454463031434/posts/1435903707886508",
+      "title": "Help with paying electric bill through Fleming Mason Energy",
+      "snippet": "Immediately report it to Fleming-Mason Energy by calling 1-800-464-3144. If the line is in a high-traffic area, also call 911 for assistance. Be safe out there!",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "",
@@ -1099,7 +1161,7 @@
       "first_seen": "2026-10-14",
       "last_seen": "2026-10-14",
       "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")"
       ],
       "rules": {
         "accepted": false,
@@ -1108,9 +1170,9 @@
         "host": true,
         "keyword": true,
         "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "b607e96add3a"
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "fd2d27efef20"
       },
       "production": {
         "accepted": false,
@@ -1119,114 +1181,114 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/buysellfloridarealestate/posts/29171495295775748",
-      "url": "https://www.facebook.com/groups/buysellfloridarealestate/posts/29171495295775748",
-      "title": "BIG BIG NEWS!!! I do not know why this house is still ...",
-      "snippet": "Local Electricity Rates: Solar power is most impactful in areas with high electricity rates, where producing your own energy will lower your monthly electricity",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Florida Property Seekers",
-      "posted": "2026-10-13",
       "first_seen": "2026-10-14",
+      "group": "PHILIPPINES BOLTS AND NUTS",
+      "id": "https://www.facebook.com/groups/281610891289409/posts/951063794344112",
       "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
-      ],
-      "rules": {
+      "posted": "2026-10-14",
+      "production": {
         "accepted": false,
-        "semantic_accepted": false,
         "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "b607e96add3a"
+        "source": "rules"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/483142432027938/posts/3081928425482646",
-      "url": "https://www.facebook.com/groups/483142432027938/posts/3081928425482646",
-      "title": "Another time when data centers must run on backup power ...",
-      "snippet": "Pennsylvania's electricity crisis: enough and skyrocketing prices due to the new supply shortage. those data companies are buying our Pennsylvania electricity",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Trenton talk no rules",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "b607e96add3a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1447660085541054/posts/3987058611601176",
-      "url": "https://www.facebook.com/groups/1447660085541054/posts/3987058611601176",
-      "title": "Affordable junk removal services in York County, PA",
-      "snippet": "For only $90.00 per pickup truck load we will come pick up your junk and then legally dispose of it. We are licensed and insured and have been serving York",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Mount Wolf, Manchester, Pennsylvania - Northeastern York Neighborhood Page",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
-      "queries": [
-        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "b607e96add3a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1535786463327789/posts/4504370179802721",
-      "url": "https://www.facebook.com/groups/1535786463327789/posts/4504370179802721",
-      "title": "50-gallon heating fuel raffle in Aniak, AK - $5/ticket or 5 for ...",
-      "snippet": "Winners will be able to select their current home heating oil supplier. We will go to your supplier and credit your account, or we will purchase a gift",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Aniak Announcements",
-      "posted": "2026-10-13",
-      "first_seen": "2026-10-14",
-      "last_seen": "2026-10-14",
       "queries": [
         "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "JC Guzman ▻ CONTRACTOR / SUPPLIER / DESIGNER / INSTALLER Construction Projects Phil. 2y · Public · Looking for Hardware, Construction and Aggregate Supplier",
+      "source": "Facebook",
+      "title": "Heavy-Duty Galvanized Welded Eye Bolts (Premium Quality)",
+      "url": "https://www.facebook.com/groups/281610891289409/posts/951063794344112"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "PHILIPPINES GROUP OF CONTRACTORS AND SUPPLIER",
+      "id": "https://www.facebook.com/groups/629259284249975/posts/2555430911632793",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-14",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "PHILIPPINES GROUP OF CONTRACTORS AND SUPPLIER. Mechanical & Electrical Services. PA system supplier and commercial public address system supplier,",
+      "source": "Facebook",
+      "title": "Heartland Engineering Solutions",
+      "url": "https://www.facebook.com/groups/629259284249975/posts/2555430911632793"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Marketplace-Boothbay, Maine",
+      "id": "https://www.facebook.com/groups/4276205809164572/posts/28541782692180212",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "DMG Hardwoods, an import company. We are direct supplier from south America for all our runners. Available at both retail and wholesale pricing (wholesale",
+      "source": "Facebook",
+      "title": "Greetings! My brothers and I own DMG Hardwoods, an import",
+      "url": "https://www.facebook.com/groups/4276205809164572/posts/28541782692180212"
+    },
+    {
+      "id": "https://www.facebook.com/groups/572209043161035/posts/3063552207360027",
+      "url": "https://www.facebook.com/groups/572209043161035/posts/3063552207360027",
+      "title": "Get ready to pay more and get more than less energy.",
+      "snippet": "The new price to compare effective June 1 is 12.366¢/kWh. If you are on default service and use 1,000 kWh of electricity a month your bill will go up by about",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Virgin Islands Politics V.I.P.",
+      "posted": "2026-10-14",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
+      ],
+      "rules": {
+        "accepted": false,
         "semantic_accepted": false,
         "reason": "geography",
         "host": true,
@@ -1234,13 +1296,416 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "b607e96add3a"
+        "version": "fd2d27efef20"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
       }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Aircon technician,contractor,installer philippines",
+      "id": "https://www.facebook.com/groups/583604185820698/posts/2309821393198960",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "Public LF budget friendly who will make Ceiling, tiles, electrical, switch breaker, 1i room Partition, Gate fence, roof, flooring outside.",
+      "source": "Facebook",
+      "title": "Fs. Baka meron need neto indoor only goods pa wla den ...",
+      "url": "https://www.facebook.com/groups/583604185820698/posts/2309821393198960"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Robinson Township Connect",
+      "id": "https://www.facebook.com/groups/robinsontownshipconnect/posts/4584196571726714",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "FFE Electric llc 724-498-8906 With 25 years of trusted experience, we specialize in the tough repair jobs that leave other companies scratching their heads.",
+      "source": "Facebook",
+      "title": "FFE Electric llc",
+      "url": "https://www.facebook.com/groups/robinsontownshipconnect/posts/4584196571726714"
+    },
+    {
+      "id": "https://www.facebook.com/groups/233756279572661/posts/1085204347761179",
+      "url": "https://www.facebook.com/groups/233756279572661/posts/1085204347761179",
+      "title": "Don't make this mistake before turning on the washing ...",
+      "snippet": "Making sure your washing machine is full and using a 30c wash cycle are two simple, common sense ways to reduce both your electricity and metered water bill.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Oceans Calling Festival 2026",
+      "posted": "2026-10-12",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "fd2d27efef20"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/992766075569539/posts/1643883390457801",
+      "url": "https://www.facebook.com/groups/992766075569539/posts/1643883390457801",
+      "title": "Do programs like Gatby help manage electric service ...",
+      "snippet": "If you're looking for a bill assistance program to help manage your electric bill, try our convenient search tool! Answer a few questions on our website",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "The Talk of Norwalk, Ohio",
+      "posted": "2026-10-11",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "fd2d27efef20"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "SOMD Daily News",
+      "id": "https://www.facebook.com/groups/2390763891164327/posts/4501446620096033",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "SMECO & PEPCO Zone: DOE issues emergency order for PJM region, Oct 13–16\nBREAKING: The U.S. Department of Energy issued Order No. 202-26-50 on October",
+      "source": "Facebook",
+      "title": "DOE issues emergency order for PJM region, Oct 13–16 ...",
+      "url": "https://www.facebook.com/groups/2390763891164327/posts/4501446620096033"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "SOLAR PANELS ,BATTERIES AND INVERTERS &INSTALLATION COMPANY",
+      "id": "https://www.facebook.com/groups/2179650955565246/posts/3185090331687965",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-14",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "Switch to Solar powered lights/lamps now! Applicable for both indoor and outdoor use. Applications: ☑️ Homes ☑️ Buildings ☑️ Subdivisions ☑️ Schools",
+      "source": "Facebook",
+      "title": "DIRECT SUPPLIER 📌Solar Street Light UP-80 Series ✅ ...",
+      "url": "https://www.facebook.com/groups/2179650955565246/posts/3185090331687965"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Gettysburg and Surrounding Areas",
+      "id": "https://www.facebook.com/groups/gettysburgandsurroundingareas/posts/2566596443837209",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-14",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "Pricing (Cost Estimate from 2022) 8-10 Strand Barbed Wire … $328-$437 per quarter mile",
+      "source": "Facebook",
+      "title": "Cost to build electric goat fence at Oak Hill Tomestead?",
+      "url": "https://www.facebook.com/groups/gettysburgandsurroundingareas/posts/2566596443837209"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "",
+      "id": "https://www.facebook.com/groups/1247482432927671/posts/1853028905706351",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-14",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "This is more than double last winter, when prices averaged under $3. “This rise – driven by several economic factors, including global demand for domestically",
+      "source": "Facebook",
+      "title": "Blue-state energy policies, just like here in New York, are ...",
+      "url": "https://www.facebook.com/groups/1247482432927671/posts/1853028905706351"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Florida Property Seekers",
+      "id": "https://www.facebook.com/groups/buysellfloridarealestate/posts/29171495295775748",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "Local Electricity Rates: Solar power is most impactful in areas with high electricity rates, where producing your own energy will lower your monthly electricity",
+      "source": "Facebook",
+      "title": "BIG BIG NEWS!!! I do not know why this house is still ...",
+      "url": "https://www.facebook.com/groups/buysellfloridarealestate/posts/29171495295775748"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Trenton talk no rules",
+      "id": "https://www.facebook.com/groups/483142432027938/posts/3081928425482646",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "Pennsylvania's electricity crisis: enough and skyrocketing prices due to the new supply shortage. those data companies are buying our Pennsylvania electricity",
+      "source": "Facebook",
+      "title": "Another time when data centers must run on backup power ...",
+      "url": "https://www.facebook.com/groups/483142432027938/posts/3081928425482646"
+    },
+    {
+      "id": "https://www.facebook.com/groups/397935452059957/posts/883015040218660",
+      "url": "https://www.facebook.com/groups/397935452059957/posts/883015040218660",
+      "title": "Altamont Insider 🌎 | The Liberty Utilities joke continues | Facebook",
+      "snippet": "Title: Altamont Insider 🌎 | The Liberty Utilities joke continues | Facebook\nLiberty Gas Company Billing Issues and Problems. Summarized by AI from the post below. ## Altamont Insider 🌎 ·. The Liberty Utilities joke continues. For all of those that are setup on the auto withdraw for your payments tha…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Altamont Insider",
+      "posted": "2024-02-02",
+      "first_seen": "2026-10-14",
+      "last_seen": "2026-10-14",
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "fd2d27efef20"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Mount Wolf, Manchester, Pennsylvania - Northeastern York Neighborhood Page",
+      "id": "https://www.facebook.com/groups/1447660085541054/posts/3987058611601176",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"cheapest electric\" OR \"lower electric rate\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "For only $90.00 per pickup truck load we will come pick up your junk and then legally dispose of it. We are licensed and insured and have been serving York",
+      "source": "Facebook",
+      "title": "Affordable junk removal services in York County, PA",
+      "url": "https://www.facebook.com/groups/1447660085541054/posts/3987058611601176"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-14",
+      "group": "Aniak Announcements",
+      "id": "https://www.facebook.com/groups/1535786463327789/posts/4504370179802721",
+      "last_seen": "2026-10-14",
+      "posted": "2026-10-13",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"switch supplier\" OR \"choose supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "b607e96add3a"
+      },
+      "snippet": "Winners will be able to select their current home heating oil supplier. We will go to your supplier and credit your account, or we will purchase a gift",
+      "source": "Facebook",
+      "title": "50-gallon heating fuel raffle in Aniak, AK - $5/ticket or 5 for ...",
+      "url": "https://www.facebook.com/groups/1535786463327789/posts/4504370179802721"
     },
     {
       "context": "facebook.com",
@@ -2019,35 +2484,36 @@
       "url": "https://www.facebook.com/groups/543338555769514/posts/27712295528447116"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-10-13",
-      "group": "Newark Your VillageYour Community",
       "id": "https://www.facebook.com/groups/850427848800326/posts/1937806943395739",
-      "last_seen": "2026-10-13",
+      "url": "https://www.facebook.com/groups/850427848800326/posts/1937806943395739",
+      "title": "Newark~ Your Village~Your Community | Has anyone had a lady to come their house today about a “CDG Discount” for nyseg | Facebook",
+      "snippet": "## Newark~ Your Village~Your Community ·. Has anyone had a CDG discount rep from NYSEG? Titles are generated by AI from Meta. Has anyone had a lady to come their house today about a “CDG Discount” for nyseg? My son answered the door and I just told him to let her know that we weren’t interested, but…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Newark Your VillageYour Community",
       "posted": "2025-01-24",
-      "production": {
-        "accepted": false,
-        "reason": "keyword",
-        "source": "rules"
-      },
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-14",
       "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "keyword",
         "host": true,
         "keyword": false,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "keyword",
-        "semantic_accepted": false,
-        "version": "0b231aa122ed"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "fd2d27efef20"
       },
-      "snippet": "## Newark~ Your Village~Your Community ·. Has anyone had a CDG discount rep from NYSEG? Titles are generated by AI from Meta. Has anyone had a lady to come their house today about a “CDG Discount” for nyseg? My son answered the door and I just told him to let her know that we weren’t interested, but…",
-      "source": "Facebook",
-      "title": "Newark~ Your Village~Your Community | Has anyone had a lady to come their house today about a “CDG Discount” for nyseg | Facebook",
-      "url": "https://www.facebook.com/groups/850427848800326/posts/1937806943395739"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
     },
     {
       "context": "facebook.com",
@@ -2453,35 +2919,36 @@
       "url": "https://www.facebook.com/groups/2350406885413177/posts/2597748104012386"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-10-13",
-      "group": "The Watsontown Rants and Raves without Cheri edition",
       "id": "https://www.facebook.com/groups/3334171226634440/posts/29144204265204449",
-      "last_seen": "2026-10-13",
+      "url": "https://www.facebook.com/groups/3334171226634440/posts/29144204265204449",
+      "title": "High Oct electrical bills in Watsontown, PA despite no AC use",
+      "snippet": "My bill was double with no AC running. 443.00 a high electric bill for you? We received the highest electric bill we ever have on both accounts with no",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "The Watsontown Rants and Raves without Cheri edition",
       "posted": "2026-10-10",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-10-13",
+      "last_seen": "2026-10-14",
       "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "0b231aa122ed"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "fd2d27efef20"
       },
-      "snippet": "Billing dates are for service used 8/19 to 9/23. Watsontown's electric is higher per unit than ppl and others on free market, The extra kwt price goes to the",
-      "source": "Facebook",
-      "title": "High Oct electrical bills in Watsontown, PA despite no AC use",
-      "url": "https://www.facebook.com/groups/3334171226634440/posts/29144204265204449"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -9939,40 +10406,41 @@
       "url": "https://www.facebook.com/groups/243412396396155/posts/2377702906300416"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-10-09",
-      "group": "Quakertown neighborhood Association",
       "id": "https://www.facebook.com/groups/753034000389029/posts/1162639862761772",
-      "last_seen": "2026-10-13",
+      "url": "https://www.facebook.com/groups/753034000389029/posts/1162639862761772",
+      "title": "Best electric rates in Quakertown, PA compared to PPL",
+      "snippet": "PPL electric rate increase: 7.544 to 9.502 ... If you choose to enroll, you'll still receive one monthly bill from PPL Electric, with our delivery charges.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Quakertown neighborhood Association",
       "posted": "2026-10-08",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-10-09",
+      "last_seen": "2026-10-14",
       "queries": [
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity",
         "site:facebook.com/groups (\"new house\" OR \"new apartment\") Pennsylvania electric supplier",
         "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity",
         "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania",
         "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")",
-        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania",
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "0b231aa122ed"
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "fd2d27efef20"
       },
-      "snippet": "Rate is 0.1906 per kw. PPL Price to compare rate is going to jump from 7.544 to 9.502! the best current FIXED rates are 7.5 for 6 months. 12.",
-      "source": "Facebook",
-      "title": "Best electric rates in Quakertown, PA compared to PPL - Facebook",
-      "url": "https://www.facebook.com/groups/753034000389029/posts/1162639862761772"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -11403,35 +11871,35 @@
       "url": "https://www.facebook.com/groups/1236768904406037/posts/1570410434375214"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-10-08",
-      "group": "Easley, South Carolina Online Yard Sale",
       "id": "https://www.facebook.com/groups/293816760733727/posts/29038711912484162",
-      "last_seen": "2026-10-08",
+      "url": "https://www.facebook.com/groups/293816760733727/posts/29038711912484162",
+      "title": "High Energy bills ??? Give us a call 📞 8644255072",
+      "snippet": "There could be several reasons why your electricity bill is high. Ouch! ✓ Increased energy usage ✓ Seasonal changes ✓ Inefficient appliances",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Easley, South Carolina Online Yard Sale",
       "posted": "2026-10-08",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-14",
       "queries": [
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "037085489ff9"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "fd2d27efef20"
       },
-      "snippet": "There could be several reasons why your electricity bill is high. ✔ Increased energy usage ✔ Seasonal changes ✔ Inefficient appliances ✔ Leaks or drafts ✔ Rate",
-      "source": "Facebook",
-      "title": "High Energy bills ??? Give us a call 📞 8644255072",
-      "url": "https://www.facebook.com/groups/293816760733727/posts/29038711912484162"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -11651,35 +12119,35 @@
       "url": "https://www.facebook.com/groups/1064170600709028/posts/2630016087457797"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-10-08",
-      "group": "Blue Ridge, TX Local Businesses and Providers",
       "id": "https://www.facebook.com/groups/1878653072482898/posts/2964227683925426",
-      "last_seen": "2026-10-08",
+      "url": "https://www.facebook.com/groups/1878653072482898/posts/2964227683925426",
+      "title": "Electric bill review and savings assistance in Blue Ridge, TX",
+      "snippet": "I have some time today through Friday to help anyone who feels like their electric bill has been way too high lately. I work directly with an electrical broker",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Blue Ridge, TX Local Businesses and Providers",
       "posted": "2026-10-07",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-10-08",
+      "last_seen": "2026-10-14",
       "queries": [
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": true,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "037085489ff9"
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "fd2d27efef20"
       },
-      "snippet": "I have some time today through Friday to help anyone who feels like their electric bill has been way too high lately. I work directly with an electrical broker",
-      "source": "Facebook",
-      "title": "Electric bill review and savings assistance in Blue Ridge, TX",
-      "url": "https://www.facebook.com/groups/1878653072482898/posts/2964227683925426"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
