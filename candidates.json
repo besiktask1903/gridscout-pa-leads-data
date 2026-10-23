@@ -1,82 +1,20 @@
 {
-  "updated": "2026-10-23T11:08:35Z",
-  "count": 926,
+  "updated": "2026-10-23T21:04:45Z",
+  "count": 948,
   "candidates": [
     {
-      "id": "https://www.facebook.com/groups/220447798297701/posts/3001326220209831",
-      "url": "https://www.facebook.com/groups/220447798297701/posts/3001326220209831",
-      "title": "meryend",
-      "snippet": "Peco 166 (15kg per box) What is the price rate for wholesale chicken? chicken breast, pork liempo, pork kasim, and chicken nuggets",
+      "id": "https://www.facebook.com/groups/404430446900661/posts/2015934152416941",
+      "url": "https://www.facebook.com/groups/404430446900661/posts/2015934152416941",
+      "title": "tools, nice snow blower, wine chiller, coffee tables, gas ...",
+      "snippet": "GAS CANS, PROPANE TANKS, Friday noon to 6pm. Saturday & Sunday 9am to 6pm. Address: 28809 Lakeshore Blvd. Willowick, $4.13 and the gas pumps at $4.49",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "VILLAGE EAST HOMEOWNERS NEWS SHARING, VIEWS AND CONCERNS",
+      "group": "Willowick Neighborhood News",
       "posted": "2026-10-22",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/282055446121945/posts/1850468965947244",
-      "url": "https://www.facebook.com/groups/282055446121945/posts/1850468965947244",
-      "title": "ava!lable",
-      "snippet": "Available today: (Direct supplier price) FRESH whole chicken Size 1.2 = 5 bags Size 1.4 = 3 bags Size 1.5up = 9 bags Valenzuela City Pick up or lalamove PM po.Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Marick Subd. Buy And Sell Group",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1602942336600942/posts/4705822599646218",
-      "url": "https://www.facebook.com/groups/1602942336600942/posts/4705822599646218",
-      "title": "Will start and run has leaky gas cap was tuned up then ...",
-      "snippet": "Ran last time I used it however this year when I put one gas in the and turned gas switch off to on or reserves it started leaking gas at the point. So prob",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Mountain Home Arkansas online yard sale",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -87,7 +25,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0b75f7d82cae"
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
@@ -96,10 +34,165 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/bornandbredinpgh/posts/4644938865763484",
+      "url": "https://www.facebook.com/groups/bornandbredinpgh/posts/4644938865763484",
+      "title": "pittsburgh pennsylvania strong 412",
+      "snippet": "100 miles of some of the best backroads East of Pittsburgh. Two-way radio ✅ Full tank of gas ✅ Lunch money",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pittsburgh Born & Raised",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "VILLAGE EAST HOMEOWNERS NEWS SHARING, VIEWS AND CONCERNS",
+      "id": "https://www.facebook.com/groups/220447798297701/posts/3001326220209831",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Peco 166 (15kg per box) What is the price rate for wholesale chicken? chicken breast, pork liempo, pork kasim, and chicken nuggets",
+      "source": "Facebook",
+      "title": "meryend",
+      "url": "https://www.facebook.com/groups/220447798297701/posts/3001326220209831"
+    },
+    {
+      "id": "https://www.facebook.com/groups/313363400194995/posts/1670627834468538",
+      "url": "https://www.facebook.com/groups/313363400194995/posts/1670627834468538",
+      "title": "lf custom coffee drip 40 pcs need by sunday",
+      "snippet": "Drip Coffee Business Supplier 20 pesos. Choose your Add custom unique design! Public LF: Drip Coffee Supplier Pa-include ng price and details. Drip coffee",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Coffee Shop/Business Owners PH",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "Marick Subd. Buy And Sell Group",
+      "id": "https://www.facebook.com/groups/282055446121945/posts/1850468965947244",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Available today: (Direct supplier price) FRESH whole chicken Size 1.2 = 5 bags Size 1.4 = 3 bags Size 1.5up = 9 bags Valenzuela City Pick up or lalamove PM po.Read more",
+      "source": "Facebook",
+      "title": "ava!lable",
+      "url": "https://www.facebook.com/groups/282055446121945/posts/1850468965947244"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "Mountain Home Arkansas online yard sale",
+      "id": "https://www.facebook.com/groups/1602942336600942/posts/4705822599646218",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Ran last time I used it however this year when I put one gas in the and turned gas switch off to on or reserves it started leaking gas at the point. So prob",
+      "source": "Facebook",
+      "title": "Will start and run has leaky gas cap was tuned up then ...",
+      "url": "https://www.facebook.com/groups/1602942336600942/posts/4705822599646218"
+    },
+    {
       "id": "https://www.facebook.com/groups/1258010448374519/posts/2291349851707235",
       "url": "https://www.facebook.com/groups/1258010448374519/posts/2291349851707235",
       "title": "Why is my PELCO III electric bill so high?",
-      "snippet": "Received the comparison from PECO. Their graph indicates I use $22 a week for my gas and electric (their information, not mine). So, if I assume there are 5 ...Read more",
+      "snippet": "Pepco's CEO says higher winter electric bills are largely driven by rising supply costs and increased energy usage, with supply prices jumping from $29 to $333",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "MERALCO ASSISTANCE / PALAKAD",
@@ -107,7 +200,8 @@
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")",
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -118,7 +212,7 @@
         "pennsylvania": false,
         "lead": true,
         "hard_exclusion": false,
-        "version": "0b75f7d82cae"
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
@@ -127,700 +221,1042 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/eastonpost/posts/10165651069555135",
+      "url": "https://www.facebook.com/groups/eastonpost/posts/10165651069555135",
+      "title": "What is the average electric bill in the Lehigh Valley area?",
+      "snippet": "Out of curiosity, how much is your average electric bill running in the Lehigh Valley area?",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Easton Post",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": true,
+        "semantic_accepted": true,
+        "reason": "accepted",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "2526f2596bf9",
+        "freshness": "fresh"
+      },
+      "production": {
+        "accepted": true,
+        "source": "rules",
+        "reason": "accepted"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/424407457686205/posts/28596708826696024",
+      "url": "https://www.facebook.com/groups/424407457686205/posts/28596708826696024",
+      "title": "What is driving up West Penn Power bills in Washington ...",
+      "snippet": "At 1,000 kilowatt-hours monthly, December 2026 rate would be approximately $123.90, before separate delivery charges. The increase from December 2022 to",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Washington County PA What's Going On",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "2526f2596bf9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "Whats Happening in Murray/Calloway County Ky",
       "id": "https://www.facebook.com/groups/9828352617284409/posts/28689069287452791",
-      "url": "https://www.facebook.com/groups/9828352617284409/posts/28689069287452791",
-      "title": "What happened to Peco on 641N?",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
       "snippet": "Peco on 641N is being replaced with a new facility. NGCP( supplier) scheduled brownout Panay Electric Company ・ ing a 12-hour power shutdown ・ supplying the",
       "source": "Facebook",
+      "title": "What happened to Peco on 641N?",
+      "url": "https://www.facebook.com/groups/9828352617284409/posts/28689069287452791"
+    },
+    {
       "context": "facebook.com",
-      "group": "Whats Happening in Murray/Calloway County Ky",
-      "posted": "2026-10-22",
       "first_seen": "2026-10-23",
+      "group": "What's Going on St.Thomas",
+      "id": "https://www.facebook.com/groups/241455502718865/posts/3396504157213968",
       "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/241455502718865/posts/3396504157213968",
-      "url": "https://www.facebook.com/groups/241455502718865/posts/3396504157213968",
-      "title": "What feeders have power now?any?",
       "snippet": "Panay Electric Company - PECO. 9y · Public · Update on Supply Power Interruption Feeders 1 and 5 are online. Restoration of Feeder 4 is on going and being ...Read more",
       "source": "Facebook",
+      "title": "What feeders have power now?any?",
+      "url": "https://www.facebook.com/groups/241455502718865/posts/3396504157213968"
+    },
+    {
+      "id": "https://www.facebook.com/groups/434512742614298/posts/1125075106891388",
+      "url": "https://www.facebook.com/groups/434512742614298/posts/1125075106891388",
+      "title": "Updated prices at BP gas station on Pineneedle Road",
+      "snippet": "We are delighted to be able to offer petrol at 169.9 pence per litre and diesel at 187.9 ppl. We can't promise it will last forever, but whilst the going is",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "What's Going on St.Thomas",
-      "posted": "2026-10-22",
+      "group": "Florence Foodies",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "keyword",
         "host": true,
-        "keyword": true,
+        "keyword": false,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0b75f7d82cae"
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "keyword"
       }
     },
     {
+      "context": "pagasswitch.com",
+      "first_seen": "2026-10-23",
+      "group": "Understanding Energy",
       "id": "https://www.pagasswitch.com/understanding-energy",
-      "url": "https://www.pagasswitch.com/understanding-energy",
-      "title": "Understanding Energy | PAGasSwitch",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
       "snippet": "Paps Logo Header\n\n# Understanding Energy\n\nThe Pennsylvania Public Utility Commission (PAPUC) wants you to be able to make an informed decision when choosing a natural gas supplier. While the PAPUC does not have the authority to tell suppliers what products to offer or prices to charge customers, it …",
       "source": "pagasswitch.com",
-      "context": "pagasswitch.com",
-      "group": "Understanding Energy",
-      "posted": "",
+      "title": "Understanding Energy | PAGasSwitch",
+      "url": "https://www.pagasswitch.com/understanding-energy"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1753520351597092/posts/4674514486164316",
+      "url": "https://www.facebook.com/groups/1753520351597092/posts/4674514486164316",
+      "title": "Today's The Shippensburg News-Chronicle features SPO ...",
+      "snippet": "SPO spends approximately $12,000 to $15,000 per month on food for distributions. SPO serves over 1,000 people and approximately 400 households per week. 31",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Shippensburg Info New",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": true,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
-        "version": "0b75f7d82cae"
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "host"
+        "reason": "keyword"
       }
     },
     {
+      "id": "https://www.facebook.com/groups/2611894735785130/posts/4012149415759648",
+      "url": "https://www.facebook.com/groups/2611894735785130/posts/4012149415759648",
+      "title": "This is the rendering made to reflect what the data center ...",
+      "snippet": "No gasses or fumes will be emitted from the buildings. They pay their own electricity and gas bills. gas stations for fuel/drinks/snacks",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Oregon Ohio Community",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1061590864220071/posts/3018414108537727",
+      "url": "https://www.facebook.com/groups/1061590864220071/posts/3018414108537727",
+      "title": "There's 3 kids playing in the street by the Methodist Church ...",
+      "snippet": "My 83 yr old Mom almost stepped into the path of an electric scooter on Main st while placing items in her car from Dollar General, could have been a disaster",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Homer city crime watch and More",
+      "posted": "2026-10-18",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups/1061590864220071 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "Taillon Electric LLC",
       "id": "https://www.facebook.com/TaillonElectric",
-      "url": "https://www.facebook.com/TaillonElectric",
-      "title": "Taillon Electric LLC | Winchester NH - Facebook",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-20",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
       "snippet": "2 days ago · We are almost into October its gonna get cold soon. Storms and ice. Give us a call for your service upgrade to 200 amps, or generator set up, outside lighting or anything... A2K ELECTRIC , Winchester, NH 03470, 10 Photos, (603) 762-5968, Mon - 8:00 am - 4:30 pm, Tue - 8:00 am - 4:30 pm,…",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Taillon Electric LLC",
-      "posted": "2026-10-20",
+      "title": "Taillon Electric LLC | Winchester NH - Facebook",
+      "url": "https://www.facebook.com/TaillonElectric"
+    },
+    {
+      "context": "yelp.com",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.yelp.com/biz/taillon-electric-winchester",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.yelp.com/biz/taillon-electric-winchester",
-      "url": "https://www.yelp.com/biz/taillon-electric-winchester",
-      "title": "Taillon Electric - Winchester, NH",
       "snippet": "Specialties: We are a first-generation, family owned and operated company, We are local and care about our community. We serve Cheshire county in NH and in MA we cover... Granite City Electric has been proudly serving the Northeastern United States since 1923. We give you the power to keep your busi…",
       "source": "yelp.com",
+      "title": "Taillon Electric - Winchester, NH",
+      "url": "https://www.yelp.com/biz/taillon-electric-winchester"
+    },
+    {
       "context": "yelp.com",
-      "group": "",
-      "posted": "",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.yelp.com/search?cflt=electricians&find_loc=Santa+Rosa%2C+CA",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": true,
         "host": false,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.yelp.com/search?cflt=electricians&find_loc=Santa+Rosa%2C+CA",
-      "url": "https://www.yelp.com/search?cflt=electricians&find_loc=Santa+Rosa%2C+CA",
-      "title": "THE BEST 10 ELECTRICIANS IN SANTA ROSA, CA - Yelp",
       "snippet": "Best Electricians in Santa Rosa, CA - Last Updated October 2026 - B Henry's Quality Electric , Sonoma Coast Electric , Lady B Electric , Green Town Electric , Spyrka Electric ... James Electric is a family-owned and operated local company that has been serving Northern California since 1997. James i…",
       "source": "yelp.com",
-      "context": "yelp.com",
-      "group": "",
-      "posted": "",
+      "title": "THE BEST 10 ELECTRICIANS IN SANTA ROSA, CA - Yelp",
+      "url": "https://www.yelp.com/search?cflt=electricians&find_loc=Santa+Rosa%2C+CA"
+    },
+    {
+      "id": "https://www.facebook.com/groups/289883209317365/posts/1441271334178541",
+      "url": "https://www.facebook.com/groups/289883209317365/posts/1441271334178541",
+      "title": "Spent mushroom blocks for sale or free in Kennett Square, ...",
+      "snippet": "Any larger-scale mushroom growers in Kennett Square, PA, blocks for free, Other varieties are welcome. please reach out. we are in Pennsylvania USA …",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Mushroom Growing For Beginners & Experts",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0b75f7d82cae"
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "host"
+        "reason": "keyword"
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "Iloilo Construction Contractor and Supply Group",
       "id": "https://www.facebook.com/groups/517576066044244/posts/1859654711836366",
-      "url": "https://www.facebook.com/groups/517576066044244/posts/1859654711836366",
-      "title": "Sin o ma may ready mix di panubo2 lang presyo",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
       "snippet": "LF: Ready Mix Concrete Supplier. Project Location: Quezon City Kindly PM your rate for 5000 psi (pangslab on steeldeck). Thank you. Maka ...Read more",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Iloilo Construction Contractor and Supply Group",
-      "posted": "2026-10-22",
+      "title": "Sin o ma may ready mix di panubo2 lang presyo",
+      "url": "https://www.facebook.com/groups/517576066044244/posts/1859654711836366"
+    },
+    {
+      "context": "secure.peco.com",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://secure.peco.com/Pages/login.aspx",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://secure.peco.com/Pages/login.aspx",
-      "url": "https://secure.peco.com/Pages/login.aspx",
-      "title": "Sign up or sign in - PECO",
       "snippet": "Forgot your password? Move your PECO service quickly and easily from one location to your next. Starting a New Service. Stop your service by following a few simple steps. Find contact details for customer service, assistance programs and more. Find helpful information on service, billing, energy eff…",
       "source": "secure.peco.com",
-      "context": "secure.peco.com",
-      "group": "",
-      "posted": "",
+      "title": "Sign up or sign in - PECO",
+      "url": "https://secure.peco.com/Pages/login.aspx"
+    },
+    {
+      "context": "pagasswitch.com",
       "first_seen": "2026-10-23",
+      "group": "Shop for Rates",
+      "id": "https://www.pagasswitch.com/shop-for-rates",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.pagasswitch.com/shop-for-rates",
-      "url": "https://www.pagasswitch.com/shop-for-rates",
-      "title": "Shop for Rates | PAGasSwitch",
       "snippet": "Pags Logo in white\n\nThe Official Electric Shopping Website of the Pennsylvania Public Utility Commission. Copyright ©2025 Pennsylvania Public Utility Commission. All Rights Reserved.\n\n400 North St, Harrisburg, PA 17120 | (800) 692-7380\n\nPags Logo in white   power switch logo in white [...] Paps Logo…",
       "source": "pagasswitch.com",
+      "title": "Shop for Rates | PAGasSwitch",
+      "url": "https://www.pagasswitch.com/shop-for-rates"
+    },
+    {
       "context": "pagasswitch.com",
-      "group": "Shop for Rates",
-      "posted": "",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.pagasswitch.com/",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.pagasswitch.com/",
-      "url": "https://www.pagasswitch.com",
-      "title": "Shop and Compare Natural Gas Rates in PA | PAGasSwitch",
       "snippet": "Paps Logo Header\n\nThe Official Gas Shopping Website of the Pennsylvania Public Utility Commission\n\nPags Homepage Hero 1920\n\n# Finding Natural Gas Rates is Easier Than Ever\n\nShop for Business\n\n## Empowering the Public for 80+ years\n\nThe Pennsylvania Public Utility Commission regulates the many essent…",
       "source": "pagasswitch.com",
+      "title": "Shop and Compare Natural Gas Rates in PA | PAGasSwitch",
+      "url": "https://www.pagasswitch.com"
+    },
+    {
       "context": "pagasswitch.com",
-      "group": "",
-      "posted": "",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.pagasswitch.com/shop-for-home",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.pagasswitch.com/shop-for-home",
-      "url": "https://www.pagasswitch.com/shop-for-home",
-      "title": "Shop Home Natural Gas Rates in Pennsylvania | PAGasSwitch",
       "snippet": "Shop residential natural gas suppliers in Pennsylvania. Compare rates, plan types, and terms on PA Gas Switch by ZIP. See offers now.",
       "source": "pagasswitch.com",
-      "context": "pagasswitch.com",
-      "group": "",
-      "posted": "",
+      "title": "Shop Home Natural Gas Rates in Pennsylvania | PAGasSwitch",
+      "url": "https://www.pagasswitch.com/shop-for-home"
+    },
+    {
+      "context": "facebook.com",
       "first_seen": "2026-10-23",
+      "group": "Bvi Buy And Sell",
+      "id": "https://www.facebook.com/groups/1529253310695022/posts/4687525144867807",
       "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": true,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1529253310695022/posts/4687525144867807",
-      "url": "https://www.facebook.com/groups/1529253310695022/posts/4687525144867807",
-      "title": "Service up to date good on gas . For more information, ...",
       "snippet": "Switch to your local family owned fuel company! NO FEES, QUICK DELIVERIES, it's THAT easy. Mention this post and get $1.75 (otherwise $1.85) first fill NO",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Bvi Buy And Sell",
-      "posted": "2026-10-22",
+      "title": "Service up to date good on gas . For more information, ...",
+      "url": "https://www.facebook.com/groups/1529253310695022/posts/4687525144867807"
+    },
+    {
+      "context": "azstage.peco.com",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://azstage.peco.com/self-service",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://azstage.peco.com/self-service",
-      "url": "https://azstage.peco.com/self-service",
-      "title": "Self Service | PECO - An Exelon Company",
       "snippet": "Move your PECO service quickly and easily from one location to your next. Starting a New Service. Stop your service by following a few simple steps. Find contact details for customer service, assistance programs and more. Find helpful information on service, billing, energy efficiency and more. Use …",
       "source": "azstage.peco.com",
-      "context": "azstage.peco.com",
-      "group": "",
-      "posted": "",
+      "title": "Self Service | PECO - An Exelon Company",
+      "url": "https://azstage.peco.com/self-service"
+    },
+    {
+      "context": "pagasswitch.com",
       "first_seen": "2026-10-23",
+      "group": "Search",
+      "id": "https://www.pagasswitch.com/search",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": true,
         "host": false,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.pagasswitch.com/search",
-      "url": "https://www.pagasswitch.com/search",
-      "title": "Search | PAGasSwitch",
       "snippet": "Compare Pennsylvania natural gas offers on PA Gas Switch, the PA PUC’s official shopping site. Enter your ZIP to see suppliers and rates. Compare now.",
       "source": "pagasswitch.com",
-      "context": "pagasswitch.com",
-      "group": "Search",
-      "posted": "",
+      "title": "Search | PAGasSwitch",
+      "url": "https://www.pagasswitch.com/search"
+    },
+    {
+      "id": "https://www.facebook.com/groups/138224170841036/posts/1599443321385773",
+      "url": "https://www.facebook.com/groups/138224170841036/posts/1599443321385773",
+      "title": "Scammers impersonating Rhode Island Energy in ...",
+      "snippet": "Scammers impersonating Rhode Island Energy have been reported in Ramblewood and Hunters Crossing, attempting to collect bill information.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Coventry, RI. Our Town Page.",
+      "posted": "2026-10-22",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
+        "reason": "geography",
+        "host": true,
         "keyword": true,
-        "pennsylvania": true,
+        "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0b75f7d82cae"
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "host"
+        "reason": "geography"
       }
     },
     {
+      "id": "https://www.facebook.com/groups/1184252443631554/posts/1448100137246782",
+      "url": "https://www.facebook.com/groups/1184252443631554/posts/1448100137246782",
+      "title": "Sam's in Tri-County just dropped. Hurry!!",
+      "snippet": "Sam's in Tri-County just dropped. Hurry!!",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "NKY & Cincinnati Pokémon Restocks",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "reyffelectricinc.com",
+      "first_seen": "2026-10-23",
+      "group": "Reyff Electric",
       "id": "https://reyffelectricinc.com/",
-      "url": "https://reyffelectricinc.com",
-      "title": "Reyff Electric | #1 Electrician in Northern California",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
       "snippet": "VIEW US ON YELP\n\n## CONTACT US\n\nSONOMA – 636 Martin Ave. Rohnert Park, CA 94928  \n​SOLANO – 4950 Fulton Drive, #C Fairfield, CA 94534\n\n## Sonoma Office\n\nCALL\n\nEMAIL\n\nREQUEST SERVICE\n\n## Solano Office\n\nCALL\n\nEMAIL\n\nREQUEST SERVICE\n\n### Navigation\n\nMenu\n\n### Sonoma County Office:\n\n636 Martin Ave.  \nRo…",
       "source": "reyffelectricinc.com",
-      "context": "reyffelectricinc.com",
-      "group": "Reyff Electric",
-      "posted": "",
+      "title": "Reyff Electric | #1 Electrician in Northern California",
+      "url": "https://reyffelectricinc.com"
+    },
+    {
+      "context": "facebook.com",
       "first_seen": "2026-10-23",
+      "group": "Slatington, Walnutport, Emerald, Slatedale - In the Know... Unchained",
+      "id": "https://www.facebook.com/groups/lehighvalleyintheknow/posts/2722713718181458",
       "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/lehighvalleyintheknow/posts/2722713718181458",
-      "url": "https://www.facebook.com/groups/lehighvalleyintheknow/posts/2722713718181458",
-      "title": "Propane service and gas fireplace installation ...",
       "snippet": "I’m looking for recommendations for propane service and gas fireplace installation. We recently purchased a house, and the propane fireplace is not currently",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Slatington, Walnutport, Emerald, Slatedale - In the Know... Unchained",
-      "posted": "2026-10-22",
+      "title": "Propane service and gas fireplace installation ...",
+      "url": "https://www.facebook.com/groups/lehighvalleyintheknow/posts/2722713718181458"
+    },
+    {
+      "context": "reyffelectricinc.com",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://reyffelectricinc.com/electrician-santa-rosa",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://reyffelectricinc.com/electrician-santa-rosa",
-      "url": "https://reyffelectricinc.com/electrician-santa-rosa",
-      "title": "Professional Electrician in Santa Rosa, CA | Reyff Electric",
       "snippet": "## State Certified Electricians\n\n## WECA Apprenticeship\n\n## FEATURED CLIENTS\n\n### Navigation\n\n### Sonoma County Office:\n\n636 Martin Ave.  \nRohnert Park, CA 94928\n\nArea’s We Service:  \nSonoma County: 707-585-2481  \nMarin County: 415-461-3554  \nFax: 707-586-0130  \nrohnertpark@reyffelectric.com\n\n### So…",
       "source": "reyffelectricinc.com",
-      "context": "reyffelectricinc.com",
-      "group": "",
-      "posted": "",
+      "title": "Professional Electrician in Santa Rosa, CA | Reyff Electric",
+      "url": "https://reyffelectricinc.com/electrician-santa-rosa"
+    },
+    {
+      "context": "facebook.com",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.facebook.com/groups/2350406885413177/posts/2609648582822338",
       "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
+        "hard_exclusion": true,
+        "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2350406885413177/posts/2609648582822338",
-      "url": "https://www.facebook.com/groups/2350406885413177/posts/2609648582822338",
-      "title": "Pennsylvania Data Center Resistance",
       "snippet": "swap to natural gas about three billion cubic it. Pennsylvania Data Center Resistance. Pennsylvania data center resistance group? businesses and the freedom to",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "",
-      "posted": "2026-10-22",
+      "title": "Pennsylvania Data Center Resistance",
+      "url": "https://www.facebook.com/groups/2350406885413177/posts/2609648582822338"
+    },
+    {
+      "context": "secure.peco.com",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://secure.peco.com/payments/payonline",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://secure.peco.com/payments/payonline",
-      "url": "https://secure.peco.com/payments/payonline",
-      "title": "Payment | PECO - An Exelon Company",
       "snippet": "How would you like to verify your account to pay your bill? Make a same-day payment without signing in or creating an account. Sign in to make a same-day payment or",
       "source": "secure.peco.com",
-      "context": "secure.peco.com",
-      "group": "",
-      "posted": "",
+      "title": "Payment | PECO - An Exelon Company",
+      "url": "https://secure.peco.com/payments/payonline"
+    },
+    {
+      "context": "peco.com",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.peco.com/MyAccount/MyBillUsage/pages/PaymentOptions.aspx",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": true,
         "host": false,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.peco.com/MyAccount/MyBillUsage/pages/PaymentOptions.aspx",
-      "url": "https://www.peco.com/MyAccount/MyBillUsage/pages/PaymentOptions.aspx",
-      "title": "Payment Options | PECO - An Exelon Company",
       "snippet": "To make a payment by phone, please dial 877-432-9384 to be connected to our automated bill payment system. PECO utilizes a secure payment processing system to keep your... Forgot your password? Move your PECO service quickly and easily from one location to your next. Starting a New Service. Stop you…",
       "source": "peco.com",
-      "context": "peco.com",
-      "group": "",
-      "posted": "",
+      "title": "Payment Options | PECO - An Exelon Company",
+      "url": "https://www.peco.com/MyAccount/MyBillUsage/pages/PaymentOptions.aspx"
+    },
+    {
+      "context": "pge.com",
       "first_seen": "2026-10-23",
+      "group": "Pacific Gas & Electric Company",
+      "id": "https://www.pge.com/",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.pge.com/",
-      "url": "https://www.pge.com",
-      "title": "Pacific Gas & Electric Company | PG&E",
       "snippet": "Account Dashboard\n Settings\n\n Log Out\n\nSign In\n\nHi, {name})\n\n Account Dashboard\n Settings\n\n Log Out\n\nTwo PG&E employees inspecting windmills\n\n# Why might my energy project be delayed?\n\nWe're reducing investments to help keep customer costs down\n\nLearn more about our 2027 Capital Plan\n\nPay your bill\n…",
       "source": "pge.com",
-      "context": "pge.com",
-      "group": "Pacific Gas & Electric Company",
-      "posted": "",
+      "title": "Pacific Gas & Electric Company | PG&E",
+      "url": "https://www.pge.com"
+    },
+    {
+      "id": "https://www.facebook.com/groups/697544594841363/posts/1796494831612995",
+      "url": "https://www.facebook.com/groups/697544594841363/posts/1796494831612995",
+      "title": "PIZZA TOPPINGS 🍕🍕",
+      "snippet": "Pizza and food products supplier with various prices and options. We supply pizza and other food Products ・ 116 Highway Street, Yukon PA 15698 📞(724) 722-4600",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "PIZZA SUPPLIERS/FRANCHISE/BUSINESS",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
+        "reason": "geography",
+        "host": true,
         "keyword": true,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": false,
-        "version": "0b75f7d82cae"
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "host"
+        "reason": "geography"
       }
     },
     {
+      "context": "chooseenergy.com",
+      "first_seen": "2026-10-23",
+      "group": "PA Gas Switch",
       "id": "https://www.chooseenergy.com/puc/pa-gas-switch",
-      "url": "https://www.chooseenergy.com/puc/pa-gas-switch",
-      "title": "PA Gas Switch | Learn More at Choose Energy®",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
       "snippet": "## How is Choose Energy different than PA Gas Switch?\n\nChoose Energy’s independent marketplace also enables Pennsylvanians to compare natural gas suppliers in their area. With PA Gas Switch, you can compare natural gas plans, but that’s about it. And some find the PA Gas Switch tool to be confusing.…",
       "source": "chooseenergy.com",
-      "context": "chooseenergy.com",
-      "group": "PA Gas Switch",
-      "posted": "",
+      "title": "PA Gas Switch | Learn More at Choose Energy®",
+      "url": "https://www.chooseenergy.com/puc/pa-gas-switch"
+    },
+    {
+      "context": "facebook.com",
       "first_seen": "2026-10-23",
+      "group": "Barrie Concerned Citizens",
+      "id": "https://www.facebook.com/groups/1054260438114611/posts/3508547239352573",
       "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1054260438114611/posts/3508547239352573",
-      "url": "https://www.facebook.com/groups/1054260438114611/posts/3508547239352573",
-      "title": "Not a concern. Costco gas is 159.9 despite its advertised ...",
       "snippet": "Costco gas is 159.9 despite its advertised price 164.9. The average is now $3.55 for regular gas at some gas stations. Last fall during the gas switch, winter",
       "source": "Facebook",
+      "title": "Not a concern. Costco gas is 159.9 despite its advertised ...",
+      "url": "https://www.facebook.com/groups/1054260438114611/posts/3508547239352573"
+    },
+    {
+      "id": "https://www.facebook.com/groups/3061008987465814/posts/4679582588941771",
+      "url": "https://www.facebook.com/groups/3061008987465814/posts/4679582588941771",
+      "title": "Need a food vendor for 150 people Please leave a quote",
+      "snippet": "Tacos El Gordo and others offer catering services with quotes ranging from $1,300 to $6,000 for 150 people. 150 guest $1,500 + tax and travel fee. averages at",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Barrie Concerned Citizens",
+      "group": "SoCal Weddings & Wedding Events ALL THINGS WEDDING",
       "posted": "2026-10-22",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -831,7 +1267,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0b75f7d82cae"
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
@@ -840,111 +1276,173 @@
       }
     },
     {
+      "context": "pagasswitch.com",
+      "first_seen": "2026-10-23",
+      "group": "",
       "id": "https://www.pagasswitch.com/how-to-switch/distributors-and-suppliers",
-      "url": "https://www.pagasswitch.com/how-to-switch/distributors-and-suppliers",
-      "title": "Natural Gas Distributors and Suppliers in Pennsylvania | PAGasSwitch",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
       "snippet": "## Natural Gas Distributors\n\nDistributors refers to the natural gas distribution company (NGDC) delivering the natural gas to the customer. Through a network of underground pipelines, natural gas from wells is consolidated within the interstate transportation system and then delivered to the local N…",
       "source": "pagasswitch.com",
-      "context": "pagasswitch.com",
-      "group": "",
-      "posted": "",
+      "title": "Natural Gas Distributors and Suppliers in Pennsylvania | PAGasSwitch",
+      "url": "https://www.pagasswitch.com/how-to-switch/distributors-and-suppliers"
+    },
+    {
+      "context": "puc.pa.gov",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.puc.pa.gov/natural-gas",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.puc.pa.gov/natural-gas",
-      "url": "https://www.puc.pa.gov/natural-gas",
-      "title": "Natural Gas",
       "snippet": "Natural Gas\n       Damage Prevention Enforcement\n       Act 13 Impact Fee\n       Voluntary Natural Gas EE&C Programs\n       Combined Heat & Power\n       Natural Gas Companies & Suppliers\n       Pipeline Safety\n       Committees & Working Groups\n       Energy Efficiency, Conservation and Savings Info…",
       "source": "puc.pa.gov",
-      "context": "puc.pa.gov",
-      "group": "",
-      "posted": "",
+      "title": "Natural Gas",
+      "url": "https://www.puc.pa.gov/natural-gas"
+    },
+    {
+      "id": "https://www.facebook.com/groups/391969557629101/posts/3670702543089103",
+      "url": "https://www.facebook.com/groups/391969557629101/posts/3670702543089103",
+      "title": "Montgomery County residents can call Your Way Home ...",
+      "snippet": "dial 211 or text your ZIP code to 898-211. Utility hardship programs through your electricity or natural gas provider (PPL, PECO, UGI, etc.)",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pottstown to Reading and Everywhere in Between  and Surrounding Areas",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
+        "reason": "intent",
+        "host": true,
         "keyword": true,
-        "pennsylvania": false,
+        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": false,
-        "version": "0b75f7d82cae"
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "host"
+        "reason": "intent"
       }
     },
     {
+      "context": "lunardielectric.com",
+      "first_seen": "2026-10-23",
+      "group": "Lunardi Electric",
       "id": "https://lunardielectric.com/",
-      "url": "https://lunardielectric.com",
-      "title": "Lunardi Electric | Electrical Contractor in Sonoma County",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
       "snippet": "# Lunardi Electric\n\nThis website needs JavaScript to show its pages. You can reach Lunardi Electric by phone at (707) 823-2129 (Sebastopol) or (707) 545-4755 (Santa Rosa), or visit us at 5334 Sebastopol Road, Sebastopol, CA 95473.",
       "source": "lunardielectric.com",
-      "context": "lunardielectric.com",
-      "group": "Lunardi Electric",
-      "posted": "",
+      "title": "Lunardi Electric | Electrical Contractor in Sonoma County",
+      "url": "https://lunardielectric.com"
+    },
+    {
+      "context": "facebook.com",
       "first_seen": "2026-10-23",
+      "group": "Lucid Owners Club",
+      "id": "https://www.facebook.com/groups/5534731763266162/posts/39413310318314872",
       "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/5534731763266162/posts/39413310318314872",
-      "url": "https://www.facebook.com/groups/5534731763266162/posts/39413310318314872",
-      "title": "Lucid owner's electric vs gas cost comparison",
       "snippet": "** EDITED ** I added the state fee below.  I should have added this to start, but I forgot about it.\n\nLet's do some math.  In February of 2024, I bought",
       "source": "Facebook",
+      "title": "Lucid owner's electric vs gas cost comparison",
+      "url": "https://www.facebook.com/groups/5534731763266162/posts/39413310318314872"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1154300284704796/posts/4272810512853742",
+      "url": "https://www.facebook.com/groups/1154300284704796/posts/4272810512853742",
+      "title": "Looking for recommendations on power companies. We ...",
+      "snippet": "What electric supply companies do you recommend in New Holland, PA? What are some alternative electric providers to PPL? Anyone have any experience with",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Lucid Owners Club",
-      "posted": "2026-10-22",
+      "group": "Taupo Noticeboard",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -954,8 +1452,8 @@
         "keyword": true,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
-        "version": "0b75f7d82cae"
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
@@ -964,421 +1462,142 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "St. JOSEPH BAPTIST CHURCH Philadelphia Pa 19139 newfacebook Page",
       "id": "https://www.facebook.com/groups/933890157999465/posts/2090918865629916",
-      "url": "https://www.facebook.com/groups/933890157999465/posts/2090918865629916",
-      "title": "Join PWD for a Utility & Resource Fair on ...",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
       "snippet": "... rates that would go into effect on September 1, 2024. In this proceeding, the Rate Board will determine the appropriate rates and charges. Let your voice be ...Read more",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "St. JOSEPH BAPTIST CHURCH Philadelphia Pa 19139 newfacebook Page",
-      "posted": "2026-10-22",
+      "title": "Join PWD for a Utility & Resource Fair on ...",
+      "url": "https://www.facebook.com/groups/933890157999465/posts/2090918865629916"
+    },
+    {
+      "context": "thumbtack.com",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.thumbtack.com/nh/winchester/electrical-repairs/jeff-newell-sons-electric-llc/service/220980727265977387?spotlightWebMarkupEnabled=1",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
+        "hard_exclusion": false,
+        "host": false,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.thumbtack.com/nh/winchester/electrical-repairs/jeff-newell-sons-electric-llc/service/220980727265977387?spotlightWebMarkupEnabled=1",
-      "url": "https://www.thumbtack.com/nh/winchester/electrical-repairs/jeff-newell-sons-electric-llc/service/220980727265977387?spotlightWebMarkupEnabled=1",
-      "title": "Jeff Newell And Sons Electric Llc. | Winchester, NH",
       "snippet": "I am a Licensed Master electrician, and proud Veteran, I am a Veteran owned company. My two sons are also proud Veterans, and one now has his electrical license. I Believe highly in being punctual, honest and trustworthy. I believe as a follower of Jesus Christ, we are called to put others' interest…",
       "source": "thumbtack.com",
-      "context": "thumbtack.com",
-      "group": "",
-      "posted": "",
+      "title": "Jeff Newell And Sons Electric Llc. | Winchester, NH",
+      "url": "https://www.thumbtack.com/nh/winchester/electrical-repairs/jeff-newell-sons-electric-llc/service/220980727265977387?spotlightWebMarkupEnabled=1"
+    },
+    {
+      "context": "pagasswitch.com",
       "first_seen": "2026-10-23",
+      "group": "How to Switch Natural Gas Suppliers",
+      "id": "https://www.pagasswitch.com/how-to-switch",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.pagasswitch.com/how-to-switch",
-      "url": "https://www.pagasswitch.com/how-to-switch",
-      "title": "How to Switch Natural Gas Suppliers | PAGasSwitch",
       "snippet": "Your choice will typically take effect at the beginning of the first possible billing period following a three-day right of rescission period and a five-day confirmation period.  \n  \nThese periods help prevent \"slamming\", which is the unauthorized transfer of utility services without the customer's …",
       "source": "pagasswitch.com",
-      "context": "pagasswitch.com",
-      "group": "How to Switch Natural Gas Suppliers",
-      "posted": "",
+      "title": "How to Switch Natural Gas Suppliers | PAGasSwitch",
+      "url": "https://www.pagasswitch.com/how-to-switch"
+    },
+    {
+      "context": "peco.com",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.peco.com/",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": true,
         "host": false,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.peco.com/",
-      "url": "https://www.peco.com",
-      "title": "Home Page",
       "snippet": "Image 1: Children looking at lightImage 2\n\n# Welcome to PECO\n\n##### We’re committed to powering a cleaner, brighter future for our customers and communities. Our website may look different, but the same information is still available, making it easier to find what you need.\n\nSign InCreate Online Acc…",
       "source": "peco.com",
-      "context": "peco.com",
-      "group": "",
-      "posted": "",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
+      "title": "Home Page",
+      "url": "https://www.peco.com"
     },
     {
-      "id": "https://www.facebook.com/groups/therealcoatesville/posts/1791709968619851",
-      "url": "https://www.facebook.com/groups/therealcoatesville/posts/1791709968619851",
-      "title": "Heating assistance resources for Chester County residents",
-      "snippet": "These programs offer different types of support for eligible electricity and natural gas customers. Visit peco.com/help Call 800-494-4000 UGI CUSTOMERS Ask ...Read more",
+      "id": "https://www.facebook.com/groups/1058698910813678/posts/30196159816640867",
+      "url": "https://www.facebook.com/groups/1058698910813678/posts/30196159816640867",
+      "title": "Holding full lock against the stops for 5 seconds. Pump ...",
+      "snippet": "2 shares. People sleeping in gas pumps at gas stations. Kevin DelVecchio ... Witnessed the dude point to the other air pump to the other ppl waiting. How",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "The Real Coatesville",
-      "posted": "2026-10-22",
+      "group": "Mechanical engineers",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.granitecityelectric.com/",
-      "url": "https://www.granitecityelectric.com",
-      "title": "Granite City Electric, the Northeast's Premier Electrical Supply ...",
-      "snippet": "Granite City Electric has been proudly serving the Northeastern United States since 1923. We give you the power to keep your business moving.",
-      "source": "granitecityelectric.com",
-      "context": "granitecityelectric.com",
-      "group": "",
-      "posted": "",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2346978825/posts/10165797517203826",
-      "url": "https://www.facebook.com/groups/2346978825/posts/10165797517203826",
-      "title": "Gas line installation for kitchen stove in Cranbrook, BC",
-      "snippet": "Looking to have our natural gas line extended into our kitchen for a gas stove. Any local recommendations?",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "CRANBROOK, BC",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://eleoselectric.com/",
-      "url": "https://eleoselectric.com",
-      "title": "Eleos Electric - Licensed Electrician Sonoma County CA",
-      "snippet": "707-837-6722\n\nMon–Fri, 8:00am – 4:30pm\n\n### Request a Free Estimate\n\nFill out the form and we'll get back to you quickly — usually the same day.\n\n###### Address\n\nMailing: P.O. Box 1079  \n930 Shiloh Rd, Bldg 41, Suite C  \nWindsor, CA 95492\n\n###### Phone\n\n707-837-6722\n\nCall for fastest response\n\n#####…",
-      "source": "eleoselectric.com",
-      "context": "eleoselectric.com",
-      "group": "",
-      "posted": "",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.jameselectricinc.com/",
-      "url": "https://www.jameselectricinc.com",
-      "title": "Electrician in Santa Rosa | Santa Rosa Electrician | James Electric",
-      "snippet": "Best Santa Rosa Electricians Local Electricians LED Lighting Kitchen Lighting Outdoor Lighting Installation Sonoma Marin Napa County Electrician Go Local Member EV Electric Vehicle Circuits Induction Cooktop Circuits Wiring Hot Tub Electrical Circuits GFCI Circuits Attic Exhaust Fan Installation Bat…",
-      "source": "jameselectricinc.com",
-      "context": "jameselectricinc.com",
-      "group": "Electrician in Santa Rosa",
-      "posted": "",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://esquaredelectric.net/",
-      "url": "https://esquaredelectric.net",
-      "title": "Electrician Santa Rosa CA | Esquared Electric",
-      "snippet": "Electrical Services in Santa Rosa & the North Bay. Full-spectrum electrical work backed by California License #991534 and WECA membership. EFI Electric has over a decade of industry experience, so you can rely on us to get the job done right the first time. You’ll also appreciate that: Make the smar…",
-      "source": "esquaredelectric.net",
-      "context": "esquaredelectric.net",
-      "group": "Electrician Santa Rosa CA",
-      "posted": "",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://eleoselectric.com/electrician-santa-rosa",
-      "url": "https://eleoselectric.com/electrician-santa-rosa",
-      "title": "Electrician Santa Rosa CA | Eleos Electric - Licensed & Insured",
-      "snippet": "Free estimates\n\n24/7 emergency service\n\n### Call Us Today\n\nFree estimates for Santa Rosa residents and businesses. No trip fees.\n\n707-837-6722 Request a Quote\n\nHours: Mon-Fri 8:00am-4:30pm\n\nEmergency: 24/7 Available\n\nLicense: CSLB #1009044\n\nPayment: Cash, credit, debit\n\nEleos Electric on a rebuild j…",
-      "source": "eleoselectric.com",
-      "context": "eleoselectric.com",
-      "group": "Electrician Santa Rosa CA",
-      "posted": "",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://efielectric.com/",
-      "url": "https://efielectric.com",
-      "title": "Electrician Santa Rosa - EFI Electric",
-      "snippet": "Google\n\nDave R profile picture\n\nDave R\n\nGoogle star 1Google star 2Google star 3Google star 4Google star 5Trustindex verifies that the original source of the review is Google.\n\nThis company is very responsive and helpful, and I highly recommend them. I have power tonight thanks to Scott!\n\nGoogle\n\nBob…",
-      "source": "efielectric.com",
-      "context": "efielectric.com",
-      "group": "",
-      "posted": "",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.merriam-webster.com/dictionary/electric",
-      "url": "https://www.merriam-webster.com/dictionary/electric",
-      "title": "ELECTRIC Definition & Meaning - Merriam-Webster",
-      "snippet": "Top Lookups\n\n 1\n\n  existential\n 2\n\n  happy\n 3\n\n  enigma\n 4\n\n  culture\n 5\n\n  didactic\n 6\n\n  pedantic\n 7\n\n  love\n\n#### Word of the Day\n\n#### vocation\n\nSee Definitions and Examples »\n\nGet Word of the Day daily email!\n\n## Popular in Grammar & Usage\n\nSee More\n\n### Merriam-Webster’s Great Big List of Word…",
-      "source": "merriam-webster.com",
-      "context": "merriam-webster.com",
-      "group": "Definition of ELECTRIC",
-      "posted": "",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/878719178909868/posts/29284211917933881",
-      "url": "https://www.facebook.com/groups/878719178909868/posts/29284211917933881",
-      "title": "Does not run at the moment, needs a new gas line. Must ...",
-      "snippet": "Does not run at the moment, needs a new gas line. Must pickup York city.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Southern York County Yard sale",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -1389,7 +1608,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "0b75f7d82cae"
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
@@ -1398,282 +1617,747 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "The Real Coatesville",
+      "id": "https://www.facebook.com/groups/therealcoatesville/posts/1791709968619851",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "These programs offer different types of support for eligible electricity and natural gas customers. Visit peco.com/help Call 800-494-4000 UGI CUSTOMERS Ask ...Read more",
+      "source": "Facebook",
+      "title": "Heating assistance resources for Chester County residents",
+      "url": "https://www.facebook.com/groups/therealcoatesville/posts/1791709968619851"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1313084745375387/posts/30104306315826513",
+      "url": "https://www.facebook.com/groups/1313084745375387/posts/30104306315826513",
+      "title": "Has anyone in the Groves at the Grand at Neshaminy ...",
+      "snippet": "Public Is anyone else having issues with PPL electric lately? My bill which started at typically $150 a month is now up to almost $700.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Whats up BENSALEM",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "granitecityelectric.com",
+      "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.granitecityelectric.com/",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Granite City Electric has been proudly serving the Northeastern United States since 1923. We give you the power to keep your business moving.",
+      "source": "granitecityelectric.com",
+      "title": "Granite City Electric, the Northeast's Premier Electrical Supply ...",
+      "url": "https://www.granitecityelectric.com"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "CRANBROOK, BC",
+      "id": "https://www.facebook.com/groups/2346978825/posts/10165797517203826",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Looking to have our natural gas line extended into our kitchen for a gas stove. Any local recommendations?",
+      "source": "Facebook",
+      "title": "Gas line installation for kitchen stove in Cranbrook, BC",
+      "url": "https://www.facebook.com/groups/2346978825/posts/10165797517203826"
+    },
+    {
+      "context": "eleoselectric.com",
+      "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://eleoselectric.com/",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "707-837-6722\n\nMon–Fri, 8:00am – 4:30pm\n\n### Request a Free Estimate\n\nFill out the form and we'll get back to you quickly — usually the same day.\n\n###### Address\n\nMailing: P.O. Box 1079  \n930 Shiloh Rd, Bldg 41, Suite C  \nWindsor, CA 95492\n\n###### Phone\n\n707-837-6722\n\nCall for fastest response\n\n#####…",
+      "source": "eleoselectric.com",
+      "title": "Eleos Electric - Licensed Electrician Sonoma County CA",
+      "url": "https://eleoselectric.com"
+    },
+    {
+      "context": "jameselectricinc.com",
+      "first_seen": "2026-10-23",
+      "group": "Electrician in Santa Rosa",
+      "id": "https://www.jameselectricinc.com/",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Best Santa Rosa Electricians Local Electricians LED Lighting Kitchen Lighting Outdoor Lighting Installation Sonoma Marin Napa County Electrician Go Local Member EV Electric Vehicle Circuits Induction Cooktop Circuits Wiring Hot Tub Electrical Circuits GFCI Circuits Attic Exhaust Fan Installation Bat…",
+      "source": "jameselectricinc.com",
+      "title": "Electrician in Santa Rosa | Santa Rosa Electrician | James Electric",
+      "url": "https://www.jameselectricinc.com"
+    },
+    {
+      "context": "esquaredelectric.net",
+      "first_seen": "2026-10-23",
+      "group": "Electrician Santa Rosa CA",
+      "id": "https://esquaredelectric.net/",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Electrical Services in Santa Rosa & the North Bay. Full-spectrum electrical work backed by California License #991534 and WECA membership. EFI Electric has over a decade of industry experience, so you can rely on us to get the job done right the first time. You’ll also appreciate that: Make the smar…",
+      "source": "esquaredelectric.net",
+      "title": "Electrician Santa Rosa CA | Esquared Electric",
+      "url": "https://esquaredelectric.net"
+    },
+    {
+      "context": "eleoselectric.com",
+      "first_seen": "2026-10-23",
+      "group": "Electrician Santa Rosa CA",
+      "id": "https://eleoselectric.com/electrician-santa-rosa",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Free estimates\n\n24/7 emergency service\n\n### Call Us Today\n\nFree estimates for Santa Rosa residents and businesses. No trip fees.\n\n707-837-6722 Request a Quote\n\nHours: Mon-Fri 8:00am-4:30pm\n\nEmergency: 24/7 Available\n\nLicense: CSLB #1009044\n\nPayment: Cash, credit, debit\n\nEleos Electric on a rebuild j…",
+      "source": "eleoselectric.com",
+      "title": "Electrician Santa Rosa CA | Eleos Electric - Licensed & Insured",
+      "url": "https://eleoselectric.com/electrician-santa-rosa"
+    },
+    {
+      "context": "efielectric.com",
+      "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://efielectric.com/",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Google\n\nDave R profile picture\n\nDave R\n\nGoogle star 1Google star 2Google star 3Google star 4Google star 5Trustindex verifies that the original source of the review is Google.\n\nThis company is very responsive and helpful, and I highly recommend them. I have power tonight thanks to Scott!\n\nGoogle\n\nBob…",
+      "source": "efielectric.com",
+      "title": "Electrician Santa Rosa - EFI Electric",
+      "url": "https://efielectric.com"
+    },
+    {
+      "context": "merriam-webster.com",
+      "first_seen": "2026-10-23",
+      "group": "Definition of ELECTRIC",
+      "id": "https://www.merriam-webster.com/dictionary/electric",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Top Lookups\n\n 1\n\n  existential\n 2\n\n  happy\n 3\n\n  enigma\n 4\n\n  culture\n 5\n\n  didactic\n 6\n\n  pedantic\n 7\n\n  love\n\n#### Word of the Day\n\n#### vocation\n\nSee Definitions and Examples »\n\nGet Word of the Day daily email!\n\n## Popular in Grammar & Usage\n\nSee More\n\n### Merriam-Webster’s Great Big List of Word…",
+      "source": "merriam-webster.com",
+      "title": "ELECTRIC Definition & Meaning - Merriam-Webster",
+      "url": "https://www.merriam-webster.com/dictionary/electric"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "Southern York County Yard sale",
+      "id": "https://www.facebook.com/groups/878719178909868/posts/29284211917933881",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Does not run at the moment, needs a new gas line. Must pickup York city.",
+      "source": "Facebook",
+      "title": "Does not run at the moment, needs a new gas line. Must ...",
+      "url": "https://www.facebook.com/groups/878719178909868/posts/29284211917933881"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "Fairborn Friends And Neighbors",
       "id": "https://www.facebook.com/groups/205788216142564/posts/28830106893283981",
-      "url": "https://www.facebook.com/groups/205788216142564/posts/28830106893283981",
-      "title": "Did Fairborn switch to National Fuel for gas services?",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
       "snippet": "I received my gas bill today, it came from a company called National Fuel. Did Fairborn do this? I never give anyone the time of day when they come knocking",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Fairborn Friends And Neighbors",
-      "posted": "2026-10-22",
+      "title": "Did Fairborn switch to National Fuel for gas services?",
+      "url": "https://www.facebook.com/groups/205788216142564/posts/28830106893283981"
+    },
+    {
+      "context": "peco.com",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.peco.com/my-account/customer-support/contact-us",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.peco.com/my-account/customer-support/contact-us",
-      "url": "https://www.peco.com/my-account/customer-support/contact-us",
-      "title": "Contact Us | PECO - An Exelon Company",
       "snippet": "Find contact details for customer service, assistance programs and more. Find helpful information on service, billing, energy efficiency and more. Use our online form to... How would you like to verify your account to pay your bill? Make a same-day payment without signing in or creating an account. …",
       "source": "peco.com",
-      "context": "peco.com",
-      "group": "",
-      "posted": "",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
+      "title": "Contact Us | PECO - An Exelon Company",
+      "url": "https://www.peco.com/my-account/customer-support/contact-us"
     },
     {
-      "id": "https://www.facebook.com/groups/downingtownlife/posts/1658957795812391",
-      "url": "https://www.facebook.com/groups/downingtownlife/posts/1658957795812391",
-      "title": "Concerned about keeping your home warm this winter?",
-      "snippet": "Visit peco.com/help Call 800-494-4000 UGI CUSTOMERS Ask about the Customer Assistance Program and Operation Share for help with qualifying UGI utility bills.Read more",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Downingtown Life",
-      "posted": "2026-10-22",
       "first_seen": "2026-10-23",
+      "group": "Downingtown Life",
+      "id": "https://www.facebook.com/groups/downingtownlife/posts/1658957795812391",
       "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "Visit peco.com/help Call 800-494-4000 UGI CUSTOMERS Ask about the Customer Assistance Program and Operation Share for help with qualifying UGI utility bills.Read more",
+      "source": "Facebook",
+      "title": "Concerned about keeping your home warm this winter?",
+      "url": "https://www.facebook.com/groups/downingtownlife/posts/1658957795812391"
     },
     {
-      "id": "https://www.eversource.com/residential/services/communities-we-serve",
-      "url": "https://www.eversource.com/residential/services/communities-we-serve",
-      "title": "Communities We Serve | Eversource",
-      "snippet": "Information on this page is for customers in\n\n{{ town-name }}\n\n# Communities We Serve\n\nSee where we provide electric and/or gas service\n\n#### Connecticut - Electric [...] ACTON   \nACUSHNET  \nAGAWAM  \nAMHERST   \nAQUINNAH   \nARLINGTON   \nASHFIELD   \nASHLAND  \nBARNSTABLE  \nBECKET   \nBEDFORD  \nBELLINGHA…",
-      "source": "eversource.com",
       "context": "eversource.com",
-      "group": "Communities We Serve",
-      "posted": "",
       "first_seen": "2026-10-23",
+      "group": "Communities We Serve",
+      "id": "https://www.eversource.com/residential/services/communities-we-serve",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": true,
         "host": false,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
+      "snippet": "Information on this page is for customers in\n\n{{ town-name }}\n\n# Communities We Serve\n\nSee where we provide electric and/or gas service\n\n#### Connecticut - Electric [...] ACTON   \nACUSHNET  \nAGAWAM  \nAMHERST   \nAQUINNAH   \nARLINGTON   \nASHFIELD   \nASHLAND  \nBARNSTABLE  \nBECKET   \nBEDFORD  \nBELLINGHA…",
+      "source": "eversource.com",
+      "title": "Communities We Serve | Eversource",
+      "url": "https://www.eversource.com/residential/services/communities-we-serve"
     },
     {
-      "id": "https://www.facebook.com/groups/515156996071243/posts/2194970158089910",
-      "url": "https://www.facebook.com/groups/515156996071243/posts/2194970158089910",
-      "title": "CenterPoint Energy switches to National Fuel without ...",
-      "snippet": "If you're on center point energy Beware! They changed to national fuel with no warning the bill almost went in the trash cause it looks like just mail,",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Troy Ohio Citizens",
-      "posted": "2026-10-22",
       "first_seen": "2026-10-23",
+      "group": "Troy Ohio Citizens",
+      "id": "https://www.facebook.com/groups/515156996071243/posts/2194970158089910",
       "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "If you're on center point energy Beware! They changed to national fuel with no warning the bill almost went in the trash cause it looks like just mail,",
+      "source": "Facebook",
+      "title": "CenterPoint Energy switches to National Fuel without ...",
+      "url": "https://www.facebook.com/groups/515156996071243/posts/2194970158089910"
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "Portage Residents for Responsible Development",
       "id": "https://www.facebook.com/groups/portageresponsibledevelopment/posts/1472992748020727",
-      "url": "https://www.facebook.com/groups/portageresponsibledevelopment/posts/1472992748020727",
-      "title": "Benefits and concerns of data center investments in ...",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
       "snippet": "Local utilities like PECO are facing massive interconnection requests that could double peak demand. Aging transmission lines and substations weren't built for ...Read more",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Portage Residents for Responsible Development",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "title": "Benefits and concerns of data center investments in ...",
+      "url": "https://www.facebook.com/groups/portageresponsibledevelopment/posts/1472992748020727"
     },
     {
-      "id": "https://secure.peco.com/accounts",
-      "url": "https://secure.peco.com/accounts",
-      "title": "Accounts - PECO",
-      "snippet": "Paperless eBill is a fast, easy, secure, and FREE way to eliminate your paper bill and receive and pay your bill online. Enrollment is quick and easy! We will send an... To make a payment by phone, please dial 877-432-9384 to be connected to our automated bill payment system. PECO utilizes a secure …",
-      "source": "secure.peco.com",
-      "context": "secure.peco.com",
-      "group": "",
-      "posted": "",
-      "first_seen": "2026-10-23",
-      "last_seen": "2026-10-23",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
-        "host": false,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "0b75f7d82cae"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/697085564621409/posts/1864447781218509",
-      "url": "https://www.facebook.com/groups/697085564621409/posts/1864447781218509",
-      "title": "AVAILABLE PO MAMAYA",
-      "snippet": "AVAILABLE PO MAMAYA CJOY FRESH CHICKEN WINGS 160 PER KILO 15 KG PER BAG · Jessielyn Legaspi ▻ Fresh chicken Supplier, atay balunan, isaw,paa, ulo.Read more",
+      "id": "https://www.facebook.com/groups/secondchance.dallas/posts/1815795796236399",
+      "url": "https://www.facebook.com/groups/secondchance.dallas/posts/1815795796236399",
+      "title": "At this point I am about to get a CPN because why it is so ...",
+      "snippet": "Go to North Star or Emerson's I was making great money, but had background issues and needed something quick and they approved me within 3 days both of",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "MURANG FROZEN MEATSHOP SUPPLIER",
+      "group": "Dallas 2nd Chance Apartments and Housing NO SPAM",
       "posted": "2026-10-22",
       "first_seen": "2026-10-23",
       "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/hamptonlocalnews/posts/28719338147737673",
+      "url": "https://www.facebook.com/groups/hamptonlocalnews/posts/28719338147737673",
+      "title": "Any recommendations for solar companies ?",
+      "snippet": "Any recommendations for solar companies ?",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Hampton",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "secure.peco.com",
+      "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://secure.peco.com/accounts",
+      "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
+        "hard_exclusion": true,
+        "host": false,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "host",
         "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "Paperless eBill is a fast, easy, secure, and FREE way to eliminate your paper bill and receive and pay your bill online. Enrollment is quick and easy! We will send an... To make a payment by phone, please dial 877-432-9384 to be connected to our automated bill payment system. PECO utilizes a secure …",
+      "source": "secure.peco.com",
+      "title": "Accounts - PECO",
+      "url": "https://secure.peco.com/accounts"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-23",
+      "group": "MURANG FROZEN MEATSHOP SUPPLIER",
+      "id": "https://www.facebook.com/groups/697085564621409/posts/1864447781218509",
+      "last_seen": "2026-10-23",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
         "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "AVAILABLE PO MAMAYA CJOY FRESH CHICKEN WINGS 160 PER KILO 15 KG PER BAG · Jessielyn Legaspi ▻ Fresh chicken Supplier, atay balunan, isaw,paa, ulo.Read more",
+      "source": "Facebook",
+      "title": "AVAILABLE PO MAMAYA",
+      "url": "https://www.facebook.com/groups/697085564621409/posts/1864447781218509"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2984170411863966/posts/4557563757857949",
+      "url": "https://www.facebook.com/groups/2984170411863966/posts/4557563757857949",
+      "title": "AVAILABLE PA S&R MUFFINS‼️ 📍GREEN VALLEY ...",
+      "snippet": "Still paying over $4 for gas? you don't have to ⛽ Here's where central PA drivers are finding it cheaper: Highland Mart, Highspire → $3.83 (cash)",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "MAKROL 7/11",
+      "posted": "2026-10-23",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
-        "version": "0b75f7d82cae"
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "keyword"
       }
     },
     {
-      "id": "https://www.yelp.com/biz/a2k-electric-winchester",
-      "url": "https://www.yelp.com/biz/a2k-electric-winchester",
-      "title": "A2K ELECTRIC - Updated October 2026 - 10 Photos - Yelp",
-      "snippet": "A2K ELECTRIC , Winchester, NH 03470, 10 Photos, (603) 762-5968, Mon - 8:00 am - 4:30 pm, Tue - 8:00 am - 4:30 pm, Wed - 8:00 am - 4:30 pm, Thu - 8:00 am - 4:30 pm, Fri -... 5 days ago · Electricity , phenomenon associated with stationary or moving electric charges. Electric charge is a fundamental p…",
-      "source": "yelp.com",
       "context": "yelp.com",
-      "group": "",
-      "posted": "",
       "first_seen": "2026-10-23",
+      "group": "",
+      "id": "https://www.yelp.com/biz/a2k-electric-winchester",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
+        "version": "0b75f7d82cae"
+      },
+      "snippet": "A2K ELECTRIC , Winchester, NH 03470, 10 Photos, (603) 762-5968, Mon - 8:00 am - 4:30 pm, Tue - 8:00 am - 4:30 pm, Wed - 8:00 am - 4:30 pm, Thu - 8:00 am - 4:30 pm, Fri -... 5 days ago · Electricity , phenomenon associated with stationary or moving electric charges. Electric charge is a fundamental p…",
+      "source": "yelp.com",
+      "title": "A2K ELECTRIC - Updated October 2026 - 10 Photos - Yelp",
+      "url": "https://www.yelp.com/biz/a2k-electric-winchester"
+    },
+    {
+      "id": "https://www.facebook.com/groups/prestoncountyonlineyardsale/posts/29123363333923774",
+      "url": "https://www.facebook.com/groups/prestoncountyonlineyardsale/posts/29123363333923774",
+      "title": "75000-125000 but heater new never opened",
+      "snippet": "Affordable heater installation options? | Reading, PA Adrian Sanchez … prices up to$ 19,000.00 Dollars, heater for around $1500. Our first estimate came in at",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Preston County Online Yard Sale",
+      "posted": "2026-10-22",
+      "first_seen": "2026-10-23",
+      "last_seen": "2026-10-23",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
-        "version": "0b75f7d82cae"
+        "hard_exclusion": true,
+        "version": "2526f2596bf9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "host"
+        "reason": "keyword"
       }
     },
     {
@@ -3107,36 +3791,36 @@
       "url": "https://www.facebook.com/groups/528042172315847/posts/1693421562444563"
     },
     {
-      "id": "https://en.wikipedia.org/wiki/Electric_current",
-      "url": "https://en.wikipedia.org/wiki/Electric_current",
-      "title": "Electric current - Wikipedia",
-      "snippet": "An electric current is a flow of charged particles, such as electrons or ions, through an electrical conductor or space. It is defined as the net rate at which electric charge flows through a surface.( The moving particles are called charge carriers, which may be of several types, depending on the c…",
-      "source": "en.wikipedia.org",
       "context": "en.wikipedia.org",
-      "group": "",
-      "posted": "",
       "first_seen": "2026-10-22",
+      "group": "",
+      "id": "https://en.wikipedia.org/wiki/Electric_current",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/wildacreslake (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")",
         "site:facebook.com/groups/yorkspringscommunity (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
+      "snippet": "An electric current is a flow of charged particles, such as electrons or ions, through an electrical conductor or space. It is defined as the net rate at which electric charge flows through a surface.( The moving particles are called charge carriers, which may be of several types, depending on the c…",
+      "source": "en.wikipedia.org",
+      "title": "Electric current - Wikipedia",
+      "url": "https://en.wikipedia.org/wiki/Electric_current"
     },
     {
       "context": "facebook.com",
@@ -13626,36 +14310,36 @@
       "url": "https://www.papowerswitch.com/shop-for-rates-results"
     },
     {
-      "id": "https://www.papowerswitch.com/",
-      "url": "https://www.papowerswitch.com",
-      "title": "Shop and Compare Electric Rates in PA | PAPowerSwitch",
-      "snippet": "Papuc Logo Pags Logo White\n\nThe Official Electric Shopping Website of the Pennsylvania Public Utility Commission. Copyright ©2025 Pennsylvania Public Utility Commission. All Rights Reserved. [...] Learn more about PA PUC\n\nGroup 2749\n\n## 1,418,975\n\nPennsylvanians Have Already Switched\n\n\\As of August …",
-      "source": "papowerswitch.com",
       "context": "papowerswitch.com",
-      "group": "Shop and Compare Electric Rates in PA",
-      "posted": "",
       "first_seen": "2026-10-16",
+      "group": "Shop and Compare Electric Rates in PA",
+      "id": "https://www.papowerswitch.com/",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")",
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": true,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
+      "snippet": "Papuc Logo Pags Logo White\n\nThe Official Electric Shopping Website of the Pennsylvania Public Utility Commission. Copyright ©2025 Pennsylvania Public Utility Commission. All Rights Reserved. [...] Learn more about PA PUC\n\nGroup 2749\n\n## 1,418,975\n\nPennsylvanians Have Already Switched\n\n\\As of August …",
+      "source": "papowerswitch.com",
+      "title": "Shop and Compare Electric Rates in PA | PAPowerSwitch",
+      "url": "https://www.papowerswitch.com"
     },
     {
       "context": "papowerswitch.com",
@@ -28112,16 +28796,17 @@
       "url": "https://www.facebook.com/groups/706442656455822/posts/2679901985776536"
     },
     {
-      "id": "https://en.wikipedia.org/wiki/Electricity",
-      "url": "https://en.wikipedia.org/wiki/Electricity",
-      "title": "Electricity",
-      "snippet": "### Electric power\n\nMain article: electric power\n\nImage 18\n\nShare of the population with access to electricity\n\nElectric power is the rate at which electric energy is transferred by an electric circuit. The SI unit of power \"Power (physics)\") is the watt \"Watt (unit)\"), one joule per second.\n\nElectr…",
-      "source": "en.wikipedia.org",
       "context": "en.wikipedia.org",
-      "group": "",
-      "posted": "",
       "first_seen": "2026-10-09",
+      "group": "",
+      "id": "https://en.wikipedia.org/wiki/Electricity",
       "last_seen": "2026-10-23",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "host",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/eastonpost (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")",
         "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")",
@@ -28130,20 +28815,19 @@
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "host",
+        "hard_exclusion": false,
         "host": false,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "host",
+        "semantic_accepted": false,
         "version": "0b75f7d82cae"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "host"
-      }
+      "snippet": "### Electric power\n\nMain article: electric power\n\nImage 18\n\nShare of the population with access to electricity\n\nElectric power is the rate at which electric energy is transferred by an electric circuit. The SI unit of power \"Power (physics)\") is the watt \"Watt (unit)\"), one joule per second.\n\nElectr…",
+      "source": "en.wikipedia.org",
+      "title": "Electricity",
+      "url": "https://en.wikipedia.org/wiki/Electricity"
     },
     {
       "context": "facebook.com",
