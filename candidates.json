@@ -1,20 +1,392 @@
 {
-  "updated": "2026-10-27T11:42:39Z",
-  "count": 974,
+  "updated": "2026-10-27T21:53:16Z",
+  "count": 1007,
   "candidates": [
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Brentwood Pennsylvania Community Group",
       "id": "https://www.facebook.com/groups/BrentwoodCRG/posts/29141546172149421",
-      "url": "https://www.facebook.com/groups/BrentwoodCRG/posts/29141546172149421",
-      "title": "🚧 𝐖𝐀𝐓𝐄𝐑𝐋𝐈𝐍𝐄 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍 𝐍𝐎𝐓𝐈𝐂𝐄 ...",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
       "snippet": "According to PennDot guidelines they will do this project from 8pm-6am. 4 days a week. Project should take 6-8 weeks. Traffic control will be in place during",
       "source": "Facebook",
+      "title": "🚧 𝐖𝐀𝐓𝐄𝐑𝐋𝐈𝐍𝐄 𝐈𝐍𝐒𝐓𝐀𝐋𝐋𝐀𝐓𝐈𝐎𝐍 𝐍𝐎𝐓𝐈𝐂𝐄 ...",
+      "url": "https://www.facebook.com/groups/BrentwoodCRG/posts/29141546172149421"
+    },
+    {
       "context": "facebook.com",
-      "group": "Brentwood Pennsylvania Community Group",
+      "first_seen": "2026-10-27",
+      "group": "Stop Virginia Data Centers",
+      "id": "https://www.facebook.com/groups/736027769475708/posts/912129931865490",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "Utility electricity output in key states that plan major increases in data center capacity 80,000 Pennsylvania … potential cost implications, wholesale",
+      "source": "Facebook",
+      "title": "https://www.reuters.com/business/energy/charting-data- ...",
+      "url": "https://www.facebook.com/groups/736027769475708/posts/912129931865490"
+    },
+    {
+      "id": "https://www.facebook.com/groups/910391603237413/posts/2192524121690815",
+      "url": "https://www.facebook.com/groups/910391603237413/posts/2192524121690815",
+      "title": "Why is gas more expensive at Shell in Rockfish and BP on ...",
+      "snippet": "price of gasoline this summer is only $3 per gallon. Today, the average difference is 30 cents. price variation has increased to 50 cents between octanes",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "What's Happening Hoke Discussion Group",
       "posted": "2026-10-26",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
       "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Lawton Grapevine",
+      "id": "https://www.facebook.com/groups/reallawtongrapevine/posts/28953867894236031",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
         "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "What gas stations in Lawton offer 51 cent water refills and cheap sugar packets?",
+      "source": "Facebook",
+      "title": "What gas stations in Lawton offer 51 cent water refills and ...",
+      "url": "https://www.facebook.com/groups/reallawtongrapevine/posts/28953867894236031"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "AI",
+      "id": "https://www.facebook.com/groups/868876935222403/posts/1449706333806124",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "This bill contains programs support for tribal energy, energy efficiency, and utility development.",
+      "source": "Facebook",
+      "title": "What are the errors on the U.S. Department of Energy's ...",
+      "url": "https://www.facebook.com/groups/868876935222403/posts/1449706333806124"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1639311162816368/posts/28769662896021161",
+      "url": "https://www.facebook.com/groups/1639311162816368/posts/28769662896021161",
+      "title": "Universal Electrical Co. on Gage Street in Hong Kong",
+      "snippet": "Public General Electric Company buildings, 70th and Elmwood Avenue, Philadelphia. in Southwest Philadelphia.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Old Hong Kong",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Understanding China",
+      "id": "https://www.facebook.com/groups/919898111879031/posts/2420055001863327",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "To the American foreign policy establishment, the only power that should be supreme in the world is the United States. When another power becomes too strong ...Read more",
+      "source": "Facebook",
+      "title": "US-China relations and historical conflicts since WW2",
+      "url": "https://www.facebook.com/groups/919898111879031/posts/2420055001863327"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Seniors in Ontario",
+      "id": "https://www.facebook.com/groups/210908787882800/posts/1421463490160651",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "Seniors in Ontario. BILL PASSES INTO … from Indigenous Peoples. costs, on nature or communities. featuring a natural gas BBQ hookup",
+      "source": "Facebook",
+      "title": "This is not what I thought I was voting for when I voted ...",
+      "url": "https://www.facebook.com/groups/210908787882800/posts/1421463490160651"
+    },
+    {
+      "id": "https://www.facebook.com/groups/oldhistoricalphotos/posts/1107715362088162",
+      "url": "https://www.facebook.com/groups/oldhistoricalphotos/posts/1107715362088162",
+      "title": "The life and achievements of Benjamin Franklin",
+      "snippet": "At the age of 17, he moved to Philadelphia, Electricity Experiments (1752): His kite experiment demonstrated that lightning was a form of electricity, the",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Historical Photos",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/monvalleyscoop/posts/4145294672442069",
+      "url": "https://www.facebook.com/groups/monvalleyscoop/posts/4145294672442069",
+      "title": "The New Eagle and Mon City Area Scoop Page",
+      "snippet": "... Columbia Gas incident was bound to hurt the already-tenuous political stature of the natural gas industry around here. Now, Eversource Energy is paying a ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "CANES FANS FOREVER",
+      "id": "https://www.facebook.com/groups/272405367079109/posts/1902747410711555",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "For Franklin it's a good deal; the pressure at Tech won't be as high as at Penn State. He should be able to make them competitive for ACC titles. He just",
+      "source": "Facebook",
+      "title": "Team thriving despite injuries and challenges",
+      "url": "https://www.facebook.com/groups/272405367079109/posts/1902747410711555"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Marlton/Evesham Chat",
+      "id": "https://www.facebook.com/groups/2531657427163568/posts/4479873979008560",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "Tariff is a four-letter word Hi Marlton/Evesham Neighbors, Ever wonder where PSE&G hides the rules for their delivery charges? Most people have never",
+      "source": "Facebook",
+      "title": "Tariff is a four-letter word",
+      "url": "https://www.facebook.com/groups/2531657427163568/posts/4479873979008560"
+    },
+    {
+      "id": "https://www.facebook.com/groups/453686588142698/posts/3633246450186680",
+      "url": "https://www.facebook.com/groups/453686588142698/posts/3633246450186680",
+      "title": "Sublease available for master bedroom in Philadelphia's ...",
+      "snippet": "Sublease or lease takeover in Fishtown, North Lib, or Olde Kensington for $1600/month with private bathroom and decent-sized bedroom available for sharing.Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Philadelphia Housing, Rooms, Apartments, Sublets",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
       ],
       "rules": {
         "accepted": false,
@@ -25,7 +397,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "3283e74d742a"
+        "version": "3d9154ab4589"
       },
       "production": {
         "accepted": false,
@@ -34,297 +406,49 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/736027769475708/posts/912129931865490",
-      "url": "https://www.facebook.com/groups/736027769475708/posts/912129931865490",
-      "title": "https://www.reuters.com/business/energy/charting-data- ...",
-      "snippet": "Utility electricity output in key states that plan major increases in data center capacity 80,000 Pennsylvania … potential cost implications, wholesale",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Stop Virginia Data Centers",
-      "posted": "2026-10-26",
       "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/reallawtongrapevine/posts/28953867894236031",
-      "url": "https://www.facebook.com/groups/reallawtongrapevine/posts/28953867894236031",
-      "title": "What gas stations in Lawton offer 51 cent water refills and ...",
-      "snippet": "What gas stations in Lawton offer 51 cent water refills and cheap sugar packets?",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Lawton Grapevine",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/868876935222403/posts/1449706333806124",
-      "url": "https://www.facebook.com/groups/868876935222403/posts/1449706333806124",
-      "title": "What are the errors on the U.S. Department of Energy's ...",
-      "snippet": "This bill contains programs support for tribal energy, energy efficiency, and utility development.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "AI",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/919898111879031/posts/2420055001863327",
-      "url": "https://www.facebook.com/groups/919898111879031/posts/2420055001863327",
-      "title": "US-China relations and historical conflicts since WW2",
-      "snippet": "To the American foreign policy establishment, the only power that should be supreme in the world is the United States. When another power becomes too strong ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Understanding China",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/210908787882800/posts/1421463490160651",
-      "url": "https://www.facebook.com/groups/210908787882800/posts/1421463490160651",
-      "title": "This is not what I thought I was voting for when I voted ...",
-      "snippet": "Seniors in Ontario. BILL PASSES INTO … from Indigenous Peoples. costs, on nature or communities. featuring a natural gas BBQ hookup",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Seniors in Ontario",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/272405367079109/posts/1902747410711555",
-      "url": "https://www.facebook.com/groups/272405367079109/posts/1902747410711555",
-      "title": "Team thriving despite injuries and challenges",
-      "snippet": "For Franklin it's a good deal; the pressure at Tech won't be as high as at Penn State. He should be able to make them competitive for ACC titles. He just",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "CANES FANS FOREVER",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2531657427163568/posts/4479873979008560",
-      "url": "https://www.facebook.com/groups/2531657427163568/posts/4479873979008560",
-      "title": "Tariff is a four-letter word",
-      "snippet": "Tariff is a four-letter word Hi Marlton/Evesham Neighbors, Ever wonder where PSE&G hides the rules for their delivery charges? Most people have never",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Marlton/Evesham Chat",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
+      "group": "Scottdale Alive Official",
       "id": "https://www.facebook.com/groups/190572460714699/posts/891681933937078",
-      "url": "https://www.facebook.com/groups/190572460714699/posts/891681933937078",
-      "title": "Stolen bike in Scottdale, hoping for its return",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-22",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/190572460714699 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
       "snippet": "Hi, my 10 year old son's bike was taken out of our yard. We have looked everywhere for it. If you can please keep your eye out. I just hope someone",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Scottdale Alive Official",
-      "posted": "2026-10-22",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups/190572460714699 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "title": "Stolen bike in Scottdale, hoping for its return",
+      "url": "https://www.facebook.com/groups/190572460714699/posts/891681933937078"
     },
     {
-      "id": "https://www.facebook.com/groups/190572460714699/posts/895020623603209",
-      "url": "https://www.facebook.com/groups/190572460714699/posts/895020623603209",
-      "title": "Scottdale Alive (Official)",
-      "snippet": "It seems the car wash that was going into the old rite aid building by Walmart has bought Mach 1 and is no longer renovating the rite aid.",
+      "id": "https://www.facebook.com/groups/197722616957270/posts/29327570026879142",
+      "url": "https://www.facebook.com/groups/197722616957270/posts/29327570026879142",
+      "title": "Should I buy a home in Allegheny County now or wait until ...",
+      "snippet": "Here in Pittsburgh, expect a market in 2026 that offers: • More balance • More predictability • More choices for buyers • More stability for sellers • More",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Scottdale Alive Official",
-      "posted": "2026-10-25",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups/190572460714699 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1167275855111078/posts/1676553044183354",
-      "url": "https://www.facebook.com/groups/1167275855111078/posts/1676553044183354",
-      "title": "Say goodbye to Joel McEntire in his current role with your ...",
-      "snippet": "Deregulation of environmental and safety regulations to increase profits will ultimately cause us and our children to pay a high price that we cannot afford as",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "50501 Movement Washington State",
+      "group": "You know you're from Bridgeville when..........",
       "posted": "2026-10-27",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
       "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
       ],
       "rules": {
         "accepted": false,
@@ -332,10 +456,10 @@
         "reason": "keyword",
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
+        "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "3283e74d742a"
+        "version": "3d9154ab4589"
       },
       "production": {
         "accepted": false,
@@ -344,83 +468,269 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/132728896890594/posts/3553625624800887",
-      "url": "https://www.facebook.com/groups/132728896890594/posts/3553625624800887",
-      "title": "Question... Do you ever feel like life keeps throwing ...",
-      "snippet": "There are Rising gas prices, bills, financial struggles, racism and people constantly trying to take advantage of you? Well, what if you could fight back",
+      "id": "https://www.facebook.com/groups/1113516743525984/posts/1662712948606358",
+      "url": "https://www.facebook.com/groups/1113516743525984/posts/1662712948606358",
+      "title": "Section 8",
+      "snippet": "I am open to both short-term sublets and long-term renters. Pricing & Utilities: $1,600. The listed monthly price covers rent for 1 person, high-speed Wi-Fi, ...Read more",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Indie Game Devs",
+      "group": "Homes For Rent Pittsburgh & Surrounding Areas",
       "posted": "2026-10-26",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
       "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "keyword",
+        "reason": "intent",
         "host": true,
-        "keyword": false,
-        "pennsylvania": false,
+        "keyword": true,
+        "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "3283e74d742a"
+        "version": "3d9154ab4589"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "intent"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/725464725834833/posts/1752454956469133",
-      "url": "https://www.facebook.com/groups/725464725834833/posts/1752454956469133",
-      "title": "President Tinubu's plan to revive Nigeria's dormant refineries",
-      "snippet": "The completion of 23 refineries could: 1. Slash fuel import bills and FX pressure 2. Improve fuel availability and price stability 3. Create thousands of direct",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Punch News",
-      "posted": "2026-10-27",
       "first_seen": "2026-10-27",
+      "group": "Scottdale Alive Official",
+      "id": "https://www.facebook.com/groups/190572460714699/posts/895020623603209",
       "last_seen": "2026-10-27",
+      "posted": "2026-10-25",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+        "site:facebook.com/groups/190572460714699 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "3283e74d742a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "It seems the car wash that was going into the old rite aid building by Walmart has bought Mach 1 and is no longer renovating the rite aid.",
+      "source": "Facebook",
+      "title": "Scottdale Alive (Official)",
+      "url": "https://www.facebook.com/groups/190572460714699/posts/895020623603209"
     },
     {
-      "id": "https://www.facebook.com/groups/1074810956909032/posts/1779426836447437",
-      "url": "https://www.facebook.com/groups/1074810956909032/posts/1779426836447437",
-      "title": "Pawnee Bill and May Lillie's Life Behind the Wild West ...",
-      "snippet": "After years of travel, performance, and constant reinvention, Gordon “Pawnee Bill” Lillie built a life that blended frontier myth with show business ambition.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Old Historical Pictures",
-      "posted": "2026-10-27",
       "first_seen": "2026-10-27",
+      "group": "50501 Movement Washington State",
+      "id": "https://www.facebook.com/groups/1167275855111078/posts/1676553044183354",
       "last_seen": "2026-10-27",
+      "posted": "2026-10-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
       ],
       "rules": {
         "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "Deregulation of environmental and safety regulations to increase profits will ultimately cause us and our children to pay a high price that we cannot afford as",
+      "source": "Facebook",
+      "title": "Say goodbye to Joel McEntire in his current role with your ...",
+      "url": "https://www.facebook.com/groups/1167275855111078/posts/1676553044183354"
+    },
+    {
+      "id": "https://www.facebook.com/groups/453686588142698/posts/3633608913483767",
+      "url": "https://www.facebook.com/groups/453686588142698/posts/3633608913483767",
+      "title": "Room available for lease takeover at The Nest on N. Broad ...",
+      "snippet": "Rent: $1,075/month • Utilities: All utilities included, except for electricity costs exceeding $25/month. ... I am moving to Philadelphia for a new job in a ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Philadelphia Housing, Rooms, Apartments, Sublets",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/806466416226709/posts/3417402658466392",
+      "url": "https://www.facebook.com/groups/806466416226709/posts/3417402658466392",
+      "title": "Room available for lease takeover at The Nest on N. Broad ...",
+      "snippet": "Rent: $1,075/month • Utilities: All utilities included, except for electricity costs exceeding $25/month. ... I'm moving to Philadelphia from Michigan after ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Philadelphia Roommates",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Indie Game Devs",
+      "id": "https://www.facebook.com/groups/132728896890594/posts/3553625624800887",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "There are Rising gas prices, bills, financial struggles, racism and people constantly trying to take advantage of you? Well, what if you could fight back",
+      "source": "Facebook",
+      "title": "Question... Do you ever feel like life keeps throwing ...",
+      "url": "https://www.facebook.com/groups/132728896890594/posts/3553625624800887"
+    },
+    {
+      "id": "https://www.facebook.com/groups/453686588142698/posts/3634077020103623",
+      "url": "https://www.facebook.com/groups/453686588142698/posts/3634077020103623",
+      "title": "Private top-floor suite for sublet near Broad and Ellsworth ...",
+      "snippet": "... electricity costs exceeding $25/month. Any excess is shared among ... I am moving to Philadelphia for a new job in a couple weeks (!!) and am in ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Philadelphia Housing, Rooms, Apartments, Sublets",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Punch News",
+      "id": "https://www.facebook.com/groups/725464725834833/posts/1752454956469133",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "The completion of 23 refineries could: 1. Slash fuel import bills and FX pressure 2. Improve fuel availability and price stability 3. Create thousands of direct",
+      "source": "Facebook",
+      "title": "President Tinubu's plan to revive Nigeria's dormant refineries",
+      "url": "https://www.facebook.com/groups/725464725834833/posts/1752454956469133"
+    },
+    {
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1703034741483245",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1703034741483245",
+      "title": "Plumber recommendations for direct vent gas hot water ...",
+      "snippet": "Recommendations for a place to purchase and have installed a direct vent, gas, hot water heater, or a professional Plumber, who can install one from Lowe’s",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "across Westmoreland",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
         "semantic_accepted": false,
         "reason": "keyword",
         "host": true,
@@ -428,19 +738,174 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "3283e74d742a"
+        "version": "3d9154ab4589"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/roadtreking/posts/3681404462018506",
+      "url": "https://www.facebook.com/groups/roadtreking/posts/3681404462018506",
+      "title": "Planning a 3-Month RV Trip from Ohio to West Coast",
+      "snippet": "We are starting to plan a 3mo trip, from Ohio to the west coast to see those national parks. Need advice re: mail, grass mowing, routes, gas prices,",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "RV Lifestyle Group",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Old Historical Pictures",
+      "id": "https://www.facebook.com/groups/1074810956909032/posts/1779426836447437",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "After years of travel, performance, and constant reinvention, Gordon “Pawnee Bill” Lillie built a life that blended frontier myth with show business ambition.",
+      "source": "Facebook",
+      "title": "Pawnee Bill and May Lillie's Life Behind the Wild West ...",
+      "url": "https://www.facebook.com/groups/1074810956909032/posts/1779426836447437"
+    },
+    {
+      "id": "https://www.facebook.com/groups/187366805485190/posts/2094975351390983",
+      "url": "https://www.facebook.com/groups/187366805485190/posts/2094975351390983",
+      "title": "Our Governor just blamed gas prices in Michigan on ...",
+      "snippet": "The other 6 highest are California, Illinois, Indiana, Washington, Pennsylvania & New Jersey. Gas is under 4 dollars in most red states!",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Roseville, Michigan Residents Group.",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/583829746401355/posts/1859998458784471",
+      "url": "https://www.facebook.com/groups/583829746401355/posts/1859998458784471",
+      "title": "Oil, Gas and Mineral Rights for Sale!",
+      "snippet": "For more details contact us at 724-933-1311 or contact@cx-energy.com. COLUMBIA GAS Address: STONEY RIDGE DR Center, Pa. Sold Price: $12,500,000 3.Owner: Sold",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Oil & Gas Mineral Rights Real Property & Royalties for Sale",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/922256416950467/posts/987943907048384",
+      "url": "https://www.facebook.com/groups/922256416950467/posts/987943907048384",
+      "title": "Natural gas source and supply details for Midway Energy ...",
+      "snippet": "provide lower natural gas prices than the default rates offered by Columbia Gas. higher default rates during the summer months of 2024 … favorable rates for",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
       }
     },
     {
       "id": "https://www.facebook.com/groups/613647709376661/posts/2459557198119027",
       "url": "https://www.facebook.com/groups/613647709376661/posts/2459557198119027",
       "title": "Marion Utilities announces 39.21% rate increase over ...",
-      "snippet": "From Marion Utilities this month. Jab the poor guys again. Increase of 39.21% over 2026 rates. Please stop these monopolies.",
+      "snippet": "From Marion Utilities this month.  Jab the poor guys again.  Increase of 39.21% over 2026 rates.   Please stop these monopolies.",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Marion Indiana Grant County",
@@ -448,7 +913,8 @@
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
       "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")",
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -459,12 +925,74 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "3283e74d742a"
+        "version": "3d9154ab4589"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/apartments.philadelpha/posts/2289515861839356",
+      "url": "https://www.facebook.com/groups/apartments.philadelpha/posts/2289515861839356",
+      "title": "LEASE TAKEOVER // STUDIO FULLY FURNISHED",
+      "snippet": "Utilities: ~$100/month for one person ・ perfect for someone relocating to Philly. Rent: $2,380/month (Electricity not included) Rent: $1,451 • Utilities: $51",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Philadelphia Apartments and Housing NO SPAM",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/982897636618380/posts/1647158710192266",
+      "url": "https://www.facebook.com/groups/982897636618380/posts/1647158710192266",
+      "title": "Kilworth/Komoka gas fireplace repair and maintenance ...",
+      "snippet": "I’m looking for a gas fireplace company or contractor who could look at my fireplace and tell me why it’s not working properly. It’s old and the",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Kilworth / Komoka Neighbours",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
       }
     },
     {
@@ -479,7 +1007,8 @@
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
       "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")",
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -490,7 +1019,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "3283e74d742a"
+        "version": "3d9154ab4589"
       },
       "production": {
         "accepted": false,
@@ -499,18 +1028,111 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/5670625079733713/posts/28480880828281481",
+      "url": "https://www.facebook.com/groups/5670625079733713/posts/28480880828281481",
+      "title": "If you are trying to move a rundown property in the ...",
+      "snippet": "Hey everyone! I'm looking for someone that can do a clean out on a property I bought in Pittsburgh. Do you have any recommendations?",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Real Estate Community Network PA",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Solar Sales, Objections, and Markets",
       "id": "https://www.facebook.com/groups/solarsalestalks/posts/1657401106095334",
-      "url": "https://www.facebook.com/groups/solarsalestalks/posts/1657401106095334",
-      "title": "How do Florida solar reps address FPL's upcoming rate ...",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
       "snippet": "How do Florida solar reps address FPL's upcoming rate increases with homeowners? Showing them their own bill history, the rate case itself, something else?",
       "source": "Facebook",
+      "title": "How do Florida solar reps address FPL's upcoming rate ...",
+      "url": "https://www.facebook.com/groups/solarsalestalks/posts/1657401106095334"
+    },
+    {
+      "id": "https://www.facebook.com/groups/505869199546430/posts/4139451439521503",
+      "url": "https://www.facebook.com/groups/505869199546430/posts/4139451439521503",
+      "title": "Hey everyone! Just wanted to put a little post out there and ...",
+      "snippet": "The video showcases their services, which include moving, hauling, and providing professional, licensed, and insured moving solutions for residential and",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Solar Sales, Objections, and Markets",
-      "posted": "2026-10-26",
+      "group": "ELK COUNTY GARAGE SALES",
+      "posted": "2026-10-27",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
       "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/303649262041653/posts/1152940080445896",
+      "url": "https://www.facebook.com/groups/303649262041653/posts/1152940080445896",
+      "title": "Global warming rate nearly doubles since 2015, study finds",
+      "snippet": "Global warming is accelerating, and scientists have found evidence that Earth is heating up much faster than before. A 2026 study published in",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Michio Kaku",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -521,7 +1143,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "3283e74d742a"
+        "version": "3d9154ab4589"
       },
       "production": {
         "accepted": false,
@@ -530,111 +1152,204 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Raton New Mexico Community Page",
       "id": "https://www.facebook.com/groups/ratonnm/posts/2206067723277858",
-      "url": "https://www.facebook.com/groups/ratonnm/posts/2206067723277858",
-      "title": "Gas line relocation and boiler inspection services in Raton, ...",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
       "snippet": "Any recommendations for someone to move a gas line to another room for a stove. Also in need of someone to come take a look at our boiler? I can provide",
       "source": "Facebook",
+      "title": "Gas line relocation and boiler inspection services in Raton, ...",
+      "url": "https://www.facebook.com/groups/ratonnm/posts/2206067723277858"
+    },
+    {
       "context": "facebook.com",
-      "group": "Raton New Mexico Community Page",
-      "posted": "2026-10-26",
       "first_seen": "2026-10-27",
+      "group": "Promoting Mirfield Businesses",
+      "id": "https://www.facebook.com/groups/MirfieldBT/posts/28165750789771279",
       "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": false,
         "host": true,
-        "keyword": false,
-        "pennsylvania": false,
+        "keyword": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "3283e74d742a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/MirfieldBT/posts/28165750789771279",
-      "url": "https://www.facebook.com/groups/MirfieldBT/posts/28165750789771279",
-      "title": "Gas & Electricity 🌐 B – Broadband 📱 C – Mobile Phone 💷 ...",
       "snippet": "Quick question for everyone! With the cost of everyday living, I'm curious… Which household bill frustrates you the most? ⚡ A – Gas & Electricity",
       "source": "Facebook",
+      "title": "Gas & Electricity 🌐 B – Broadband 📱 C – Mobile Phone 💷 ...",
+      "url": "https://www.facebook.com/groups/MirfieldBT/posts/28165750789771279"
+    },
+    {
+      "id": "https://www.facebook.com/groups/320759414634640/posts/29000949126188953",
+      "url": "https://www.facebook.com/groups/320759414634640/posts/29000949126188953",
+      "title": "Fully operational stainless steel high quality gas range with ...",
+      "snippet": "Multiple burners, spacious oven, and rugged stainless design make it ideal for busy kitchens. Clean, tested, and ready for use. Call or text 603-235-9111 for ...Read more",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Promoting Mirfield Businesses",
-      "posted": "2026-10-26",
+      "group": "Ardmore Oklahoma-Southern Oklahoma Buy, Sell, Trade",
+      "posted": "2026-10-27",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
       "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "keyword",
         "host": true,
-        "keyword": true,
+        "keyword": false,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
-        "version": "3283e74d742a"
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "keyword"
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "MELBOURNE - Housing, Apartments, Rooms, Sublets",
       "id": "https://www.facebook.com/groups/932038410603665/posts/2675771479563674",
-      "url": "https://www.facebook.com/groups/932038410603665/posts/2675771479563674",
-      "title": "Female-only room for rent in Carnegie from November 22",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
       "snippet": "Hey everyone! I'm looking for someone to take over my room in Carnegie from 22 November! ✨ The room A private, furnished room with a bed, desk, chair and ...Read more",
       "source": "Facebook",
+      "title": "Female-only room for rent in Carnegie from November 22",
+      "url": "https://www.facebook.com/groups/932038410603665/posts/2675771479563674"
+    },
+    {
       "context": "facebook.com",
-      "group": "MELBOURNE - Housing, Apartments, Rooms, Sublets",
-      "posted": "2026-10-26",
       "first_seen": "2026-10-27",
+      "group": "Politics and More in BC and Across Canada",
+      "id": "https://www.facebook.com/groups/BCPoliticsAndMore/posts/2268612353682470",
       "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "3283e74d742a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/BCPoliticsAndMore/posts/2268612353682470",
-      "url": "https://www.facebook.com/groups/BCPoliticsAndMore/posts/2268612353682470",
-      "title": "Federal Conservatives propose bill to end BC's North ...",
       "snippet": "And so it begins.\nNot even 48 hours after BC elected a Conservative government, the federal Conservatives are coming for the North Coast tanker ban.",
       "source": "Facebook",
+      "title": "Federal Conservatives propose bill to end BC's North ...",
+      "url": "https://www.facebook.com/groups/BCPoliticsAndMore/posts/2268612353682470"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1165747906857964/posts/27991255047213886",
+      "url": "https://www.facebook.com/groups/1165747906857964/posts/27991255047213886",
+      "title": "FYI - ??? -",
+      "snippet": "This news report announces that most electricity providers in Pennsylvania will be increasing their rates starting June 1.",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Politics and More in BC and Across Canada",
-      "posted": "2026-10-26",
+      "group": "Mon Valley Views",
+      "posted": "2026-10-27",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
       "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/2326473994404430/posts/2899077317144092",
+      "url": "https://www.facebook.com/groups/2326473994404430/posts/2899077317144092",
+      "title": "FS/FT 2 fast boats and 2x money!",
+      "snippet": "I purchased the boat from a private seller from Lake George, NY. This twin engine beast approaches 800HP and hits a GPS speed of 80mph. Email: magnitka87@gmail.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Blox Fruit",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -645,7 +1360,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "3283e74d742a"
+        "version": "3d9154ab4589"
       },
       "production": {
         "accepted": false,
@@ -654,328 +1369,266 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Madras Neighborhood Community",
       "id": "https://www.facebook.com/groups/554314632037963/posts/2367926500676758",
-      "url": "https://www.facebook.com/groups/554314632037963/posts/2367926500676758",
-      "title": "Does anyone have a gas generator they no longer need? ...",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-27",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
       "snippet": "If anyone is looking for a portable gasoline powered generator, Needs a new fuel line (pictured) $100 OBO and you'd have to come pick it up in Livermore.",
       "source": "Facebook",
+      "title": "Does anyone have a gas generator they no longer need? ...",
+      "url": "https://www.facebook.com/groups/554314632037963/posts/2367926500676758"
+    },
+    {
       "context": "facebook.com",
-      "group": "Madras Neighborhood Community",
-      "posted": "2026-10-27",
       "first_seen": "2026-10-27",
+      "group": "POTTSTOWN TALK",
+      "id": "https://www.facebook.com/groups/2894805220822102/posts/4211398115829466",
       "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "3283e74d742a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2894805220822102/posts/4211398115829466",
-      "url": "https://www.facebook.com/groups/2894805220822102/posts/4211398115829466",
-      "title": "Die Laughing, Inc.: Laughter with a Purpose in Pottstown",
       "snippet": "Through comedy shows, fundraising events, and community partnerships, we raise awareness and funds for causes that are deeply personal to our organization.",
       "source": "Facebook",
+      "title": "Die Laughing, Inc.: Laughter with a Purpose in Pottstown",
+      "url": "https://www.facebook.com/groups/2894805220822102/posts/4211398115829466"
+    },
+    {
       "context": "facebook.com",
-      "group": "POTTSTOWN TALK",
-      "posted": "2026-10-26",
       "first_seen": "2026-10-27",
+      "group": "Ship Data Center Info",
+      "id": "https://www.facebook.com/groups/httpssites.google.comviewshipdatacenterin/posts/1104557289092463",
       "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "3283e74d742a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/httpssites.google.comviewshipdatacenterin/posts/1104557289092463",
-      "url": "https://www.facebook.com/groups/httpssites.google.comviewshipdatacenterin/posts/1104557289092463",
-      "title": "Data centers approvals impact the entire PJM region. ...",
       "snippet": "Data centers approvals impact the entire PJM region. This video explains what is happening in WVA, the same situation in occurring in PA. They are not",
       "source": "Facebook",
+      "title": "Data centers approvals impact the entire PJM region. ...",
+      "url": "https://www.facebook.com/groups/httpssites.google.comviewshipdatacenterin/posts/1104557289092463"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2011009585788856/posts/4657498924473229",
+      "url": "https://www.facebook.com/groups/2011009585788856/posts/4657498924473229",
+      "title": "Contractor recommendations for gas service setup in Shoals",
+      "snippet": "Looking for recommendations for a company that can run natural gas lines. Who installs gas lines for stoves in Columbia County? Washington County, PA?",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Ship Data Center Info",
-      "posted": "2026-10-26",
+      "group": "What's Happening Shoals",
+      "posted": "2026-10-27",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
       "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "keyword",
+        "reason": "geography",
         "host": true,
-        "keyword": false,
+        "keyword": true,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "3283e74d742a"
+        "version": "3d9154ab4589"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "geography"
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Scottdale Alive Official",
       "id": "https://www.facebook.com/groups/190572460714699/posts/895632096875395",
-      "url": "https://www.facebook.com/groups/190572460714699/posts/895632096875395",
-      "title": "Clubhouse Pizzeria - heyyyy connellsville!!!!",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/190572460714699 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
       "snippet": "HEYYYY CONNELLSVILLE!!!! We will be at the delicious Clubhouse Pizzeria tomorrow 6-8pm with our Slime Bar!! They will be running pizza & food specials!!",
       "source": "Facebook",
+      "title": "Clubhouse Pizzeria - heyyyy connellsville!!!!",
+      "url": "https://www.facebook.com/groups/190572460714699/posts/895632096875395"
+    },
+    {
       "context": "facebook.com",
-      "group": "Scottdale Alive Official",
-      "posted": "2026-10-26",
       "first_seen": "2026-10-27",
+      "group": "Spalding County Discussion Group",
+      "id": "https://www.facebook.com/groups/gettoknowgriffin/posts/29207444535606027",
       "last_seen": "2026-10-27",
+      "posted": "2026-10-27",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups/190572460714699 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "3283e74d742a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/gettoknowgriffin/posts/29207444535606027",
-      "url": "https://www.facebook.com/groups/gettoknowgriffin/posts/29207444535606027",
-      "title": "City of Griffin utility transfer issues with extra fees?",
       "snippet": "For City of Griffin utilities, residents report a $50 disconnect fee and a $50 reconnect fee plus a $30- $35 after-hours fee. There isn't a specific “non-remote",
       "source": "Facebook",
+      "title": "City of Griffin utility transfer issues with extra fees?",
+      "url": "https://www.facebook.com/groups/gettoknowgriffin/posts/29207444535606027"
+    },
+    {
       "context": "facebook.com",
-      "group": "Spalding County Discussion Group",
-      "posted": "2026-10-27",
       "first_seen": "2026-10-27",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1703384004781652",
       "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "3283e74d742a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1703384004781652",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1703384004781652",
-      "title": "Certified plumbers for People's gas line replacement in ...",
       "snippet": "homeowners report quotes from around $1,400 for 10 feet up to $30-35k for relocating a main line. For a typical 40-50 foot run from the curb to the house,",
       "source": "Facebook",
+      "title": "Certified plumbers for People's gas line replacement in ...",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1703384004781652"
+    },
+    {
       "context": "facebook.com",
-      "group": "across Westmoreland",
-      "posted": "2026-10-26",
       "first_seen": "2026-10-27",
+      "group": "Muebles Usados en Ciudad Juárez",
+      "id": "https://www.facebook.com/groups/1002764306935187/posts/2261167057761566",
       "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "3283e74d742a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1002764306935187/posts/2261167057761566",
-      "url": "https://www.facebook.com/groups/1002764306935187/posts/2261167057761566",
-      "title": "Calenton $500, gas natural. Boiler gas natural $1000",
       "snippet": "Calenton $500, gas natural. peoples gas is offering customers in gallitzin $500 if you already installed a water heater. No surprise bills, no question as to",
       "source": "Facebook",
+      "title": "Calenton $500, gas natural. Boiler gas natural $1000",
+      "url": "https://www.facebook.com/groups/1002764306935187/posts/2261167057761566"
+    },
+    {
+      "id": "https://www.facebook.com/groups/807835262651255/posts/28137774862563926",
+      "url": "https://www.facebook.com/groups/807835262651255/posts/28137774862563926",
+      "title": "Butler County's use of natural gas impact fees for ...",
+      "snippet": "Under the law, impact fees are imposed on the extraction of natural gas and fluctuate depending on the price of natural gas and the rate of inflation. I ...Read more",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Muebles Usados en Ciudad Juárez",
+      "group": "Butler County businesses and services",
       "posted": "2026-10-26",
       "first_seen": "2026-10-27",
       "last_seen": "2026-10-27",
       "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/157968757565428/posts/29694322950169951",
-      "url": "https://www.facebook.com/groups/157968757565428/posts/29694322950169951",
-      "title": "Australian $2 notes with consecutive prefixes ...",
-      "snippet": "Increases are on the way. Electric bills to increase for Duquesne Light, West Penn Power customers. Vickie Durst and Nicholas Brown. 2 reactions ·. 16 comments.Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Coin and Banknote Collectors Association of Australia",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1010483399100526/posts/3743769909105181",
-      "url": "https://www.facebook.com/groups/1010483399100526/posts/3743769909105181",
-      "title": "Anybody in the Chambersburg area work on solar ...",
-      "snippet": "Our electric bill is so high that idk what to do with it at this point, someone to build a solar generator with 4000wh capacity for $2k or less in Washington",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Whats Going On In Chambersburg, PA",
-      "posted": "2026-10-27",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/190572460714699/posts/895027753602496",
-      "url": "https://www.facebook.com/groups/190572460714699/posts/895027753602496",
-      "title": "1 bedroom apartment for rent in Scottdale with coin op ...",
-      "snippet": "This unit is downstairs, all one level. Rent is $750/month, which includes all utilities except for electric. Tenant is responsible for paying electric bill.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Scottdale Alive Official",
-      "posted": "2026-10-25",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups/190572460714699 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "3283e74d742a"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/558221130873671/posts/29824915590444170",
-      "url": "https://www.facebook.com/groups/558221130873671/posts/29824915590444170",
-      "title": "# Labour can cut electricity bills 20% by 2030 – says coalition",
-      "snippet": "Labour can cut electricity bills 20% by 2030 … gas and electricity bills would rise again this October, after dropping an average £122 in July. jump 4 percent",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Energy Industry U.K.  - Events and insight ..",
-      "posted": "2026-10-26",
-      "first_seen": "2026-10-27",
-      "last_seen": "2026-10-27",
-      "queries": [
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -986,13 +1639,385 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": false,
-        "version": "3283e74d742a"
+        "version": "3d9154ab4589"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
       }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Coin and Banknote Collectors Association of Australia",
+      "id": "https://www.facebook.com/groups/157968757565428/posts/29694322950169951",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-27",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "Increases are on the way. Electric bills to increase for Duquesne Light, West Penn Power customers. Vickie Durst and Nicholas Brown. 2 reactions ·. 16 comments.Read more",
+      "source": "Facebook",
+      "title": "Australian $2 notes with consecutive prefixes ...",
+      "url": "https://www.facebook.com/groups/157968757565428/posts/29694322950169951"
+    },
+    {
+      "id": "https://www.facebook.com/groups/relocating2florida/posts/2295327117676813",
+      "url": "https://www.facebook.com/groups/relocating2florida/posts/2295327117676813",
+      "title": "Are you moving? Local or long distance? 🚛",
+      "snippet": "A&J Moving-Assembly & Removal Services LLC. call today or PM for a FREE quote 203-300-7206. Setup & MORE REMOVAL. We serve Philadelphia & New Jersey",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Relocating to Florida",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1520071624868086/posts/3390526117822618",
+      "url": "https://www.facebook.com/groups/1520071624868086/posts/3390526117822618",
+      "title": "Apartment rentals available in Pittsburgh?",
+      "snippet": "We recently sold our house and will be moving to the Pittsburgh area soon, but we haven't found a place to rent yet. If you know of any available rentals or",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "PITTSBURGH - Housing, Apartments, Rooms, Sublets",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Whats Going On In Chambersburg, PA",
+      "id": "https://www.facebook.com/groups/1010483399100526/posts/3743769909105181",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-27",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "Our electric bill is so high that idk what to do with it at this point, someone to build a solar generator with 4000wh capacity for $2k or less in Washington",
+      "source": "Facebook",
+      "title": "Anybody in the Chambersburg area work on solar ...",
+      "url": "https://www.facebook.com/groups/1010483399100526/posts/3743769909105181"
+    },
+    {
+      "id": "https://www.facebook.com/groups/accesswestmoreland/posts/29454596130897803",
+      "url": "https://www.facebook.com/groups/accesswestmoreland/posts/29454596130897803",
+      "title": "Access Westmoreland",
+      "snippet": "JT Electric Heating & Cooling LLC is in Pittsburgh, PA. 150 Amp Service & Panel ・ 412-628-0 LICENSED AND INSURED ・ $100 for a 20 minute session, guaranteed 1",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/2859470447499008/posts/29383856884633670",
+      "url": "https://www.facebook.com/groups/2859470447499008/posts/29383856884633670",
+      "title": "3 bed/2 bath apartment available in University City for ...",
+      "snippet": "Medium Room but this has poor lighting and shares the wall with the bathroom and the smallest room - $525 Shared Utilities : WIFI & PECO, Yearly Flat Water Fee ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pennsylvania Latinos",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/philadelphia.rooms.rentals/posts/2362532714548032",
+      "url": "https://www.facebook.com/groups/philadelphia.rooms.rentals/posts/2362532714548032",
+      "title": "3 bed, 2 bath duplex unit for rent in University City, $2600/ ...",
+      "snippet": "Tenants responsible for electric and gas. Only security and first month rent to move in. 1 year lease. Hardwood floor. Pets friendly. Free street parking. Near ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pennsylvania Apartments, Houses, Rooms & Roommates",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/RENTME/posts/3277810649089048",
+      "url": "https://www.facebook.com/groups/RENTME/posts/3277810649089048",
+      "title": "2nd floor- tenant pays for electricity and gas. No pet",
+      "snippet": "Tenant is responsible for gas and electric. Proof of income, security deposit, and 1st month rent required before moving in. NO pets.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "HAZLETON RENT",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Scottdale Alive Official",
+      "id": "https://www.facebook.com/groups/190572460714699/posts/895027753602496",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-25",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/190572460714699 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "This unit is downstairs, all one level. Rent is $750/month, which includes all utilities except for electric. Tenant is responsible for paying electric bill.",
+      "source": "Facebook",
+      "title": "1 bedroom apartment for rent in Scottdale with coin op ...",
+      "url": "https://www.facebook.com/groups/190572460714699/posts/895027753602496"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2531657427163568/posts/4479753359020622",
+      "url": "https://www.facebook.com/groups/2531657427163568/posts/4479753359020622",
+      "title": "$25 off any service! Call or text 856-426-1207",
+      "snippet": "Call or text 856-426-1207 Serving all of South Jersey and Philadelphia. ELECTRICAL Fixture installs, outlets, PLUMBING. SERVING ALL SOUTH JERSEY AND",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Marlton/Evesham Chat",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/upittsburgh/posts/2043786096296953",
+      "url": "https://www.facebook.com/groups/upittsburgh/posts/2043786096296953",
+      "title": "$1302/month 19th-floor apartment for lease takeover in ...",
+      "snippet": "I'm looking for someone to take over the lease on my apartment in downtown pittsburgh. I've already moved out, so the apartment is vacant and available for move ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "University of Pittsburgh PITT Apartments and Housing NO SPAM",
+      "posted": "2026-10-27",
+      "first_seen": "2026-10-27",
+      "last_seen": "2026-10-27",
+      "queries": [
+        "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "3d9154ab4589"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-27",
+      "group": "Energy Industry U.K.  - Events and insight ..",
+      "id": "https://www.facebook.com/groups/558221130873671/posts/29824915590444170",
+      "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"UGI\" OR \"Peoples Natural Gas\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "3283e74d742a"
+      },
+      "snippet": "Labour can cut electricity bills 20% by 2030 … gas and electricity bills would rise again this October, after dropping an average £122 in July. jump 4 percent",
+      "source": "Facebook",
+      "title": "# Labour can cut electricity bills 20% by 2030 – says coalition",
+      "url": "https://www.facebook.com/groups/558221130873671/posts/29824915590444170"
     },
     {
       "context": "facebook.com",
@@ -2607,36 +3632,36 @@
       "url": "https://www.facebook.com/groups/1743733785869349/posts/4314962805413088"
     },
     {
-      "id": "https://www.facebook.com/groups/mifflincountyalerts/posts/28803867402607566",
-      "url": "https://www.facebook.com/groups/mifflincountyalerts/posts/28803867402607566",
-      "title": "Electricity, Prices and Data Centers in Mifflin County",
-      "snippet": "# 🔌 Electricity, Prices and Data Centers in Mifflin County ⚡\n\nI had been collecting data for a while now and decided to summarize some it for",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Mifflin County Alerts",
-      "posted": "2026-10-26",
       "first_seen": "2026-10-26",
+      "group": "Mifflin County Alerts",
+      "id": "https://www.facebook.com/groups/mifflincountyalerts/posts/28803867402607566",
       "last_seen": "2026-10-27",
+      "posted": "2026-10-26",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Duquesne Light\" OR \"West Penn Power\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "3283e74d742a"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "# 🔌 Electricity, Prices and Data Centers in Mifflin County ⚡\n\nI had been collecting data for a while now and decided to summarize some it for",
+      "source": "Facebook",
+      "title": "Electricity, Prices and Data Centers in Mifflin County",
+      "url": "https://www.facebook.com/groups/mifflincountyalerts/posts/28803867402607566"
     },
     {
       "context": "facebook.com",
