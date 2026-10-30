@@ -1,47 +1,47 @@
 {
-  "updated": "2026-10-30T12:15:26Z",
-  "count": 917,
+  "updated": "2026-10-30T21:59:10Z",
+  "count": 930,
   "candidates": [
     {
-      "id": "https://www.facebook.com/groups/5568741883203724/posts/28939825385668711",
-      "url": "https://www.facebook.com/groups/5568741883203724/posts/28939825385668711",
-      "title": "hi guys does anyone use prepaid here for electricity i was ...",
-      "snippet": "hi guys does anyone use prepaid here for electricity i was just wondering what is misc on our electric bill thank you in advance.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "What's Happening in Dothan Alabama",
-      "posted": "2026-10-29",
       "first_seen": "2026-10-30",
+      "group": "What's Happening in Dothan Alabama",
+      "id": "https://www.facebook.com/groups/5568741883203724/posts/28939825385668711",
       "last_seen": "2026-10-30",
+      "posted": "2026-10-29",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": true,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "57b6d5269262"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "hi guys does anyone use prepaid here for electricity i was just wondering what is misc on our electric bill thank you in advance.",
+      "source": "Facebook",
+      "title": "hi guys does anyone use prepaid here for electricity i was ...",
+      "url": "https://www.facebook.com/groups/5568741883203724/posts/28939825385668711"
     },
     {
-      "id": "https://www.facebook.com/groups/halifaxvachambermemberdeals/posts/2036673727042047",
-      "url": "https://www.facebook.com/groups/halifaxvachambermemberdeals/posts/2036673727042047",
-      "title": "Wynn's Electric, LLC joins Halifax County Chamber of ...",
-      "snippet": "Owned and operated Kenny Wynn, the company specializes electrical repairs, new construction wiring, service upgrades, panel replacements, lighting installations ...Read more",
+      "id": "https://www.facebook.com/groups/236904570880192/posts/1832750354628931",
+      "url": "https://www.facebook.com/groups/236904570880192/posts/1832750354628931",
+      "title": "a family-owned, licensed plumbing and water treatment ...",
+      "snippet": "Hello neighbors! We're Adams Mechanical Service — a family-owned, licensed plumbing and water treatment company right here in Bucks County.Read more",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Halifax County Chamber of Commerce Member Deals & Business Updates",
-      "posted": "2026-10-29",
+      "group": "Glenside & Wyncote PA Community",
+      "posted": "2026-10-27",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
       "queries": [
@@ -50,29 +50,60 @@
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "keyword",
         "host": true,
-        "keyword": true,
+        "keyword": false,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
-        "version": "57b6d5269262"
+        "hard_exclusion": true,
+        "version": "215c50cdabb9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "keyword"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/485483631543809/posts/28872601412405318",
-      "url": "https://www.facebook.com/groups/485483631543809/posts/28872601412405318",
-      "title": "Where to find small electric motor parts in Mountain area?",
-      "snippet": "Tim's Electric in Somerset, K&D Auto Electric for small electric motor parts. Murray automotive in Westmoreland county right on 22 on the westbound side.",
+      "context": "facebook.com",
+      "first_seen": "2026-10-30",
+      "group": "Halifax County Chamber of Commerce Member Deals & Business Updates",
+      "id": "https://www.facebook.com/groups/halifaxvachambermemberdeals/posts/2036673727042047",
+      "last_seen": "2026-10-30",
+      "posted": "2026-10-29",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "57b6d5269262"
+      },
+      "snippet": "Owned and operated Kenny Wynn, the company specializes electrical repairs, new construction wiring, service upgrades, panel replacements, lighting installations ...Read more",
+      "source": "Facebook",
+      "title": "Wynn's Electric, LLC joins Halifax County Chamber of ...",
+      "url": "https://www.facebook.com/groups/halifaxvachambermemberdeals/posts/2036673727042047"
+    },
+    {
+      "id": "https://www.facebook.com/groups/277854732278632/posts/29347939354843450",
+      "url": "https://www.facebook.com/groups/277854732278632/posts/29347939354843450",
+      "title": "White General Electric (GE) 7.0 cubic foot chest freezer ...",
+      "snippet": "Reliable GE Chest Freezer for Sale in Centre County | Bellefonte, PA. Char Kramer Hammond ▻ Centre County Sell & Swap for EVERYONE! No discrimination here ...Read more",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Mountain News",
-      "posted": "2026-10-29",
+      "group": "allegheny county, pittsburgh free, for sale and wanted",
+      "posted": "2026-10-27",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
       "queries": [
@@ -81,29 +112,60 @@
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
+        "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "57b6d5269262"
+        "version": "215c50cdabb9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "intent"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/3459435521018611/posts/4018289065133251",
-      "url": "https://www.facebook.com/groups/3459435521018611/posts/4018289065133251",
-      "title": "What is the annual cost of Rhode Island's green energy ...",
-      "snippet": "Any idea how much the green energy policies enacted by the General Assembly is costing us every single year? The answer is $500M. Yep, half a billion",
+      "context": "facebook.com",
+      "first_seen": "2026-10-30",
+      "group": "Mountain News",
+      "id": "https://www.facebook.com/groups/485483631543809/posts/28872601412405318",
+      "last_seen": "2026-10-30",
+      "posted": "2026-10-29",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "57b6d5269262"
+      },
+      "snippet": "Tim's Electric in Somerset, K&D Auto Electric for small electric motor parts. Murray automotive in Westmoreland county right on 22 on the westbound side.",
+      "source": "Facebook",
+      "title": "Where to find small electric motor parts in Mountain area?",
+      "url": "https://www.facebook.com/groups/485483631543809/posts/28872601412405318"
+    },
+    {
+      "id": "https://www.facebook.com/groups/3459435521018611/posts/4013791265583031",
+      "url": "https://www.facebook.com/groups/3459435521018611/posts/4013791265583031",
+      "title": "What powers does Rhode Island's new governor have over ...",
+      "snippet": "Can anything really change about ri energy with the new governor elect.  Meaning do thy really have any power to tell them to stop",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Citizens Against Rhode Island Energy",
-      "posted": "2026-10-27",
+      "posted": "2026-10-23",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
       "queries": [
@@ -118,13 +180,44 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "57b6d5269262"
+        "version": "215c50cdabb9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
       }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-30",
+      "group": "Citizens Against Rhode Island Energy",
+      "id": "https://www.facebook.com/groups/3459435521018611/posts/4018289065133251",
+      "last_seen": "2026-10-30",
+      "posted": "2026-10-27",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/3459435521018611 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "57b6d5269262"
+      },
+      "snippet": "Any idea how much the green energy policies enacted by the General Assembly is costing us every single year? The answer is $500M. Yep, half a billion",
+      "source": "Facebook",
+      "title": "What is the annual cost of Rhode Island's green energy ...",
+      "url": "https://www.facebook.com/groups/3459435521018611/posts/4018289065133251"
     },
     {
       "id": "https://www.facebook.com/groups/3459435521018611/posts/4019796631649161",
@@ -149,7 +242,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": false,
-        "version": "57b6d5269262"
+        "version": "215c50cdabb9"
       },
       "production": {
         "accepted": false,
@@ -180,7 +273,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "57b6d5269262"
+        "version": "215c50cdabb9"
       },
       "production": {
         "accepted": false,
@@ -189,18 +282,80 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-10-30",
+      "group": "Western PA Small Business Spotlight",
       "id": "https://www.facebook.com/groups/1962281437325465/posts/4872272322993014",
-      "url": "https://www.facebook.com/groups/1962281437325465/posts/4872272322993014",
-      "title": "Serving Westmoreland, Allegheny, & surrounding counties. ...",
+      "last_seen": "2026-10-30",
+      "posted": "2026-10-29",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "57b6d5269262"
+      },
       "snippet": "Serving Westmoreland, Allegheny, & surrounding counties. 724-241-8102 call for a free quote!",
       "source": "Facebook",
+      "title": "Serving Westmoreland, Allegheny, & surrounding counties. ...",
+      "url": "https://www.facebook.com/groups/1962281437325465/posts/4872272322993014"
+    },
+    {
+      "id": "https://www.facebook.com/groups/3459435521018611/posts/4014682958827195",
+      "url": "https://www.facebook.com/groups/3459435521018611/posts/4014682958827195",
+      "title": "Rhode Island electricity bill decreases over 26 years",
+      "snippet": "Sydney Bowen Last year my electric averaged $153/mo. That's with central air running 24/7 at 73, daily pool pump and a basement dehumidifier. My gas bill",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Western PA Small Business Spotlight",
-      "posted": "2026-10-29",
+      "group": "Citizens Against Rhode Island Energy",
+      "posted": "2026-10-24",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+        "site:facebook.com/groups/3459435521018611 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "215c50cdabb9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/191984864735535/posts/2197867347480600",
+      "url": "https://www.facebook.com/groups/191984864735535/posts/2197867347480600",
+      "title": "Power Watch Systems offers whole-home standby ...",
+      "snippet": "We're Master Electricians based in Bucks County, Serving Bucks, Montgomery, and Surrounding Counties 📞 267-987-0476. Electrician@gmail.com",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Main Line Community Network",
+      "posted": "2026-10-24",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
@@ -211,7 +366,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "57b6d5269262"
+        "version": "215c50cdabb9"
       },
       "production": {
         "accepted": false,
@@ -220,169 +375,355 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/27510774555215911/posts/28691080323851989",
+      "url": "https://www.facebook.com/groups/27510774555215911/posts/28691080323851989",
+      "title": "PECO has helped power the moments that move our ...",
+      "snippet": "PECO is Pennsylvania's largest electric and natural gas utility, delivering power to nearly 1.7 million electric customers and more than 553,700 natural gas",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "PECO Peeps  Historical Memories",
+      "posted": "2026-10-25",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "215c50cdabb9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-30",
+      "group": "Pennsylvania Small Business Advertising",
       "id": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29539313092341664",
-      "url": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29539313092341664",
-      "title": "My name is Klev, and I'm an independent contractor ...",
+      "last_seen": "2026-10-30",
+      "posted": "2026-10-29",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "57b6d5269262"
+      },
       "snippet": "We serve in Bensalem PA 19020, Bucks County PA, and surrounding areas www ... We do plumbing, Electrical, drywall, floors, Decks, windows, doors, etc.Read more",
       "source": "Facebook",
+      "title": "My name is Klev, and I'm an independent contractor ...",
+      "url": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29539313092341664"
+    },
+    {
       "context": "facebook.com",
-      "group": "Pennsylvania Small Business Advertising",
-      "posted": "2026-10-29",
       "first_seen": "2026-10-30",
+      "group": "Whats up BENSALEM",
+      "id": "https://www.facebook.com/groups/1313084745375387/posts/30191176677139476",
       "last_seen": "2026-10-30",
+      "posted": "2026-10-29",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "57b6d5269262"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1313084745375387/posts/30191176677139476",
-      "url": "https://www.facebook.com/groups/1313084745375387/posts/30191176677139476",
-      "title": "Join Bucks County Founders and Professionals ...",
       "snippet": "Looking for new members to join our newest group, Bucks County Founders and Professionals Networking Group!\n\nWe meet weekly on Monday mornings at 8:30",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Whats up BENSALEM",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "57b6d5269262"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "title": "Join Bucks County Founders and Professionals ...",
+      "url": "https://www.facebook.com/groups/1313084745375387/posts/30191176677139476"
     },
     {
-      "id": "https://www.facebook.com/groups/solarunitedneighborsindiana/posts/1442058637255348",
-      "url": "https://www.facebook.com/groups/solarunitedneighborsindiana/posts/1442058637255348",
-      "title": "Jason, Luke, and Bill are three West Virginians harnessing ...",
-      "snippet": "Jason, a member of the Allegheny County Solar Co-op, went solar to make his electric bills cheaper and more predictable. Solar also brought him closer to",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Solar United Neighbors of Indiana public",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "57b6d5269262"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/968423030285685/posts/2637509256710379",
-      "url": "https://www.facebook.com/groups/968423030285685/posts/2637509256710379",
-      "title": "Hiring: Remote B2B Energy Sales Consultants or Teams",
-      "snippet": "You will have the support of UES's full-service energy management professionals, as well as access to our industry- leading market research group. If the ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Long Island Jobs",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "57b6d5269262"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/807536369801618/posts/2179653152589926",
-      "url": "https://www.facebook.com/groups/807536369801618/posts/2179653152589926",
-      "title": "FALL CLEANUP SEASON IS HERE! 🍂 Call us today for all ...",
-      "snippet": "Licensed & Fully Insured Over 15 Years of Experience Proudly Serving Mercer & Bucks Counties Call Today: 609-331-2665 · Rons property maintenance.Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Levittown Pennsylvania Area Small Businesses",
-      "posted": "2026-10-29",
-      "first_seen": "2026-10-30",
-      "last_seen": "2026-10-30",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "57b6d5269262"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/3459435521018611/posts/4015843872044437",
-      "url": "https://www.facebook.com/groups/3459435521018611/posts/4015843872044437",
-      "title": "Citizens Against Rhode Island Energy",
-      "snippet": "A big reason is that five charges appear on your electric bill that have nothing to do with the production or generation of electricity. You can debate whether",
+      "id": "https://www.facebook.com/groups/632543683618371/posts/3207977022741678",
+      "url": "https://www.facebook.com/groups/632543683618371/posts/3207977022741678",
+      "title": "Jobs in Allegheny County, Pennsylvania",
+      "snippet": "CONTRACTORS LLC | ELECTRICAL SERVICES ⚡ ・ ly Serving Southwestern Pennsylvania Pittsburgh | Allegheny County ・ 📞 412-286-8212. Accepting New Residential,",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "",
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "215c50cdabb9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-30",
+      "group": "Solar United Neighbors of Indiana public",
+      "id": "https://www.facebook.com/groups/solarunitedneighborsindiana/posts/1442058637255348",
+      "last_seen": "2026-10-30",
+      "posted": "2026-10-29",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "57b6d5269262"
+      },
+      "snippet": "Jason, a member of the Allegheny County Solar Co-op, went solar to make his electric bills cheaper and more predictable. Solar also brought him closer to",
+      "source": "Facebook",
+      "title": "Jason, Luke, and Bill are three West Virginians harnessing ...",
+      "url": "https://www.facebook.com/groups/solarunitedneighborsindiana/posts/1442058637255348"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1594819431981016/posts/1679249456871346",
+      "url": "https://www.facebook.com/groups/1594819431981016/posts/1679249456871346",
+      "title": "History of Citizens Light and Power Co. in Oil City, ...",
+      "snippet": "*The Citizens Light and Power Co. was located at 13 Center Street. The company later became the Keystone Public Service Co. until it merged with Penelec",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Our Oil City and Venango County back in the day.",
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "215c50cdabb9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-30",
+      "group": "Long Island Jobs",
+      "id": "https://www.facebook.com/groups/968423030285685/posts/2637509256710379",
+      "last_seen": "2026-10-30",
+      "posted": "2026-10-29",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "57b6d5269262"
+      },
+      "snippet": "You will have the support of UES's full-service energy management professionals, as well as access to our industry- leading market research group. If the ...Read more",
+      "source": "Facebook",
+      "title": "Hiring: Remote B2B Energy Sales Consultants or Teams",
+      "url": "https://www.facebook.com/groups/968423030285685/posts/2637509256710379"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2068638080114429/posts/4452800801698133",
+      "url": "https://www.facebook.com/groups/2068638080114429/posts/4452800801698133",
+      "title": "Here come the tax break's.. just like VW and Sony",
+      "snippet": "Sand Hill Materials Inc. Westmoreland County's position as a key location for energy and advanced manufacturing.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Its So Youngwood",
+      "posted": "2026-10-24",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "215c50cdabb9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-30",
+      "group": "Levittown Pennsylvania Area Small Businesses",
+      "id": "https://www.facebook.com/groups/807536369801618/posts/2179653152589926",
+      "last_seen": "2026-10-30",
+      "posted": "2026-10-29",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "57b6d5269262"
+      },
+      "snippet": "Licensed & Fully Insured Over 15 Years of Experience Proudly Serving Mercer & Bucks Counties Call Today: 609-331-2665 · Rons property maintenance.Read more",
+      "source": "Facebook",
+      "title": "FALL CLEANUP SEASON IS HERE! 🍂 Call us today for all ...",
+      "url": "https://www.facebook.com/groups/807536369801618/posts/2179653152589926"
+    },
+    {
+      "id": "https://www.facebook.com/groups/camppa/posts/2037445166791081",
+      "url": "https://www.facebook.com/groups/camppa/posts/2037445166791081",
+      "title": "Electrician for RV electrical installation in Bucks County, PA",
+      "snippet": "I am looking for someone to help me with running and hooking up all my electrical such as solar, shore power, electrical outlets, inverter, house battery, bus",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pa Campground Reviews and Recommendations Pennsylvania",
+      "posted": "2026-10-28",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "215c50cdabb9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-30",
+      "group": "",
+      "id": "https://www.facebook.com/groups/3459435521018611/posts/4015843872044437",
+      "last_seen": "2026-10-30",
       "posted": "2026-10-25",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/3459435521018611 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "57b6d5269262"
+      },
+      "snippet": "A big reason is that five charges appear on your electric bill that have nothing to do with the production or generation of electricity. You can debate whether",
+      "source": "Facebook",
+      "title": "Citizens Against Rhode Island Energy",
+      "url": "https://www.facebook.com/groups/3459435521018611/posts/4015843872044437"
+    },
+    {
+      "id": "https://www.facebook.com/groups/3459435521018611/posts/4014810242147800",
+      "url": "https://www.facebook.com/groups/3459435521018611/posts/4014810242147800",
+      "title": "Citizens Against Rhode Island Energy",
+      "snippet": "Rhode Island electric bill? Public Electric bill had a $15.11 credit last month. 11.8 cent KW over the RI Energy 17.04 cent for winter rate.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "",
+      "posted": "2026-10-24",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
       "queries": [
@@ -397,7 +738,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "57b6d5269262"
+        "version": "215c50cdabb9"
       },
       "production": {
         "accepted": false,
@@ -406,44 +747,44 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/buysellusedmontgomerycounty/posts/29263925666564535",
-      "url": "https://www.facebook.com/groups/buysellusedmontgomerycounty/posts/29263925666564535",
-      "title": "Cadco Lisa Heavy Duty XAF-013 Half Size 3 Shelf 120v ...",
-      "snippet": "Quality New Used Equipment … 770-728-1559. Call us at 770-728-1559 current times and details! to discuss! WE SHIP NATIONWIDE FAST RELIABLE DELIVERY QUALITY.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Montgomery county online yard sale",
-      "posted": "2026-10-30",
       "first_seen": "2026-10-30",
+      "group": "Montgomery county online yard sale",
+      "id": "https://www.facebook.com/groups/buysellusedmontgomerycounty/posts/29263925666564535",
       "last_seen": "2026-10-30",
+      "posted": "2026-10-30",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "57b6d5269262"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "Quality New Used Equipment … 770-728-1559. Call us at 770-728-1559 current times and details! to discuss! WE SHIP NATIONWIDE FAST RELIABLE DELIVERY QUALITY.",
+      "source": "Facebook",
+      "title": "Cadco Lisa Heavy Duty XAF-013 Half Size 3 Shelf 120v ...",
+      "url": "https://www.facebook.com/groups/buysellusedmontgomerycounty/posts/29263925666564535"
     },
     {
-      "id": "https://www.facebook.com/groups/1938349096405430/posts/4457652364475078",
-      "url": "https://www.facebook.com/groups/1938349096405430/posts/4457652364475078",
-      "title": "20000 SF warehouse for lease on 1.5 acres in Montgomery ...",
-      "snippet": "Montgomery County, PA. Ideal for light manufacturing, warehousing, or trade services. Utilities: Potential. Competitive Rate: $2,500/month. Electric to be",
+      "id": "https://www.facebook.com/groups/799069116807565/posts/28690545513899884",
+      "url": "https://www.facebook.com/groups/799069116807565/posts/28690545513899884",
+      "title": "Bucks County Small Business Connection",
+      "snippet": "A&M Electric LLC … electronics, appliances, and other electrical equipment. residential electrician · commercial electrician",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "All Things Real Estate- Montgomery County & Bucks County PA",
+      "group": "",
       "posted": "2026-10-29",
       "first_seen": "2026-10-30",
       "last_seen": "2026-10-30",
@@ -459,7 +800,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "57b6d5269262"
+        "version": "215c50cdabb9"
       },
       "production": {
         "accepted": false,
@@ -468,10 +809,72 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/397165520651572/posts/2945022955865803",
+      "url": "https://www.facebook.com/groups/397165520651572/posts/2945022955865803",
+      "title": "Anyone know where to get help with an electric bill? ...",
+      "snippet": "Anyone know where to get help with an electric bill? CSCDC is closed. Thanks!",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "River Valley Resident's Forum",
+      "posted": "2026-10-26",
+      "first_seen": "2026-10-30",
+      "last_seen": "2026-10-30",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "215c50cdabb9"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-10-30",
+      "group": "All Things Real Estate- Montgomery County & Bucks County PA",
+      "id": "https://www.facebook.com/groups/1938349096405430/posts/4457652364475078",
+      "last_seen": "2026-10-30",
+      "posted": "2026-10-29",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "57b6d5269262"
+      },
+      "snippet": "Montgomery County, PA. Ideal for light manufacturing, warehousing, or trade services. Utilities: Potential. Competitive Rate: $2,500/month. Electric to be",
+      "source": "Facebook",
+      "title": "20000 SF warehouse for lease on 1.5 acres in Montgomery ...",
+      "url": "https://www.facebook.com/groups/1938349096405430/posts/4457652364475078"
+    },
+    {
       "id": "https://www.facebook.com/groups/290537574397934/posts/28911886025169707",
       "url": "https://www.facebook.com/groups/290537574397934/posts/28911886025169707",
       "title": "\"Allegheny County's in-person meeting amid its review of a ...",
-      "snippet": "\"Allegheny County's in-person meeting amid its review of a data center plan filled Springdale Borough's gymnasium. Concern over diesel generators drowned out",
+      "snippet": "the proposed facility is projected to consume as much as 180 megawatts of electricity, equivalent to the energy use of approximately 120,000 homes,",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Rise for Climate",
@@ -484,18 +887,18 @@
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "keyword",
+        "reason": "intent",
         "host": true,
-        "keyword": false,
+        "keyword": true,
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "57b6d5269262"
+        "version": "215c50cdabb9"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "intent"
       }
     },
     {
@@ -9820,36 +10223,37 @@
       "url": "https://www.facebook.com/groups/149524792401016/posts/2001183063901837"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-10-25",
-      "group": "Rise for Climate",
       "id": "https://www.facebook.com/groups/290537574397934/posts/28842664582091852",
-      "last_seen": "2026-10-29",
+      "url": "https://www.facebook.com/groups/290537574397934/posts/28842664582091852",
+      "title": "\"Nearly two dozen former power plant sites across ...",
+      "snippet": "The goal is to narrow the list to five to seven sites with the best opportunities to quickly deploy new power generation and optimize investments to get the",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Rise for Climate",
       "posted": "2026-10-24",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-10-25",
+      "last_seen": "2026-10-30",
       "queries": [
         "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania",
-        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania",
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
-        "host": true,
-        "keyword": true,
-        "lead": false,
-        "pennsylvania": false,
-        "reason": "geography",
         "semantic_accepted": false,
-        "version": "58803e56bc5d"
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "215c50cdabb9"
       },
-      "snippet": "We generate more electricity than any other state in PJM, and we have not forced the closure of natural gas and coal plants.",
-      "source": "Facebook",
-      "title": "\"Nearly two dozen former power plant sites across ...",
-      "url": "https://www.facebook.com/groups/290537574397934/posts/28842664582091852"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
     },
     {
       "context": "facebook.com",
@@ -10535,35 +10939,35 @@
       "url": "https://www.facebook.com/groups/2395376463812529/posts/30061796573410479"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-10-24",
-      "group": "Phoenixville Area Small Business and Community Networking",
       "id": "https://www.facebook.com/groups/1102547826594309/posts/3435327806649621",
-      "last_seen": "2026-10-24",
+      "url": "https://www.facebook.com/groups/1102547826594309/posts/3435327806649621",
+      "title": "Power Watch Systems offers whole-house generator ...",
+      "snippet": "We've been helping homeowners in Montgomery County, FREE QUOTES CALL OR TEXT 484-948-8069 AUTHORIZED. We sell the three top brands: Cummins, Kohler, and",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Phoenixville Area Small Business and Community Networking",
       "posted": "2026-10-23",
-      "production": {
-        "accepted": false,
-        "reason": "keyword",
-        "source": "rules"
-      },
+      "first_seen": "2026-10-24",
+      "last_seen": "2026-10-30",
       "queries": [
         "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "keyword",
         "host": true,
         "keyword": false,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "keyword",
-        "semantic_accepted": false,
-        "version": "0c3677a796f5"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "215c50cdabb9"
       },
-      "snippet": "We've been helping homeowners in Montgomery County, FREE QUOTES CALL OR TEXT 484-948-8069 AUTHORIZED. We sell the three top brands: Cummins, Kohler, and",
-      "source": "Facebook",
-      "title": "Power Watch Systems offers whole-house generator ...",
-      "url": "https://www.facebook.com/groups/1102547826594309/posts/3435327806649621"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
     },
     {
       "context": "facebook.com",
