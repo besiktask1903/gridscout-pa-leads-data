@@ -1,578 +1,330 @@
 {
-  "updated": "2026-11-10T01:15:02Z",
-  "count": 844,
+  "updated": "2026-11-10T14:27:08Z",
+  "count": 865,
   "candidates": [
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Chester Springs Area Community Network",
       "id": "https://www.facebook.com/groups/970023226425607/posts/28962066513461236",
-      "url": "https://www.facebook.com/groups/970023226425607/posts/28962066513461236",
-      "title": "🐾✨THANKS FUR GIVING ✨🐾 Back for another year! 𝗛𝗼𝗺𝗲 ...",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-07",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
       "snippet": "PA Gas & Electric 12 month fixed plan for .479 per Ccf which is 27% lower than PECO's rate. There is no cancellation fee or monthly service fees.",
       "source": "Facebook",
+      "title": "🐾✨THANKS FUR GIVING ✨🐾 Back for another year! 𝗛𝗼𝗺𝗲 ...",
+      "url": "https://www.facebook.com/groups/970023226425607/posts/28962066513461236"
+    },
+    {
       "context": "facebook.com",
-      "group": "Chester Springs Area Community Network",
-      "posted": "2026-11-07",
       "first_seen": "2026-11-10",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1714530130333706",
       "last_seen": "2026-11-10",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1714530130333706",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1714530130333706",
-      "title": "️ Meet Riky, Murrysville's K9 officer! Show this amazing ...",
       "snippet": "Meet Riky, Murrysville's K9 officer! Win $1,500 in either heating oil, propane, natural gas, electric, wood pellets, or coal to help keep your home warm this",
       "source": "Facebook",
+      "title": "️ Meet Riky, Murrysville's K9 officer! Show this amazing ...",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1714530130333706"
+    },
+    {
+      "id": "https://www.facebook.com/groups/273165248157836/posts/1628590412615306",
+      "url": "https://www.facebook.com/groups/273165248157836/posts/1628590412615306",
+      "title": "when are we getting paid my ppl....?????",
+      "snippet": "So if I'm understanding correctly, ppl payroll is from Sunday to Saturday, my papers say I get paid on Thursday… what happens to Friday ?Read more",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "across Westmoreland",
+      "group": "IEC STAFF MEMBERS",
       "posted": "2026-11-06",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1715529910233728",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-07",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1715529910233728",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1715529910233728",
-      "title": "quality professional candle making molds for a",
       "snippet": "Selling an extensive, clean collection of 97 high-quality professional candle making molds for a retiring commercial candle maker.",
       "source": "Facebook",
+      "title": "quality professional candle making molds for a",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1715529910233728"
+    },
+    {
       "context": "facebook.com",
-      "group": "across Westmoreland",
-      "posted": "2026-11-07",
       "first_seen": "2026-11-10",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1714697036983682",
       "last_seen": "2026-11-10",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1714697036983682",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1714697036983682",
-      "title": "best place to get oil for heat?",
       "snippet": "It pays to call around for rates. Give us a call at Action Oil. We are 5.89/gal for 150 gallon at the moment Miller … w · Public Looking for recommended oil",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "across Westmoreland",
-      "posted": "2026-11-06",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "title": "best place to get oil for heat?",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1714697036983682"
     },
     {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1714519070334812",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1714519070334812",
-      "title": "across Westmoreland",
-      "snippet": "Message us to schedule a consultation … our (724) 994-0470. Win $1,500 in either heating oil, propane, natural gas, electric, wood pellets, or coal to help",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "",
-      "posted": "2026-11-06",
       "first_seen": "2026-11-10",
+      "group": "",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1713719753748077",
       "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
+      "posted": "2026-11-05",
       "production": {
         "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1714535750333144",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1714535750333144",
-      "title": "across Westmoreland",
-      "snippet": "Win $1,500 in either heating oil, propane, natural gas, electric, wood pellets, or coal. Join Westmoreland County",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "",
-      "posted": "2026-11-06",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1714610143659038",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1714610143659038",
-      "title": "across Westmoreland",
-      "snippet": "We have small items, medium-sized items, larger items, useful household stuff, tools, collectibles, decorations and plenty of things",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "",
-      "posted": "2026-11-06",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
         "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1713719753748077",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1713719753748077",
-      "title": "across Westmoreland",
       "snippet": "Price (needed for a decision and comparison) Affordable rentals in Westmoreland County. Open today until 7 pm, 2282 RT 66 Delmont PA 15626.",
       "source": "Facebook",
+      "title": "across Westmoreland",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1713719753748077"
+    },
+    {
       "context": "facebook.com",
-      "group": "",
-      "posted": "2026-11-05",
       "first_seen": "2026-11-10",
+      "group": "",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1714519070334812",
       "last_seen": "2026-11-10",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
         "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Message us to schedule a consultation … our (724) 994-0470. Win $1,500 in either heating oil, propane, natural gas, electric, wood pellets, or coal to help",
+      "source": "Facebook",
+      "title": "across Westmoreland",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1714519070334812"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1714535750333144",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Win $1,500 in either heating oil, propane, natural gas, electric, wood pellets, or coal. Join Westmoreland County",
+      "source": "Facebook",
+      "title": "across Westmoreland",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1714535750333144"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1714610143659038",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
         "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "We have small items, medium-sized items, larger items, useful household stuff, tools, collectibles, decorations and plenty of things",
+      "source": "Facebook",
+      "title": "across Westmoreland",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1714610143659038"
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Steelton Highspire United",
       "id": "https://www.facebook.com/groups/steeltonhighspireunited/posts/1444911794508929",
-      "url": "https://www.facebook.com/groups/steeltonhighspireunited/posts/1444911794508929",
-      "title": "With rising energy costs, make plans to attend and learn ...",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
       "snippet": "Pennsylvania has an energy efficiency law, Utilities are now in the process of designing their updated plans for the program.",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Steelton Highspire United",
-      "posted": "2026-11-06",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "title": "With rising energy costs, make plans to attend and learn ...",
+      "url": "https://www.facebook.com/groups/steeltonhighspireunited/posts/1444911794508929"
     },
     {
-      "id": "https://www.facebook.com/groups/1247482432927671/posts/1873251927017382",
-      "url": "https://www.facebook.com/groups/1247482432927671/posts/1873251927017382",
-      "title": "What are the benefits of going flat rate with utility companies?",
-      "snippet": "flat rate is the best plan. rates from average $.23 per KWT down to $.12. pending $.50 per KWT! If you switch to flat rate residential there is a year",
+      "id": "https://www.facebook.com/groups/760170699406178/posts/1465135062243068",
+      "url": "https://www.facebook.com/groups/760170699406178/posts/1465135062243068",
+      "title": "What's the cost per kWh for electric in Middleton?￼￼ ￼",
+      "snippet": "Middletown utilitys charges us 0.45 cents per kwh Duke energy charges 0.13 cents per kwh assuming you use 700kwh that would be roughly $91 for Duke however",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Utility companies, Hochul & The PSC need to be held accountable",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2338126596408286/posts/4642922819261974",
-      "url": "https://www.facebook.com/groups/2338126596408286/posts/4642922819261974",
-      "title": "WE ARE HIRING! Looking for your next career opportunity? ...",
-      "snippet": "Track supplier markets, freight and exchange rates, and build models. - ... Information To apply, call us at 613-6239 for more details. Come be a part ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Job Vacancy's for seekers in Belize City",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/637885673997253/posts/1797002088085600",
-      "url": "https://www.facebook.com/groups/637885673997253/posts/1797002088085600",
-      "title": "Use a few months only! Switch house to gas.",
-      "snippet": "Call for an estimate if you are considering converting your home to natural gas. Rebates are also available if you replace your oil or propane water heater, ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Saint Marys PA Online Garage Sale",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1714963026957083",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1714963026957083",
-      "title": "Townhouse for sale in Penn-Trafford with mortgage rate ...",
-      "snippet": "They're offering a MORTGAGE RATE BUYDOWN OPTION to help buyers potentially LOWER their monthly mortgage payments! 7001 Wellington Court | Penn- ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "across Westmoreland",
-      "posted": "2026-11-06",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1715185580268161",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1715185580268161",
-      "title": "Shevlin Concrete Construction, LLC.",
-      "snippet": "Shevlin Concrete Construction, LLC. For all your concrete & retaining wall needs! www. shevlinconcrete.com · Custom front entry stoop & staircase in Valencia.Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "across Westmoreland",
+      "group": "Middleton Florida Word of Mouth",
       "posted": "2026-11-07",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "queries": [
-        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/166464424045273/posts/2076321683059528",
-      "url": "https://www.facebook.com/groups/166464424045273/posts/2076321683059528",
-      "title": "Recommendations for help extending a gas line in my home.",
-      "snippet": "Recommended plumbers include Tri City Plumbing and Precision Plumbing, or DIY with a pipe threader and supplies.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Marinette/Menominee Discussion Group.",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2198693607061818/posts/4615428358721652",
-      "url": "https://www.facebook.com/groups/2198693607061818/posts/4615428358721652",
-      "title": "PSL 12 introduces new Power Surge rule proposal",
-      "snippet": "A new proposal would see PECO rates for the typical residential electricity customer raise by 12.5% -- or $20.08 a month -- with the start of 2027.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "CRIC LINE",
-      "posted": "2026-11-08",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1793671334851354/posts/2168304500721367",
-      "url": "https://www.facebook.com/groups/1793671334851354/posts/2168304500721367",
-      "title": "Looking for reliable utility services or want to recommend ...",
-      "snippet": "PA Power Switch – the official state site. PA Gas Switch – same idea, but for natural gas Both sites are legit (run by the PA Public Utility Commission). You",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Hockley/Waller/Tomball/Cypress/Houston/Spring/Hempstead",
-      "posted": "2026-11-08",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/192563624157095/posts/29041528965500510",
-      "url": "https://www.facebook.com/groups/192563624157095/posts/29041528965500510",
-      "title": "Looking for recommendations on someone to hook up a ...",
-      "snippet": "I already have gas and just need it extended so I can switch my stove from electric to gas. Please, do not just post peoples names who you think can do this ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Otoe County Swap & Talk",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/cnbbe/posts/2968789230157778",
-      "url": "https://www.facebook.com/groups/cnbbe/posts/2968789230157778",
-      "title": "Looking for a 15bbl natural gas hlt closer to Bethlehem Pa ...",
-      "snippet": "Looking for a 15bbl natural gas hlt closer to Bethlehem Pa the better. Recommendations of Bethlehem, PA and Greater Lehigh Valley Region 3y",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Beer Brewery/Brewing Equipment & Distillation Equipment",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -583,7 +335,7 @@
         "pennsylvania": false,
         "lead": true,
         "hard_exclusion": false,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -592,173 +344,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1712723593847693",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1712723593847693",
-      "title": "Limited availability, stop and pick one up this weekend!! ...",
-      "snippet": "Come hungry, bring an appetite, and don't say we didn't warn you!! The Garage – Clay Pike Service 1410 Clay Pike, North Huntingdon, PA Friday: 5 PM–9 ...Read more",
+      "id": "https://www.facebook.com/groups/1529462148353465/posts/1767247494574928",
+      "url": "https://www.facebook.com/groups/1529462148353465/posts/1767247494574928",
+      "title": "What is the cost of electricity in Mifflinburg, PA compared ...",
+      "snippet": "Looking to move to mifflinburg and noticed a much higher rate of electricity per kWh . Is it higher than if u got billed from ppl?",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "across Westmoreland",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1713775320409187",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1713775320409187",
-      "title": "Let's welcome our new members! Kimmell CB Ron",
-      "snippet": "Let's welcome our new members! Kimmell CB Ron, Ali Marie-Rose, John Millantz, Michelle Hempel Schade, Sherri Fritz, Emily Veliky, Eric Akerlind, Taylor",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "across Westmoreland",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1718102086643177",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1718102086643177",
-      "title": "Has anyone used the new portal for Mawc?",
-      "snippet": "Has anyone used the new portal for Mawc?",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "across Westmoreland",
+      "group": "Mifflinburg PA Community Page",
       "posted": "2026-11-09",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "queries": [
-        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/320980713325831/posts/1459914549432436",
-      "url": "https://www.facebook.com/groups/320980713325831/posts/1459914549432436",
-      "title": "Has anyone else received calls from gas companies ...",
-      "snippet": "Most gas company cold calls to switch providers are scams or use misleading sales tactics, though a few companies are technically legitimate but still ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Banburyshire Info",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/459462054147713/posts/29076986761968527",
-      "url": "https://www.facebook.com/groups/459462054147713/posts/29076986761968527",
-      "title": "Gas range set up for propane. I bought it this way and do ...",
-      "snippet": "you can change the tip for a natural gas one. Use it as a built in unit or put it on the original legs included. $700",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Turtle Creek Pa, Facebook Flea Market",
-      "posted": "2026-11-08",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/469276633118485/posts/29035824402703660",
-      "url": "https://www.facebook.com/groups/469276633118485/posts/29035824402703660",
-      "title": "Gas range (natural gas) Works great …. (Upgrading Kitchen)",
-      "snippet": "It documents the process of converting an old electric gas stove into a new gas range with a griddle. The process involves routing a new gas line",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Northeastern PA - YARD SALE",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -769,7 +366,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": false,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -778,18 +375,328 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/492214672469283/posts/1691172879240117",
-      "url": "https://www.facebook.com/groups/492214672469283/posts/1691172879240117",
-      "title": "Gas fireplace switch up!",
-      "snippet": "Gas fireplace switch up!\nISO recommendations for someone who can convert our existing gas fireplace to electric or possibly even wood burning!\n\nWould",
+      "id": "https://www.facebook.com/groups/supportlocaldoverpa/posts/2990638151288358",
+      "url": "https://www.facebook.com/groups/supportlocaldoverpa/posts/2990638151288358",
+      "title": "What causes power flickering in Dover, PA homes at night?",
+      "snippet": "Anyone else having any power issues throughout the night? Ours flickered off than on aleast 3 times throughout the night. Any idea what would cause this?",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "STL Contractors and Remodelers",
+      "group": "Dover PA Community - Support Local",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Utility companies, Hochul & The PSC need to be held accountable",
+      "id": "https://www.facebook.com/groups/1247482432927671/posts/1873251927017382",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-04",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "flat rate is the best plan. rates from average $.23 per KWT down to $.12. pending $.50 per KWT! If you switch to flat rate residential there is a year",
+      "source": "Facebook",
+      "title": "What are the benefits of going flat rate with utility companies?",
+      "url": "https://www.facebook.com/groups/1247482432927671/posts/1873251927017382"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Job Vacancy's for seekers in Belize City",
+      "id": "https://www.facebook.com/groups/2338126596408286/posts/4642922819261974",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-05",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Track supplier markets, freight and exchange rates, and build models. - ... Information To apply, call us at 613-6239 for more details. Come be a part ...Read more",
+      "source": "Facebook",
+      "title": "WE ARE HIRING! Looking for your next career opportunity? ...",
+      "url": "https://www.facebook.com/groups/2338126596408286/posts/4642922819261974"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Saint Marys PA Online Garage Sale",
+      "id": "https://www.facebook.com/groups/637885673997253/posts/1797002088085600",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Call for an estimate if you are considering converting your home to natural gas. Rebates are also available if you replace your oil or propane water heater, ...Read more",
+      "source": "Facebook",
+      "title": "Use a few months only! Switch house to gas.",
+      "url": "https://www.facebook.com/groups/637885673997253/posts/1797002088085600"
+    },
+    {
+      "id": "https://www.facebook.com/groups/674207805924236/posts/29687792574139040",
+      "url": "https://www.facebook.com/groups/674207805924236/posts/29687792574139040",
+      "title": "Uncle's Happy Jalapeño hours and ordering options in ...",
+      "snippet": "Uncle's Happy Jalapeño Everything fresh and homemade. 11:30 to 7 -Come on down -DoorDash it -Call ahead for pickup 804-988-9743 Uncle.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Perryopolis",
       "posted": "2026-11-06",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "queries": [
+        "site:facebook.com/groups/674207805924236 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1714963026957083",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "They're offering a MORTGAGE RATE BUYDOWN OPTION to help buyers potentially LOWER their monthly mortgage payments! 7001 Wellington Court | Penn- ...Read more",
+      "source": "Facebook",
+      "title": "Townhouse for sale in Penn-Trafford with mortgage rate ...",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1714963026957083"
+    },
+    {
+      "id": "https://www.facebook.com/groups/674207805924236/posts/29718005761117721",
+      "url": "https://www.facebook.com/groups/674207805924236/posts/29718005761117721",
+      "title": "Tow truck service needed in Perryopolis",
+      "snippet": "We are reliable and reasonable, with no hidden bill at the end, you will know what you're paying for before the job is done! Give us a call at 724 562-0297 (",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Perryopolis",
+      "posted": "2026-11-08",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups/674207805924236 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1715185580268161",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-07",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Shevlin Concrete Construction, LLC. For all your concrete & retaining wall needs! www. shevlinconcrete.com · Custom front entry stoop & staircase in Valencia.Read more",
+      "source": "Facebook",
+      "title": "Shevlin Concrete Construction, LLC.",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1715185580268161"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Marinette/Menominee Discussion Group.",
+      "id": "https://www.facebook.com/groups/166464424045273/posts/2076321683059528",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-04",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Recommended plumbers include Tri City Plumbing and Precision Plumbing, or DIY with a pipe threader and supplies.",
+      "source": "Facebook",
+      "title": "Recommendations for help extending a gas line in my home.",
+      "url": "https://www.facebook.com/groups/166464424045273/posts/2076321683059528"
+    },
+    {
+      "id": "https://www.facebook.com/groups/18890848160/posts/10163542539118161",
+      "url": "https://www.facebook.com/groups/18890848160/posts/10163542539118161",
+      "title": "Question for ppl in on glp3 & get the Rituxan infusion. Is ...",
+      "snippet": "Question for ppl in on glp3 & get the Rituxan infusion. Is it safe to take them at the same time? I get my infusion on Sunday & took my shot today.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Rheumatoid Arthritis Support Group",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/penysarn/posts/29231693403156785",
+      "url": "https://www.facebook.com/groups/penysarn/posts/29231693403156785",
+      "title": "Power company update for Penysarn: Has work finished ...",
+      "snippet": "Public Penelec has updated their outage map. The estimated restoration time displayed is 12:30 PM.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Penysarn",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -800,7 +707,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -809,18 +716,111 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/27510774555215911/posts/28815574471402573",
-      "url": "https://www.facebook.com/groups/27510774555215911/posts/28815574471402573",
-      "title": "First look: Redeveloped PECO power plant nears debut as ...",
-      "snippet": "a Singapore-based energy company, PECO, formerly the Philadelphia Electric Company, and its role in powering southeastern Pennsylvania since 1881.",
+      "id": "https://www.facebook.com/groups/674207805924236/posts/29655050970746534",
+      "url": "https://www.facebook.com/groups/674207805924236/posts/29655050970746534",
+      "title": "Perryopolis",
+      "snippet": "I am willing to help with gas money for both days. Pick up/drop off: Star Junction (Pick up at 5:15am) Drop off/pick up: Donora (Industrial Park) Gets off",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "PECO Peeps  Historical Memories",
-      "posted": "2026-11-03",
+      "group": "",
+      "posted": "2026-11-04",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "queries": [
+        "site:facebook.com/groups/674207805924236 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/343327988381097/posts/1153930530654168",
+      "url": "https://www.facebook.com/groups/343327988381097/posts/1153930530654168",
+      "title": "Penn Power price increase: Free business energy review ...",
+      "snippet": "PPL's electric rates will increase from the current rate of 8.942 cents/kWh to 12.336 cents/kWh for residential customers, and from 9.675 cents/kWh to 11.695",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Cranberry Twp, Zelienople, Wexford and surrounding areas small businesses",
+      "posted": "2026-11-09",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "CRIC LINE",
+      "id": "https://www.facebook.com/groups/2198693607061818/posts/4615428358721652",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-08",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "A new proposal would see PECO rates for the typical residential electricity customer raise by 12.5% -- or $20.08 a month -- with the start of 2027.",
+      "source": "Facebook",
+      "title": "PSL 12 introduces new Power Surge rule proposal",
+      "url": "https://www.facebook.com/groups/2198693607061818/posts/4615428358721652"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1164589916931959/posts/29155753787388863",
+      "url": "https://www.facebook.com/groups/1164589916931959/posts/29155753787388863",
+      "title": "PPL says Tuesday's elections won't hinder its data",
+      "snippet": "\"Those three utilities, PPL in Pennsylvania, Dominion in Virginia, and AEP in Ohio and West Virginia, are expected to host 80% of the proposed data centers ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Allentown PA community",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -831,7 +831,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -840,49 +840,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1507475129371153/posts/28843526952005935",
-      "url": "https://www.facebook.com/groups/1507475129371153/posts/28843526952005935",
-      "title": "Clean oil customer switched to gas willing to deliver locally ...",
-      "snippet": "Clean oil customer switched to gas willing to deliver locally for a fee. $4.169 per gallon. Center Valley, PA? The next day's prices will be listed on our",
+      "id": "https://www.facebook.com/groups/729119718454038/posts/1900993407933324",
+      "url": "https://www.facebook.com/groups/729119718454038/posts/1900993407933324",
+      "title": "PPL says Tuesday's election results won't hinder its data- ...",
+      "snippet": "Public PPL Electric Utilities president says data centers require 'major investment. The order does not ban data centers.",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "PA  Farm, Equipment, Tools & Parts For Sale",
+      "group": "Mount Bethel PA",
       "posted": "2026-11-06",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/970023226425607/posts/28941432792191275",
-      "url": "https://www.facebook.com/groups/970023226425607/posts/28941432792191275",
-      "title": "Chester Springs Area Community Network",
-      "snippet": "PA Gas & Electric 12 month fixed plan for .479 per Ccf which is 27% lower than PECO's rate. There is no cancellation fee or monthly service fees. Application",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -893,7 +862,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -902,49 +871,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/728661453838769/posts/29317032951241571",
-      "url": "https://www.facebook.com/groups/728661453838769/posts/29317032951241571",
-      "title": "Bridesburg happenings,affairs or events",
-      "snippet": "PECO will assist you with program applications and billing questions. You could get up to $2,000 to help pay your bill! 2301 MARKE TREET PHILADELPHIA PA 19103",
+      "id": "https://www.facebook.com/groups/1131562422020386/posts/1717407980102491",
+      "url": "https://www.facebook.com/groups/1131562422020386/posts/1717407980102491",
+      "title": "PPL - Diversions",
+      "snippet": "PPL - Diversions Hi all - I'm currently working on my ppl certification and having some challenges with diversions mainly around spotting/ locating the airports ...Read more",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Bridesburg  happenings,affairs or events",
-      "posted": "2026-11-05",
+      "group": "Student Pilot Community",
+      "posted": "2026-11-09",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/415727268132960/posts/1096519270053753",
-      "url": "https://www.facebook.com/groups/415727268132960/posts/1096519270053753",
-      "title": "Available!!!!",
-      "snippet": "AFFORDABLE ELECTRICAL SUPPLIES   For Fast Transaction Please Directly Message me 09068849654 We are Accepting: ✓COD ✓GCASH PAYMENT ✓BNK ACCOUNT (For ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "ONE POINT SOLAR CEBU",
-      "posted": "2026-11-07",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -955,7 +893,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -964,18 +902,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/pevcommunityofficial/posts/4628118904125141",
-      "url": "https://www.facebook.com/groups/pevcommunityofficial/posts/4628118904125141",
-      "title": "At what fuel price point will the ICE fanatic change their ...",
-      "snippet": "At what fuel price point will the ICE fanatic change their minds about EV? Disregard the rich. They can afford ₱1,000 fuel price.",
+      "id": "https://www.facebook.com/groups/674207805924236/posts/29656401177278180",
+      "url": "https://www.facebook.com/groups/674207805924236/posts/29656401177278180",
+      "title": "Nintendo vs. Sega event in Charleroi on November 18th",
+      "snippet": "Wednesday November 18th ⏰ 7:00pm 301 Fallowfield Ave, Charleroi (former Elks building) $10 per person, includes free refreshments Buy tickets here: https",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Philippine EV Community",
+      "group": "Perryopolis",
       "posted": "2026-11-04",
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+        "site:facebook.com/groups/674207805924236 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -986,7 +924,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -995,72 +933,10 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1234648660386115/posts/2053418148509158",
-      "url": "https://www.facebook.com/groups/1234648660386115/posts/2053418148509158",
-      "title": "Alternatives to Ferrell Gas for Propane Services in Indiana, ...",
-      "snippet": "If you use propane for heating and or cooking, no matter what you use it for.\nIts time for a change if you do business with \n\nFERREL GAS \n\nWith heating",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Indiana, PA Bulletin",
-      "posted": "2026-11-07",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1004991061835839/posts/1438556471812627",
-      "url": "https://www.facebook.com/groups/1004991061835839/posts/1438556471812627",
-      "title": "Alternatives to Ferrell Gas for Propane Services in ...",
-      "snippet": "If you use propane for heating and or cooking, no matter what you use it for.\nIts time for a change if you do business with \n\nFERREL GAS \n\nWith heating",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Blairsville, PA Uncensored",
-      "posted": "2026-11-07",
-      "first_seen": "2026-11-10",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/217744405434743/posts/2294890117720151",
-      "url": "https://www.facebook.com/groups/217744405434743/posts/2294890117720151",
-      "title": "All FREE Resources Philly",
-      "snippet": "PECO will assist you with program applications and billing questions. You could get up to $2,000 to help pay your bill! 2301 MARKE TREET PHILADELPHIA PA 19103",
+      "id": "https://www.facebook.com/groups/mahanoycity/posts/1672716034225833",
+      "url": "https://www.facebook.com/groups/mahanoycity/posts/1672716034225833",
+      "title": "Mahanoy City Community",
+      "snippet": "PECO Met-Ed Penelec Duquesne Light Penn Power West Penn Power +10.3% +10.0% +3.4% +3.2% +3.0% +3.0% +2.6%",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "",
@@ -1068,7 +944,7 @@
       "first_seen": "2026-11-10",
       "last_seen": "2026-11-10",
       "queries": [
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -1079,7 +955,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -1088,21 +964,238 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1717069976746388",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1717069976746388",
-      "title": "Affordable rust repair for 2008 Honda Civic LX in ...",
-      "snippet": "Hello im looking for a shop that does rust work but I'm not trying to spend 3k on a 1k car. I have a 08 Honda civic lx four door with rust on my back",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "across Westmoreland",
+      "first_seen": "2026-11-10",
+      "group": "Hockley/Waller/Tomball/Cypress/Houston/Spring/Hempstead",
+      "id": "https://www.facebook.com/groups/1793671334851354/posts/2168304500721367",
+      "last_seen": "2026-11-10",
       "posted": "2026-11-08",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "PA Power Switch – the official state site. PA Gas Switch – same idea, but for natural gas Both sites are legit (run by the PA Public Utility Commission). You",
+      "source": "Facebook",
+      "title": "Looking for reliable utility services or want to recommend ...",
+      "url": "https://www.facebook.com/groups/1793671334851354/posts/2168304500721367"
+    },
+    {
+      "context": "facebook.com",
       "first_seen": "2026-11-10",
+      "group": "Otoe County Swap & Talk",
+      "id": "https://www.facebook.com/groups/192563624157095/posts/29041528965500510",
       "last_seen": "2026-11-10",
+      "posted": "2026-11-05",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "I already have gas and just need it extended so I can switch my stove from electric to gas. Please, do not just post peoples names who you think can do this ...Read more",
+      "source": "Facebook",
+      "title": "Looking for recommendations on someone to hook up a ...",
+      "url": "https://www.facebook.com/groups/192563624157095/posts/29041528965500510"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Beer Brewery/Brewing Equipment & Distillation Equipment",
+      "id": "https://www.facebook.com/groups/cnbbe/posts/2968789230157778",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Looking for a 15bbl natural gas hlt closer to Bethlehem Pa the better. Recommendations of Bethlehem, PA and Greater Lehigh Valley Region 3y",
+      "source": "Facebook",
+      "title": "Looking for a 15bbl natural gas hlt closer to Bethlehem Pa ...",
+      "url": "https://www.facebook.com/groups/cnbbe/posts/2968789230157778"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1712723593847693",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-04",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Come hungry, bring an appetite, and don't say we didn't warn you!! The Garage – Clay Pike Service 1410 Clay Pike, North Huntingdon, PA Friday: 5 PM–9 ...Read more",
+      "source": "Facebook",
+      "title": "Limited availability, stop and pick one up this weekend!! ...",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1712723593847693"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1713775320409187",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-05",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Let's welcome our new members! Kimmell CB Ron, Ali Marie-Rose, John Millantz, Michelle Hempel Schade, Sherri Fritz, Emily Veliky, Eric Akerlind, Taylor",
+      "source": "Facebook",
+      "title": "Let's welcome our new members! Kimmell CB Ron",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1713775320409187"
+    },
+    {
+      "id": "https://www.facebook.com/groups/773817106040589/posts/28943270158668573",
+      "url": "https://www.facebook.com/groups/773817106040589/posts/28943270158668573",
+      "title": "If your interested in saving money on your electricity bill ...",
+      "snippet": "Completely a free service for anyone with PPL or MET ED! ... There are no contracts No fee's No variables where your rate changes month to month Just true savings ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "FOR SALE IN BORGER selling or iso",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/4114770678657983/posts/4395471127254602",
+      "url": "https://www.facebook.com/groups/4114770678657983/posts/4395471127254602",
+      "title": "How to catch up on overdue electric bill payments?",
+      "snippet": "If you are struggling to pay your electric bill, we offer extended payment arrangements, payment extensions and other assistance to help customers who have ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Battys",
+      "posted": "2026-11-08",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1388972261963168/posts/2226705548189831",
+      "url": "https://www.facebook.com/groups/1388972261963168/posts/2226705548189831",
+      "title": "How am I able to get registered for ppl?",
+      "snippet": "You have to pass medically as well. They need your last physical and your vaccination record|First you need a client. scroll down to “PA Registration Steps”",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Home Care NY - PPL CDPAP, NHTD, PCA/HHA, Private Pay",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
         "semantic_accepted": false,
         "reason": "keyword",
         "host": true,
@@ -1110,12 +1203,570 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/674207805924236/posts/29659630263621938",
+      "url": "https://www.facebook.com/groups/674207805924236/posts/29659630263621938",
+      "title": "Help a local Perry family battling a stage IV colon cancer ...",
+      "snippet": "This post is a call to action for a fundraising event for Steve Young, who is battling colon and liver cancer. The author, a caterer, is hosting a",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Perryopolis",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups/674207805924236 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1718102086643177",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-09",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Has anyone used the new portal for Mawc?",
+      "source": "Facebook",
+      "title": "Has anyone used the new portal for Mawc?",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1718102086643177"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Banburyshire Info",
+      "id": "https://www.facebook.com/groups/320980713325831/posts/1459914549432436",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-05",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Most gas company cold calls to switch providers are scams or use misleading sales tactics, though a few companies are technically legitimate but still ...Read more",
+      "source": "Facebook",
+      "title": "Has anyone else received calls from gas companies ...",
+      "url": "https://www.facebook.com/groups/320980713325831/posts/1459914549432436"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Turtle Creek Pa, Facebook Flea Market",
+      "id": "https://www.facebook.com/groups/459462054147713/posts/29076986761968527",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-08",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "you can change the tip for a natural gas one. Use it as a built in unit or put it on the original legs included. $700",
+      "source": "Facebook",
+      "title": "Gas range set up for propane. I bought it this way and do ...",
+      "url": "https://www.facebook.com/groups/459462054147713/posts/29076986761968527"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Northeastern PA - YARD SALE",
+      "id": "https://www.facebook.com/groups/469276633118485/posts/29035824402703660",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-05",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "It documents the process of converting an old electric gas stove into a new gas range with a griddle. The process involves routing a new gas line",
+      "source": "Facebook",
+      "title": "Gas range (natural gas) Works great …. (Upgrading Kitchen)",
+      "url": "https://www.facebook.com/groups/469276633118485/posts/29035824402703660"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "STL Contractors and Remodelers",
+      "id": "https://www.facebook.com/groups/492214672469283/posts/1691172879240117",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Gas fireplace switch up!\nISO recommendations for someone who can convert our existing gas fireplace to electric or possibly even wood burning!\n\nWould",
+      "source": "Facebook",
+      "title": "Gas fireplace switch up!",
+      "url": "https://www.facebook.com/groups/492214672469283/posts/1691172879240117"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "PECO Peeps  Historical Memories",
+      "id": "https://www.facebook.com/groups/27510774555215911/posts/28815574471402573",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-03",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "a Singapore-based energy company, PECO, formerly the Philadelphia Electric Company, and its role in powering southeastern Pennsylvania since 1881.",
+      "source": "Facebook",
+      "title": "First look: Redeveloped PECO power plant nears debut as ...",
+      "url": "https://www.facebook.com/groups/27510774555215911/posts/28815574471402573"
+    },
+    {
+      "id": "https://www.facebook.com/groups/700803120748857/posts/2433326970829788",
+      "url": "https://www.facebook.com/groups/700803120748857/posts/2433326970829788",
+      "title": "Did anyone's power go out just now",
+      "snippet": "Did anyone’s power go out just now",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "ANYTHING Catasauqua, PA",
+      "posted": "2026-11-08",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "PA  Farm, Equipment, Tools & Parts For Sale",
+      "id": "https://www.facebook.com/groups/1507475129371153/posts/28843526952005935",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Clean oil customer switched to gas willing to deliver locally for a fee. $4.169 per gallon. Center Valley, PA? The next day's prices will be listed on our",
+      "source": "Facebook",
+      "title": "Clean oil customer switched to gas willing to deliver locally ...",
+      "url": "https://www.facebook.com/groups/1507475129371153/posts/28843526952005935"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "",
+      "id": "https://www.facebook.com/groups/970023226425607/posts/28941432792191275",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-05",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "PA Gas & Electric 12 month fixed plan for .479 per Ccf which is 27% lower than PECO's rate. There is no cancellation fee or monthly service fees. Application",
+      "source": "Facebook",
+      "title": "Chester Springs Area Community Network",
+      "url": "https://www.facebook.com/groups/970023226425607/posts/28941432792191275"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Bridesburg  happenings,affairs or events",
+      "id": "https://www.facebook.com/groups/728661453838769/posts/29317032951241571",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-05",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "PECO will assist you with program applications and billing questions. You could get up to $2,000 to help pay your bill! 2301 MARKE TREET PHILADELPHIA PA 19103",
+      "source": "Facebook",
+      "title": "Bridesburg happenings,affairs or events",
+      "url": "https://www.facebook.com/groups/728661453838769/posts/29317032951241571"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "ONE POINT SOLAR CEBU",
+      "id": "https://www.facebook.com/groups/415727268132960/posts/1096519270053753",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-07",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "AFFORDABLE ELECTRICAL SUPPLIES   For Fast Transaction Please Directly Message me 09068849654 We are Accepting: ✓COD ✓GCASH PAYMENT ✓BNK ACCOUNT (For ...Read more",
+      "source": "Facebook",
+      "title": "Available!!!!",
+      "url": "https://www.facebook.com/groups/415727268132960/posts/1096519270053753"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Philippine EV Community",
+      "id": "https://www.facebook.com/groups/pevcommunityofficial/posts/4628118904125141",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-04",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "At what fuel price point will the ICE fanatic change their minds about EV? Disregard the rich. They can afford ₱1,000 fuel price.",
+      "source": "Facebook",
+      "title": "At what fuel price point will the ICE fanatic change their ...",
+      "url": "https://www.facebook.com/groups/pevcommunityofficial/posts/4628118904125141"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Indiana, PA Bulletin",
+      "id": "https://www.facebook.com/groups/1234648660386115/posts/2053418148509158",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-07",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "If you use propane for heating and or cooking, no matter what you use it for.\nIts time for a change if you do business with \n\nFERREL GAS \n\nWith heating",
+      "source": "Facebook",
+      "title": "Alternatives to Ferrell Gas for Propane Services in Indiana, ...",
+      "url": "https://www.facebook.com/groups/1234648660386115/posts/2053418148509158"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "Blairsville, PA Uncensored",
+      "id": "https://www.facebook.com/groups/1004991061835839/posts/1438556471812627",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-07",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "If you use propane for heating and or cooking, no matter what you use it for.\nIts time for a change if you do business with \n\nFERREL GAS \n\nWith heating",
+      "source": "Facebook",
+      "title": "Alternatives to Ferrell Gas for Propane Services in ...",
+      "url": "https://www.facebook.com/groups/1004991061835839/posts/1438556471812627"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "",
+      "id": "https://www.facebook.com/groups/217744405434743/posts/2294890117720151",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-04",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "PECO will assist you with program applications and billing questions. You could get up to $2,000 to help pay your bill! 2301 MARKE TREET PHILADELPHIA PA 19103",
+      "source": "Facebook",
+      "title": "All FREE Resources Philly",
+      "url": "https://www.facebook.com/groups/217744405434743/posts/2294890117720151"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-10",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1717069976746388",
+      "last_seen": "2026-11-10",
+      "posted": "2026-11-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/528042172315847 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "5c0b9593494d"
+      },
+      "snippet": "Hello im looking for a shop that does rust work but I'm not trying to spend 3k on a 1k car. I have a 08 Honda civic lx four door with rust on my back",
+      "source": "Facebook",
+      "title": "Affordable rust repair for 2008 Honda Civic LX in ...",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1717069976746388"
+    },
+    {
+      "id": "https://www.facebook.com/groups/674207805924236/posts/29689052627346368",
+      "url": "https://www.facebook.com/groups/674207805924236/posts/29689052627346368",
+      "title": "ATTENTION AND AND ALL CUSTOMERS OF MUNICIPAL AUTHORITY OF WASHINGTON TOWNSHIP | Facebook",
+      "snippet": "3d \n\n2\n\nImage 2\n\n[](\n\nGina Marie Russell\n\nSo it's still questionable if you live in the township and have no public utilities? In my 40+ years on earth I sure do not see a public water line close....im an Engineer so.i know. Send me a bill...not happening.\n\n   3d \n\n[](\n\nJoseph Mauchline\n\nPrivatizing…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Perryopolis",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-10",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups/674207805924236 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
       }
     },
     {
@@ -4188,36 +4839,36 @@
       "url": "https://www.facebook.com/groups/1484179425156876/posts/4638410896400364"
     },
     {
-      "id": "https://www.facebook.com/groups/2131183733833006/posts/4842076092743743",
-      "url": "https://www.facebook.com/groups/2131183733833006/posts/4842076092743743",
-      "title": "Gas Bill",
-      "snippet": "Estimates range from 10 to 34 percent Sources … with $1.31646 for the first 10 therms and $1.05183 for additional therms.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "What's Up, Siloam",
-      "posted": "2026-11-05",
       "first_seen": "2026-11-08",
+      "group": "What's Up, Siloam",
+      "id": "https://www.facebook.com/groups/2131183733833006/posts/4842076092743743",
       "last_seen": "2026-11-10",
+      "posted": "2026-11-05",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania",
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "Estimates range from 10 to 34 percent Sources … with $1.31646 for the first 10 therms and $1.05183 for additional therms.",
+      "source": "Facebook",
+      "title": "Gas Bill",
+      "url": "https://www.facebook.com/groups/2131183733833006/posts/4842076092743743"
     },
     {
       "context": "facebook.com",
@@ -5215,7 +5866,7 @@
       "id": "https://www.facebook.com/groups/1128999828160318/posts/1826594901734137",
       "url": "https://www.facebook.com/groups/1128999828160318/posts/1826594901734137",
       "title": "With rising energy costs, make plans to attend and learn ...",
-      "snippet": "The webinar will dive into the origins of our energy, the role of companies like PECO and Duquesne Light, and actionable steps to reduce costs. Attendees ...Read more",
+      "snippet": "... Met-Ed: 11.011 to 11.903 - +8.1% -- PECO: 9.239 to 10.40 - +12.6 ... rate comparisons for electricity and www. PAGasSwitch.com for natural gas",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Concerned Citizens of the HBG Community",
@@ -5225,7 +5876,8 @@
       "queries": [
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
         "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania",
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")",
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -5236,39 +5888,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1529304447729313/posts/2025829488076804",
-      "url": "https://www.facebook.com/groups/1529304447729313/posts/2025829488076804",
-      "title": "With rising energy costs, make plans to attend and learn ...",
-      "snippet": "Customers who sign up with Peco's standard offer this week will get 7% off the current default rate of 7.07 cents, or 6.57 cents. That will be 14% below the ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Middletown PA News and Information",
-      "posted": "2026-11-06",
-      "first_seen": "2026-11-07",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -5399,37 +6019,6 @@
       "source": "Facebook",
       "title": "What are the average extra costs for water, trash, electric, ...",
       "url": "https://www.facebook.com/groups/780352517941558/posts/1107743431869130"
-    },
-    {
-      "context": "facebook.com",
-      "first_seen": "2026-11-07",
-      "group": "Channel 1 Methed Up News Local",
-      "id": "https://www.facebook.com/groups/213412910976499/posts/1521016976882746",
-      "last_seen": "2026-11-07",
-      "posted": "2026-11-06",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
-      "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": true,
-        "host": true,
-        "keyword": true,
-        "lead": false,
-        "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "822a4befc483"
-      },
-      "snippet": "Ppl is not my electricity generator but they are still my supplier. My last electric bill was $67.44 and Ppl added $53.56 for a supply charge.",
-      "source": "Facebook",
-      "title": "What affects people's electric bill supply and delivery charges?",
-      "url": "https://www.facebook.com/groups/213412910976499/posts/1521016976882746"
     },
     {
       "context": "facebook.com",
@@ -5837,35 +6426,36 @@
       "url": "https://www.facebook.com/groups/27510774555215911/posts/28801353892824631"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-11-07",
-      "group": "Mount Bethel PA",
       "id": "https://www.facebook.com/groups/729119718454038/posts/1900693564629975",
-      "last_seen": "2026-11-07",
+      "url": "https://www.facebook.com/groups/729119718454038/posts/1900693564629975",
+      "title": "PPL's 3Q earnings exceeded estimates and the company ...",
+      "snippet": "PPL's 3Q earnings exceeded estimates and the company announced a deal to provide energy to a Pennsylvania data center:",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Mount Bethel PA",
       "posted": "2026-11-06",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-10",
       "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "822a4befc483"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
       },
-      "snippet": "PPL's 3Q earnings exceeded estimates and the company announced a deal to provide energy to a Pennsylvania data center:",
-      "source": "Facebook",
-      "title": "PPL's 3Q earnings exceeded estimates and the company ...",
-      "url": "https://www.facebook.com/groups/729119718454038/posts/1900693564629975"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -5899,35 +6489,36 @@
       "url": "https://www.facebook.com/groups/1133975016721508/posts/28885459524479684"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-11-07",
-      "group": "Pittston Community Page",
       "id": "https://www.facebook.com/groups/1117169335159279/posts/3469294063280116",
-      "last_seen": "2026-11-07",
+      "url": "https://www.facebook.com/groups/1117169335159279/posts/3469294063280116",
+      "title": "PPL electric rates increasing 10% on December 1st",
+      "snippet": "PPL Electric Utilities has asked the Pennsylvania Public Utility Commission (PUC) to increase distribution rates for residential customers by 6.98% on or after ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pittston Community Page",
       "posted": "2026-11-05",
-      "production": {
-        "accepted": false,
-        "reason": "intent",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-10",
       "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": true,
-        "reason": "intent",
-        "semantic_accepted": false,
-        "version": "0dd8a756dc93"
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "b5af14d29466"
       },
-      "snippet": "PPL is seeking an annual boost in revenues of $356.3 million (33.4 percent), which would result in a 7 percent rise in utility bills for the average customer.Read more",
-      "source": "Facebook",
-      "title": "PPL electric rates increasing 10% on December 1st",
-      "url": "https://www.facebook.com/groups/1117169335159279/posts/3469294063280116"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
     },
     {
       "context": "facebook.com",
@@ -6055,6 +6646,39 @@
       "url": "https://www.facebook.com/groups/plumbingsolutions/posts/1179469248079907"
     },
     {
+      "id": "https://www.facebook.com/groups/1529304447729313/posts/2025829488076804",
+      "url": "https://www.facebook.com/groups/1529304447729313/posts/2025829488076804",
+      "title": "Middletown PA News and Information | With rising energy costs, make plans to attend and learn the $ecrets of $aving Money and Energy at the 2026 Energy Forum on Saturday, November 14, 202... | Facebook",
+      "snippet": "3 days ago\n\nFriday, November 6, 2026 at 4:33 PM\n\n3d · \n\nWith rising energy costs, make plans to attend and learn the $ecrets of $aving Money and Energy at the 2026 Energy Forum on Saturday, November 14, 2026, 9:00 am - 11:00 am. The program is an opportunity to understand why your electricity bills …",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Middletown PA News and Information",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")",
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
       "context": "facebook.com",
       "first_seen": "2026-11-07",
       "group": "Guyana - A Story of Pictures, Old and New GUYASPON",
@@ -6148,35 +6772,36 @@
       "url": "https://www.facebook.com/groups/449745065107006/posts/29039348542386610"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-11-07",
-      "group": "Metal Buildings of Texas",
       "id": "https://www.facebook.com/groups/551627781998280/posts/2105869703240739",
-      "last_seen": "2026-11-07",
+      "url": "https://www.facebook.com/groups/551627781998280/posts/2105869703240739",
+      "title": "If your interested in saving money on your electricity bill ...",
+      "snippet": "We offer high efficiency systems for a competitive price compared to our competitors. Give us a call or text today at (469) 954-5558 for free estimates. BEAT",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Metal Buildings of Texas",
       "posted": "2026-11-05",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-10",
       "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "0dd8a756dc93"
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "b5af14d29466"
       },
-      "snippet": "Is your electric bill sky high? If it is then THIS is the post for you! We can set you up with a high efficiency system to help save you",
-      "source": "Facebook",
-      "title": "If your interested in saving money on your electricity bill look no ...",
-      "url": "https://www.facebook.com/groups/551627781998280/posts/2105869703240739"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -6272,36 +6897,36 @@
       "url": "https://www.facebook.com/groups/wordofmouthocala/posts/29259242730377687"
     },
     {
-      "id": "https://www.facebook.com/groups/2624054544379448/posts/28860150983676446",
-      "url": "https://www.facebook.com/groups/2624054544379448/posts/28860150983676446",
-      "title": "Heads up, Spring City / local neighbors — electricity ...",
-      "snippet": "Sweat the details of an energy contract. What's the rate? How long will it last? What happens when it ends? Are there fees, including cancellation fees? Be ...Read more",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Living in Spring City",
-      "posted": "2026-11-06",
       "first_seen": "2026-11-07",
+      "group": "Living in Spring City",
+      "id": "https://www.facebook.com/groups/2624054544379448/posts/28860150983676446",
       "last_seen": "2026-11-10",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "Sweat the details of an energy contract. What's the rate? How long will it last? What happens when it ends? Are there fees, including cancellation fees? Be ...Read more",
+      "source": "Facebook",
+      "title": "Heads up, Spring City / local neighbors — electricity ...",
+      "url": "https://www.facebook.com/groups/2624054544379448/posts/28860150983676446"
     },
     {
       "context": "facebook.com",
@@ -6552,6 +7177,38 @@
       "url": "https://www.facebook.com/groups/703037529834104/posts/3446326872171809"
     },
     {
+      "id": "https://www.facebook.com/groups/213412910976499/posts/1521016976882746",
+      "url": "https://www.facebook.com/groups/213412910976499/posts/1521016976882746",
+      "title": "Channel 1 Methed Up News Local | Asking for a friend.... | Facebook",
+      "snippet": "Log In\n\nLog In\n\nForgot Account?\n\nImage 1 ## # Channel 1 Methed Up News Local | Asking for a friend.... · 65.2K members\n\nJoin group\n\n[](\n\n## Channel 1 Methed Up News Local · \n\nJoin\n\nRonald Peck\n\n · \n\n3 days ago\n\nFriday, November 6, 2026 at 4:42 PM\n\n3d · \n\nAsking for a friend..... Looking for input on…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Channel 1 Methed Up News Local",
+      "posted": "2026-11-06",
+      "first_seen": "2026-11-07",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
       "context": "facebook.com",
       "first_seen": "2026-11-07",
       "group": "Waukesha Eats",
@@ -6772,7 +7429,7 @@
       "id": "https://www.facebook.com/groups/953114681721440/posts/2930550233977865",
       "url": "https://www.facebook.com/groups/953114681721440/posts/2930550233977865",
       "title": "With rising energy costs, make plans to attend and learn ...",
-      "snippet": "The webinar will dive into the origins of our energy, the role of companies like PECO and Duquesne Light, and actionable steps to reduce costs.",
+      "snippet": "Rate Increases Of Between 5% and 16% On Most Electric Bills … default electric service prices taking effect on June 1 will increase most residential electric",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Susquehanna Township Neighbors",
@@ -6784,7 +7441,8 @@
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")",
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
         "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania",
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")",
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -6795,7 +7453,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -6864,6 +7522,40 @@
       "source": "Facebook",
       "title": "Why pay more for your ultrasound? Compare First ...",
       "url": "https://www.facebook.com/groups/488978685754696/posts/1602259291093291"
+    },
+    {
+      "id": "https://www.facebook.com/groups/390759001562351/posts/2138571823447718",
+      "url": "https://www.facebook.com/groups/390759001562351/posts/2138571823447718",
+      "title": "Who loves the agreement they have with the utility company? | Facebook",
+      "snippet": "4d \n\n3\n\nImage 7Image 8\n\n[](\n\nTina Yohey Collins\n\nWe owed MetEd absolutely nothing from April to October due to our solar panels, and the true up payment from our banked solar. We are hoping to have enough banked solar from those months to mostly get us through the winter…this is our first year of so…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Lebanon, PA Happenings",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")",
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
     },
     {
       "context": "facebook.com",
@@ -7083,11 +7775,44 @@
       "url": "https://www.facebook.com/groups/VeganCityPhilly/posts/10168313276959867"
     },
     {
+      "id": "https://www.facebook.com/groups/370788906695658/posts/2622415951532931",
+      "url": "https://www.facebook.com/groups/370788906695658/posts/2622415951532931",
+      "title": "Understanding PPL Electric Supply and Delivery Charges",
+      "snippet": "Asking for a friend..... Looking for input on PPL Electric Bill, if anyone out there has done any kind of research on SUPPLY/DELIVERY in what they charge",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Tamaqua Area Public Forum",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
       "context": "facebook.com",
       "first_seen": "2026-11-06",
-      "group": "Tamaqua Area Public Forum",
-      "id": "https://www.facebook.com/groups/370788906695658/posts/2622415951532931",
-      "last_seen": "2026-11-07",
+      "group": "Huntingdon Pa NEWS & Information",
+      "id": "https://www.facebook.com/groups/507792579332678/posts/29151670304518190",
+      "last_seen": "2026-11-10",
       "posted": "2026-11-05",
       "production": {
         "accepted": false,
@@ -7096,55 +7821,23 @@
       },
       "queries": [
         "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": false,
-        "host": true,
-        "keyword": true,
-        "lead": false,
-        "pennsylvania": true,
-        "reason": "intent",
-        "semantic_accepted": false,
-        "version": "0dd8a756dc93"
-      },
-      "snippet": "Asking for a friend..... Looking for input on PPL Electric Bill, if anyone out there has done any kind of research on SUPPLY/DELIVERY in what they charge",
-      "source": "Facebook",
-      "title": "Understanding PPL Electric Supply and Delivery Charges",
-      "url": "https://www.facebook.com/groups/370788906695658/posts/2622415951532931"
-    },
-    {
-      "id": "https://www.facebook.com/groups/507792579332678/posts/29151670304518190",
-      "url": "https://www.facebook.com/groups/507792579332678/posts/29151670304518190",
-      "title": "UGI Utilities Inc. has increased its Operation Share energy ...",
-      "snippet": "The Pennsylvania Public Utility Commission approved an 8.9% UGI rate hike for natural gas distribution that equates to about $7 more a month for an average",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Huntingdon Pa NEWS & Information",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
         "site:facebook.com/groups (\"PaGasSwitch\" OR \"PA Gas Switch\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "snippet": "The Pennsylvania Public Utility Commission approved an 8.9% UGI rate hike for natural gas distribution that equates to about $7 more a month for an average",
+      "source": "Facebook",
+      "title": "UGI Utilities Inc. has increased its Operation Share energy ...",
+      "url": "https://www.facebook.com/groups/507792579332678/posts/29151670304518190"
     },
     {
       "context": "facebook.com",
@@ -7334,35 +8027,36 @@
       "url": "https://www.facebook.com/groups/355054821447/posts/10164108609186448"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-11-06",
-      "group": "Western PA Small Business Spotlight",
       "id": "https://www.facebook.com/groups/1962281437325465/posts/4880449088842004",
-      "last_seen": "2026-11-06",
+      "url": "https://www.facebook.com/groups/1962281437325465/posts/4880449088842004",
+      "title": "Pennsylvania business electricity rates changing ...",
+      "snippet": "Beginning on June 1st, PPL's electric rates will increase from the current rate of 8.942 cents/kWh to 12.336 cents/kWh for residential customers, and from 9.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Western PA Small Business Spotlight",
       "posted": "2026-11-04",
-      "production": {
-        "accepted": false,
-        "reason": "intent",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-10",
       "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": true,
-        "reason": "intent",
-        "semantic_accepted": false,
-        "version": "736430002c5d"
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "b5af14d29466"
       },
-      "snippet": "Public Electric utility bills across most of the state will increase Dec. 1 to account for the higher costs of electric generation.",
-      "source": "Facebook",
-      "title": "Pennsylvania business electricity rates changing ...",
-      "url": "https://www.facebook.com/groups/1962281437325465/posts/4880449088842004"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
     },
     {
       "context": "facebook.com",
@@ -7458,36 +8152,36 @@
       "url": "https://www.facebook.com/groups/camppa/posts/2040184103183854"
     },
     {
-      "id": "https://www.facebook.com/groups/731672710746794/posts/2231943460719704",
-      "url": "https://www.facebook.com/groups/731672710746794/posts/2231943460719704",
-      "title": "PPL Electric rates increasing on December 1st",
-      "snippet": "PPL's Price to Compare for residential customers will rise to 14.428ç/kWh on December 1, 2026- an increase of 1.349t/kWh from the current 13.079ç/kWh rate",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Greentown 18426",
-      "posted": "2026-11-05",
       "first_seen": "2026-11-06",
+      "group": "Greentown 18426",
+      "id": "https://www.facebook.com/groups/731672710746794/posts/2231943460719704",
       "last_seen": "2026-11-10",
+      "posted": "2026-11-05",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania",
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "snippet": "PPL's Price to Compare for residential customers will rise to 14.428ç/kWh on December 1, 2026- an increase of 1.349t/kWh from the current 13.079ç/kWh rate",
+      "source": "Facebook",
+      "title": "PPL Electric rates increasing on December 1st",
+      "url": "https://www.facebook.com/groups/731672710746794/posts/2231943460719704"
     },
     {
       "context": "facebook.com",
@@ -7675,39 +8369,6 @@
       "source": "Facebook",
       "title": "How to reduce monthly electric bill from 5k to 91 PHP",
       "url": "https://www.facebook.com/groups/197021960920942/posts/2157317994891319"
-    },
-    {
-      "id": "https://www.facebook.com/groups/390759001562351/posts/2138571823447718",
-      "url": "https://www.facebook.com/groups/390759001562351/posts/2138571823447718",
-      "title": "How to lock in lower solar energy rates before utility ...",
-      "snippet": "... PECO PennPower® September 2026 December 2026 ... Insulate yourself from energy price inflation and the rate hikes of your utility company by going solar!",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Lebanon, PA Happenings",
-      "posted": "2026-11-05",
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
     },
     {
       "context": "facebook.com",
@@ -7928,6 +8589,40 @@
       "url": "https://www.facebook.com/groups/397443574409626/posts/2349535035867127"
     },
     {
+      "id": "https://www.facebook.com/groups/586005570673503/posts/1140812515192803",
+      "url": "https://www.facebook.com/groups/586005570673503/posts/1140812515192803",
+      "title": "Fredonia, Pa Community Page | Dont show*  the lady saying shes from pennsylvania your electric bill. | Facebook",
+      "snippet": "5d \n\n[](\n\nCrystal Weatherby\n\nThey didn't make me sign anything and showed me on my bill where ppl charged me 118.00 they were not given permission to charge me. Did they have anyone sign anything\n\n   5d \n\n1\n\nImage 2\n\nEric Penn replied\n\n · \n\n1 reply\n\nSee more on Facebook\n\nSee more on Facebook\n\nEmail …",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Fredonia, Pa Community Page",
+      "posted": "2026-11-04",
+      "first_seen": "2026-11-06",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")",
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
       "context": "facebook.com",
       "first_seen": "2026-11-06",
       "group": "Manheim PA Online Yard Sale",
@@ -8143,39 +8838,6 @@
       "source": "Facebook",
       "title": "Between the rate hikes and the increased cost of living ...",
       "url": "https://www.facebook.com/groups/DownriverFriends/posts/4469070686688420"
-    },
-    {
-      "id": "https://www.facebook.com/groups/586005570673503/posts/1140812515192803",
-      "url": "https://www.facebook.com/groups/586005570673503/posts/1140812515192803",
-      "title": "Be cautious of door-to-door electric bill solicitations in ...",
-      "snippet": "Peco sends letters to customers confirming a change in energy supplier - The PUC “ strongly encourages” any victims of fraud to file a complaint with its Bureau ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Fredonia, Pa Community Page",
-      "posted": "2026-11-04",
-      "first_seen": "2026-11-06",
-      "last_seen": "2026-11-10",
-      "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "5c0b9593494d"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
     },
     {
       "context": "facebook.com",
@@ -9204,7 +9866,7 @@
       "id": "https://www.facebook.com/groups/1713385335565430/posts/4604264816477453",
       "url": "https://www.facebook.com/groups/1713385335565430/posts/4604264816477453",
       "title": "Pennsylvania homeowners face rising electric costs with ...",
-      "snippet": "That will be 14% below the higher 7.64-cent rate set to go into effect next week, on June 1. But only one supplier currently is available to accept new Peco ...Read more",
+      "snippet": "OCR: PENNSYLVANIA UTILITY RATE INCREASES HISTORICAL TRENDS 2026 RATE CHANGES (UPDATED) ... PPL also has no suppliers currently signed up for the standard.",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Business Professionals of Harrisburg & Central PA",
@@ -9216,7 +9878,8 @@
         "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
         "site:facebook.com/groups (\"moving to\" OR \"just moved\") (\"Philadelphia\" OR \"Pittsburgh\") electricity",
-        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
+        "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")",
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -9227,7 +9890,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": false,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -9267,36 +9930,36 @@
       "url": "https://www.facebook.com/groups/phillypenndot/posts/2449054128833691"
     },
     {
-      "id": "https://www.facebook.com/groups/827828552131738/posts/1438930114354909",
-      "url": "https://www.facebook.com/groups/827828552131738/posts/1438930114354909",
-      "title": "PP&L electric rate increase in Upper Perk, PA concerns",
-      "snippet": "Electric charges for residential customers of Peco, are set to increase 8.1% on June 1, from 7.07 cents per kWh to 7.64 power from electricity generators. Peco",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Residents of Upper Perk",
-      "posted": "2026-11-05",
       "first_seen": "2026-11-05",
+      "group": "Residents of Upper Perk",
+      "id": "https://www.facebook.com/groups/827828552131738/posts/1438930114354909",
       "last_seen": "2026-11-10",
+      "posted": "2026-11-05",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")",
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "Electric charges for residential customers of Peco, are set to increase 8.1% on June 1, from 7.07 cents per kWh to 7.64 power from electricity generators. Peco",
+      "source": "Facebook",
+      "title": "PP&L electric rate increase in Upper Perk, PA concerns",
+      "url": "https://www.facebook.com/groups/827828552131738/posts/1438930114354909"
     },
     {
       "context": "facebook.com",
@@ -11381,7 +12044,7 @@
       "id": "https://www.facebook.com/groups/1117169335159279/posts/3468202070055982",
       "url": "https://www.facebook.com/groups/1117169335159279/posts/3468202070055982",
       "title": "PPL to raise electric rates by 10% in Pennsylvania ...",
-      "snippet": "Pennsylvania Public Utility Commission's official electric shopping website: PA Power Switch (https://www. papowerswitch.com).",
+      "snippet": "PPL raising rates again December 1st - 10% for us another $40 month. PPL's price to compare changes biannually and recently increased on December 1, 2022, to",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Pittston Community Page",
@@ -11404,7 +12067,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": false,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -11447,7 +12110,7 @@
       "id": "https://www.facebook.com/groups/2350406885413177/posts/2622921431495053",
       "url": "https://www.facebook.com/groups/2350406885413177/posts/2622921431495053",
       "title": "PPL electric rate increase in Pennsylvania December 1st",
-      "snippet": "Pennsylvania Public Utility Commission's official electric shopping website: PA Power Switch (https://www. papowerswitch.com).",
+      "snippet": "The average PPL residential bill was set to rise about 7% starting Dec. 1, 2024, from $191.49 to $204.86 per month for 1,000 kWh usage. a $13.37 monthly",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Pennsylvania Data Center Resistance",
@@ -11469,7 +12132,38 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": false,
-        "version": "5c0b9593494d"
+        "version": "b5af14d29466"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/370788906695658/posts/2620599781714548",
+      "url": "https://www.facebook.com/groups/370788906695658/posts/2620599781714548",
+      "title": "PPL Electric proposes 10% rate hike for residential ...",
+      "snippet": "Electricity Rates Set to Rise 10% for Residential Customers\nA new report published November 3 confirms that PPL Electric⁠￼ has announced",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Tamaqua Area Public Forum",
+      "posted": "2026-11-03",
+      "first_seen": "2026-11-04",
+      "last_seen": "2026-11-10",
+      "queries": [
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "b5af14d29466"
       },
       "production": {
         "accepted": false,
@@ -11480,9 +12174,9 @@
     {
       "context": "facebook.com",
       "first_seen": "2026-11-04",
-      "group": "Tamaqua Area Public Forum",
-      "id": "https://www.facebook.com/groups/370788906695658/posts/2620599781714548",
-      "last_seen": "2026-11-04",
+      "group": "LM Transparency",
+      "id": "https://www.facebook.com/groups/lmtransparency/posts/1160366856416905",
+      "last_seen": "2026-11-10",
       "posted": "2026-11-03",
       "production": {
         "accepted": false,
@@ -11490,56 +12184,25 @@
         "source": "rules"
       },
       "queries": [
-        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": false,
-        "host": true,
-        "keyword": true,
-        "lead": false,
-        "pennsylvania": true,
-        "reason": "intent",
-        "semantic_accepted": false,
-        "version": "7cdc1f0b3572"
-      },
-      "snippet": "Electricity Rates Set to Rise 10% for Residential Customers\nA new report published November 3 confirms that PPL Electric⁠￼ has announced",
-      "source": "Facebook",
-      "title": "PPL Electric proposes 10% rate hike for residential ...",
-      "url": "https://www.facebook.com/groups/370788906695658/posts/2620599781714548"
-    },
-    {
-      "id": "https://www.facebook.com/groups/lmtransparency/posts/1160366856416905",
-      "url": "https://www.facebook.com/groups/lmtransparency/posts/1160366856416905",
-      "title": "PECO Price to Compare GOING UP DECEMBER 1",
-      "snippet": "The PECO PTC is increasing by 10% on December. From 11.759 to 12.944 cents per KWH. homes and businesses by 12.3% in January. That would amount to $16.67 a",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "LM Transparency",
-      "posted": "2026-11-03",
-      "first_seen": "2026-11-04",
-      "last_seen": "2026-11-10",
-      "queries": [
         "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania",
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
         "site:facebook.com/groups (\"PECO rate\" OR \"PECO supplier\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "snippet": "The PECO PTC is increasing by 10% on December. From 11.759 to 12.944 cents per KWH. homes and businesses by 12.3% in January. That would amount to $16.67 a",
+      "source": "Facebook",
+      "title": "PECO Price to Compare GOING UP DECEMBER 1",
+      "url": "https://www.facebook.com/groups/lmtransparency/posts/1160366856416905"
     },
     {
       "context": "facebook.com",
@@ -12722,16 +13385,17 @@
       "url": "https://www.facebook.com/groups/149524792401016/posts/2004256983594445"
     },
     {
-      "id": "https://www.facebook.com/groups/855219425817114/posts/1670261907646191",
-      "url": "https://www.facebook.com/groups/855219425817114/posts/1670261907646191",
-      "title": "switch today to lock in lower, predictable electricity rates ...",
-      "snippet": "Our rate is 7 cents per kWh! The average billing rate never exceeds 13.5 cents per kWh... Competitors can exceed 21.8 cents per kWh.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Sub Contractors & General Contractor Jobs",
-      "posted": "2026-11-03",
       "first_seen": "2026-11-03",
+      "group": "Sub Contractors & General Contractor Jobs",
+      "id": "https://www.facebook.com/groups/855219425817114/posts/1670261907646191",
       "last_seen": "2026-11-10",
+      "posted": "2026-11-03",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")",
         "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania",
@@ -12739,20 +13403,19 @@
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": true,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "5c0b9593494d"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "Our rate is 7 cents per kWh! The average billing rate never exceeds 13.5 cents per kWh... Competitors can exceed 21.8 cents per kWh.",
+      "source": "Facebook",
+      "title": "switch today to lock in lower, predictable electricity rates ...",
+      "url": "https://www.facebook.com/groups/855219425817114/posts/1670261907646191"
     },
     {
       "context": "facebook.com",
