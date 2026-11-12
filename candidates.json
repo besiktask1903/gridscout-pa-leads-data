@@ -1,485 +1,175 @@
 {
-  "updated": "2026-11-12T00:09:01Z",
-  "count": 888,
+  "updated": "2026-11-12T14:45:36Z",
+  "count": 923,
   "candidates": [
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "",
       "id": "https://www.facebook.com/groups/985770168464469/posts/3087233714984760",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3087233714984760",
-      "title": "🚨🚨We got 5 more of each stoves are electric (Stoves $150/ ...",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
       "snippet": "We got 5 more of each stoves are electric (Stoves $150/Refrigerator $200/Combo for $300 for both and will deliver with a down payment for travel time.",
       "source": "Facebook",
+      "title": "🚨🚨We got 5 more of each stoves are electric (Stoves $150/ ...",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3087233714984760"
+    },
+    {
+      "id": "https://www.facebook.com/groups/3260375190903970/posts/4557538531187623",
+      "url": "https://www.facebook.com/groups/3260375190903970/posts/4557538531187623",
+      "title": "🏡 REAL ESTATE TALK | Buyers & Sellers!",
+      "snippet": "Historic low interest rates are driving real estate prices- Compare 3% in 2021 and 6% in 2004. 3% is 1265 Month for $300,000 mortgage 6% is 1259 Month but only",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "",
-      "posted": "2026-11-10",
+      "group": "Bangladeshi Community of Pennsylvania",
+      "posted": "2026-11-11",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
-        "lead": true,
-        "hard_exclusion": false,
-        "version": "e9610d536438"
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "intent"
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Natural Gas Compressors",
       "id": "https://www.facebook.com/groups/626502017873484/posts/2460545067802494",
-      "url": "https://www.facebook.com/groups/626502017873484/posts/2460545067802494",
-      "title": "наρру happy v jeterans day honoring all honoringallwhoserved who ...",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
       "snippet": "Natural Gas Engine & Compressor Products & Services ・ running natural gas and hydrocarbon gas streams ・ questions. Serious buyers only,",
       "source": "Facebook",
+      "title": "наρру happy v jeterans day honoring all honoringallwhoserved who ...",
+      "url": "https://www.facebook.com/groups/626502017873484/posts/2460545067802494"
+    },
+    {
       "context": "facebook.com",
-      "group": "Natural Gas Compressors",
-      "posted": "2026-11-11",
       "first_seen": "2026-11-12",
+      "group": "Somerset County, NJ",
+      "id": "https://www.facebook.com/groups/2212070901/posts/10165010145210902",
       "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "e9610d536438"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/2212070901/posts/10165010145210902",
-      "url": "https://www.facebook.com/groups/2212070901/posts/10165010145210902",
-      "title": "we didn't run out of energy. we ran out of common sense.",
       "snippet": "Its regulated electric rates include things called the Societal Benefits Charge, the Green Programs Recovery Charge, and the Solar Pilot Recovery Charge. I'm",
       "source": "Facebook",
+      "title": "we didn't run out of energy. we ran out of common sense.",
+      "url": "https://www.facebook.com/groups/2212070901/posts/10165010145210902"
+    },
+    {
       "context": "facebook.com",
-      "group": "Somerset County, NJ",
-      "posted": "2026-11-11",
       "first_seen": "2026-11-12",
+      "group": "Wilmington Thrift Shop",
+      "id": "https://www.facebook.com/groups/1651416308510673/posts/4605071299811811",
       "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "e9610d536438"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1651416308510673/posts/4605071299811811",
-      "url": "https://www.facebook.com/groups/1651416308510673/posts/4605071299811811",
-      "title": "vent-free gas i space heater, ProCom or similar radiant ...",
       "snippet": "Firetemp Natural Gas Wall Heater. $50. ·. Philadelphia, PA. vent-free gas i space heater, ProCom or similar radiant plaque gas wall ProCom natural gas). May be ...Read more",
       "source": "Facebook",
+      "title": "vent-free gas i space heater, ProCom or similar radiant ...",
+      "url": "https://www.facebook.com/groups/1651416308510673/posts/4605071299811811"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2350406885413177/posts/2631919820595214",
+      "url": "https://www.facebook.com/groups/2350406885413177/posts/2631919820595214",
+      "title": "satesserbga ahー IN P - ண்ாம் 0:15 0之4 LEARN MORE",
+      "snippet": "PA True. 3d. There are 149 concrete storage buildings sitting in the woods of central Pennsylvania, near Allenwood, with their doors standing open. Most ...Read more",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Wilmington Thrift Shop",
+      "group": "Pennsylvania Data Center Resistance",
       "posted": "2026-11-11",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1708063213272611/posts/2361270887951837",
-      "url": "https://www.facebook.com/groups/1708063213272611/posts/2361270887951837",
-      "title": "antique cook stove needs a new home runs on natural gas ...",
-      "snippet": "Finally got my grandmas old cook stove home but it's ROUGH. anyone know of anyone to restore in Ohio or Pennsylvania?Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Restaurant supply & equipment for sale",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/645072236381140/posts/2148509386037410",
-      "url": "https://www.facebook.com/groups/645072236381140/posts/2148509386037410",
-      "title": "Working propane fireplace insert free for pickup today",
-      "snippet": "Natural gas fireplace insert - FREE!!! 8-10 years old, good working condition! Needs natural gas supply in your original fireplace and electrical wire ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Seacoast Buy Nothing - Uncensored",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1333355653437428/posts/28696971826649108",
-      "url": "https://www.facebook.com/groups/1333355653437428/posts/28696971826649108",
-      "title": "What's Happening In Mt Pleasant, PA",
-      "snippet": "ST MOUNT PLEASANT, PENNSYLVANIA. OPEN TO THE PUBLIC Everyone is Welcome! sewer and gas odor reported. It's like sewer and natural gas mixed together.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1651982041751861/posts/4790730911210276",
-      "url": "https://www.facebook.com/groups/1651982041751861/posts/4790730911210276",
-      "title": "What is the average winter electricity cost for Manhattan ...",
-      "snippet": "The average residential customer using 732 therms of natural gas can expect to pay about $240/m during winter heating season which is up 29% from the same time ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "NYC APARTMENTS FOR RENT",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/432903987055859/posts/3040886919590873",
-      "url": "https://www.facebook.com/groups/432903987055859/posts/3040886919590873",
-      "title": "What financial burden do Enbridge gas survey participants ...",
-      "snippet": "Enbridge gas customer surveys are mainly used to gauge community interest in expanding natural gas service to new areas, and to collect feedback for planning ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "What's going on in Brockville and area www.goingonbrockville.com",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1010483399100526/posts/3765562530259252",
-      "url": "https://www.facebook.com/groups/1010483399100526/posts/3765562530259252",
-      "title": "What electric companies service homes in Guilford ...",
-      "snippet": "West Penn Power is the main electric company, but residents can choose alternative suppliers for lower or fixed rates, with solar panels being a popular option",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Whats Going On In Chambersburg, PA",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/westchesterliberty/posts/2396447157767400",
-      "url": "https://www.facebook.com/groups/westchesterliberty/posts/2396447157767400",
-      "title": "We are looking for an electrician. Any recommendations?",
-      "snippet": "We are looking for an electrician. Any recommendations?",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "West Chester and Liberty Township, Ohio Neighborhood Group",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/BenningtonBlotter/posts/29793055720299566",
-      "url": "https://www.facebook.com/groups/BenningtonBlotter/posts/29793055720299566",
-      "title": "WWIA Winter Heating Fuel Raffle 2026 - Bennington",
-      "snippet": "🛢️  ⛽️ HEATING ASSISTANCE RAFFLE 10/24/26   ⛽️Choose your Supplier⛽️ Win $1,500 in either heating oil, propane, natural gas, electric, wood pellets, ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Bennington Blotter",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/105487152836286/posts/29500499189575026",
-      "url": "https://www.facebook.com/groups/105487152836286/posts/29500499189575026",
-      "title": "The Basics of Gas Furnaces in HVAC - Facebook",
-      "snippet": "This post provides a detailed, hands-on guide for HVAC technicians on the operation of a gas furnace, explained in a tight-space environment",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "HVAC ENGINEERING",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1010483399100526/posts/3765525020263003",
-      "url": "https://www.facebook.com/groups/1010483399100526/posts/3765525020263003",
-      "title": "Thank you to all who have and currently are serving!",
-      "snippet": "Guilford Twnship Electric Is west penn the only electric option to service a home in guilford township? If there are other better options what are they? Joe",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Whats Going On In Chambersburg, PA",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/oldwoodstoves/posts/3397531587124026",
-      "url": "https://www.facebook.com/groups/oldwoodstoves/posts/3397531587124026",
-      "title": "Technicians for Empire or White Mountain natural gas log ...",
-      "snippet": "I am having issues finding someone to look at my natural gas log sets that will not ignite.  Anyone in my area work on them?  I have contacted",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Old Wood stoves, Coal Stoves, Antique Stoves,& Masonry Heaters.",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/985770168464469/posts/3081935445514587",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3081935445514587",
-      "title": "Taking on hauling, junk removal, and cleanup jobs around ...",
-      "snippet": "Taking on hauling, junk removal, and cleanup jobs around Washington County If you have unwanted items, a garage that needs cleared out, or a property",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
-      "posted": "2026-11-06",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -490,7 +180,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -499,18 +189,80 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1278151723069384/posts/2114074809477067",
-      "url": "https://www.facebook.com/groups/1278151723069384/posts/2114074809477067",
-      "title": "Solar incentives for New England contractors: REF Grant ...",
-      "snippet": "New England contractors: is your electric bill gobbling up your profits? ✓ The REF Grant gives up to $19500 upfront toward your solar purchase ✓ The",
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Restaurant supply & equipment for sale",
+      "id": "https://www.facebook.com/groups/1708063213272611/posts/2361270887951837",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "Finally got my grandmas old cook stove home but it's ROUGH. anyone know of anyone to restore in Ohio or Pennsylvania?Read more",
+      "source": "Facebook",
+      "title": "antique cook stove needs a new home runs on natural gas ...",
+      "url": "https://www.facebook.com/groups/1708063213272611/posts/2361270887951837"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Seacoast Buy Nothing - Uncensored",
+      "id": "https://www.facebook.com/groups/645072236381140/posts/2148509386037410",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "Natural gas fireplace insert - FREE!!! 8-10 years old, good working condition! Needs natural gas supply in your original fireplace and electrical wire ...Read more",
+      "source": "Facebook",
+      "title": "Working propane fireplace insert free for pickup today",
+      "url": "https://www.facebook.com/groups/645072236381140/posts/2148509386037410"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1244766996510704/posts/1911643163156414",
+      "url": "https://www.facebook.com/groups/1244766996510704/posts/1911643163156414",
+      "title": "Why are regular households being billed $16 billion for ...",
+      "snippet": "Roughly half of those costs are typically covered through residential rate hikes, which have driven household electricity prices up 35% over the past decade.Read more",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Contractors of New England - RI, MA, NH, VT, ME, CT.",
-      "posted": "2026-11-11",
+      "group": "COALITION FOR RESPONSIBLE DATA CENTER DEVELOPMENT",
+      "posted": "2026-11-12",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -521,7 +273,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -530,18 +282,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/711529887027465/posts/1456699712510475",
-      "url": "https://www.facebook.com/groups/711529887027465/posts/1456699712510475",
-      "title": "Solar Panel Owners Ireland",
-      "snippet": "It begins!!! Any advice on what electricity provider to switch to? Battery is a 10 kWh. 3 person household, normal usage currently on a day/night rate.Read more",
+      "id": "https://www.facebook.com/groups/178612249448/posts/10165055368279449",
+      "url": "https://www.facebook.com/groups/178612249448/posts/10165055368279449",
+      "title": "Who is paying for the Quakertown pool snack stand ...",
+      "snippet": "Who's paying the electric bill for the snack stand at the pool? Lights have been blazing since the pool closed",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "",
-      "posted": "2026-11-11",
+      "group": "Quakertown Neighborhood Association",
+      "posted": "2026-11-12",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
@@ -552,19 +304,670 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
       }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "",
+      "id": "https://www.facebook.com/groups/1333355653437428/posts/28696971826649108",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "ST MOUNT PLEASANT, PENNSYLVANIA. OPEN TO THE PUBLIC Everyone is Welcome! sewer and gas odor reported. It's like sewer and natural gas mixed together.",
+      "source": "Facebook",
+      "title": "What's Happening In Mt Pleasant, PA",
+      "url": "https://www.facebook.com/groups/1333355653437428/posts/28696971826649108"
+    },
+    {
+      "id": "https://www.facebook.com/groups/stainedglassloversclub/posts/1660763332247735",
+      "url": "https://www.facebook.com/groups/stainedglassloversclub/posts/1660763332247735",
+      "title": "What to do with a used stained glass window from ...",
+      "snippet": "￼Hello from Pennsylvania! Is there a market for used stained glass windows? A large dining room window was removed and crated from my home. Not sure what to do ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Stained Glass Lovers Club",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "NYC APARTMENTS FOR RENT",
+      "id": "https://www.facebook.com/groups/1651982041751861/posts/4790730911210276",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "The average residential customer using 732 therms of natural gas can expect to pay about $240/m during winter heating season which is up 29% from the same time ...Read more",
+      "source": "Facebook",
+      "title": "What is the average winter electricity cost for Manhattan ...",
+      "url": "https://www.facebook.com/groups/1651982041751861/posts/4790730911210276"
+    },
+    {
+      "id": "https://www.facebook.com/groups/420911468613467/posts/2221693325201930",
+      "url": "https://www.facebook.com/groups/420911468613467/posts/2221693325201930",
+      "title": "What happened to the promised $275 per year cheaper ...",
+      "snippet": "You can now STOP fully depending on expensive power companies and take back control of your energy. Pa homeowners are saving up to $2750 a year on their bill!",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Climate change reality forum",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "What's going on in Brockville and area www.goingonbrockville.com",
+      "id": "https://www.facebook.com/groups/432903987055859/posts/3040886919590873",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "Enbridge gas customer surveys are mainly used to gauge community interest in expanding natural gas service to new areas, and to collect feedback for planning ...Read more",
+      "source": "Facebook",
+      "title": "What financial burden do Enbridge gas survey participants ...",
+      "url": "https://www.facebook.com/groups/432903987055859/posts/3040886919590873"
+    },
+    {
+      "id": "https://www.facebook.com/groups/ExperienceJimThorpe/posts/1863371054851116",
+      "url": "https://www.facebook.com/groups/ExperienceJimThorpe/posts/1863371054851116",
+      "title": "What draws you to Jim Thorpe, Pennsylvania?",
+      "snippet": "What version of Jim Thorpe is your favorite?\nDo you love the architecture?  Shopping?  😉 Is it the views?  History, maybe?  The foooood.  🤤 Or, maybe,",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Experience Jim Thorpe",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/3137022059952709/posts/4675936169394616",
+      "url": "https://www.facebook.com/groups/3137022059952709/posts/4675936169394616",
+      "title": "West Penn Power electric rate increase in Fayette County ...",
+      "snippet": "West Penn Power's generation rate will increase from 12-point-08 to 12-point-39 cents per kilowatt-hour. Utility officials say the change should add only a few ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Across Fayette",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1595376023862688/posts/29040744155565838",
+      "url": "https://www.facebook.com/groups/1595376023862688/posts/29040744155565838",
+      "title": "We compare petrol prices across all of Route 1, but when's ...",
+      "snippet": "We compare petrol prices across all of Route 1, on Route 1 is 10 cents cheaper. Public Gas prices are insanely high. $247. Every. Single. Month. Same coverage,",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "DMV Desis",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "West Chester and Liberty Township, Ohio Neighborhood Group",
+      "id": "https://www.facebook.com/groups/westchesterliberty/posts/2396447157767400",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "We are looking for an electrician. Any recommendations?",
+      "source": "Facebook",
+      "title": "We are looking for an electrician. Any recommendations?",
+      "url": "https://www.facebook.com/groups/westchesterliberty/posts/2396447157767400"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1450561688607908/posts/4365419677122080",
+      "url": "https://www.facebook.com/groups/1450561688607908/posts/4365419677122080",
+      "title": "Wait until more Data centers come in. The increase is for ...",
+      "snippet": "For a typical household using around 1,000 kilowatt- hours per month, bills are projected to rise from approximately $176 to roughly $184 per month. When ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Connellsville Township and Surrounding Areas Community Watch",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Bennington Blotter",
+      "id": "https://www.facebook.com/groups/BenningtonBlotter/posts/29793055720299566",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "🛢️  ⛽️ HEATING ASSISTANCE RAFFLE 10/24/26   ⛽️Choose your Supplier⛽️ Win $1,500 in either heating oil, propane, natural gas, electric, wood pellets, ...Read more",
+      "source": "Facebook",
+      "title": "WWIA Winter Heating Fuel Raffle 2026 - Bennington",
+      "url": "https://www.facebook.com/groups/BenningtonBlotter/posts/29793055720299566"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1592906127475768/posts/28421903084149375",
+      "url": "https://www.facebook.com/groups/1592906127475768/posts/28421903084149375",
+      "title": "Thoughts. I am a proud graduate of Edward Bok Area ...",
+      "snippet": "In comparison, the sales tax rate in the Pennsylvania suburbs remained at 6 percent and rose in New Jersey by 1 percentage point to 7 percent. The city's sales ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Democratic 51st Ward Executive Committee",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/355054821447/posts/10164151365501448",
+      "url": "https://www.facebook.com/groups/355054821447/posts/10164151365501448",
+      "title": "The Cheapest Offer Isn't Always the Best Option 💡 DON ...",
+      "snippet": "The Cheapest Offer Isn't Always the Best Option DON'T COMPARE OFFERS BY PRICE ALONE. A number on paper is only one part of a real estate transaction.Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pittsburgh, Pennsylvania",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "HVAC ENGINEERING",
+      "id": "https://www.facebook.com/groups/105487152836286/posts/29500499189575026",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "This post provides a detailed, hands-on guide for HVAC technicians on the operation of a gas furnace, explained in a tight-space environment",
+      "source": "Facebook",
+      "title": "The Basics of Gas Furnaces in HVAC - Facebook",
+      "url": "https://www.facebook.com/groups/105487152836286/posts/29500499189575026"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Whats Going On In Chambersburg, PA",
+      "id": "https://www.facebook.com/groups/1010483399100526/posts/3765525020263003",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "Guilford Twnship Electric Is west penn the only electric option to service a home in guilford township? If there are other better options what are they? Joe",
+      "source": "Facebook",
+      "title": "Thank you to all who have and currently are serving!",
+      "url": "https://www.facebook.com/groups/1010483399100526/posts/3765525020263003"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Old Wood stoves, Coal Stoves, Antique Stoves,& Masonry Heaters.",
+      "id": "https://www.facebook.com/groups/oldwoodstoves/posts/3397531587124026",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "I am having issues finding someone to look at my natural gas log sets that will not ignite.  Anyone in my area work on them?  I have contacted",
+      "source": "Facebook",
+      "title": "Technicians for Empire or White Mountain natural gas log ...",
+      "url": "https://www.facebook.com/groups/oldwoodstoves/posts/3397531587124026"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
+      "id": "https://www.facebook.com/groups/985770168464469/posts/3081935445514587",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "Taking on hauling, junk removal, and cleanup jobs around Washington County If you have unwanted items, a garage that needs cleared out, or a property",
+      "source": "Facebook",
+      "title": "Taking on hauling, junk removal, and cleanup jobs around ...",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3081935445514587"
+    },
+    {
+      "id": "https://www.facebook.com/groups/831451788513167/posts/1443023164022690",
+      "url": "https://www.facebook.com/groups/831451788513167/posts/1443023164022690",
+      "title": "Support a Wawa at Exit 20 on I-84 in Pennsylvania",
+      "snippet": "Public Wawa is to open its newest store in Pennsylvania at the corner of Lower Silver Lake Road and Newtown Bypass, offering free T-shirts and coffee.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "wawa",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/470190021410256/posts/1654352209660692",
+      "url": "https://www.facebook.com/groups/470190021410256/posts/1654352209660692",
+      "title": "Solar users what are your bills now",
+      "snippet": "Some see bills as low as $6 for electricity alone, while others report $300+ even with panels. •. \"My electric bill was $6.18 this past month! I didn't pay for ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "northumberland county alerts and happenings",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Contractors of New England - RI, MA, NH, VT, ME, CT.",
+      "id": "https://www.facebook.com/groups/1278151723069384/posts/2114074809477067",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "New England contractors: is your electric bill gobbling up your profits? ✓ The REF Grant gives up to $19500 upfront toward your solar purchase ✓ The",
+      "source": "Facebook",
+      "title": "Solar incentives for New England contractors: REF Grant ...",
+      "url": "https://www.facebook.com/groups/1278151723069384/posts/2114074809477067"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "",
+      "id": "https://www.facebook.com/groups/711529887027465/posts/1456699712510475",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "It begins!!! Any advice on what electricity provider to switch to? Battery is a 10 kWh. 3 person household, normal usage currently on a day/night rate.Read more",
+      "source": "Facebook",
+      "title": "Solar Panel Owners Ireland",
+      "url": "https://www.facebook.com/groups/711529887027465/posts/1456699712510475"
     },
     {
       "id": "https://www.facebook.com/groups/whatsupashevillenc/posts/2672620963179523",
       "url": "https://www.facebook.com/groups/whatsupashevillenc/posts/2672620963179523",
       "title": "Sharing this from consumer reports in case anyone is ...",
-      "snippet": "Movement partners like Just Solutions are identifying state energy affordability needs and organizing around community-led innovations to bring utility costs",
+      "snippet": "Energize CT will give you information about base rates, plan terms and conditions, and expected monthly costs for a particular plan.",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "What's Up - Asheville, NC",
@@ -572,7 +975,8 @@
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
@@ -583,7 +987,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -592,49 +996,173 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/985770168464469/posts/3081043598937105",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3081043598937105",
-      "title": "S160 Bobcat. SKID STEER RENTAL WITH OPERATOR ...",
-      "snippet": "We got 5 more of each stoves are electric (Stoves $150/Refrigerator $200/Combo for $300 for both and will deliver with a down payment for travel time - in ...Read more",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
-      "posted": "2026-11-05",
       "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
+      "id": "https://www.facebook.com/groups/985770168464469/posts/3081043598937105",
       "last_seen": "2026-11-12",
+      "posted": "2026-11-05",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "e9610d536438"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "snippet": "We got 5 more of each stoves are electric (Stoves $150/Refrigerator $200/Combo for $300 for both and will deliver with a down payment for travel time - in ...Read more",
+      "source": "Facebook",
+      "title": "S160 Bobcat. SKID STEER RENTAL WITH OPERATOR ...",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3081043598937105"
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Gettysburg and Surrounding Areas",
       "id": "https://www.facebook.com/groups/gettysburgandsurroundingareas/posts/2596072124222974",
-      "url": "https://www.facebook.com/groups/gettysburgandsurroundingareas/posts/2596072124222974",
-      "title": "Recommendation for good LLC electrician. Thank you in ...",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
       "snippet": "Recommendation for good  LLC electrician.\nThank you in advance!",
       "source": "Facebook",
+      "title": "Recommendation for good LLC electrician. Thank you in ...",
+      "url": "https://www.facebook.com/groups/gettysburgandsurroundingareas/posts/2596072124222974"
+    },
+    {
       "context": "facebook.com",
-      "group": "Gettysburg and Surrounding Areas",
+      "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
+      "id": "https://www.facebook.com/groups/985770168464469/posts/3087575614950570",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-10",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "... electric auger or snake. •Pool Care – Filter cleaning, pool cleaning ... Pay Rate – $17-$20/hour based on experience 3 most important things: Seeking ...Read more",
+      "source": "Facebook",
+      "title": "Property Maintenance Technician Needed",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3087575614950570"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "SML Business and Resident Info",
+      "id": "https://www.facebook.com/groups/515317717007661/posts/1676884560850965",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "I have a propane fireplace that I need a tank and to be hooked up, company that is best to do that? Thanks",
+      "source": "Facebook",
+      "title": "Propane fireplace installation and tank suppliers in SML?",
+      "url": "https://www.facebook.com/groups/515317717007661/posts/1676884560850965"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Athens, Sayre and Waverly and surrounding areas things for sale.",
+      "id": "https://www.facebook.com/groups/457258464456857/posts/3420906958091978",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "This Private 1 Acre Vacant Land In Mercer Pa includes Water and Sewage with Electric Available.Located in Farm Country surrounded by Woods and Quick access to",
+      "source": "Facebook",
+      "title": "Private RV Lot in the country. Beautiful setting between ...",
+      "url": "https://www.facebook.com/groups/457258464456857/posts/3420906958091978"
+    },
+    {
+      "id": "https://www.facebook.com/groups/2350406885413177/posts/2631565407297322",
+      "url": "https://www.facebook.com/groups/2350406885413177/posts/2631565407297322",
+      "title": "Pennsylvania Data Center Resistance",
+      "snippet": "https://time.com/article/2026/11/10/permitting-bill-data-centers/",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "",
       "posted": "2026-11-11",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
@@ -642,10 +1170,10 @@
         "reason": "keyword",
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
+        "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -654,49 +1182,142 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/985770168464469/posts/3087575614950570",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3087575614950570",
-      "title": "Property Maintenance Technician Needed",
-      "snippet": "... electric auger or snake. •Pool Care – Filter cleaning, pool cleaning ... Pay Rate – $17-$20/hour based on experience 3 most important things: Seeking ...Read more",
+      "id": "https://www.facebook.com/groups/2350406885413177/posts/2632443497209513",
+      "url": "https://www.facebook.com/groups/2350406885413177/posts/2632443497209513",
+      "title": "Pennsylvania Data Center Resistance",
+      "snippet": "Jacob Hornyak ▻ Pennsylvania Data Center Resistance. 6h · Public · WTAE-TV Pittsburgh. 1d · Public · Pennsylvania Gov. Josh Shapiro said he would like the ...Read more",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
-      "posted": "2026-11-10",
+      "group": "",
+      "posted": "2026-11-12",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
+      "id": "https://www.facebook.com/groups/985770168464469/posts/3082412082133590",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-06",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "e9610d536438"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
+      "snippet": "I can also do any needed repairs on my own in most instances drywall, electric plumbing. ... Rate:** $20 per hour **Job Type:** Part-time **Job Description ...Read more",
+      "source": "Facebook",
+      "title": "Painter helper available in North Versailles, PA",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3082412082133590"
     },
     {
-      "id": "https://www.facebook.com/groups/515317717007661/posts/1676884560850965",
-      "url": "https://www.facebook.com/groups/515317717007661/posts/1676884560850965",
-      "title": "Propane fireplace installation and tank suppliers in SML?",
-      "snippet": "I have a propane fireplace that I need a tank and to be hooked up, company that is best to do that? Thanks",
+      "id": "https://www.facebook.com/groups/lehighvalleyintheknow/posts/2749445092174987",
+      "url": "https://www.facebook.com/groups/lehighvalleyintheknow/posts/2749445092174987",
+      "title": "PPL is putting your rates up and lowering them for data ...",
+      "snippet": "PPL is putting your rates up and lowering them for data centers\nPPL is going to be jacking up residential rates and giving businesses, including data centers",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "SML Business and Resident Info",
+      "group": "Slatington, Walnutport, Emerald, Slatedale - In the Know... Unchained",
       "posted": "2026-11-11",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "CT cars",
+      "id": "https://www.facebook.com/groups/CTcars/posts/29282245231417438",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
         "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "New AO Smith Signature Series indoor tankless water heater is a natural gas unit with a 190,000 BTU/H capacity. This model GT15-310C-I has an ultra-low NOx ...Read more",
+      "source": "Facebook",
+      "title": "New AO Smith Signature Series indoor tankless water ...",
+      "url": "https://www.facebook.com/groups/CTcars/posts/29282245231417438"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1523489258602766/posts/2182294666055552",
+      "url": "https://www.facebook.com/groups/1523489258602766/posts/2182294666055552",
+      "title": "Need urgent help with electric bill by tomorrow",
+      "snippet": "LIHEAP and local Community Action Agencies are the main federal programs that help with electric bills, Several states, including WV, TN, PA, OH, MD, CA, TN,",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Discuss DuQuoinUnfiltered",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
@@ -707,7 +1328,7 @@
         "pennsylvania": false,
         "lead": true,
         "hard_exclusion": false,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -716,204 +1337,173 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/457258464456857/posts/3420906958091978",
-      "url": "https://www.facebook.com/groups/457258464456857/posts/3420906958091978",
-      "title": "Private RV Lot in the country. Beautiful setting between ...",
-      "snippet": "This Private 1 Acre Vacant Land In Mercer Pa includes Water and Sewage with Electric Available.Located in Farm Country surrounded by Woods and Quick access to",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Athens, Sayre and Waverly and surrounding areas things for sale.",
-      "posted": "2026-11-11",
       "first_seen": "2026-11-12",
+      "group": "For Sale in Victoria Tx",
+      "id": "https://www.facebook.com/groups/566354186761342/posts/29362246950078682",
       "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
+      "posted": "2026-11-11",
+      "production": {
         "accepted": false,
-        "semantic_accepted": false,
         "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
+        "source": "rules"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/985770168464469/posts/3082412082133590",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3082412082133590",
-      "title": "Painter helper available in North Versailles, PA",
-      "snippet": "I can also do any needed repairs on my own in most instances drywall, electric plumbing. ... Rate:** $20 per hour **Job Type:** Part-time **Job Description ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
-      "posted": "2026-11-06",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/CTcars/posts/29282245231417438",
-      "url": "https://www.facebook.com/groups/CTcars/posts/29282245231417438",
-      "title": "New AO Smith Signature Series indoor tankless water ...",
-      "snippet": "New AO Smith Signature Series indoor tankless water heater is a natural gas unit with a 190,000 BTU/H capacity. This model GT15-310C-I has an ultra-low NOx ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "CT cars",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
       "queries": [
         "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "e9610d536438"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/566354186761342/posts/29362246950078682",
-      "url": "https://www.facebook.com/groups/566354186761342/posts/29362246950078682",
-      "title": "Natural gas in good working condition.",
       "snippet": "This video provides a look into the natural gas industry, showcasing the process of production. operating under the A+ brand, such as A+ Energy, A+ Natural Gas",
       "source": "Facebook",
+      "title": "Natural gas in good working condition.",
+      "url": "https://www.facebook.com/groups/566354186761342/posts/29362246950078682"
+    },
+    {
       "context": "facebook.com",
-      "group": "For Sale in Victoria Tx",
-      "posted": "2026-11-11",
       "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
+      "id": "https://www.facebook.com/groups/985770168464469/posts/3087687618272703",
       "last_seen": "2026-11-12",
+      "posted": "2026-11-10",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
         "version": "e9610d536438"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/985770168464469/posts/3087687618272703",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3087687618272703",
-      "title": "Munhall (15120) – Mixed-Use Investment Opportunity!",
       "snippet": "... utility bill-backs Sample Breakdown: • 8 apts + commercial | $700/mo per unit | retail tenant provides stable income • 3–5 bed units across multiple ...Read more",
       "source": "Facebook",
+      "title": "Munhall (15120) – Mixed-Use Investment Opportunity!",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3087687618272703"
+    },
+    {
+      "id": "https://www.facebook.com/groups/MtnDewFanPage/posts/4569806749916189",
+      "url": "https://www.facebook.com/groups/MtnDewFanPage/posts/4569806749916189",
+      "title": "Mountain Dew Pitch Black review: taste and comparison to ...",
+      "snippet": "Finally found Pitch Black here in Pennsylvania , it's not bad it tasting better. this tastes exactly the same! It's a grape flavor mixed with a little punch or",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
-      "posted": "2026-11-10",
+      "group": "Mountain Dew Fan Club",
+      "posted": "2026-11-12",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "intent",
+        "reason": "keyword",
         "host": true,
-        "keyword": true,
-        "pennsylvania": true,
+        "keyword": false,
+        "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "intent"
+        "reason": "keyword"
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Lebanon, PA Happenings",
       "id": "https://www.facebook.com/groups/390759001562351/posts/2145405489431018",
-      "url": "https://www.facebook.com/groups/390759001562351/posts/2145405489431018",
-      "title": "Mitsubishi WX Mini Split",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
       "snippet": "Mitsubishi Electric WX single-zone system. call or text 717-418-2195. text 717-418-2195. Serving Palmyra and surrounding communities - in Palmyra, PA. CALL OR",
       "source": "Facebook",
+      "title": "Mitsubishi WX Mini Split",
+      "url": "https://www.facebook.com/groups/390759001562351/posts/2145405489431018"
+    },
+    {
       "context": "facebook.com",
-      "group": "Lebanon, PA Happenings",
-      "posted": "2026-11-11",
       "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
+      "id": "https://www.facebook.com/groups/985770168464469/posts/3083948971979901",
       "last_seen": "2026-11-12",
+      "posted": "2026-11-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
         "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e9610d536438"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/985770168464469/posts/3083948971979901",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3083948971979901",
-      "title": "Master electrician looking for side work.",
       "snippet": "Local electrician offering various services. Quotes are $35 for up to 50 miles *$70 for 51 - 100miles offering residential and commercial services. Quotes are",
       "source": "Facebook",
+      "title": "Master electrician looking for side work.",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3083948971979901"
+    },
+    {
+      "id": "https://www.facebook.com/groups/pennsylvaniaphotos/posts/4596651097271923",
+      "url": "https://www.facebook.com/groups/pennsylvaniaphotos/posts/4596651097271923",
+      "title": "M43 taken in Dunbar Pennsylvania",
+      "snippet": "Adam takes you on a ride along the Mon-Fayette Expressway (PA Turnpike 43) from Uniontown to Large. Public Downtown Dunbar, PA in Fayette County. They have",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
-      "posted": "2026-11-08",
+      "group": "Pennsylvania Photography with Uncovering PA",
+      "posted": "2026-11-12",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -924,7 +1514,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -933,18 +1523,111 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "What's Happening In Mt Pleasant, PA",
       "id": "https://www.facebook.com/groups/1333355653437428/posts/28696752966670994",
-      "url": "https://www.facebook.com/groups/1333355653437428/posts/28696752966670994",
-      "title": "Lunch specials 10-3 Veteran special all day",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
       "snippet": "614 Monongahela Ave Glassport PA 15045 412-896-1357 3535 Route 130 Irwin PA 15642 412-608-8895 … natural gas mixed together. Public 1817 S. Broad Street",
       "source": "Facebook",
+      "title": "Lunch specials 10-3 Veteran special all day",
+      "url": "https://www.facebook.com/groups/1333355653437428/posts/28696752966670994"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1993888230966241/posts/2933080510380337",
+      "url": "https://www.facebook.com/groups/1993888230966241/posts/2933080510380337",
+      "title": "Let's welcome our new members: Bern Vipond",
+      "snippet": "Savings compare admission prices before taxes and fees. Gate comparison uses a published $129 starting price; online comparisons use observed prices for March",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "What's Happening In Mt Pleasant, PA",
+      "group": "Pennsylvania Homeschool Events",
       "posted": "2026-11-11",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1993888230966241/posts/2933077633713958",
+      "url": "https://www.facebook.com/groups/1993888230966241/posts/2933077633713958",
+      "title": "LEGOLAND Florida Homeschool Week is coming March 1 ...",
+      "snippet": "Savings compare admission prices before taxes and fees. Gate comparison uses a published $129 starting price; online comparisons use observed prices for ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pennsylvania Homeschool Events",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/377143587534360/posts/1692094829372556",
+      "url": "https://www.facebook.com/groups/377143587534360/posts/1692094829372556",
+      "title": "Is your electric bill gobbling up too much of your money?",
+      "snippet": "Is your electric bill gobbling up too much of your money? ✓ The REF Grant gives up to $19500 upfront toward your solar purchase ✓ The Propel lease is",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "RI Small Business",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
@@ -953,9 +1636,9 @@
         "host": true,
         "keyword": true,
         "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -964,134 +1647,134 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
       "id": "https://www.facebook.com/groups/985770168464469/posts/3083927508648714",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3083927508648714",
-      "title": "Irwin and surrounding areas 📍 FREE ESTIMATES ‼️‼️",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
       "snippet": "Irwin and surrounding areas FREE ESTIMATES ‼️‼️ · Kitchen grouted Call or text 412-877-3732 for a free estimate · Other posts · Who has dirt they can bring ...Read more",
       "source": "Facebook",
+      "title": "Irwin and surrounding areas 📍 FREE ESTIMATES ‼️‼️",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3083927508648714"
+    },
+    {
       "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
-      "posted": "2026-11-08",
       "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
+      "id": "https://www.facebook.com/groups/985770168464469/posts/3083388205369311",
       "last_seen": "2026-11-12",
+      "posted": "2026-11-07",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e9610d536438"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/985770168464469/posts/3083388205369311",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3083388205369311",
-      "title": "INVESTORS: The renovations are done. The price just ...",
       "snippet": "The price just dropped to $175000. Gas line and many more. 2k monthly. Asking price 150k contact me 412-758-6736 Property management",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
-      "posted": "2026-11-07",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "title": "INVESTORS: The renovations are done. The price just ...",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3083388205369311"
     },
     {
-      "id": "https://www.facebook.com/groups/saaskalocal/posts/1821112845665131",
-      "url": "https://www.facebook.com/groups/saaskalocal/posts/1821112845665131",
-      "title": "I'm looking for some form of assistance. My gas got cut off two weeks ...",
-      "snippet": "Go to findhelp.org and put in your zip code, it'll tell you what kind of assistance is available in your area. And ignore the heartless",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "San Antonio - Ask A Local Not a place to sell things",
-      "posted": "2026-11-11",
       "first_seen": "2026-11-12",
+      "group": "San Antonio - Ask A Local Not a place to sell things",
+      "id": "https://www.facebook.com/groups/saaskalocal/posts/1821112845665131",
       "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e9610d536438"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
+      "snippet": "Go to findhelp.org and put in your zip code, it'll tell you what kind of assistance is available in your area. And ignore the heartless",
+      "source": "Facebook",
+      "title": "I'm looking for some form of assistance. My gas got cut off two weeks ...",
+      "url": "https://www.facebook.com/groups/saaskalocal/posts/1821112845665131"
     },
     {
-      "id": "https://www.facebook.com/groups/1010483399100526/posts/3765392836942888",
-      "url": "https://www.facebook.com/groups/1010483399100526/posts/3765392836942888",
-      "title": "I said I wasn't going to become obsessed with blood tubes…",
-      "snippet": "Guilford Twnship Electric Is west penn the only electric option to service a home in guilford township? If there are other better options what are they?",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Whats Going On In Chambersburg, PA",
-      "posted": "2026-11-11",
       "first_seen": "2026-11-12",
+      "group": "Whats Going On In Chambersburg, PA",
+      "id": "https://www.facebook.com/groups/1010483399100526/posts/3765392836942888",
       "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "e9610d536438"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "Guilford Twnship Electric Is west penn the only electric option to service a home in guilford township? If there are other better options what are they?",
+      "source": "Facebook",
+      "title": "I said I wasn't going to become obsessed with blood tubes…",
+      "url": "https://www.facebook.com/groups/1010483399100526/posts/3765392836942888"
     },
     {
       "id": "https://www.facebook.com/groups/1115795212736192/posts/1943567996625572",
       "url": "https://www.facebook.com/groups/1115795212736192/posts/1943567996625572",
       "title": "I need some help and Im not sure what to do from here. My ...",
-      "snippet": "If you go to the Appalachian power website and log in there is a neighbor to neighbor bill assistance. I just applied and it took 3 days and they covered ...Read more",
+      "snippet": "Regardless you guys need to apply for pipp as it is a yearly program that makes your electric bill 10 percent of your income so if you have no income your bill ...Read more",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "Everything Roanoke",
@@ -1099,49 +1782,81 @@
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "keyword",
+        "reason": "geography",
         "host": true,
-        "keyword": false,
+        "keyword": true,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "geography"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/191984864735535/posts/2217152392218762",
-      "url": "https://www.facebook.com/groups/191984864735535/posts/2217152392218762",
-      "title": "I gotta help make this bop go viral!! 🎶😂 Who do you know ...",
-      "snippet": "904 Sigel St Philadelphia, PA A rear kitchen cooking with gas every night . I.h 904 Sigel St Philadelphia,PA PA A short walk to the shops and you're ...Read more",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Main Line Community Network",
-      "posted": "2026-11-11",
       "first_seen": "2026-11-12",
+      "group": "Main Line Community Network",
+      "id": "https://www.facebook.com/groups/191984864735535/posts/2217152392218762",
       "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "904 Sigel St Philadelphia, PA A rear kitchen cooking with gas every night . I.h 904 Sigel St Philadelphia,PA PA A short walk to the shops and you're ...Read more",
+      "source": "Facebook",
+      "title": "I gotta help make this bop go viral!! 🎶😂 Who do you know ...",
+      "url": "https://www.facebook.com/groups/191984864735535/posts/2217152392218762"
+    },
+    {
+      "id": "https://www.facebook.com/groups/Emerald.Lakes.in.the.Poconos/posts/10165666632166411",
+      "url": "https://www.facebook.com/groups/Emerald.Lakes.in.the.Poconos/posts/10165666632166411",
+      "title": "Hoverboards with Go-Cart Seat Attachments for Sale in ...",
+      "snippet": "Both work as they should. I'm tired of my kids trying to do tricks that will cost me a $5000 ER bill $25/each or $40 for both.Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Emerald Lakes in the Poconos",
+      "posted": "2026-11-05",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups/Emerald.Lakes.in.the.Poconos (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
         "semantic_accepted": false,
         "reason": "keyword",
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
+        "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -1150,49 +1865,80 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
       "id": "https://www.facebook.com/groups/985770168464469/posts/3085206271854171",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3085206271854171",
-      "title": "Hello, I'm Erik and something to know about me! I own my ...",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-08",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
       "snippet": "contact me at 724-998-9773. My name is Erick Barkley, and I am a licensed plumber in the State of Indiana. Contractor Handyman Electrician Plumber AND MORE!",
       "source": "Facebook",
+      "title": "Hello, I'm Erik and something to know about me! I own my ...",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3085206271854171"
+    },
+    {
       "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
-      "posted": "2026-11-08",
       "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
+      "id": "https://www.facebook.com/groups/985770168464469/posts/3088448711529927",
       "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "e9610d536438"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/985770168464469/posts/3088448711529927",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3088448711529927",
-      "title": "Have your mesh screens seen better days? 🙁➡️🙂",
       "snippet": "MacDonald Window Cleaning replaces worn-out window screens with fresh new mesh, so your screens can smile again. Serving Mt. Lebanon, Bethel Park, Upper St.Read more",
       "source": "Facebook",
+      "title": "Have your mesh screens seen better days? 🙁➡️🙂",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3088448711529927"
+    },
+    {
+      "id": "https://www.facebook.com/groups/Emerald.Lakes.in.the.Poconos/posts/10165682128671411",
+      "url": "https://www.facebook.com/groups/Emerald.Lakes.in.the.Poconos/posts/10165682128671411",
+      "title": "Half price chimney sweep for new customers",
+      "snippet": "Premier Chimney Sweeps Serving Cheshire and South Manchester. Have your open fire, Wood burner or multi fuel burner swept a fee of only £65.00. Fully Insured.",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
-      "posted": "2026-11-11",
+      "group": "Emerald Lakes in the Poconos",
+      "posted": "2026-11-09",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups/Emerald.Lakes.in.the.Poconos (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -1203,7 +1949,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -1212,18 +1958,50 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "UI with Friends",
       "id": "https://www.facebook.com/groups/2420941471618590/posts/2906398143072918",
-      "url": "https://www.facebook.com/groups/2420941471618590/posts/2906398143072918",
-      "title": "HOUSE FOR RENT one ride pa UI 4500 out lng water and ...",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
       "snippet": "HOUSE FOR RENT one ride pa UI 4500 out lng water and electricity 2room Good For Students!!",
       "source": "Facebook",
+      "title": "HOUSE FOR RENT one ride pa UI 4500 out lng water and ...",
+      "url": "https://www.facebook.com/groups/2420941471618590/posts/2906398143072918"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1010483399100526/posts/3765562530259252",
+      "url": "https://www.facebook.com/groups/1010483399100526/posts/3765562530259252",
+      "title": "Guilford Twnship Electric | Facebook",
+      "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n[](\n\n## What’s Going On In Chambersburg, PA!\n\nAnonymous participant\n\n · \n\n9 hours ago\n\nWednesday, November 11, 2026 at 2:46 PM\n\n9h · \n\nWhat electric companies service homes in Guilford Township, PA?\n\nTitles are generated by AI from Meta\n\n### Guilford Twnship Electric…",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "UI with Friends",
+      "group": "Whats Going On In Chambersburg, PA",
       "posted": "2026-11-11",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
@@ -1233,8 +2011,8 @@
         "keyword": true,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
+        "hard_exclusion": false,
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -1243,18 +2021,111 @@
       }
     },
     {
+      "id": "https://www.facebook.com/groups/Emerald.Lakes.in.the.Poconos/posts/10165680696996411",
+      "url": "https://www.facebook.com/groups/Emerald.Lakes.in.the.Poconos/posts/10165680696996411",
+      "title": "Great idea to celebrate your team that works hard to keep ...",
+      "snippet": "We had another AMAZING person step forward and donate $660 TOWARD OUR ELECTRIC BILL! ❤️ We are still currently trying to figure out how our electric bill ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Emerald Lakes in the Poconos",
+      "posted": "2026-11-09",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups/Emerald.Lakes.in.the.Poconos (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Bridgeview neighborhood watch uncensored",
       "id": "https://www.facebook.com/groups/247873698323434/posts/1038948079215988",
-      "url": "https://www.facebook.com/groups/247873698323434/posts/1038948079215988",
-      "title": "Good morning, I'm new to Bridgeview. Could you tell me ...",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
       "snippet": "What are different utilities for Bridgewater? Electric - Duquesne Light ✔️ Garbage - J. Young Refuse Recycle - Bridgewater Boro Gas - Columbia Gas Water",
       "source": "Facebook",
+      "title": "Good morning, I'm new to Bridgeview. Could you tell me ...",
+      "url": "https://www.facebook.com/groups/247873698323434/posts/1038948079215988"
+    },
+    {
       "context": "facebook.com",
-      "group": "Bridgeview neighborhood watch uncensored",
+      "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
+      "id": "https://www.facebook.com/groups/985770168464469/posts/3083719538669511",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-07",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "All the LEDs we use consume small amounts of power saving you money on your electric bill. ... rate! Call now to schedule your free estimate 330-406-7361.Read more",
+      "source": "Facebook",
+      "title": "Give us a call to book a free estimate & ask how to save 10%",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3083719538669511"
+    },
+    {
+      "id": "https://www.facebook.com/groups/107383437534/posts/10164546368407535",
+      "url": "https://www.facebook.com/groups/107383437534/posts/10164546368407535",
+      "title": "FYI They are paying water bills at the Adamsville ...",
+      "snippet": "Help is now available for Pennsylvania American Water customers who need support to pay their water utility bills. I encourage area residents to see if you ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Dixie Hills First  Baptist Church",
       "posted": "2026-11-11",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
@@ -1265,7 +2136,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -1274,18 +2145,452 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/985770168464469/posts/3083719538669511",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3083719538669511",
-      "title": "Give us a call to book a free estimate & ask how to save 10%",
-      "snippet": "All the LEDs we use consume small amounts of power saving you money on your electric bill. ... rate! Call now to schedule your free estimate 330-406-7361.Read more",
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Pittsburgh contractor, investor and real estate sales",
+      "id": "https://www.facebook.com/groups/985770168464469/posts/3087135641661234",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-10",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "FREE ESTIMATES 412-301-5319, let us help you save money on your energy this winter and keep your air conditioner and furnace running longer!!!",
+      "source": "Facebook",
+      "title": "FREE ESTIMATES 412-301-5319, let us help you save ...",
+      "url": "https://www.facebook.com/groups/985770168464469/posts/3087135641661234"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Gina Hinojosa Community",
+      "id": "https://www.facebook.com/groups/1715960572958258/posts/1835326137688367",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-10",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "My electric bill has not Been below $200 this entire year. I'm one person in a small townhome. I noticed the increasing delivery fee fees and changed providers.",
+      "source": "Facebook",
+      "title": "Everyone, take a look at your energy bill. You'll notice, ...",
+      "url": "https://www.facebook.com/groups/1715960572958258/posts/1835326137688367"
+    },
+    {
+      "id": "https://www.facebook.com/groups/260630644055902/posts/28952949484397302",
+      "url": "https://www.facebook.com/groups/260630644055902/posts/28952949484397302",
+      "title": "Energy Assistance Enrollment Event ! All counties are ...",
+      "snippet": "Need help with your utility bills? Come to our Utility Assistance Day to get signed up for LIHEAP/USF/NJSHARES Programs. Thursday, October 29, 2026 Voorhees",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
+      "group": "South Jersey Activities and Community Events",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "ELECTRICIAN JOBS USA",
+      "id": "https://www.facebook.com/groups/300790061161463/posts/1824253268815127",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "⚡️ Qualifications: • Minimum 5 years of residential electrical experience • Some light commercial electrical experience preferred • Ability to independently",
+      "source": "Facebook",
+      "title": "Electrician needed for Current Sense Transformer ...",
+      "url": "https://www.facebook.com/groups/300790061161463/posts/1824253268815127"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Allegan County Informed",
+      "id": "https://www.facebook.com/groups/1871492486947365/posts/2371054870324455",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "Get a licensed professional to do it. Don't forget we service multiple NY and PA counties from all the way in Eagles Mere, Pa to Watkins Glen,",
+      "source": "Facebook",
+      "title": "Converting natural gas furnace to propane in Allegan County",
+      "url": "https://www.facebook.com/groups/1871492486947365/posts/2371054870324455"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Access Westmoreland",
+      "id": "https://www.facebook.com/groups/accesswestmoreland/posts/29711838935173520",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "809 Scott Ave, Jeanette, PA (3/2) Deal break down: ✓Purchase Price STARTING At: $19,999 ✓ARV: $125K+ ✓LTR Rental Comps: $1,000/mo ✓Taxes: $1,600/yr ✓ ...Read more",
+      "source": "Facebook",
+      "title": "CHECK THIS OUT!!💥 🏠 221 & 219 S 4th Street in Jeannette",
+      "url": "https://www.facebook.com/groups/accesswestmoreland/posts/29711838935173520"
+    },
+    {
+      "id": "https://www.facebook.com/groups/nepahomes/posts/2659416287862706",
+      "url": "https://www.facebook.com/groups/nepahomes/posts/2659416287862706",
+      "title": "Buying or Selling a Home in Lake Ariel? 𝗗𝗼𝗻'𝘁 𝗙𝗼𝗿𝗴𝗲𝘁 ...",
+      "snippet": "the median sales price in the area is currently $289,000, Price Trend - year to year comparison. median home value is 190% higher than they were in 2019 and",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "NEPA Home Sales and Rentals",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Khanewal general trading manama",
+      "id": "https://www.facebook.com/groups/980150005853289/posts/2417644638770478",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "Units run 200 to 300 Stainless run 350 to 450 Delivery is available for a fee. Located at 576 Pittsburgh Rd Butler PA 16002 Appointment only 72four-58four- ...Read more",
+      "source": "Facebook",
+      "title": "Bah gas with regulator 25 With new stove and delivery 35 bd",
+      "url": "https://www.facebook.com/groups/980150005853289/posts/2417644638770478"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "CHUKA SWEET HOME",
+      "id": "https://www.facebook.com/groups/789718074437291/posts/29213008798348172",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "For best electrical services in York PA, contact DM Electric at 717-650-1522. Electricians bring power to life with expertise Kreative K LLC. requires",
+      "source": "Facebook",
+      "title": "An Electrician is supposed to distribute Electricity for you.",
+      "url": "https://www.facebook.com/groups/789718074437291/posts/29213008798348172"
+    },
+    {
+      "id": "https://www.facebook.com/groups/KearnsCommunity/posts/2173030386625488",
+      "url": "https://www.facebook.com/groups/KearnsCommunity/posts/2173030386625488",
+      "title": "Alright who didn't pay their electric bill 😒",
+      "snippet": "⚡️ So somebody please explain to me how my electric bill went up $300?!? Apparently we're not paying for electricity anymore… we're paying for the ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "K-TOWN Kearns, Utah",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "",
+      "id": "https://www.facebook.com/groups/1597285337222719/posts/4582217678729455",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "Stonehouse Electric Company in Fairview, PA. Stonehouse Electric Company, our electrical contractor of choice, for taking care of that side of the project.",
+      "source": "Facebook",
+      "title": "All Things Millcreek, Pa.",
+      "url": "https://www.facebook.com/groups/1597285337222719/posts/4582217678729455"
+    },
+    {
+      "id": "https://www.facebook.com/groups/Emerald.Lakes.in.the.Poconos/posts/10165699028616411",
+      "url": "https://www.facebook.com/groups/Emerald.Lakes.in.the.Poconos/posts/10165699028616411",
+      "title": "Affordable outdoor lighting companies in Emerald Lakes ...",
+      "snippet": "The cost of having permanent outdoor lighting installed varies widely, but on average, it can range from $3 to $12.99 per linear foot, ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Emerald Lakes in the Poconos",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups/Emerald.Lakes.in.the.Poconos (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/www.apgang.org/posts/29590023540635365",
+      "url": "https://www.facebook.com/groups/www.apgang.org/posts/29590023540635365",
+      "title": "APC promised us electricity but they are using solar panels.",
+      "snippet": "State lawmakers in New York and Pennsylvania recently filed plug-in solar bills. Analogous legislation is expected to be introduced in January in both Vermont",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "APGA Interactive Forum AIF Media - Checking on Our Leaders...",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-12",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "afa32d306ac4"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-12",
+      "group": "Livingston Buy, Sell, Trade....",
+      "id": "https://www.facebook.com/groups/LivingstonBST/posts/28823196794049825",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
+      "snippet": "Rates: Daily-$1325 Weekly-$3650 Monthly-$9240. Choose from our affordable and efficient packages ・ fridges, electric fence, tvs, lights etc ・ the price is $",
+      "source": "Facebook",
+      "title": "320kw 480v 240v 208v Rates: Daily-$1325 Weekly-$3650 ...",
+      "url": "https://www.facebook.com/groups/LivingstonBST/posts/28823196794049825"
+    },
+    {
+      "id": "https://www.facebook.com/groups/Emerald.Lakes.in.the.Poconos/posts/10165674462131411",
+      "url": "https://www.facebook.com/groups/Emerald.Lakes.in.the.Poconos/posts/10165674462131411",
+      "title": "3 Happy Purrs & Happy Tails! Please keep supporting & ...",
+      "snippet": "We had another AMAZING person step forward and donate $660 TOWARD OUR ELECTRIC BILL! ❤️ We are still currently trying to figure out how our electric bill ...Read more",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Emerald Lakes in the Poconos",
       "posted": "2026-11-07",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups/Emerald.Lakes.in.the.Poconos (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -1296,7 +2601,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -1305,18 +2610,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/985770168464469/posts/3087135641661234",
-      "url": "https://www.facebook.com/groups/985770168464469/posts/3087135641661234",
-      "title": "FREE ESTIMATES 412-301-5319, let us help you save ...",
-      "snippet": "FREE ESTIMATES 412-301-5319, let us help you save money on your energy this winter and keep your air conditioner and furnace running longer!!!",
+      "id": "https://www.facebook.com/groups/812903465494711/posts/29046976031660743",
+      "url": "https://www.facebook.com/groups/812903465494711/posts/29046976031660743",
+      "title": "2 bedroom/1 bathroom apartment located in Pottsville, PA. ...",
+      "snippet": "BONUS: Landlord pays for heat, water, sewer, trash, and wireless internet. Tenant pays electric only, as well as parking, if needed. A parking pass can be ...Read more",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Pittsburgh contractor, investor and real estate sales",
-      "posted": "2026-11-10",
+      "group": "Homes For Sale & Rent In All Of Pennsylvania",
+      "posted": "2026-11-11",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups/985770168464469 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
@@ -1327,7 +2632,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
@@ -1336,282 +2641,65 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1715960572958258/posts/1835326137688367",
-      "url": "https://www.facebook.com/groups/1715960572958258/posts/1835326137688367",
-      "title": "Everyone, take a look at your energy bill. You'll notice, ...",
-      "snippet": "My electric bill has not Been below $200 this entire year. I'm one person in a small townhome. I noticed the increasing delivery fee fees and changed providers.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Gina Hinojosa Community",
-      "posted": "2026-11-10",
       "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/300790061161463/posts/1824253268815127",
-      "url": "https://www.facebook.com/groups/300790061161463/posts/1824253268815127",
-      "title": "Electrician needed for Current Sense Transformer ...",
-      "snippet": "⚡️ Qualifications: • Minimum 5 years of residential electrical experience • Some light commercial electrical experience preferred • Ability to independently",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "ELECTRICIAN JOBS USA",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1871492486947365/posts/2371054870324455",
-      "url": "https://www.facebook.com/groups/1871492486947365/posts/2371054870324455",
-      "title": "Converting natural gas furnace to propane in Allegan County",
-      "snippet": "Get a licensed professional to do it. Don't forget we service multiple NY and PA counties from all the way in Eagles Mere, Pa to Watkins Glen,",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Allegan County Informed",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/accesswestmoreland/posts/29711838935173520",
-      "url": "https://www.facebook.com/groups/accesswestmoreland/posts/29711838935173520",
-      "title": "CHECK THIS OUT!!💥 🏠 221 & 219 S 4th Street in Jeannette",
-      "snippet": "809 Scott Ave, Jeanette, PA (3/2) Deal break down: ✓Purchase Price STARTING At: $19,999 ✓ARV: $125K+ ✓LTR Rental Comps: $1,000/mo ✓Taxes: $1,600/yr ✓ ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Access Westmoreland",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/980150005853289/posts/2417644638770478",
-      "url": "https://www.facebook.com/groups/980150005853289/posts/2417644638770478",
-      "title": "Bah gas with regulator 25 With new stove and delivery 35 bd",
-      "snippet": "Units run 200 to 300 Stainless run 350 to 450 Delivery is available for a fee. Located at 576 Pittsburgh Rd Butler PA 16002 Appointment only 72four-58four- ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Khanewal general trading manama",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"gas supplier\" OR \"natural gas provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/789718074437291/posts/29213008798348172",
-      "url": "https://www.facebook.com/groups/789718074437291/posts/29213008798348172",
-      "title": "An Electrician is supposed to distribute Electricity for you.",
-      "snippet": "For best electrical services in York PA, contact DM Electric at 717-650-1522. Electricians bring power to life with expertise Kreative K LLC. requires",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "CHUKA SWEET HOME",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1597285337222719/posts/4582217678729455",
-      "url": "https://www.facebook.com/groups/1597285337222719/posts/4582217678729455",
-      "title": "All Things Millcreek, Pa.",
-      "snippet": "Stonehouse Electric Company in Fairview, PA. Stonehouse Electric Company, our electrical contractor of choice, for taking care of that side of the project.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/LivingstonBST/posts/28823196794049825",
-      "url": "https://www.facebook.com/groups/LivingstonBST/posts/28823196794049825",
-      "title": "320kw 480v 240v 208v Rates: Daily-$1325 Weekly-$3650 ...",
-      "snippet": "Rates: Daily-$1325 Weekly-$3650 Monthly-$9240. Choose from our affordable and efficient packages ・ fridges, electric fence, tvs, lights etc ・ the price is $",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Livingston Buy, Sell, Trade....",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-12",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "e9610d536438"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
+      "group": "SAN FERNANDO, PAMPANGA HOUSE FOR RENT",
       "id": "https://www.facebook.com/groups/417540979991908/posts/1702335564845770",
-      "url": "https://www.facebook.com/groups/417540979991908/posts/1702335564845770",
-      "title": "152 sqm (Corner Lot) 🛏️ 3 Spacious Bedrooms ...",
+      "last_seen": "2026-11-12",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "e9610d536438"
+      },
       "snippet": "Electricity Provider: SFELAPCO • Water, electricity, and internet bills are NOT included in the monthly rental. Monthly Rental: ₱30,000. Electricity Provider:",
       "source": "Facebook",
+      "title": "152 sqm (Corner Lot) 🛏️ 3 Spacious Bedrooms ...",
+      "url": "https://www.facebook.com/groups/417540979991908/posts/1702335564845770"
+    },
+    {
+      "id": "https://www.facebook.com/groups/118178071535691/posts/29391990463727730",
+      "url": "https://www.facebook.com/groups/118178071535691/posts/29391990463727730",
+      "title": "## The One Household Appliance That Quietly Drives Up ...",
+      "snippet": "Electric stoves use heating coils that bump up your energy bill. Savings tip: As with laundry, cook fewer, larger meals. LED big-screen TVs use energy ...Read more",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "SAN FERNANDO, PAMPANGA HOUSE FOR RENT",
+      "group": "Photos of Northeast Pennsylvania",
       "posted": "2026-11-11",
       "first_seen": "2026-11-12",
       "last_seen": "2026-11-12",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
+        "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "e9610d536438"
+        "version": "afa32d306ac4"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "intent"
       }
     },
     {
