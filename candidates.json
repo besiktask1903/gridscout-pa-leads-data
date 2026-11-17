@@ -1,20 +1,237 @@
 {
-  "updated": "2026-11-17T01:40:40Z",
-  "count": 991,
+  "updated": "2026-11-17T15:36:34Z",
+  "count": 1032,
   "candidates": [
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Warminster Community Group USA",
       "id": "https://www.facebook.com/groups/1324788797564648/posts/29244887058461447",
-      "url": "https://www.facebook.com/groups/1324788797564648/posts/29244887058461447",
-      "title": "the american dream is still alive… but can people still afford it?",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
       "snippet": "might have cost around $110,000 in 1985. Today, it could cost $500,000! rising home prices, mortgage rates, and everyday expenses have made it",
       "source": "Facebook",
+      "title": "the american dream is still alive… but can people still afford it?",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/29244887058461447"
+    },
+    {
       "context": "facebook.com",
-      "group": "Warminster Community Group USA",
+      "first_seen": "2026-11-17",
+      "group": "We Are The Poconos",
+      "id": "https://www.facebook.com/groups/1140772356291809/posts/2884136445288716",
+      "last_seen": "2026-11-17",
       "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "ROJATH MOBILE — AUTOMOTIVE SERVICES THAT COME TO YOU Serving Tobyhanna, Mount Pocono, Stroudsburg & surrounding Pocono areas Need",
+      "source": "Facebook",
+      "title": "rojath mobile — automotive services that come to you - Facebook",
+      "url": "https://www.facebook.com/groups/1140772356291809/posts/2884136445288716"
+    },
+    {
+      "id": "https://www.facebook.com/groups/robinsontownshipconnect/posts/4633749653438072",
+      "url": "https://www.facebook.com/groups/robinsontownshipconnect/posts/4633749653438072",
+      "title": "now hiring – electricians & electrical apprentices!",
+      "snippet": "We're a locally owned, first responder-owned and operated electrical contracting company. CALL ! 724-566-4057 lucaselectricpa.com. Work Begins Monday in",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Robinson Township Connect",
+      "posted": "2026-11-13",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Warminster Community Group USA",
+      "id": "https://www.facebook.com/groups/1324788797564648/posts/29205293462420807",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-13",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
         "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Saturday, November 14 ⏰ 10:00 AM – 2:00 PM Willow Grove United Methodist Church 34 N. York Road, Willow Grove, PA 🛍️ With 35 vendors,",
+      "source": "Facebook",
+      "title": "just sharing incase anyone is looking for something to do tomorrow...",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/29205293462420807"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Ebay Resellers & Thrifters Group",
+      "id": "https://www.facebook.com/groups/313740000070684/posts/1879103333534335",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "PSE has filed for a rate change. In 2027 the increase would be 16.75% for residential electric and 13.32% for residential natural gas. At the",
+      "source": "Facebook",
+      "title": "https://www.facebook.com/share/p/1A76R4nX4v/?mibextid=wwXIfr",
+      "url": "https://www.facebook.com/groups/313740000070684/posts/1879103333534335"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Blair & Surounding Counties NO BS HAVE FUN Yardsale Flea Market",
+      "id": "https://www.facebook.com/groups/591070660992618/posts/28320547650951546",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "AVAILABLE NOW $1204/month, including … walkable to West Penn hospital. All LED lighting throughout the home! Rent is $1,075/month, $150 water allowance.",
+      "source": "Facebook",
+      "title": "furnished queen bedroom | altoona, pa 16601",
+      "url": "https://www.facebook.com/groups/591070660992618/posts/28320547650951546"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "",
+      "id": "https://www.facebook.com/groups/1044795349431347/posts/2245754346002102",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "BENUE STATE EXECUTIVE COUNCIL APPROVES ₦2.69BN FOR CHRISTIAN PILGRIMS, HAILS GOVERNOR ALIA ON FLAG RECEIPT AND \"GOVERNOR OF THE YEAR\" AWARD Monday, 16th",
+      "source": "Facebook",
+      "title": "benue state executive council approves ₦2.69bn for ...",
+      "url": "https://www.facebook.com/groups/1044795349431347/posts/2245754346002102"
+    },
+    {
+      "id": "https://www.facebook.com/groups/956891591013689/posts/29068012722808199",
+      "url": "https://www.facebook.com/groups/956891591013689/posts/29068012722808199",
+      "title": "any electric experts in the area ?",
+      "snippet": "What are some recommendations for electrical services in Upper Black Eddy? Maria Puzo Vasta ▻ Upper Black Eddy Community. Bucks County PA 18972. 2y",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Julatten, Mt Molloy and Mt Carbine Community Information Group",
+      "posted": "2026-11-14",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
@@ -23,9 +240,9 @@
         "host": true,
         "keyword": true,
         "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -34,18 +251,49 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1140772356291809/posts/2884136445288716",
-      "url": "https://www.facebook.com/groups/1140772356291809/posts/2884136445288716",
-      "title": "rojath mobile — automotive services that come to you - Facebook",
-      "snippet": "ROJATH MOBILE — AUTOMOTIVE SERVICES THAT COME TO YOU Serving Tobyhanna, Mount Pocono, Stroudsburg & surrounding Pocono areas Need",
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Jefferson, GA, Lets Talk",
+      "id": "https://www.facebook.com/groups/937131067523169/posts/1787450005824600",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Chinese carburetor starts $12.00 and all the Chinese electric parts starts $40.00 Im Certified 10 years of experience we speak Spanish and",
+      "source": "Facebook",
+      "title": "Who needs AC compressor, or any mobile mechanic work!!!",
+      "url": "https://www.facebook.com/groups/937131067523169/posts/1787450005824600"
+    },
+    {
+      "id": "https://www.facebook.com/groups/149524792401016/posts/2018943112125832",
+      "url": "https://www.facebook.com/groups/149524792401016/posts/2018943112125832",
+      "title": "Which number egg is perfectly cooked? 1 10 2 9 3 8 4 7 5",
+      "snippet": "A gray-green ring forms when sulfur in the egg white reacts with iron in the yolk. It usually happens when eggs cook too long or cool too slowly after cooking.",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "We Are The Poconos",
-      "posted": "2026-11-16",
+      "group": "Montgomery County Maryland",
+      "posted": "2026-11-12",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+        "site:facebook.com/groups/149524792401016 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -56,7 +304,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -65,49 +313,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1324788797564648/posts/29205293462420807",
-      "url": "https://www.facebook.com/groups/1324788797564648/posts/29205293462420807",
-      "title": "just sharing incase anyone is looking for something to do tomorrow...",
-      "snippet": "Saturday, November 14 ⏰ 10:00 AM – 2:00 PM Willow Grove United Methodist Church 34 N. York Road, Willow Grove, PA 🛍️ With 35 vendors,",
+      "id": "https://www.facebook.com/groups/829747932606812/posts/1465269692387963",
+      "url": "https://www.facebook.com/groups/829747932606812/posts/1465269692387963",
+      "title": "When you need electrical, lighting, generator or EV ...",
+      "snippet": "Amp'd Energy is the leading EV Charging installer in the Bucks County and Lehigh Valley areas! We are a Tesla, Span, ChargerPoint and Generac Certified",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Warminster Community Group USA",
+      "group": "NEW Wayne County PA Honesdale, Hawley, and surrounding areas 411",
       "posted": "2026-11-13",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/313740000070684/posts/1879103333534335",
-      "url": "https://www.facebook.com/groups/313740000070684/posts/1879103333534335",
-      "title": "https://www.facebook.com/share/p/1A76R4nX4v/?mibextid=wwXIfr",
-      "snippet": "PSE has filed for a rate change. In 2027 the increase would be 16.75% for residential electric and 13.32% for residential natural gas. At the",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Ebay Resellers & Thrifters Group",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
@@ -118,7 +335,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -127,80 +344,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/591070660992618/posts/28320547650951546",
-      "url": "https://www.facebook.com/groups/591070660992618/posts/28320547650951546",
-      "title": "furnished queen bedroom | altoona, pa 16601",
-      "snippet": "AVAILABLE NOW $1204/month, including … walkable to West Penn hospital. All LED lighting throughout the home! Rent is $1,075/month, $150 water allowance.",
+      "id": "https://www.facebook.com/groups/250690917242764/posts/1453510653627445",
+      "url": "https://www.facebook.com/groups/250690917242764/posts/1453510653627445",
+      "title": "What's going on in the Mount Pleasant Area - Facebook",
+      "snippet": "Pennsylvania electric customers, including those served by West Penn Power in Fayette County, will see another rate increase beginning",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Blair & Surounding Counties NO BS HAVE FUN Yardsale Flea Market",
-      "posted": "2026-11-16",
+      "group": "Whats going on in the Mount Pleasant Area",
+      "posted": "2026-11-11",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1044795349431347/posts/2245754346002102",
-      "url": "https://www.facebook.com/groups/1044795349431347/posts/2245754346002102",
-      "title": "benue state executive council approves ₦2.69bn for ...",
-      "snippet": "BENUE STATE EXECUTIVE COUNCIL APPROVES ₦2.69BN FOR CHRISTIAN PILGRIMS, HAILS GOVERNOR ALIA ON FLAG RECEIPT AND \"GOVERNOR OF THE YEAR\" AWARD Monday, 16th",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/937131067523169/posts/1787450005824600",
-      "url": "https://www.facebook.com/groups/937131067523169/posts/1787450005824600",
-      "title": "Who needs AC compressor, or any mobile mechanic work!!!",
-      "snippet": "Chinese carburetor starts $12.00 and all the Chinese electric parts starts $40.00 Im Certified 10 years of experience we speak Spanish and",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Jefferson, GA, Lets Talk",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
       ],
       "rules": {
         "accepted": false,
@@ -211,7 +366,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -220,111 +375,111 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Low Voltage Nation Group",
       "id": "https://www.facebook.com/groups/lowvoltagenation/posts/4703124096644049",
-      "url": "https://www.facebook.com/groups/lowvoltagenation/posts/4703124096644049",
-      "title": "What copper Cat6 cable brands do professionals prefer? - Facebook",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
       "snippet": "I prefer Belden or West Penn, but those aren't usually the VE options. 4h · 2 likes. Mike Bancroft. Belden, Commscope, Panduit. 3h · 2 likes.",
       "source": "Facebook",
+      "title": "What copper Cat6 cable brands do professionals prefer? - Facebook",
+      "url": "https://www.facebook.com/groups/lowvoltagenation/posts/4703124096644049"
+    },
+    {
       "context": "facebook.com",
-      "group": "Low Voltage Nation Group",
-      "posted": "2026-11-16",
       "first_seen": "2026-11-17",
+      "group": "Car camping UK No Snotty Admin",
+      "id": "https://www.facebook.com/groups/3382195598759100/posts/4440794729565843",
       "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": true,
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
         "version": "9153f2a3d170"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/3382195598759100/posts/4440794729565843",
-      "url": "https://www.facebook.com/groups/3382195598759100/posts/4440794729565843",
-      "title": "What are affordable alternatives to a Jackery for camping power?",
       "snippet": "Is there anything cheaper than a jackery that would do for one night to keep a heated blanket going. And boil a kettle?",
       "source": "Facebook",
+      "title": "What are affordable alternatives to a Jackery for camping power?",
+      "url": "https://www.facebook.com/groups/3382195598759100/posts/4440794729565843"
+    },
+    {
+      "id": "https://www.facebook.com/groups/accesswestmoreland/posts/29745589971798416",
+      "url": "https://www.facebook.com/groups/accesswestmoreland/posts/29745589971798416",
+      "title": "We're Hiring! Join the Kinner's Electric Team! - Facebook",
+      "snippet": "Send your resume to Kinnerselectric@gmail.com Located in Wyano, PA Serving Westmoreland county and surrounding areas · Kinner's Electric.",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Car camping UK No Snotty Admin",
-      "posted": "2026-11-16",
+      "group": "Access Westmoreland",
+      "posted": "2026-11-13",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "keyword",
+        "reason": "geography",
         "host": true,
-        "keyword": false,
+        "keyword": true,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "hard_exclusion": false,
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "geography"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/150392614283702/posts/991327670190188",
-      "url": "https://www.facebook.com/groups/150392614283702/posts/991327670190188",
-      "title": "We are a small local Bedford County company that provides ...",
-      "snippet": "We are a small local Bedford County company that provides residential, commercial, AND industrial electrical installations, repair and",
+      "id": "https://www.facebook.com/groups/2518253611731686/posts/4439049596318735",
+      "url": "https://www.facebook.com/groups/2518253611731686/posts/4439049596318735",
+      "title": "We love Montgomery Tx! - Facebook",
+      "snippet": "@followers Call MK Electric at (936) 577-5991 Mark & Kristy Serving Montgomery, Texas, and surrounding areas. Licensed and insured | TELC #30717",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Bedford VA Recommendations",
+      "group": "We love Montgomery Tx",
       "posted": "2026-11-16",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1324788797564648/posts/29165780093038811",
-      "url": "https://www.facebook.com/groups/1324788797564648/posts/29165780093038811",
-      "title": "Warminster Community Group USA - Facebook",
-      "snippet": "JCJ Electric LLC ► Warminster Community Group USA 1h · Public Be mindful of who you hire to do your electrical work! Let's welcome our new",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Warminster Community Group USA",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
@@ -335,7 +490,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -344,18 +499,49 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/933433415164173/posts/1690590536115120",
-      "url": "https://www.facebook.com/groups/933433415164173/posts/1690590536115120",
-      "title": "This is a awesome ready to go 2003 Mercury 90 ELPT 4S long shaft ...",
-      "snippet": "The video provides a detailed look at the 2009 model, highlighting its specifications: a 300hp, 2009-year-old 4-stroke engine with 210 psi of",
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Bedford VA Recommendations",
+      "id": "https://www.facebook.com/groups/150392614283702/posts/991327670190188",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "We are a small local Bedford County company that provides residential, commercial, AND industrial electrical installations, repair and",
+      "source": "Facebook",
+      "title": "We are a small local Bedford County company that provides ...",
+      "url": "https://www.facebook.com/groups/150392614283702/posts/991327670190188"
+    },
+    {
+      "id": "https://www.facebook.com/groups/149524792401016/posts/2018728072147336",
+      "url": "https://www.facebook.com/groups/149524792401016/posts/2018728072147336",
+      "title": "Water where it shouldn't be? Don't panic. We've got you.",
+      "snippet": "We bill your insurance DIRECTLY, so you don't have to chase the paperwork. Call or text now: (888) 450-0299 … 24/7 emergency services for water damage, mold,",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Boat Parts and Accessories For Sale.",
-      "posted": "2026-11-16",
+      "group": "Montgomery County Maryland",
+      "posted": "2026-11-11",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+        "site:facebook.com/groups/149524792401016 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -363,10 +549,10 @@
         "reason": "keyword",
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
+        "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -375,29 +561,122 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1324788797564648/posts/29179325908350896",
-      "url": "https://www.facebook.com/groups/1324788797564648/posts/29179325908350896",
-      "title": "There's something special about sharing a homemade dessert with ...",
-      "snippet": "Bill Saccone ▻ Warminster Community Group USA. 1d · Public · Hello fellow child and dog parents. Have you looked down recently when walking in",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Warminster Community Group USA",
-      "posted": "2026-11-11",
       "first_seen": "2026-11-17",
+      "group": "Warminster Community Group USA",
+      "id": "https://www.facebook.com/groups/1324788797564648/posts/29165780093038811",
       "last_seen": "2026-11-17",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "JCJ Electric LLC ► Warminster Community Group USA 1h · Public Be mindful of who you hire to do your electrical work! Let's welcome our new",
+      "source": "Facebook",
+      "title": "Warminster Community Group USA - Facebook",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/29165780093038811"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1206600398041028/posts/1512446944123037",
+      "url": "https://www.facebook.com/groups/1206600398041028/posts/1512446944123037",
+      "title": "WTFF is West Penn Power doing???????? - Facebook",
+      "snippet": "Critical Facilities none Road Closures none To Report a Power Outage For West Penn Power Customers: - PHONE 1-888-LIGHTSS (1-888-544-4877) Life",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "West Newton PA Uncensored",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/149524792401016/posts/2020607558626054",
+      "url": "https://www.facebook.com/groups/149524792401016/posts/2020607558626054",
+      "title": "WILL NOT RESPOND TO \"is this available?\". If you see it ...",
+      "snippet": "Your only utility bill is electricity. No gas or oil. $1500 month with same deposit. The tenant is responsible for electric.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Montgomery County Maryland",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups/149524792401016 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/149524792401016/posts/2021849128501897",
+      "url": "https://www.facebook.com/groups/149524792401016/posts/2021849128501897",
+      "title": "Tichy Skips Annapolis Orientation for Copper Wiring ...",
+      "snippet": "Tichy Skips Annapolis Orientation for Copper Wiring Emergency ANNAPOLIS, Md. — Maryland Delegate-elect Christa Tichy quietly slipped away from her",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Montgomery County Maryland",
+      "posted": "2026-11-15",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups/149524792401016 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
         "semantic_accepted": false,
         "reason": "keyword",
         "host": true,
         "keyword": false,
-        "pennsylvania": false,
+        "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -406,10 +685,692 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Boat Parts and Accessories For Sale.",
+      "id": "https://www.facebook.com/groups/933433415164173/posts/1690590536115120",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "The video provides a detailed look at the 2009 model, highlighting its specifications: a 300hp, 2009-year-old 4-stroke engine with 210 psi of",
+      "source": "Facebook",
+      "title": "This is a awesome ready to go 2003 Mercury 90 ELPT 4S long shaft ...",
+      "url": "https://www.facebook.com/groups/933433415164173/posts/1690590536115120"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Warminster Community Group USA",
+      "id": "https://www.facebook.com/groups/1324788797564648/posts/29179325908350896",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Bill Saccone ▻ Warminster Community Group USA. 1d · Public · Hello fellow child and dog parents. Have you looked down recently when walking in",
+      "source": "Facebook",
+      "title": "There's something special about sharing a homemade dessert with ...",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/29179325908350896"
+    },
+    {
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1721444742975578",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1721444742975578",
+      "title": "The difference is in the details! Huge thanks to Deb for trusting our ...",
+      "snippet": "Backup Power is with Kohler Energy – Generators in Latrobe, PA ... Westmoreland County Pennsylvania Business Group. 2.3K members • 10",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "across Westmoreland",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "",
       "id": "https://www.facebook.com/groups/1473945086738869",
-      "url": "https://www.facebook.com/groups/1473945086738869",
-      "title": "THE HOLLA!",
+      "last_seen": "2026-11-17",
+      "posted": "",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
       "snippet": "Light has come into the world, but people loved darkness instead of light because their deeds were evil.",
+      "source": "Facebook",
+      "title": "THE HOLLA!",
+      "url": "https://www.facebook.com/groups/1473945086738869"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Stop Archbald Data Centers",
+      "id": "https://www.facebook.com/groups/1149438363979083/posts/1468471552075761",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "﻿﻿﻿Gas and fracking who supply the energy to power plants to meet the huge electricity demand of Ai data centers that consume as much as entire",
+      "source": "Facebook",
+      "title": "Stop Archbald Data Centers - Facebook",
+      "url": "https://www.facebook.com/groups/1149438363979083/posts/1468471552075761"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Stop Archbald Data Centers",
+      "id": "https://www.facebook.com/groups/1149438363979083/posts/1468480752074841",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "OCR: The grid operator just passed 9.3 billion dollars in data center costs onto your electric bill Andy Diaz @andrewjpdiaz They told you AI",
+      "source": "Facebook",
+      "title": "Stop Archbald Data Centers - Facebook",
+      "url": "https://www.facebook.com/groups/1149438363979083/posts/1468480752074841"
+    },
+    {
+      "id": "https://www.facebook.com/groups/797714603668583/posts/28546991184980885",
+      "url": "https://www.facebook.com/groups/797714603668583/posts/28546991184980885",
+      "title": "Southwestern PA: Tickets, Bashes, & Fundraisers",
+      "snippet": "Southwestern PA: Tickets, Bashes, & Fundraisers. Allegheny Valley Volunteer Fire Company2h. To purchase your tickets, click here: #ALLEGHENY COUNTY, PA LOCAL",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Southwestern PA Tickets, Bashes, & Fundraisers",
+      "posted": "2026-11-16",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Consumer & Energy Matters UK",
+      "id": "https://www.facebook.com/groups/110459132988027/posts/1954854841881771",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Comparing EV, Solar & storage, Some suppliers will agree a fix. You can swap exit fee free from 49 days before your current deal ends. Contact your supplier to",
+      "source": "Facebook",
+      "title": "Should I swap energy deals now or wait until December?",
+      "url": "https://www.facebook.com/groups/110459132988027/posts/1954854841881771"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Schuylkill River Fishing & Kayaking",
+      "id": "https://www.facebook.com/groups/48555416885/posts/10163594395911886",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "The proposal includes: • 40 backup generators per building • 45 rooftop chillers per building • Two administrative buildings • An electrical",
+      "source": "Facebook",
+      "title": "Proposed data center lines threaten Schuylkill River - Facebook",
+      "url": "https://www.facebook.com/groups/48555416885/posts/10163594395911886"
+    },
+    {
+      "id": "https://www.facebook.com/groups/343327988381097/posts/1161492163231338",
+      "url": "https://www.facebook.com/groups/343327988381097/posts/1161492163231338",
+      "title": "Penn Power small business rate increase in Beaver, ...",
+      "snippet": "Penn Power business owners in Beaver, Lawrence, Butler, and Mercer counties ・ go from 13.729¢ to 18.350¢/kWh, about +34% An energy broker in Pennsylvania",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Cranberry Twp, Zelienople, Wexford and surrounding areas small businesses",
+      "posted": "2026-11-16",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/149524792401016/posts/2020608615292615",
+      "url": "https://www.facebook.com/groups/149524792401016/posts/2020608615292615",
+      "title": "Other posts",
+      "snippet": "We are asking $1000 a month. This rental amount includes, the expenses of water, sewage, garbage, gas and electricity. There is an in unit washer and dryer hook",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Montgomery County Maryland",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups/149524792401016 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Pennsylvania Small Business Advertising",
+      "id": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29797357656537205",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Mountain Cleaning Services is the only team in the Pocono market running the complete chain — package receiving, storage and staging, delivery",
+      "source": "Facebook",
+      "title": "New Pocono STR investors — the gap between \"furniture ordered ...",
+      "url": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29797357656537205"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Warminster Community Group USA",
+      "id": "https://www.facebook.com/groups/1324788797564648/posts/29217055081244645",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-14",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Dave's Appliance and Champion Appliance Service are highly recommended for washer repairs in the Warminster area.",
+      "source": "Facebook",
+      "title": "Need washer repaired. Suggestions for Warminster area please.",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/29217055081244645"
+    },
+    {
+      "id": "https://www.facebook.com/groups/799069116807565/posts/28907190818902018",
+      "url": "https://www.facebook.com/groups/799069116807565/posts/28907190818902018",
+      "title": "NJ general contracting company seeks partnerships with ...",
+      "snippet": "We've been in business for over 40 years and are currently expanding our services into Bucks County and Montgomery County. I am looking to connect with",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Bucks County Small Business Connection",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/149524792401016/posts/2022402601779883",
+      "url": "https://www.facebook.com/groups/149524792401016/posts/2022402601779883",
+      "title": "Multi-tier plastic seed sprouter tray or germination kitNo ...",
+      "snippet": "This video provides a gardening hack, suggesting an upgrade for a standard plastic seed starting tray. The creator shows how to replace the plastic pod with",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Montgomery County Maryland",
+      "posted": "2026-11-15",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups/149524792401016 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/149524792401016/posts/1948905209129623",
+      "url": "https://www.facebook.com/groups/149524792401016/posts/1948905209129623",
+      "title": "Montgomery County Maryland | Sunoco will come through with the most | Facebook",
+      "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n $ Price gallon(including gallon (including tax) $Price.pergllo(iniudingta per gallon (including tax) Price Pri MINIMUM OCTANE // RATING MINIMUM OCTANE RATING (R M)/2 METHOD (R (R+M)/2METHOD +M)/2 M) M)/2 )/2 METHOD 8789 89 87 PRESS P R E S S PRESS E P S MINIMU (R P …",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Montgomery County Maryland",
+      "posted": "2026-08-24",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups/149524792401016 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/564443277711515/posts/2365743860914772",
+      "url": "https://www.facebook.com/groups/564443277711515/posts/2365743860914772",
+      "title": "Montgomery County (PA) Equestrian - Facebook",
+      "snippet": "Fencing Bedding Buckets Electric Hay Hoof Care Increased Colic Risk ... SERVICE FEES WITH . EXTRA EXTRAHAY HAY INTAKE . EQUINNECT",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Montgomery County PA Equestrian",
+      "posted": "2026-11-15",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/buckshawbeat/posts/27206503862380681",
+      "url": "https://www.facebook.com/groups/buckshawbeat/posts/27206503862380681",
+      "title": "Mitsubishi Electric air conditioning service ...",
+      "snippet": "Hi, I'm looking for recommendations for someone to come out and service our two air-conditioning units? They are Mitsubishi electric ones. Thank you x.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "BUCKSHAW BEAT",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/accesswestmoreland/posts/29746396821717731",
+      "url": "https://www.facebook.com/groups/accesswestmoreland/posts/29746396821717731",
+      "title": "Mister Sparky Electric offers holiday electrical services - Facebook",
+      "snippet": "Mister Sparky Electric is here to support all your holiday electrical needs!!! 724-262-2677. Westmoreland County Pennsylvania Business Group.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Access Westmoreland",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1471428613757670/posts/2197969577770233",
+      "url": "https://www.facebook.com/groups/1471428613757670/posts/2197969577770233",
+      "title": "Mister Sparky Electric is here to support all your holiday ... - Facebook",
+      "snippet": "Mister Sparky Electric is here to support all your holiday electrical needs!!! 724-262-2677. Westmoreland County Local Businesses (508) 864-",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "NEW Across Westmoreland",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Everything EASTON",
+      "id": "https://www.facebook.com/groups/300873505348496/posts/1479332127502622",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Looking for advice about electric bill. There was a mix up with our meters for a few months after we moved in & we ended up with a big bill.",
+      "source": "Facebook",
+      "title": "Looking for advice about electric bill. - Facebook",
+      "url": "https://www.facebook.com/groups/300873505348496/posts/1479332127502622"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Warminster Community Group USA",
+      "id": "https://www.facebook.com/groups/1324788797564648/posts/29160197810263706",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-10",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Champion Appliance Service and Barnard Appliance Repair are highly recommended. Joseph Fling. Champion apl",
+      "source": "Facebook",
+      "title": "Looking for a recommendation of someone to fix my stove/oven.",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/29160197810263706"
+    },
+    {
+      "id": "https://www.facebook.com/groups/632543683618371/posts/3224419637764083",
+      "url": "https://www.facebook.com/groups/632543683618371/posts/3224419637764083",
+      "title": "Jobs in Allegheny County, Pennsylvania - Facebook",
+      "snippet": "Scott Electric Wholesale Electrical Distributor ▻ Jobs in Allegheny County, Pennsylvania. 15h · Public. Don't just take a job; own your",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "",
@@ -417,627 +1378,38 @@
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1149438363979083/posts/1468480752074841",
-      "url": "https://www.facebook.com/groups/1149438363979083/posts/1468480752074841",
-      "title": "Stop Archbald Data Centers - Facebook",
-      "snippet": "OCR: The grid operator just passed 9.3 billion dollars in data center costs onto your electric bill Andy Diaz @andrewjpdiaz They told you AI",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Stop Archbald Data Centers",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1149438363979083/posts/1468471552075761",
-      "url": "https://www.facebook.com/groups/1149438363979083/posts/1468471552075761",
-      "title": "Stop Archbald Data Centers - Facebook",
-      "snippet": "﻿﻿﻿Gas and fracking who supply the energy to power plants to meet the huge electricity demand of Ai data centers that consume as much as entire",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Stop Archbald Data Centers",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/110459132988027/posts/1954854841881771",
-      "url": "https://www.facebook.com/groups/110459132988027/posts/1954854841881771",
-      "title": "Should I swap energy deals now or wait until December?",
-      "snippet": "Comparing EV, Solar & storage, Some suppliers will agree a fix. You can swap exit fee free from 49 days before your current deal ends. Contact your supplier to",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Consumer & Energy Matters UK",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/48555416885/posts/10163594395911886",
-      "url": "https://www.facebook.com/groups/48555416885/posts/10163594395911886",
-      "title": "Proposed data center lines threaten Schuylkill River - Facebook",
-      "snippet": "The proposal includes: • 40 backup generators per building • 45 rooftop chillers per building • Two administrative buildings • An electrical",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Schuylkill River Fishing & Kayaking",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29797357656537205",
-      "url": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29797357656537205",
-      "title": "New Pocono STR investors — the gap between \"furniture ordered ...",
-      "snippet": "Mountain Cleaning Services is the only team in the Pocono market running the complete chain — package receiving, storage and staging, delivery",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Pennsylvania Small Business Advertising",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "intent"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1324788797564648/posts/29217055081244645",
-      "url": "https://www.facebook.com/groups/1324788797564648/posts/29217055081244645",
-      "title": "Need washer repaired. Suggestions for Warminster area please.",
-      "snippet": "Dave's Appliance and Champion Appliance Service are highly recommended for washer repairs in the Warminster area.",
+      "id": "https://www.facebook.com/groups/632543683618371/posts/3224644664408247",
+      "url": "https://www.facebook.com/groups/632543683618371/posts/3224644664408247",
+      "title": "Jobs in Allegheny County, Pennsylvania - Facebook",
+      "snippet": "Scott Electric Wholesale Electrical Distributor ▻ Jobs in Allegheny County, Pennsylvania. 15h · Public. Don't just take a job; own your",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Warminster Community Group USA",
-      "posted": "2026-11-14",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/300873505348496/posts/1479332127502622",
-      "url": "https://www.facebook.com/groups/300873505348496/posts/1479332127502622",
-      "title": "Looking for advice about electric bill. - Facebook",
-      "snippet": "Looking for advice about electric bill. There was a mix up with our meters for a few months after we moved in & we ended up with a big bill.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Everything EASTON",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": true,
-        "hard_exclusion": false,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1324788797564648/posts/29160197810263706",
-      "url": "https://www.facebook.com/groups/1324788797564648/posts/29160197810263706",
-      "title": "Looking for a recommendation of someone to fix my stove/oven.",
-      "snippet": "Champion Appliance Service and Barnard Appliance Repair are highly recommended. Joseph Fling. Champion apl",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Warminster Community Group USA",
+      "group": "Jobs in Allegheny County, Pennsylvania",
       "posted": "2026-11-10",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1668839810043620/posts/4395111854083055",
-      "url": "https://www.facebook.com/groups/1668839810043620/posts/4395111854083055",
-      "title": "Jeep Wrangler 2024 Price includes a doc fee of $490",
-      "snippet": "We are proud to be the number-one dealer of Viper cars in Canada, and we provide exclusive customization services for trucks and Jeeps. Electrical Group $995 -",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Lehigh Valley Cars4Sale",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/NewtotheBurgh/posts/4752615125056806",
-      "url": "https://www.facebook.com/groups/NewtotheBurgh/posts/4752615125056806",
-      "title": "Ho! Ho! Ho! Something FUN, SILLY and WONDEROUS! ...",
-      "snippet": "A ride on the historic Duquesne Incline. Tickets are $7 per person for a ride lasting about 10 minutes.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "New to Pittsburgh Stuff to do and Interesting News",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/910031642781286/posts/2728674787583620",
-      "url": "https://www.facebook.com/groups/910031642781286/posts/2728674787583620",
-      "title": "Grab these great deals this week!",
-      "snippet": "For a VERY limited time, I'm offering: ✨ Full highlights – $140 ✨ Partial highlights – $100 ✨ All-over color – $100 I have a few opportunities to get you in ...Read more",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "The Good People of Joplin",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1324788797564648/posts/29248190434797776",
-      "url": "https://www.facebook.com/groups/1324788797564648/posts/29248190434797776",
-      "title": "Govee permanent lights installer for 200ft split-level - Facebook",
-      "snippet": "Govee permanent outdoor lights are generally recommended for exterior use and are marketed as waterproof with smart controls, though",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Warminster Community Group USA",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/189093428169944/posts/2600925080320088",
-      "url": "https://www.facebook.com/groups/189093428169944/posts/2600925080320088",
-      "title": "Glenn Beck presents a great biography of Washington as ...",
-      "snippet": "Glenn Beck presents a great biography of Washington as part of his series.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Wausau WI Buy and Sell",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/528042172315847/posts/1726313752488677",
-      "url": "https://www.facebook.com/groups/528042172315847/posts/1726313752488677",
-      "title": "Give the BEST gift this Christmas- the gift of life! Please make your ...",
-      "snippet": "... West Penn Power plant in Greensburg about ten minutes away. I currently live in a one bedroom apartment. TIA. Evan Timothy and 7 others. 8",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "across Westmoreland",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/300873505348496/posts/1479334470835721",
-      "url": "https://www.facebook.com/groups/300873505348496/posts/1479334470835721",
-      "title": "GUESS WHO'S BAAAAACK?! - Facebook",
-      "snippet": "NO OBLIGATION SERVING THE LEHIGH VALLEY & SURROUNDING AREAS. RELIABLE 610-428-7907 FAST SERVICE AFFORDABLE LOCAL & TRUSTED CALL TEXT K YOUR",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Everything EASTON",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/355054821447/posts/10164178100886448",
-      "url": "https://www.facebook.com/groups/355054821447/posts/10164178100886448",
-      "title": "Experience Pittsburgh's allure in 'Gravity Like This' by DLove",
-      "snippet": "This video is a travel montage showcasing the Duquesne Incline in Pittsburgh, Pennsylvania. illuminated lights of various buildings and the city's architecture",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Pittsburgh, Pennsylvania",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/RailfanningAdventures/posts/29045030375117735",
-      "url": "https://www.facebook.com/groups/RailfanningAdventures/posts/29045030375117735",
-      "title": "Elgin, Joliet and Eastern in Adaire working the local freight. ...",
-      "snippet": "diesel- electric locomotive, number 3098, Its headlight is on brightly. the Duquesne Incline and noticed that there appears to be a CSX line",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Railfanning Adventures",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/XeniaOpenForum/posts/29580670801543530",
-      "url": "https://www.facebook.com/groups/XeniaOpenForum/posts/29580670801543530",
-      "title": "Electrician needed to assess home electrical system capacity for ...",
-      "snippet": "The easiest way is to use a plug-in wattage meter like a Kill-a-watt, which shows exact watts and kWh for a single appliance.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Xenia Community Open Forum",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/602282193116026/posts/29888639877386869",
-      "url": "https://www.facebook.com/groups/602282193116026/posts/29888639877386869",
-      "title": "Do you heat your home with propane? Is the bill expensive or ...",
-      "snippet": "Propane users find it better than electric, but more expensive than natural gas, with some recommending high-efficiency electric alternatives.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Camillus Neighbors",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/3387075394864583/posts/4523364104569034",
-      "url": "https://www.facebook.com/groups/3387075394864583/posts/4523364104569034",
-      "title": "Debunking common solar energy myths in Chester County - Facebook",
-      "snippet": "Good morning neighbors! I hope everyone enjoyed their weekend. Weather is getting cooler and electric prices are soaring. Here to help!",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Chester County Community Page",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
       ],
       "rules": {
         "accepted": false,
@@ -1048,7 +1420,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -1057,204 +1429,173 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/942797607931472/posts/1400254752185753",
-      "url": "https://www.facebook.com/groups/942797607931472/posts/1400254752185753",
-      "title": "Commercial & Industrial Land at Bandar Seri Iskandar, Perak",
-      "snippet": "... Rate : RM596/sqft Selling Price : RM25 Million Rental Rate Price : RM2.70/sqft Total Rental : RM113,405/Month Progress Up to 29/10/2025 - 70% CCC : 2026-Q2 ...Read more",
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Lehigh Valley Cars4Sale",
+      "id": "https://www.facebook.com/groups/1668839810043620/posts/4395111854083055",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "We are proud to be the number-one dealer of Viper cars in Canada, and we provide exclusive customization services for trucks and Jeeps. Electrical Group $995 -",
+      "source": "Facebook",
+      "title": "Jeep Wrangler 2024 Price includes a doc fee of $490",
+      "url": "https://www.facebook.com/groups/1668839810043620/posts/4395111854083055"
+    },
+    {
+      "id": "https://www.facebook.com/groups/632543683618371/posts/3228896747316372",
+      "url": "https://www.facebook.com/groups/632543683618371/posts/3228896747316372",
+      "title": "It's a little cold tonight, but it's the perfect time for a walk! 🚶‍ ...",
+      "snippet": "Scott Electric Wholesale Electrical Distributor ▻ Jobs in Allegheny County, Pennsylvania. 3d · Public. Don't just take a job; own your career! Scott Electric",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "I LOVE SERI ISKANDAR",
-      "posted": "2026-11-16",
+      "group": "Jobs in Allegheny County, Pennsylvania",
+      "posted": "2026-11-13",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/300873505348496/posts/1479218717513963",
-      "url": "https://www.facebook.com/groups/300873505348496/posts/1479218717513963",
-      "title": "Christmas Light Installation Services in Easton with Discounts for ...",
-      "snippet": "Now offering Christmas lighting installation!!   We have an account directly with the manufacturer allowing us to pass the savings along to you",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Everything EASTON",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/FayetteCountyBeautiful/posts/4780037872278610",
-      "url": "https://www.facebook.com/groups/FayetteCountyBeautiful/posts/4780037872278610",
-      "title": "Can someone tell me if that's fog? 🌫️ Or is it just low clouds ...",
-      "snippet": "Which building is almost completely covered by the white fog? What do you think, Pittsburgh? 🏙️ Let me know your guesses in the comments! #",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Fayette County Beautiful",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1668839810043620/posts/4394938900767017",
-      "url": "https://www.facebook.com/groups/1668839810043620/posts/4394938900767017",
-      "title": "BrightDrop Zevo 600 2024 Price includes a doc fee of $490",
-      "snippet": "Lehigh Valley Cars4Sale. Complimentary Lifetime PA State Inspections •Shuttle and Loaners available",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Lehigh Valley Cars4Sale",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "keyword"
+        "reason": "intent"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/431049263271679/posts/1090005744042691",
-      "url": "https://www.facebook.com/groups/431049263271679/posts/1090005744042691",
-      "title": "Ban the Data Centers & Warehouses in the Pocono Mountains!",
-      "snippet": "facebook.com/TRIOCustomGraph 230 kV West Creek Loop and Substation Dominion Energy Virginia Goodland County, Virginia Domien . between western",
+      "id": "https://www.facebook.com/groups/149524792401016/posts/2020427761977367",
+      "url": "https://www.facebook.com/groups/149524792401016/posts/2020427761977367",
+      "title": "It doesn't take much for everything to stop working!",
+      "snippet": "⚠️ Your pump turns on and off frequently. ⚠️ Your electric bill unexpectedly increases. ⚠️ Your faucets sputter or lose pressure. ⚠️ Your water suddenly",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Montgomery County Maryland",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups/149524792401016 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/799069116807565/posts/28889379414016492",
+      "url": "https://www.facebook.com/groups/799069116807565/posts/28889379414016492",
+      "title": "Is that too much vanilla buttercream … or just enough? ...",
+      "snippet": "... PA · Lancaster County electrical contractor · Pennsylvania electrician · A&M Electric. 0 reactions. Marquis Muhammad ▻ Bucks County Small Business Connection.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Bucks County Small Business Connection",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "New to Pittsburgh Stuff to do and Interesting News",
+      "id": "https://www.facebook.com/groups/NewtotheBurgh/posts/4752615125056806",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "A ride on the historic Duquesne Incline. Tickets are $7 per person for a ride lasting about 10 minutes.",
+      "source": "Facebook",
+      "title": "Ho! Ho! Ho! Something FUN, SILLY and WONDEROUS! ...",
+      "url": "https://www.facebook.com/groups/NewtotheBurgh/posts/4752615125056806"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1546739855568451/posts/4500864680155939",
+      "url": "https://www.facebook.com/groups/1546739855568451/posts/4500864680155939",
+      "title": "Hey neighbors! 👋 Looking for a fully licensed and insured ...",
+      "snippet": "“Immediate Electrical Solutions Inc.” 25 years of experience, Family owned and operated, Servicing Phila, Bucks,and Montgomery counties. We are Licensed and",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "",
-      "posted": "2026-11-16",
+      "posted": "2026-11-13",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/461795562040175/posts/1721984069354645",
-      "url": "https://www.facebook.com/groups/461795562040175/posts/1721984069354645",
-      "title": "As electricity consumption rises, especially with the expansion of AI ...",
-      "snippet": "This post discusses the growing need for electricity for AI data centers, highlighting the challenge of securing enough reliable power.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Fact Legion X",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1324788797564648/posts/29167126129570874",
-      "url": "https://www.facebook.com/groups/1324788797564648/posts/29167126129570874",
-      "title": "Anyone needs any plumbing or heating work call Al's ... - Facebook",
-      "snippet": "Al's plumbing and heating at 215-201-0938 or 215-954-4862 very affordable pricing and quick response. Gas line installation & repair. Public",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Warminster Community Group USA",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
@@ -1265,7 +1606,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -1274,18 +1615,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1324788797564648/posts/29172868712329949",
-      "url": "https://www.facebook.com/groups/1324788797564648/posts/29172868712329949",
-      "title": "Any recommendations for an electrician? We need our electrical box ...",
-      "snippet": "For most homes under 3000 sq ft, a 200 amp panel is considered adequate, while 100 amp can work for smaller homes with gas appliances but",
+      "id": "https://www.facebook.com/groups/390873307618846/posts/29354694854143306",
+      "url": "https://www.facebook.com/groups/390873307618846/posts/29354694854143306",
+      "title": "Hey neighbors! Looking for a fully licensed and insured electrician ...",
+      "snippet": "Hey neighbors! Looking for a fully licensed and insured electrician you can count on across Montgomery, Bucks, and Chester counties?",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Warminster Community Group USA",
-      "posted": "2026-11-11",
+      "group": "Local Businesses For You - North Wales",
+      "posted": "2026-11-12",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
@@ -1296,7 +1637,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -1305,111 +1646,112 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/754288223269603/posts/1487130936651991",
-      "url": "https://www.facebook.com/groups/754288223269603/posts/1487130936651991",
-      "title": "Amperage Electric LLC is looking for new customers. ...",
-      "snippet": "Amperage Electric LLC is looking for new customers. Licensed and insured. Contact us today for a free quote!",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Toledo Ohio Community",
-      "posted": "2026-11-16",
       "first_seen": "2026-11-17",
+      "group": "The Good People of Joplin",
+      "id": "https://www.facebook.com/groups/910031642781286/posts/2728674787583620",
       "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
       ],
       "rules": {
         "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
         "semantic_accepted": false,
-        "reason": "geography",
+        "version": "9153f2a3d170"
+      },
+      "snippet": "For a VERY limited time, I'm offering: ✨ Full highlights – $140 ✨ Partial highlights – $100 ✨ All-over color – $100 I have a few opportunities to get you in ...Read more",
+      "source": "Facebook",
+      "title": "Grab these great deals this week!",
+      "url": "https://www.facebook.com/groups/910031642781286/posts/2728674787583620"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Warminster Community Group USA",
+      "id": "https://www.facebook.com/groups/1324788797564648/posts/29248190434797776",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Govee permanent outdoor lights are generally recommended for exterior use and are marketed as waterproof with smart controls, though",
+      "source": "Facebook",
+      "title": "Govee permanent lights installer for 200ft split-level - Facebook",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/29248190434797776"
+    },
+    {
+      "id": "https://www.facebook.com/groups/149524792401016/posts/2020869205266556",
+      "url": "https://www.facebook.com/groups/149524792401016/posts/2020869205266556",
+      "title": "Got my 1st apt in March .. I've been keeping my electric ...",
+      "snippet": "Up $163 compared to last bill. I got my first full electric bill. It's $135 and I keep my heat on 71 consistently and the lights r off most of the week. Just",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Montgomery County Maryland",
+      "posted": "2026-11-14",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups/149524792401016 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": true,
+        "semantic_accepted": true,
+        "reason": "accepted",
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
+        "pennsylvania": true,
         "lead": true,
         "hard_exclusion": false,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d",
+        "freshness": "fresh"
       },
       "production": {
-        "accepted": false,
+        "accepted": true,
         "source": "rules",
-        "reason": "geography"
+        "reason": "accepted"
       }
     },
     {
-      "id": "https://www.facebook.com/groups/122760614433085/posts/40056483123967339",
-      "url": "https://www.facebook.com/groups/122760614433085/posts/40056483123967339",
-      "title": "All Roads Fireplace & Chimney now a Regency ...",
-      "snippet": "267-594-4311 930 Woodbourne Road, Levittown, PA 19057. We are your best source for fireplace and stove glass in the Delaware and Lehigh Valley!",
+      "id": "https://www.facebook.com/groups/126719644052975/posts/29559000837064799",
+      "url": "https://www.facebook.com/groups/126719644052975/posts/29559000837064799",
+      "title": "Good morning neighbors! I hope everyone enjoyed their ...",
+      "snippet": "Bucks County PA Supports. Mid-Carolina Electric Cooperative 22w … from 3 p.m. to 6 p.m. resources available from Claiborne Electric here: Energy Efficiency.",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Yardley Neighbors",
+      "group": "Bucks County Business Connection Network",
       "posted": "2026-11-16",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/poconosintheknow/posts/1360931692721343",
-      "url": "https://www.facebook.com/groups/poconosintheknow/posts/1360931692721343",
-      "title": "A perfect Christmas gift! Tickets go on sale Black Friday! - Facebook",
-      "snippet": "Electric roughly 800. Serving Hazleton, Wilkes-Barre, Scranton & the Lehigh Valley areas! Shop, local, shop, handmade, shop small business!",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Jim Thorpe, Lehighton, Palmerton In The Know, Unchained",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "9153f2a3d170"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1668839810043620/posts/4394671157460458",
-      "url": "https://www.facebook.com/groups/1668839810043620/posts/4394671157460458",
-      "title": "2027 Hyundai Sonata Hybrid SEL",
-      "snippet": "We are a Dealer in Downingtown Pa. You can call me direct at 484-364-3751 or message me here 2027 Hyundai Sonata Hybrid SEL SEL FWD Gas/Electric I-4 2.0",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Lehigh Valley Cars4Sale",
-      "posted": "2026-11-16",
-      "first_seen": "2026-11-17",
-      "last_seen": "2026-11-17",
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
@@ -1420,7 +1762,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -1429,18 +1771,173 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1668839810043620/posts/4394700934124147",
-      "url": "https://www.facebook.com/groups/1668839810043620/posts/4394700934124147",
-      "title": "2027 Hyundai Santa Fe Calligraphy",
-      "snippet": "We are a Dealer in Downingtown Pa. You can call me direct at 484-364-3751. Wholesale Pricing + Discounted Financing Packages.",
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Wausau WI Buy and Sell",
+      "id": "https://www.facebook.com/groups/189093428169944/posts/2600925080320088",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Glenn Beck presents a great biography of Washington as part of his series.",
+      "source": "Facebook",
+      "title": "Glenn Beck presents a great biography of Washington as ...",
+      "url": "https://www.facebook.com/groups/189093428169944/posts/2600925080320088"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "across Westmoreland",
+      "id": "https://www.facebook.com/groups/528042172315847/posts/1726313752488677",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "... West Penn Power plant in Greensburg about ten minutes away. I currently live in a one bedroom apartment. TIA. Evan Timothy and 7 others. 8",
+      "source": "Facebook",
+      "title": "Give the BEST gift this Christmas- the gift of life! Please make your ...",
+      "url": "https://www.facebook.com/groups/528042172315847/posts/1726313752488677"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Everything EASTON",
+      "id": "https://www.facebook.com/groups/300873505348496/posts/1479334470835721",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "NO OBLIGATION SERVING THE LEHIGH VALLEY & SURROUNDING AREAS. RELIABLE 610-428-7907 FAST SERVICE AFFORDABLE LOCAL & TRUSTED CALL TEXT K YOUR",
+      "source": "Facebook",
+      "title": "GUESS WHO'S BAAAAACK?! - Facebook",
+      "url": "https://www.facebook.com/groups/300873505348496/posts/1479334470835721"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Pittsburgh, Pennsylvania",
+      "id": "https://www.facebook.com/groups/355054821447/posts/10164178100886448",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "This video is a travel montage showcasing the Duquesne Incline in Pittsburgh, Pennsylvania. illuminated lights of various buildings and the city's architecture",
+      "source": "Facebook",
+      "title": "Experience Pittsburgh's allure in 'Gravity Like This' by DLove",
+      "url": "https://www.facebook.com/groups/355054821447/posts/10164178100886448"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Railfanning Adventures",
+      "id": "https://www.facebook.com/groups/RailfanningAdventures/posts/29045030375117735",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "diesel- electric locomotive, number 3098, Its headlight is on brightly. the Duquesne Incline and noticed that there appears to be a CSX line",
+      "source": "Facebook",
+      "title": "Elgin, Joliet and Eastern in Adaire working the local freight. ...",
+      "url": "https://www.facebook.com/groups/RailfanningAdventures/posts/29045030375117735"
+    },
+    {
+      "id": "https://www.facebook.com/groups/helpwantedperu/posts/2425771631493458",
+      "url": "https://www.facebook.com/groups/helpwantedperu/posts/2425771631493458",
+      "title": "Electricianlife LLC offers electrical services in Pittsburgh",
+      "snippet": "All electrical installation and maintenance jobs large or small, serving Allegheny county area. New service panel upgrades, lighting and fans, add an outlet,",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Lehigh Valley Cars4Sale",
-      "posted": "2026-11-16",
+      "group": "Help Wanted Peru",
+      "posted": "2026-11-15",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
       ],
       "rules": {
         "accepted": false,
@@ -1451,7 +1948,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -1460,18 +1957,235 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1668839810043620/posts/4394651687462405",
-      "url": "https://www.facebook.com/groups/1668839810043620/posts/4394651687462405",
-      "title": "2026 Hyundai Tucson Hybrid Blue SE",
-      "snippet": "We are a Dealer in Downingtown Pa. You can call me direct at 484-364-3751 or message me here 2026 Hyundai Tucson Hybrid Blue SE Blue SE AWD Intercooled",
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Xenia Community Open Forum",
+      "id": "https://www.facebook.com/groups/XeniaOpenForum/posts/29580670801543530",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "The easiest way is to use a plug-in wattage meter like a Kill-a-watt, which shows exact watts and kWh for a single appliance.",
+      "source": "Facebook",
+      "title": "Electrician needed to assess home electrical system capacity for ...",
+      "url": "https://www.facebook.com/groups/XeniaOpenForum/posts/29580670801543530"
+    },
+    {
+      "id": "https://www.facebook.com/groups/564443277711515/posts/2364551481034010",
+      "url": "https://www.facebook.com/groups/564443277711515/posts/2364551481034010",
+      "title": "Electric fence installation help needed in Montgomery ...",
+      "snippet": "Electric fence installation help needed in Montgomery County, PA. You'll need an energizer, grounding system with rods and wire, insulated fence wire, posts,",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Lehigh Valley Cars4Sale",
+      "group": "Montgomery County PA Equestrian",
+      "posted": "2026-11-14",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/555462821558205/posts/2659042697866863",
+      "url": "https://www.facebook.com/groups/555462821558205/posts/2659042697866863",
+      "title": "ELECTRICIANS & ELECTRICAL APPRENTICES! If you're willing to ...",
+      "snippet": "LUCAS ELECTRIC INC. Serving the Tri-State Area. CALL ! 724-566-4057 lucaselectricpa.com. Westmoreland counties. 724-468-8841 C: 724-503-7296",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Washington County, PA Information",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Camillus Neighbors",
+      "id": "https://www.facebook.com/groups/602282193116026/posts/29888639877386869",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Propane users find it better than electric, but more expensive than natural gas, with some recommending high-efficiency electric alternatives.",
+      "source": "Facebook",
+      "title": "Do you heat your home with propane? Is the bill expensive or ...",
+      "url": "https://www.facebook.com/groups/602282193116026/posts/29888639877386869"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Chester County Community Page",
+      "id": "https://www.facebook.com/groups/3387075394864583/posts/4523364104569034",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Good morning neighbors! I hope everyone enjoyed their weekend. Weather is getting cooler and electric prices are soaring. Here to help!",
+      "source": "Facebook",
+      "title": "Debunking common solar energy myths in Chester County - Facebook",
+      "url": "https://www.facebook.com/groups/3387075394864583/posts/4523364104569034"
+    },
+    {
+      "id": "https://www.facebook.com/groups/415369539272518/posts/2476961153113336",
+      "url": "https://www.facebook.com/groups/415369539272518/posts/2476961153113336",
+      "title": "Contracting Supply Sale - located Between Scranton Pa ...",
+      "snippet": "Allegheny County and surrounding areas. Reardon Electric Supply Co. in West Roxbury. brand new electrical supplies … at 18612 Ryman Road in Dallas, PA.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Exeter Area Community Page Pennsylvania 18643",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "I LOVE SERI ISKANDAR",
+      "id": "https://www.facebook.com/groups/942797607931472/posts/1400254752185753",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "... Rate : RM596/sqft Selling Price : RM25 Million Rental Rate Price : RM2.70/sqft Total Rental : RM113,405/Month Progress Up to 29/10/2025 - 70% CCC : 2026-Q2 ...Read more",
+      "source": "Facebook",
+      "title": "Commercial & Industrial Land at Bandar Seri Iskandar, Perak",
+      "url": "https://www.facebook.com/groups/942797607931472/posts/1400254752185753"
+    },
+    {
+      "id": "https://www.facebook.com/groups/149524792401016/posts/2022880345065442",
+      "url": "https://www.facebook.com/groups/149524792401016/posts/2022880345065442",
+      "title": "Come for the Happy Hour, stay for the Blues--Rockin ...",
+      "snippet": "Come for the Happy Hour, stay for the Blues--Rockin', Slow, Fast, Chicago, Delta, Texas, Country, Jump & Swing--all kinds of Blues! This Monday! We got",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Montgomery County Maryland",
       "posted": "2026-11-16",
       "first_seen": "2026-11-17",
       "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+        "site:facebook.com/groups/149524792401016 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
       ],
       "rules": {
         "accepted": false,
@@ -1482,7 +2196,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
@@ -1491,18 +2205,328 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1324788797564648/posts/29172130765737077",
-      "url": "https://www.facebook.com/groups/1324788797564648/posts/29172130765737077",
-      "title": "1.5 acre property 20K SF warehouse with offices and showroom ...",
-      "snippet": "The warehouse has gas heat, six 10x14' overhead doors, separate 3-phase electric service, conditioned parts room/office and even a vehicle",
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Everything EASTON",
+      "id": "https://www.facebook.com/groups/300873505348496/posts/1479218717513963",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Now offering Christmas lighting installation!!   We have an account directly with the manufacturer allowing us to pass the savings along to you",
+      "source": "Facebook",
+      "title": "Christmas Light Installation Services in Easton with Discounts for ...",
+      "url": "https://www.facebook.com/groups/300873505348496/posts/1479218717513963"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Fayette County Beautiful",
+      "id": "https://www.facebook.com/groups/FayetteCountyBeautiful/posts/4780037872278610",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Which building is almost completely covered by the white fog? What do you think, Pittsburgh? 🏙️ Let me know your guesses in the comments! #",
+      "source": "Facebook",
+      "title": "Can someone tell me if that's fog? 🌫️ Or is it just low clouds ...",
+      "url": "https://www.facebook.com/groups/FayetteCountyBeautiful/posts/4780037872278610"
+    },
+    {
+      "id": "https://www.facebook.com/groups/632543683618371/posts/3230395067166540",
+      "url": "https://www.facebook.com/groups/632543683618371/posts/3230395067166540",
+      "title": "Can anyone guess where I am right now? I bet only the locals will ...",
+      "snippet": "Scott Electric Wholesale Electrical Distributor ▻ Jobs in Allegheny County, Pennsylvania. 5d · Public. Don't just take a job; own your career",
       "source": "Facebook",
       "context": "facebook.com",
+      "group": "Jobs in Allegheny County, Pennsylvania",
+      "posted": "2026-11-15",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Lehigh Valley Cars4Sale",
+      "id": "https://www.facebook.com/groups/1668839810043620/posts/4394938900767017",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Lehigh Valley Cars4Sale. Complimentary Lifetime PA State Inspections •Shuttle and Loaners available",
+      "source": "Facebook",
+      "title": "BrightDrop Zevo 600 2024 Price includes a doc fee of $490",
+      "url": "https://www.facebook.com/groups/1668839810043620/posts/4394938900767017"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "",
+      "id": "https://www.facebook.com/groups/431049263271679/posts/1090005744042691",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "facebook.com/TRIOCustomGraph 230 kV West Creek Loop and Substation Dominion Energy Virginia Goodland County, Virginia Domien . between western",
+      "source": "Facebook",
+      "title": "Ban the Data Centers & Warehouses in the Pocono Mountains!",
+      "url": "https://www.facebook.com/groups/431049263271679/posts/1090005744042691"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Fact Legion X",
+      "id": "https://www.facebook.com/groups/461795562040175/posts/1721984069354645",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"Duquesne Light rate\" OR \"West Penn Power rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "This post discusses the growing need for electricity for AI data centers, highlighting the challenge of securing enough reliable power.",
+      "source": "Facebook",
+      "title": "As electricity consumption rises, especially with the expansion of AI ...",
+      "url": "https://www.facebook.com/groups/461795562040175/posts/1721984069354645"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
       "group": "Warminster Community Group USA",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-17",
+      "id": "https://www.facebook.com/groups/1324788797564648/posts/29167126129570874",
       "last_seen": "2026-11-17",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Al's plumbing and heating at 215-201-0938 or 215-954-4862 very affordable pricing and quick response. Gas line installation & repair. Public",
+      "source": "Facebook",
+      "title": "Anyone needs any plumbing or heating work call Al's ... - Facebook",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/29167126129570874"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Warminster Community Group USA",
+      "id": "https://www.facebook.com/groups/1324788797564648/posts/29172868712329949",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "For most homes under 3000 sq ft, a 200 amp panel is considered adequate, while 100 amp can work for smaller homes with gas appliances but",
+      "source": "Facebook",
+      "title": "Any recommendations for an electrician? We need our electrical box ...",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/29172868712329949"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Toledo Ohio Community",
+      "id": "https://www.facebook.com/groups/754288223269603/posts/1487130936651991",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Amperage Electric LLC is looking for new customers. Licensed and insured. Contact us today for a free quote!",
+      "source": "Facebook",
+      "title": "Amperage Electric LLC is looking for new customers. ...",
+      "url": "https://www.facebook.com/groups/754288223269603/posts/1487130936651991"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Yardley Neighbors",
+      "id": "https://www.facebook.com/groups/122760614433085/posts/40056483123967339",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "267-594-4311 930 Woodbourne Road, Levittown, PA 19057. We are your best source for fireplace and stove glass in the Delaware and Lehigh Valley!",
+      "source": "Facebook",
+      "title": "All Roads Fireplace & Chimney now a Regency ...",
+      "url": "https://www.facebook.com/groups/122760614433085/posts/40056483123967339"
+    },
+    {
+      "id": "https://www.facebook.com/groups/3137022059952709/posts/4676393249348908",
+      "url": "https://www.facebook.com/groups/3137022059952709/posts/4676393249348908",
+      "title": "Across Fayette - Facebook",
+      "snippet": "West Penn Power electric rate increase in Fayette County starts December 1. WMBS Radio ▻ Across Fayette. 11h · Public · Pennsylvania electric",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Across Fayette",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
       ],
       "rules": {
         "accepted": false,
@@ -1513,12 +2537,260 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "9153f2a3d170"
+        "version": "27db8664304d"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Jim Thorpe, Lehighton, Palmerton In The Know, Unchained",
+      "id": "https://www.facebook.com/groups/poconosintheknow/posts/1360931692721343",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "Electric roughly 800. Serving Hazleton, Wilkes-Barre, Scranton & the Lehigh Valley areas! Shop, local, shop, handmade, shop small business!",
+      "source": "Facebook",
+      "title": "A perfect Christmas gift! Tickets go on sale Black Friday! - Facebook",
+      "url": "https://www.facebook.com/groups/poconosintheknow/posts/1360931692721343"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Lehigh Valley Cars4Sale",
+      "id": "https://www.facebook.com/groups/1668839810043620/posts/4394671157460458",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "intent",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "intent",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "We are a Dealer in Downingtown Pa. You can call me direct at 484-364-3751 or message me here 2027 Hyundai Sonata Hybrid SEL SEL FWD Gas/Electric I-4 2.0",
+      "source": "Facebook",
+      "title": "2027 Hyundai Sonata Hybrid SEL",
+      "url": "https://www.facebook.com/groups/1668839810043620/posts/4394671157460458"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Lehigh Valley Cars4Sale",
+      "id": "https://www.facebook.com/groups/1668839810043620/posts/4394700934124147",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "We are a Dealer in Downingtown Pa. You can call me direct at 484-364-3751. Wholesale Pricing + Discounted Financing Packages.",
+      "source": "Facebook",
+      "title": "2027 Hyundai Santa Fe Calligraphy",
+      "url": "https://www.facebook.com/groups/1668839810043620/posts/4394700934124147"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Lehigh Valley Cars4Sale",
+      "id": "https://www.facebook.com/groups/1668839810043620/posts/4394651687462405",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-16",
+      "production": {
+        "accepted": false,
+        "reason": "keyword",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": false,
+        "lead": false,
+        "pennsylvania": true,
+        "reason": "keyword",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "We are a Dealer in Downingtown Pa. You can call me direct at 484-364-3751 or message me here 2026 Hyundai Tucson Hybrid Blue SE Blue SE AWD Intercooled",
+      "source": "Facebook",
+      "title": "2026 Hyundai Tucson Hybrid Blue SE",
+      "url": "https://www.facebook.com/groups/1668839810043620/posts/4394651687462405"
+    },
+    {
+      "id": "https://www.facebook.com/groups/126719644052975/posts/29564573923174157",
+      "url": "https://www.facebook.com/groups/126719644052975/posts/29564573923174157",
+      "title": "200 amp underground electrical service completed. Quality ...",
+      "snippet": "Give us a call for a free estimate or visit our website! 267-240-4700 https://jcjelectric.org - in Media, PA. 📞 [865-466-8886]",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Bucks County Business Connection Network",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/992096238048609/posts/2191810408077180",
+      "url": "https://www.facebook.com/groups/992096238048609/posts/2191810408077180",
+      "title": "1979 The Great Allegheny Energy Savers cookbook by Project Pace ...",
+      "snippet": "1979 The Great Allegheny Energy Savers cookbook by Project Pace Setter. 205 pages. Good condition- some wear and damage to covers.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pittsburgh Treasures",
+      "posted": "2026-11-15",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-17",
+      "group": "Warminster Community Group USA",
+      "id": "https://www.facebook.com/groups/1324788797564648/posts/29172130765737077",
+      "last_seen": "2026-11-17",
+      "posted": "2026-11-11",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups/1324788797564648 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "9153f2a3d170"
+      },
+      "snippet": "The warehouse has gas heat, six 10x14' overhead doors, separate 3-phase electric service, conditioned parts room/office and even a vehicle",
+      "source": "Facebook",
+      "title": "1.5 acre property 20K SF warehouse with offices and showroom ...",
+      "url": "https://www.facebook.com/groups/1324788797564648/posts/29172130765737077"
+    },
+    {
+      "id": "https://www.facebook.com/groups/149524792401016/posts/2017726885580788",
+      "url": "https://www.facebook.com/groups/149524792401016/posts/2017726885580788",
+      "title": "**Rare Show at Hank Dietle's! ** **Matt Kelley & Guy ...",
+      "snippet": "Guy Bouchie leads revolving group of top DMV musicians through his electric live shows.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Montgomery County Maryland",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups/149524792401016 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
       }
     },
     {
@@ -3351,6 +4623,38 @@
       "url": "https://www.facebook.com/groups/908576452552188/posts/29091824817133974"
     },
     {
+      "id": "https://www.facebook.com/groups/downingtownlife/posts/1684133053294865",
+      "url": "https://www.facebook.com/groups/downingtownlife/posts/1684133053294865",
+      "title": "Michael Hark on Facebook: \"NEED AN ELECTRICIAN? Dads Electric Inc. is your local choice for reresidential and commercial electr…\"",
+      "snippet": "# Michael Hark on Facebook: \"NEED AN ELECTRICIAN? Dads Electric Inc. is your local choice for reresidential and commercial electr…\"\n\nNEED AN ELECTRICIAN?\nDads Electric Inc. is your local choice for reresidential and commercial electrical work!\n\nElectrical Panel Upgrades\n\nLighting & Electrical Repair…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Downingtown Life",
+      "posted": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity",
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
       "context": "facebook.com",
       "first_seen": "2026-11-15",
       "group": "ludlow community forum",
@@ -3969,37 +5273,6 @@
       "source": "Facebook",
       "title": "Electrician needed to install EZ Generator switch in Webster, NY",
       "url": "https://www.facebook.com/groups/671316156614466/posts/2621128604966535"
-    },
-    {
-      "context": "facebook.com",
-      "first_seen": "2026-11-15",
-      "group": "Downingtown Life",
-      "id": "https://www.facebook.com/groups/downingtownlife/posts/1684133053294865",
-      "last_seen": "2026-11-15",
-      "posted": "2026-11-15",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
-      "queries": [
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": false,
-        "host": true,
-        "keyword": true,
-        "lead": false,
-        "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "702d5269dcd1"
-      },
-      "snippet": "Dads Electric Inc. is your local choice for reresidential and commercial electrical work! Serving Chester County, PA! call at 6105644025",
-      "source": "Facebook",
-      "title": "Dads Electric Inc. offers electrical services in Chester ...",
-      "url": "https://www.facebook.com/groups/downingtownlife/posts/1684133053294865"
     },
     {
       "context": "facebook.com",
@@ -8469,36 +9742,37 @@
       "url": "https://www.facebook.com/groups/280585088026735/posts/1145899428161959"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-11-13",
-      "group": "Bucks County Business Connection Network",
       "id": "https://www.facebook.com/groups/126719644052975/posts/29478051055159778",
-      "last_seen": "2026-11-16",
+      "url": "https://www.facebook.com/groups/126719644052975/posts/29478051055159778",
+      "title": "Crazy times we are livin in. I wanted to share something ...",
+      "snippet": "Bucks County Business Connection Network. Utility Company Electric Rate Increase Over the Last 2022 MetEd. Penelec 45%, 9% 7% 30% PECO 10% Adam's Electric 4%",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Bucks County Business Connection Network",
       "posted": "2026-11-10",
-      "production": {
-        "accepted": false,
-        "reason": "intent",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-17",
       "queries": [
         "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")",
-        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")",
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": true,
-        "reason": "intent",
-        "semantic_accepted": false,
-        "version": "55944a3d623e"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
       },
-      "snippet": "Utility Company Electric Rate Increase Over the Last 2022 MetEd 23% Rate PP&L 2024 16% 18%, 10% 26% Years 2025 3% West Penn 38%, 18% 11% 2%",
-      "source": "Facebook",
-      "title": "Crazy times we are livin in. I wanted to share something that I had ...",
-      "url": "https://www.facebook.com/groups/126719644052975/posts/29478051055159778"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
     },
     {
       "context": "facebook.com",
@@ -9217,6 +10491,41 @@
       "source": "Facebook",
       "title": "What financial burden do Enbridge gas survey participants ...",
       "url": "https://www.facebook.com/groups/432903987055859/posts/3040886919590873"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1010483399100526/posts/3765562530259252",
+      "url": "https://www.facebook.com/groups/1010483399100526/posts/3765562530259252",
+      "title": "What electric companies service homes in Guilford ...",
+      "snippet": "PPL is the main utility company mentioned for electric delivery in the area, while suppliers like Energy Harbor and North American Power are used for",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Whats Going On In Chambersburg, PA",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity",
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania",
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -10929,40 +12238,6 @@
     {
       "context": "facebook.com",
       "first_seen": "2026-11-12",
-      "group": "Whats Going On In Chambersburg, PA",
-      "id": "https://www.facebook.com/groups/1010483399100526/posts/3765562530259252",
-      "last_seen": "2026-11-16",
-      "posted": "2026-11-11",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")",
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
-        "site:facebook.com/groups (\"community choice\" OR aggregation) Pennsylvania electricity",
-        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": false,
-        "host": true,
-        "keyword": true,
-        "lead": false,
-        "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "55944a3d623e"
-      },
-      "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n[](\n\n## What’s Going On In Chambersburg, PA!\n\nAnonymous participant\n\n · \n\n9 hours ago\n\nWednesday, November 11, 2026 at 2:46 PM\n\n9h · \n\nWhat electric companies service homes in Guilford Township, PA?\n\nTitles are generated by AI from Meta\n\n### Guilford Twnship Electric…",
-      "source": "Facebook",
-      "title": "Guilford Twnship Electric | Facebook",
-      "url": "https://www.facebook.com/groups/1010483399100526/posts/3765562530259252"
-    },
-    {
-      "context": "facebook.com",
-      "first_seen": "2026-11-12",
       "group": "Emerald Lakes in the Poconos",
       "id": "https://www.facebook.com/groups/Emerald.Lakes.in.the.Poconos/posts/10165680696996411",
       "last_seen": "2026-11-12",
@@ -11869,37 +13144,6 @@
     {
       "context": "facebook.com",
       "first_seen": "2026-11-11",
-      "group": "Access Westmoreland",
-      "id": "https://www.facebook.com/groups/accesswestmoreland/posts/29695227523501328",
-      "last_seen": "2026-11-11",
-      "posted": "2026-11-10",
-      "production": {
-        "accepted": false,
-        "reason": "keyword",
-        "source": "rules"
-      },
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": true,
-        "host": true,
-        "keyword": false,
-        "lead": false,
-        "pennsylvania": false,
-        "reason": "keyword",
-        "semantic_accepted": false,
-        "version": "1fcd785f25cb"
-      },
-      "snippet": "Backup Power is looking for a Service Technician to join our team in Stahlstown, PA! Know your way around electrical and mechanical systems? Westmoreland",
-      "source": "Facebook",
-      "title": "⚡ We're hiring! Backup Power is looking for a Service ...",
-      "url": "https://www.facebook.com/groups/accesswestmoreland/posts/29695227523501328"
-    },
-    {
-      "context": "facebook.com",
-      "first_seen": "2026-11-11",
       "group": "Pennsylvania Small Business Advertising",
       "id": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29708921538714151",
       "last_seen": "2026-11-11",
@@ -11989,37 +13233,6 @@
       "source": "Facebook",
       "title": "from searching in the trash for something to eat ...",
       "url": "https://www.facebook.com/groups/872781323058788/posts/3096058260731072"
-    },
-    {
-      "context": "facebook.com",
-      "first_seen": "2026-11-11",
-      "group": "Cumberland County, Pennsylvania Chatter",
-      "id": "https://www.facebook.com/groups/CumberlandCountyChatter/posts/28784692721203261",
-      "last_seen": "2026-11-11",
-      "posted": "2026-11-10",
-      "production": {
-        "accepted": false,
-        "reason": "keyword",
-        "source": "rules"
-      },
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": true,
-        "host": true,
-        "keyword": false,
-        "lead": false,
-        "pennsylvania": true,
-        "reason": "keyword",
-        "semantic_accepted": false,
-        "version": "1fcd785f25cb"
-      },
-      "snippet": "M&T Property Maintenance offers electrical property services. 📞 717-602-8012. Contact us today at 724-558-6144 to schedule your service or request a free",
-      "source": "Facebook",
-      "title": "electrical property work on your to- do list?",
-      "url": "https://www.facebook.com/groups/CumberlandCountyChatter/posts/28784692721203261"
     },
     {
       "context": "facebook.com",
@@ -12239,6 +13452,37 @@
       "url": "https://www.facebook.com/groups/872781323058788/posts/3089622774707954"
     },
     {
+      "id": "https://www.facebook.com/groups/accesswestmoreland/posts/29695227523501328",
+      "url": "https://www.facebook.com/groups/accesswestmoreland/posts/29695227523501328",
+      "title": "We're hiring! Backup Power is looking for a Service Technician to ...",
+      "snippet": "Backup Power is looking for a Service Technician to join our team in Stahlstown, PA! electrical and mechanical background, Across Westmoreland",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Access Westmoreland",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
       "context": "facebook.com",
       "first_seen": "2026-11-11",
       "group": "Pittsburgh, PA & Allegheny County, PA - Buy, Sell & Trade",
@@ -12270,35 +13514,36 @@
       "url": "https://www.facebook.com/groups/allegheny.county.pa.buy.sell/posts/3862740413873886"
     },
     {
+      "id": "https://www.facebook.com/groups/2338965813161107/posts/3190938987963781",
+      "url": "https://www.facebook.com/groups/2338965813161107/posts/3190938987963781",
+      "title": "Update From Energy Transfer on Jet Fuel Release",
+      "snippet": "An Energy Transfer pipeline has contaminated water wells in Bucks County with jet fuel after leaking for at least 16 months, undetected by the operator.",
+      "source": "Facebook",
       "context": "facebook.com",
-      "first_seen": "2026-11-11",
-      "group": "All Things Palmer TWP P.A.",
-      "id": "https://www.facebook.com/groups/1133975016721508/posts/28936972055995097",
-      "last_seen": "2026-11-11",
+      "group": "Bridgeport PA - Small Town Big Community",
       "posted": "2026-11-10",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-17",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")",
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "1fcd785f25cb"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
       },
-      "snippet": "LH Electrical Services serves bucks county, Berks county, Montgomery county lehigh county willing to serve other counties depending on distance. LH Electrical ...Read more",
-      "source": "Facebook",
-      "title": "WRM Electric offers residential electrical services in Lehigh ...",
-      "url": "https://www.facebook.com/groups/1133975016721508/posts/28936972055995097"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -12425,17 +13670,16 @@
       "url": "https://www.facebook.com/groups/756121511075792/posts/29365017909759437"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-11-11",
-      "group": "Lehigh Valley, Easton, Bethlehem & Bucks County Community",
       "id": "https://www.facebook.com/groups/1381310335913926/posts/2075719569806329",
-      "last_seen": "2026-11-16",
+      "url": "https://www.facebook.com/groups/1381310335913926/posts/2075719569806329",
+      "title": "PPL and PECO electric default prices increase in Lehigh ...",
+      "snippet": "There is only one standard offer supplier available now in Met-Ed territory, which includes parts of Bucks, Montgomery and Chester Counties, where energy prices",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Lehigh Valley, Easton, Bethlehem & Bucks County Community",
       "posted": "2026-11-10",
-      "production": {
-        "accepted": false,
-        "reason": "intent",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-17",
       "queries": [
         "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")",
         "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania",
@@ -12445,19 +13689,20 @@
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "intent",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": true,
-        "reason": "intent",
-        "semantic_accepted": false,
-        "version": "55944a3d623e"
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "27db8664304d"
       },
-      "snippet": "PPL goes from 13.079¢ to 14.428¢ per kWh (about $9 more a month at 700 kWh), and PECO goes from 11.759¢ to a pending 12.944¢ (about $8 more).",
-      "source": "Facebook",
-      "title": "PPL and PECO electric default prices increase in Lehigh ...",
-      "url": "https://www.facebook.com/groups/1381310335913926/posts/2075719569806329"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
     },
     {
       "context": "facebook.com",
@@ -12489,6 +13734,37 @@
       "source": "Facebook",
       "title": "Move-in ready condo for sale in Royersford, PA",
       "url": "https://www.facebook.com/groups/872781323058788/posts/3091888404481391"
+    },
+    {
+      "id": "https://www.facebook.com/groups/CumberlandCountyChatter/posts/28784692721203261",
+      "url": "https://www.facebook.com/groups/CumberlandCountyChatter/posts/28784692721203261",
+      "title": "M&T Property Maintenance offers electrical services for Cumberland ...",
+      "snippet": "MT Electric Service LLC WEST BEND AND SURROUNDING AREAS Phone- 262-899-2944 Email- mark@mtelectricservice.com Website- www.mtelectricservice.com",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Cumberland County, Pennsylvania Chatter",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
     },
     {
       "context": "facebook.com",
@@ -12863,35 +14139,35 @@
       "url": "https://www.facebook.com/groups/327149613069631/posts/1184656830652234"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-11-11",
-      "group": "Bemidji and Beltrami County Storm Relief & Cleanup",
       "id": "https://www.facebook.com/groups/1690181131623004/posts/2092769478030832",
-      "last_seen": "2026-11-11",
+      "url": "https://www.facebook.com/groups/1690181131623004/posts/2092769478030832",
+      "title": "Call us so we can provide you with the best service your home ...",
+      "snippet": "Call us so we can provide you with the best service your home deserves. - in Montgomery County, Pennsylvania. ; Safe Home Security Inc. · Maribel",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Bemidji and Beltrami County Storm Relief & Cleanup",
       "posted": "2026-11-10",
-      "production": {
-        "accepted": false,
-        "reason": "keyword",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-17",
       "queries": [
         "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "keyword",
         "host": true,
         "keyword": false,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "keyword",
-        "semantic_accepted": false,
-        "version": "1fcd785f25cb"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
       },
-      "snippet": "Call us so we can provide you with the best service your home deserves. - in Montgomery County, Pennsylvania. ; Safe Home Security Inc. · Maribel Sanchez and ...Read more",
-      "source": "Facebook",
-      "title": "Call us so we can provide you with the best service your ...",
-      "url": "https://www.facebook.com/groups/1690181131623004/posts/2092769478030832"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
     },
     {
       "context": "facebook.com",
@@ -12958,38 +14234,6 @@
     {
       "context": "facebook.com",
       "first_seen": "2026-11-11",
-      "group": "Bridgeport PA - Small Town Big Community",
-      "id": "https://www.facebook.com/groups/2338965813161107/posts/3190938987963781",
-      "last_seen": "2026-11-14",
-      "posted": "2026-11-10",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
-      "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")",
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": true,
-        "host": true,
-        "keyword": true,
-        "lead": false,
-        "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "13d1ac07cc82"
-      },
-      "snippet": "3 of 4\n\nSee more on Facebook\n\nSee more on Facebook\n\nEmail or phone number\n\n \n\nPassword\n\n \n\nLog In\n\nForgot password?\n\nor\n\nCreate new account [...] Like\n\nComment\n\nShare\n\nMost relevant\n\n[](\n\nJuanita Coover\n\nSomehow I'm having a hard time believing that all that fuel made it into the quarry without hitt…",
-      "source": "Facebook",
-      "title": "Bridgeport PA - Small Town Big Community | Update From Energy Transfer on Jet Fuel Release | Facebook",
-      "url": "https://www.facebook.com/groups/2338965813161107/posts/3190938987963781"
-    },
-    {
-      "context": "facebook.com",
-      "first_seen": "2026-11-11",
       "group": "Troy Talk",
       "id": "https://www.facebook.com/groups/556592571435160/posts/2609087879518942",
       "last_seen": "2026-11-11",
@@ -13050,6 +14294,37 @@
       "url": "https://www.facebook.com/groups/slatebeltchatter/posts/4108378892797861"
     },
     {
+      "id": "https://www.facebook.com/groups/1133975016721508/posts/28936972055995097",
+      "url": "https://www.facebook.com/groups/1133975016721508/posts/28936972055995097",
+      "title": "All Things Palmer TWP P.A. | ⚡ NEED AN ELECTRICIAN | Facebook",
+      "snippet": "📞 Call WRM Electric: 570-952-5231\n\n👍 Like our page and share with friends and family!\n\nLike\n\nComment\n\nShare [...] ## All Things Palmer TWP P.A.  · Join\n\nWRM Electric\n\n  · \n\n5 days ago\n\nTuesday, November 10, 2026 at 10:40 AM\n\n5d  ·\n\nWRM Electric offers residential electrical services in Lehigh Valley…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "All Things Palmer TWP P.A.",
+      "posted": "2026-11-10",
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-17",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\") (\"Bucks County\" OR \"Montgomery County\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
       "context": "facebook.com",
       "first_seen": "2026-11-11",
       "group": "Living in Royersford",
@@ -13081,35 +14356,35 @@
       "url": "https://www.facebook.com/groups/872781323058788/posts/3095205800816318"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-11-11",
-      "group": "",
       "id": "https://www.facebook.com/groups/accesswestmoreland/posts/29690524310638316",
-      "last_seen": "2026-11-11",
+      "url": "https://www.facebook.com/groups/accesswestmoreland/posts/29690524310638316",
+      "title": "Access Westmoreland - Facebook",
+      "snippet": "Westmoreland County Pennsylvania Business. Electric Wholesale Electrical Distributor … 1025 Green St. Call or Text: 412-923-6514. Licensed &",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "",
       "posted": "2026-11-10",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-11",
+      "last_seen": "2026-11-17",
       "queries": [
         "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "1fcd785f25cb"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "27db8664304d"
       },
-      "snippet": "Westmoreland County Pennsylvania Business. Electric Wholesale Electrical Distributor … 1025 Green St. Call or Text: 412-923-6514. Licensed & Insured",
-      "source": "Facebook",
-      "title": "Access Westmoreland",
-      "url": "https://www.facebook.com/groups/accesswestmoreland/posts/29690524310638316"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
