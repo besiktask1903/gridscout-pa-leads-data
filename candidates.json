@@ -1,6 +1,6 @@
 {
-  "updated": "2026-11-18T15:13:33Z",
-  "count": 999,
+  "updated": "2026-11-18T23:57:11Z",
+  "count": 1023,
   "candidates": [
     {
       "id": "https://www.facebook.com/groups/528042172315847/posts/1724644585988927",
@@ -25,7 +25,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -34,14 +34,45 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-18",
+      "group": "SOLAR POWER PHILIPPINES",
       "id": "https://www.facebook.com/groups/524454424677651/posts/2687350275054711",
-      "url": "https://www.facebook.com/groups/524454424677651/posts/2687350275054711",
-      "title": "⚡ WANT LOWER OR NEAR‑ZERO ELECTRIC BILLS? ⚡ We design & ...",
+      "last_seen": "2026-11-18",
+      "posted": "2026-11-18",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "ceca62753329"
+      },
       "snippet": "⚡☀️ Want to reduce your monthly electricity bill and switch to clean, renewable energy? We offer professional solar panel installation for homes",
       "source": "Facebook",
+      "title": "⚡ WANT LOWER OR NEAR‑ZERO ELECTRIC BILLS? ⚡ We design & ...",
+      "url": "https://www.facebook.com/groups/524454424677651/posts/2687350275054711"
+    },
+    {
+      "id": "https://www.facebook.com/groups/831226687636982/posts/2369756723783963",
+      "url": "https://www.facebook.com/groups/831226687636982/posts/2369756723783963",
+      "title": "☀️ Tired of high electric bills? Save up to 50% with $0 upfront cost options! ...",
+      "snippet": "Tired of high electric bills? Save up to 50% with $0 upfront cost options! Take advantage of available solar incentives and start saving. Go Solar,",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "SOLAR POWER PHILIPPINES",
-      "posted": "2026-11-18",
+      "group": "Pinoy in New York",
+      "posted": "2026-11-16",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
       "queries": [
@@ -56,7 +87,7 @@
         "pennsylvania": false,
         "lead": true,
         "hard_exclusion": false,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -87,7 +118,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -98,95 +129,64 @@
     {
       "context": "facebook.com",
       "first_seen": "2026-11-18",
-      "group": "Laundromat Economics Network",
-      "id": "https://www.facebook.com/groups/thelaundromat/posts/29567316919529349",
+      "group": "Ask Conway, Vilonia & Greenbrier",
+      "id": "https://www.facebook.com/groups/6536695039704481/posts/40457491470531403",
       "last_seen": "2026-11-18",
-      "posted": "2026-11-12",
+      "posted": "2026-11-17",
       "production": {
         "accepted": false,
         "reason": "geography",
         "source": "rules"
       },
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
         "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "lead": false,
+        "lead": true,
         "pennsylvania": false,
         "reason": "geography",
         "semantic_accepted": false,
-        "version": "fbf492ae33cc"
+        "version": "ceca62753329"
       },
-      "snippet": "As a commercial energy broker, I help businesses secure competitive electricity rates and develop long- term strategies to keep operating costs under control.",
-      "source": "Facebook",
-      "title": "if you recently bought a store or haven't checked when your electric supply ...",
-      "url": "https://www.facebook.com/groups/thelaundromat/posts/29567316919529349"
-    },
-    {
-      "id": "https://www.facebook.com/groups/6536695039704481/posts/40457491470531403",
-      "url": "https://www.facebook.com/groups/6536695039704481/posts/40457491470531403",
-      "title": "Why is Conway Corporation utility bill more than double the usual price?",
       "snippet": "You've doubled your electricity usage according to the bill you posted. Our utility bills are fractions of. Each quarter our water bill increases significantly.",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Ask Conway, Vilonia & Greenbrier",
-      "posted": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": true,
-        "hard_exclusion": false,
-        "version": "ceca62753329"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "title": "Why is Conway Corporation utility bill more than double the usual price?",
+      "url": "https://www.facebook.com/groups/6536695039704481/posts/40457491470531403"
     },
     {
-      "id": "https://www.facebook.com/groups/349292708426748/posts/29526542466941718",
-      "url": "https://www.facebook.com/groups/349292708426748/posts/29526542466941718",
-      "title": "Who is paying a High Electric Bill?",
-      "snippet": "The primary factor that impacts your monthly bill is the amount of energy used. The more energy your home uses, the higher your electric bill will be.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Harlingen Facebook Sales No Rules",
-      "posted": "2026-11-18",
       "first_seen": "2026-11-18",
+      "group": "Harlingen Facebook Sales No Rules",
+      "id": "https://www.facebook.com/groups/349292708426748/posts/29526542466941718",
       "last_seen": "2026-11-18",
+      "posted": "2026-11-18",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": true,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "ceca62753329"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "The primary factor that impacts your monthly bill is the amount of energy used. The more energy your home uses, the higher your electric bill will be.",
+      "source": "Facebook",
+      "title": "Who is paying a High Electric Bill?",
+      "url": "https://www.facebook.com/groups/349292708426748/posts/29526542466941718"
     },
     {
       "id": "https://www.facebook.com/groups/robinsontownshippa/posts/3446974222167175",
@@ -211,7 +211,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -304,12 +304,74 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/390639410274202/posts/1127593506578785",
+      "url": "https://www.facebook.com/groups/390639410274202/posts/1127593506578785",
+      "title": "What is the biggest advantage of living in Pennsylvania? - Facebook",
+      "snippet": "From our bustling, historic cities and world-class universities to the breathtaking natural beauty of our parks, mountains, and endless autumn",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "I Love Pennsylvania",
+      "posted": "2026-11-15",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/hottubowners/posts/2227222454877769",
+      "url": "https://www.facebook.com/groups/hottubowners/posts/2227222454877769",
+      "title": "What does everyone here pay for electric to heat in the winter months? ...",
+      "snippet": "What is your estimated annual electric bill? electric bill is here in the winter . Only our second year here and last months bill seems crazy , ours was $415 .",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Hot Tub Owners",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
       }
     },
     {
@@ -344,35 +406,35 @@
       "url": "https://www.facebook.com/groups/409805036316733/posts/2168546900442529"
     },
     {
-      "id": "https://www.facebook.com/groups/405393253947626/posts/1869616970858573",
-      "url": "https://www.facebook.com/groups/405393253947626/posts/1869616970858573",
-      "title": "What about data centers' impact on the electric grid?",
-      "snippet": "The Energy Bills Relief Act ensures these large data centers pay their fair share and that consumers have a voice in energy policy decisions.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Madison & Mifflin Townships OHIO News/Updates",
-      "posted": "2026-11-17",
       "first_seen": "2026-11-18",
+      "group": "Madison & Mifflin Townships OHIO News/Updates",
+      "id": "https://www.facebook.com/groups/405393253947626/posts/1869616970858573",
       "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "ceca62753329"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "The Energy Bills Relief Act ensures these large data centers pay their fair share and that consumers have a voice in energy policy decisions.",
+      "source": "Facebook",
+      "title": "What about data centers' impact on the electric grid?",
+      "url": "https://www.facebook.com/groups/405393253947626/posts/1869616970858573"
     },
     {
       "id": "https://www.facebook.com/groups/pennsylvaniaa/posts/917882134648601",
@@ -397,7 +459,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -406,35 +468,35 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/2337474283223496/posts/4118411911796382",
-      "url": "https://www.facebook.com/groups/2337474283223496/posts/4118411911796382",
-      "title": "Was your most recent monthly electricity bill above or below $100",
-      "snippet": "Our bill runs mid-month to mid-month. Our bills for the last 3 months: Mid-Nov to Mid-Dec = $251 Mid-Dec to Mid-Jan = $254 … being $300-600 a",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Funny Memes Madness",
-      "posted": "2026-11-17",
       "first_seen": "2026-11-18",
+      "group": "Funny Memes Madness",
+      "id": "https://www.facebook.com/groups/2337474283223496/posts/4118411911796382",
       "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "ceca62753329"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "Our bill runs mid-month to mid-month. Our bills for the last 3 months: Mid-Nov to Mid-Dec = $251 Mid-Dec to Mid-Jan = $254 … being $300-600 a",
+      "source": "Facebook",
+      "title": "Was your most recent monthly electricity bill above or below $100",
+      "url": "https://www.facebook.com/groups/2337474283223496/posts/4118411911796382"
     },
     {
       "id": "https://www.facebook.com/groups/1324788797564648/posts/29262177856732367",
@@ -459,7 +521,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -468,66 +530,35 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1775970472619353/posts/4905934329622936",
-      "url": "https://www.facebook.com/groups/1775970472619353/posts/4905934329622936",
-      "title": "WTAE interviewed me about 51/168. - Facebook",
-      "snippet": "SB doesn't want to pay for the electric to power the traffic light, ask the SB board. they could practically pay for the light.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "The News Alerts of Beaver County",
-      "posted": "2026-11-11",
       "first_seen": "2026-11-18",
+      "group": "Western PA Small Business Spotlight",
+      "id": "https://www.facebook.com/groups/1962281437325465/posts/4900591723494407",
       "last_seen": "2026-11-18",
-      "queries": [
-        "site:facebook.com/groups/1775970472619353 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "intent",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "ceca62753329"
-      },
+      "posted": "2026-11-17",
       "production": {
         "accepted": false,
-        "source": "rules",
-        "reason": "intent"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1962281437325465/posts/4900591723494407",
-      "url": "https://www.facebook.com/groups/1962281437325465/posts/4900591723494407",
-      "title": "Upgrade your home's comfort and lower your energy bills with VENEUS ...",
-      "snippet": "Serving Pittsburgh, PA and surrounding areas. DM us today or contact us to schedule your service or request an estimate! May be a graphic of text.",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Western PA Small Business Spotlight",
-      "posted": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "ceca62753329"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "Serving Pittsburgh, PA and surrounding areas. DM us today or contact us to schedule your service or request an estimate! May be a graphic of text.",
+      "source": "Facebook",
+      "title": "Upgrade your home's comfort and lower your energy bills with VENEUS ...",
+      "url": "https://www.facebook.com/groups/1962281437325465/posts/4900591723494407"
     },
     {
       "context": "facebook.com",
@@ -561,6 +592,37 @@
       "url": "https://www.facebook.com/groups/1468931467189063/posts/2322260911856110"
     },
     {
+      "id": "https://www.facebook.com/groups/1775970472619353/posts/4915245472025155",
+      "url": "https://www.facebook.com/groups/1775970472619353/posts/4915245472025155",
+      "title": "Tom Leonard on Facebook",
+      "snippet": "# Tom Leonard on Facebook\n\n- Author: Tom Leonard\n- Group: The News Alerts of Beaver County\n- Posted: 2026-11-18T03:21:20+00:00\n- Reactions: 4\n- Comment count: 0\n- Shares: 0\n- Privacy: Public group",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "The News Alerts of Beaver County",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups/1775970472619353 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
       "id": "https://www.facebook.com/groups/honesdale/posts/1494910962529326",
       "url": "https://www.facebook.com/groups/honesdale/posts/1494910962529326",
       "title": "Things to do in Honesdale PA - Facebook",
@@ -583,7 +645,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -592,13 +654,13 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/709338281219631/posts/1557839166369534",
-      "url": "https://www.facebook.com/groups/709338281219631/posts/1557839166369534",
-      "title": "The importance of comparing final prices when booking a staycation",
-      "snippet": "Check the total price including fees and taxes on each site, and also compare it to booking direct with the hotel or owner. People often find cheaper rates on",
+      "id": "https://www.facebook.com/groups/igrewupinpennsylvania/posts/1420240686847538",
+      "url": "https://www.facebook.com/groups/igrewupinpennsylvania/posts/1420240686847538",
+      "title": "Things Pennsylvania can do better than other states   - Facebook",
+      "snippet": "According to U.S. News and World Report Pennsylvania ranks 40th overall. 37th in education, 42th in economy; 44nd in infrastructure;",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Best Staycation in Sta Rosa Laguna",
+      "group": "HISTORICAL PENNSYLVANIA",
       "posted": "2026-11-18",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
@@ -608,80 +670,111 @@
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-18",
+      "group": "Best Staycation in Sta Rosa Laguna",
+      "id": "https://www.facebook.com/groups/709338281219631/posts/1557839166369534",
+      "last_seen": "2026-11-18",
+      "posted": "2026-11-18",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "ceca62753329"
+      },
+      "snippet": "Check the total price including fees and taxes on each site, and also compare it to booking direct with the hotel or owner. People often find cheaper rates on",
+      "source": "Facebook",
+      "title": "The importance of comparing final prices when booking a staycation",
+      "url": "https://www.facebook.com/groups/709338281219631/posts/1557839166369534"
+    },
+    {
+      "id": "https://www.facebook.com/groups/322116498222090/posts/2775131446253904",
+      "url": "https://www.facebook.com/groups/322116498222090/posts/2775131446253904",
+      "title": "The hourly rate can be the cheapest-looking part of an expensive small job",
+      "snippet": "The hourly rate can be the cheapest-looking ・ the same scope. EXAMPLE $100/hour $175 total? Hourly rate per billable hour $100 ・ plus $25 in materials.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Indian Community in Pennsylvania",
+      "posted": "2026-11-16",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/998427263998759/posts/2548299385678198",
+      "url": "https://www.facebook.com/groups/998427263998759/posts/2548299385678198",
+      "title": "The future is bright, but my electricity bill disagrees",
+      "snippet": "Residential electricity prices are up nearly 5% this year, according to the Energy Information Administration, after a similar jump last year. Household",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "UMU GEES",
+      "posted": "2026-11-14",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
         "reason": "geography",
         "host": true,
         "keyword": true,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
-        "version": "ceca62753329"
+        "hard_exclusion": false,
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1775970472619353/posts/4915245472025155",
-      "url": "https://www.facebook.com/groups/1775970472619353/posts/4915245472025155",
-      "title": "The News Alerts of Beaver County - Facebook",
-      "snippet": "County Alerts and Reliable Information 8.5K members. The News Alerts of Beaver County … and affordable plumber in or around Monaca. Bill",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "The News Alerts of Beaver County",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "queries": [
-        "site:facebook.com/groups/1775970472619353 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "ceca62753329"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1775970472619353/posts/4914846332065069",
-      "url": "https://www.facebook.com/groups/1775970472619353/posts/4914846332065069",
-      "title": "The News Alerts of Beaver County - Facebook",
-      "snippet": "Good Pay Flexible Hours … contact me at 216-647- Brighton: 709, Third Ave. New Brighton, PA 15066. The News Alerts of Beaver County Bill",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "The News Alerts of Beaver County",
-      "posted": "2026-11-18",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "queries": [
-        "site:facebook.com/groups/1775970472619353 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": true,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "ceca62753329"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
       }
     },
     {
@@ -707,7 +800,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -738,7 +831,38 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29796892646583706",
+      "url": "https://www.facebook.com/groups/pasmallbusinessadvertising/posts/29796892646583706",
+      "title": "Remodeling your kitchen? Bring your quote kitchen measurements. beat ...",
+      "snippet": "I'Il compare your quote apples to apples and beat the price on cabinets of equal or better quality. offering FREE ESTIMATES throughout the area! Bucks County,",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pennsylvania Small Business Advertising",
+      "posted": "2026-11-16",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -800,7 +924,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -831,12 +955,44 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/2350406885413177/posts/2635497493570780",
+      "url": "https://www.facebook.com/groups/2350406885413177/posts/2635497493570780",
+      "title": "Pennsylvania Data Center Resistance | Has a data center come to your town | Facebook",
+      "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n, you'll help ground this conversation in facts.\n\nPlease black out your account number and personal details before uploading. It takes about 3 minutes.\n\nPlease share with neighbors, especially if you live near a data center.\n\nform.jotform.com\n\nData Center Electric Bi…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Pennsylvania Data Center Resistance",
+      "posted": "2026-11-14",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
       }
     },
     {
@@ -862,12 +1018,44 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/Muphere/posts/10163624154330732",
+      "url": "https://www.facebook.com/groups/Muphere/posts/10163624154330732",
+      "title": "Penelec bill increase this month?",
+      "snippet": "Penelec's residential Price to Compare is currently 11.747¢ per kWh through May 31, 2026, but a 9.8% increase is planned for June 1st that could push it to",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Mup here at the lake",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": true,
+        "semantic_accepted": true,
+        "reason": "accepted",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "d154c4b1b168",
+        "freshness": "fresh"
+      },
+      "production": {
+        "accepted": true,
+        "source": "rules",
+        "reason": "accepted"
       }
     },
     {
@@ -893,7 +1081,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -902,66 +1090,97 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/2724038970963191/posts/29778918415048547",
-      "url": "https://www.facebook.com/groups/2724038970963191/posts/29778918415048547",
-      "title": "October utility bills delayed due to equipment issues in Ryley Village",
-      "snippet": "In the meantime, customers may call the Utility Office at 765-932-4124 to obtain their current bill amount. Once bills are available online, customers may pay",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Village of RYLEY",
-      "posted": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "ceca62753329"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1390867161166725/posts/4411661979087213",
-      "url": "https://www.facebook.com/groups/1390867161166725/posts/4411661979087213",
-      "title": "No one believe that my electricity bill was very high and he just ...",
-      "snippet": "almost $7k electric bill. My electric bill is less than $200 a mouth. also gas and electricity in one bill. It's electric and gas combined. in",
+      "id": "https://www.facebook.com/groups/770454218095929/posts/1614374260370583",
+      "url": "https://www.facebook.com/groups/770454218095929/posts/1614374260370583",
+      "title": "Our Historic Wyoming Valley, Pennsylvania - Facebook",
+      "snippet": "The city's per capita tax levy was $34.35, about $662 today, compared with an average of $47.61, or about $918 today, comparable figures was $",
       "source": "Facebook",
       "context": "facebook.com",
       "group": "",
-      "posted": "",
+      "posted": "2026-11-13",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-18",
+      "group": "Village of RYLEY",
+      "id": "https://www.facebook.com/groups/2724038970963191/posts/29778918415048547",
+      "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": true,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "ceca62753329"
       },
+      "snippet": "In the meantime, customers may call the Utility Office at 765-932-4124 to obtain their current bill amount. Once bills are available online, customers may pay",
+      "source": "Facebook",
+      "title": "October utility bills delayed due to equipment issues in Ryley Village",
+      "url": "https://www.facebook.com/groups/2724038970963191/posts/29778918415048547"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-18",
+      "group": "",
+      "id": "https://www.facebook.com/groups/1390867161166725/posts/4411661979087213",
+      "last_seen": "2026-11-18",
+      "posted": "",
       "production": {
         "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "ceca62753329"
+      },
+      "snippet": "almost $7k electric bill. My electric bill is less than $200 a mouth. also gas and electricity in one bill. It's electric and gas combined. in",
+      "source": "Facebook",
+      "title": "No one believe that my electricity bill was very high and he just ...",
+      "url": "https://www.facebook.com/groups/1390867161166725/posts/4411661979087213"
     },
     {
       "id": "https://www.facebook.com/groups/398351593113365/posts/1144390021842848",
@@ -986,7 +1205,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1026,18 +1245,19 @@
       "url": "https://www.facebook.com/groups/roscoe/posts/29157616203897207"
     },
     {
-      "id": "https://www.facebook.com/groups/lowerpaxtoncommunity/posts/28333552732984479",
-      "url": "https://www.facebook.com/groups/lowerpaxtoncommunity/posts/28333552732984479",
-      "title": "Keystone utility system update causing high water bills?",
-      "snippet": "So the keystone utility system with Veolia came in and updated my system without me giving them the approval.\n\nI was in a meeting and I heard some knocking",
+      "id": "https://www.facebook.com/groups/thelaundromat/posts/29567316919529349",
+      "url": "https://www.facebook.com/groups/thelaundromat/posts/29567316919529349",
+      "title": "Laundromat Economics Network | Quick heads up for any owners in deregulated areas (especially TX, OH, or PA): if you recently bought a store or haven't checked when your electric su... | Facebook",
+      "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n: if you recently bought a store or haven't checked when your electric supply contract expires, take a look at your latest bill this week.\n\nA lot of owners don't realize that when you take over a store—or if a contract auto-renews—the electric company often drops you…",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Lower Paxton Township Community",
-      "posted": "2026-11-17",
+      "group": "Laundromat Economics Network",
+      "posted": "2026-11-12",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
       "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -1047,14 +1267,45 @@
         "keyword": true,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": true,
-        "version": "ceca62753329"
+        "hard_exclusion": false,
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
       }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-18",
+      "group": "Lower Paxton Township Community",
+      "id": "https://www.facebook.com/groups/lowerpaxtoncommunity/posts/28333552732984479",
+      "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "ceca62753329"
+      },
+      "snippet": "So the keystone utility system with Veolia came in and updated my system without me giving them the approval.\n\nI was in a meeting and I heard some knocking",
+      "source": "Facebook",
+      "title": "Keystone utility system update causing high water bills?",
+      "url": "https://www.facebook.com/groups/lowerpaxtoncommunity/posts/28333552732984479"
     },
     {
       "context": "facebook.com",
@@ -1089,6 +1340,37 @@
       "url": "https://www.facebook.com/groups/610197326926400/posts/1796733624939425"
     },
     {
+      "id": "https://www.facebook.com/groups/1775970472619353/posts/4905934329622936",
+      "url": "https://www.facebook.com/groups/1775970472619353/posts/4905934329622936",
+      "title": "Kaitlin Brognano on Facebook: \"WTAE interviewed me about 51/168. South Beaver Township, we want change! Time to listen to your cons…\"",
+      "snippet": "- Colleen Crangi Brognano: So glad you found this!\n- Colleen Crangi Brognano: SB doesn't want to pay for the electric to power the traffic light, ask the SB board.\n- Jon Kaszer: At a loss as to why the municipality would be responsible for the cost to put up,operate and maintain this lighting at the…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "The News Alerts of Beaver County",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups/1775970472619353 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
+    },
+    {
       "id": "https://www.facebook.com/groups/jobs.pennsylvania/posts/3568272426679763",
       "url": "https://www.facebook.com/groups/jobs.pennsylvania/posts/3568272426679763",
       "title": "Jobs in Pennsylvania - Work / Employment / Hiring / Help Wanted",
@@ -1111,12 +1393,74 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1775970472619353/posts/4914846332065069",
+      "url": "https://www.facebook.com/groups/1775970472619353/posts/4914846332065069",
+      "title": "Jared Williams on Facebook",
+      "snippet": "# Jared Williams on Facebook\n\n[Image: May be an image of text]\n\n- Author: Jared Williams\n- Group: The News Alerts of Beaver County\n- Posted: 2026-11-18T00:51:37+00:00\n- Shared link: \n- Links: \n- Reactions: 3\n- Comment count: 0\n- Shares: 0\n- Privacy: Public group",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "The News Alerts of Beaver County",
+      "posted": "2026-11-18",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups/1775970472619353 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/433076785928285/posts/1000061975896427",
+      "url": "https://www.facebook.com/groups/433076785928285/posts/1000061975896427",
+      "title": "Is the Pennsylvania dream slipping out of reach? From our historic ...",
+      "snippet": "As the cost of living continues to rise across Pennsylvania, residents are feeling the strain of higher monthly utility bills. For many",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "I Grew up in Pennsylvania",
+      "posted": "2026-11-15",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
       }
     },
     {
@@ -1142,7 +1486,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1173,7 +1517,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1204,7 +1548,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1235,7 +1579,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1244,19 +1588,18 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1509754772976341/posts/2031471274138019",
-      "url": "https://www.facebook.com/groups/1509754772976341/posts/2031471274138019",
-      "title": "How much do you spend on electricity and water bills every month?",
-      "snippet": "Recently, we saw someone share their bill online showing $300–$400 a month, which feels like a lot for a typical household. electricity bill is",
+      "id": "https://www.facebook.com/groups/1037218554522891/posts/1658062585771815",
+      "url": "https://www.facebook.com/groups/1037218554522891/posts/1658062585771815",
+      "title": "I am trying to find out what organization hopes with past due electric ...",
+      "snippet": "Any help with paying utility bills in Pennsylvania? Just call the company and ask if you can setup a payment plan. For electric: https://www.",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Mom Thoughts",
-      "posted": "2026-11-17",
+      "group": "Lufkin, Texas",
+      "posted": "2026-11-15",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
       "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
-        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
@@ -1267,7 +1610,7 @@
         "pennsylvania": false,
         "lead": true,
         "hard_exclusion": false,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1276,37 +1619,69 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/27044084125225684/posts/29659628130337924",
-      "url": "https://www.facebook.com/groups/27044084125225684/posts/29659628130337924",
-      "title": "How do data centers in Pennsylvania shift electric costs to consumers?",
-      "snippet": "AI data centers drive up electricity bills because utilities spread the cost of massive grid upgrades across all ratepayers, not just the tech companies.",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Mahoning Twp Residents for Transparent Dev and Environmental Accountability",
-      "posted": "2026-11-17",
       "first_seen": "2026-11-18",
+      "group": "Mom Thoughts",
+      "id": "https://www.facebook.com/groups/1509754772976341/posts/2031471274138019",
       "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "ceca62753329"
+      },
+      "snippet": "Recently, we saw someone share their bill online showing $300–$400 a month, which feels like a lot for a typical household. electricity bill is",
+      "source": "Facebook",
+      "title": "How much do you spend on electricity and water bills every month?",
+      "url": "https://www.facebook.com/groups/1509754772976341/posts/2031471274138019"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-18",
+      "group": "Mahoning Twp Residents for Transparent Dev and Environmental Accountability",
+      "id": "https://www.facebook.com/groups/27044084125225684/posts/29659628130337924",
+      "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": true,
+        "reason": "accepted",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
         "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
       ],
       "rules": {
         "accepted": true,
-        "semantic_accepted": true,
-        "reason": "accepted",
+        "freshness": "fresh",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
         "lead": true,
-        "hard_exclusion": false,
-        "version": "ceca62753329",
-        "freshness": "fresh"
+        "pennsylvania": true,
+        "reason": "accepted",
+        "semantic_accepted": true,
+        "version": "ceca62753329"
       },
-      "production": {
-        "accepted": true,
-        "source": "rules",
-        "reason": "accepted"
-      }
+      "snippet": "AI data centers drive up electricity bills because utilities spread the cost of massive grid upgrades across all ratepayers, not just the tech companies.",
+      "source": "Facebook",
+      "title": "How do data centers in Pennsylvania shift electric costs to consumers?",
+      "url": "https://www.facebook.com/groups/27044084125225684/posts/29659628130337924"
     },
     {
       "context": "facebook.com",
@@ -1338,6 +1713,68 @@
       "source": "Facebook",
       "title": "How are rising food and gas costs affecting Delco businesses?",
       "url": "https://www.facebook.com/groups/1603969713158309/posts/4835332100022038"
+    },
+    {
+      "id": "https://www.facebook.com/groups/1418546011549163/posts/40027783646865251",
+      "url": "https://www.facebook.com/groups/1418546011549163/posts/40027783646865251",
+      "title": "Home and auto insurance review and comparison options in ...",
+      "snippet": "Home and auto insurance review and comparison options in Delaware County, PA. Insurance 610-457-1898 www.aungstinsurance.com",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Middletown Township, Delaware County, PA",
+      "posted": "2026-11-16",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/41559369838/posts/10165034197279839",
+      "url": "https://www.facebook.com/groups/41559369838/posts/10165034197279839",
+      "title": "Hi all, with the coming cold weather I built a free resource map for ...",
+      "snippet": "LIHEAP is the Low Income Energy Assistance Program to help PA residents pay their heating bills. Here is the link for the information and",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Irish Philadelphia",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "intent",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "intent"
+      }
     },
     {
       "context": "facebook.com",
@@ -1433,34 +1870,65 @@
       "url": "https://www.facebook.com/groups/325206939987/posts/10170398099494988"
     },
     {
-      "id": "https://www.facebook.com/groups/2350406885413177/posts/2635497493570780",
-      "url": "https://www.facebook.com/groups/2350406885413177/posts/2635497493570780",
-      "title": "Has a data center come to your town? We want to know what ...",
-      "snippet": "This post highlights the significant energy consumption of data centers, suggesting they are a major cause of rising electric bills.",
+      "id": "https://www.facebook.com/groups/645009163387022/posts/1795904751630785",
+      "url": "https://www.facebook.com/groups/645009163387022/posts/1795904751630785",
+      "title": "Helping McKeesport and Surrounding Areas - Facebook",
+      "snippet": "The #PennsylvaniaUtilityLawProject (PULP) provides information about utility rights and may help eligible Pennsylvania residents access free",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Pennsylvania Data Center Resistance",
-      "posted": "2026-11-14",
+      "group": "",
+      "posted": "2026-11-13",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "intent",
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "pennsylvania": true,
+        "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "intent"
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/pbmentz/posts/1400896258520728",
+      "url": "https://www.facebook.com/groups/pbmentz/posts/1400896258520728",
+      "title": "Heather Rosenthal on Facebook: \"Energy bill credit visitors in Port Byron Anyone else getting visits from people asking if you’re re…\"",
+      "snippet": "- Jennifer Paul: Alex Wilson gas in electric dont have people come to your door to see your bill let everyone know tell them your landlords pay your gas and electricity and dont show them your bill once you do they have your information believe me on this i had them come to my doors even in auburn\n …",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Port Byron/Mentz Community Connection",
+      "posted": "2026-11-17",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
       }
     },
     {
@@ -1495,6 +1963,37 @@
       "url": "https://www.facebook.com/groups/1112008838860236/posts/29514871364813937"
     },
     {
+      "id": "https://www.facebook.com/groups/1775970472619353/posts/4910384955844540",
+      "url": "https://www.facebook.com/groups/1775970472619353/posts/4910384955844540",
+      "title": "Frank Berry on Facebook: \"After 17 years of being a DJ in Beaver County this is my very 1st public Christmas performance and I…\"",
+      "snippet": "# Frank Berry on Facebook: \"After 17 years of being a DJ in Beaver County this is my very 1st public Christmas performance and I…\"\n\nAfter 17 years of being a DJ in Beaver County this is my very 1st public Christmas performance and I would like to thank Beaver Area Chamber of Commerce for making my C…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "The News Alerts of Beaver County",
+      "posted": "2026-11-14",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups/1775970472619353 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
       "id": "https://www.facebook.com/groups/Millington/posts/29392292230437968",
       "url": "https://www.facebook.com/groups/Millington/posts/29392292230437968",
       "title": "Exciting News for Our Faith Family Medical DPC Community!",
@@ -1517,7 +2016,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1557,18 +2056,18 @@
       "url": "https://www.facebook.com/groups/1130502044430587/posts/2382455919235187"
     },
     {
-      "id": "https://www.facebook.com/groups/pbmentz/posts/1400896258520728",
-      "url": "https://www.facebook.com/groups/pbmentz/posts/1400896258520728",
-      "title": "Energy bill credit visitors in Port Byron",
-      "snippet": "Energy bill credit visitors in Port Byron\nAnyone else getting visits from people asking if you’re receiving credits on your energy bill? I’ve had 2",
+      "id": "https://www.facebook.com/groups/2012425809076270/posts/4695445737440917",
+      "url": "https://www.facebook.com/groups/2012425809076270/posts/4695445737440917",
+      "title": "Ellwood City Facts Matter",
+      "snippet": "Facts Matter!\nEllwood City does not have the Highest electric rate in Lawrence County! At least not now - not for the last year\n\nEllwood City charges",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Port Byron/Mentz Community Connection",
+      "group": "Facts Matter",
       "posted": "2026-11-17",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
       "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -1578,13 +2077,44 @@
         "keyword": true,
         "pennsylvania": false,
         "lead": false,
-        "hard_exclusion": false,
-        "version": "ceca62753329"
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/dunkinworld/posts/30179056215015971",
+      "url": "https://www.facebook.com/groups/dunkinworld/posts/30179056215015971",
+      "title": "Dunkin' cold foam price comparison between Maryland and West ...",
+      "snippet": "$1.29 for cold foam? Yikes. Glad I had enough points! MD is so much more expensive than WV · May be an image of money, ticket stub and text.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Dunkin World",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
       }
     },
     {
@@ -1610,7 +2140,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1642,7 +2172,7 @@
         "pennsylvania": false,
         "lead": true,
         "hard_exclusion": false,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1651,45 +2181,45 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/899473081791609/posts/1727000585705517",
-      "url": "https://www.facebook.com/groups/899473081791609/posts/1727000585705517",
-      "title": "Does your energy bill feel predictable, or does it catch you off guard?",
-      "snippet": "A financial counselor explains how to budget for a large utility bill, which she notes is rising due to the Reconciliation Bill (OBBB).",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Community of Alice, Texas",
-      "posted": "2026-11-17",
       "first_seen": "2026-11-18",
+      "group": "Community of Alice, Texas",
+      "id": "https://www.facebook.com/groups/899473081791609/posts/1727000585705517",
       "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
         "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
+        "hard_exclusion": false,
         "host": true,
         "keyword": true,
-        "pennsylvania": false,
         "lead": true,
-        "hard_exclusion": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "ceca62753329"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "snippet": "A financial counselor explains how to budget for a large utility bill, which she notes is rising due to the Reconciliation Bill (OBBB).",
+      "source": "Facebook",
+      "title": "Does your energy bill feel predictable, or does it catch you off guard?",
+      "url": "https://www.facebook.com/groups/899473081791609/posts/1727000585705517"
     },
     {
-      "id": "https://www.facebook.com/groups/1144187007659241/posts/1487268436684428",
-      "url": "https://www.facebook.com/groups/1144187007659241/posts/1487268436684428",
-      "title": "Do you want MORE hyperscale data center developments forced into ...",
-      "snippet": "Missouri's top Republican said data centers won't raise electricity bills. Here's how they likely will. Rebecca White and 14 others. 15 reactions ·.",
+      "id": "https://www.facebook.com/groups/twinkler/posts/3449142771924964",
+      "url": "https://www.facebook.com/groups/twinkler/posts/3449142771924964",
+      "title": "Does anyone know of utilities assistance programs near colbert",
+      "snippet": "Resources may include: ✓ Electric bill assistance ✓ Gas bill assistance ✓ Water bill assistance ✓ Utility bill assistance ✓ LIHEAP energy assistance",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Warren County Citizens for Responsible Development",
-      "posted": "2026-11-17",
+      "group": "Moms helping moms everything free or trade house hold items,baby , ect,",
+      "posted": "2026-11-18",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
       "queries": [
@@ -1704,7 +2234,100 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1046779562000434/posts/29866479862937020",
+      "url": "https://www.facebook.com/groups/1046779562000434/posts/29866479862937020",
+      "title": "Does anyone else notice how significantly the power bill comes ...",
+      "snippet": "You can cut your power bill by roughly a third to a half by limiting heating and cooling, with some people reporting bills as low as $25-$75 per month. Savings",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Tamworth who, what, when, where, how",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-18",
+      "group": "Warren County Citizens for Responsible Development",
+      "id": "https://www.facebook.com/groups/1144187007659241/posts/1487268436684428",
+      "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "ceca62753329"
+      },
+      "snippet": "Missouri's top Republican said data centers won't raise electricity bills. Here's how they likely will. Rebecca White and 14 others. 15 reactions ·.",
+      "source": "Facebook",
+      "title": "Do you want MORE hyperscale data center developments forced into ...",
+      "url": "https://www.facebook.com/groups/1144187007659241/posts/1487268436684428"
+    },
+    {
+      "id": "https://www.facebook.com/groups/126607890843101/posts/3024066527763875",
+      "url": "https://www.facebook.com/groups/126607890843101/posts/3024066527763875",
+      "title": "Do you have a High Electric Bill?",
+      "snippet": "Get help with high electric bills … homeowner post your questions and get an answer today. If you currently rent, there are options as well to lower your costs",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "San Angelo & Areas Job Search",
+      "posted": "2026-11-13",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1828,7 +2451,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1859,7 +2482,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -1868,45 +2491,14 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/3087689514867024/posts/4118896298413002",
-      "url": "https://www.facebook.com/groups/3087689514867024/posts/4118896298413002",
-      "title": "Cut your electricity bill with Coma Solar - Facebook",
-      "snippet": "Cut your electricity bill with Coma Solar ・ 📞 CALL OR TEXT US NOW: 09762902329 ・ a message for inquiries and quotations! offers free",
+      "id": "https://www.facebook.com/groups/1252670318457974/posts/3159574764434177",
+      "url": "https://www.facebook.com/groups/1252670318457974/posts/3159574764434177",
+      "title": "Dalessandro's Steaks vs Chubby's mushroom cheesesteak ...",
+      "snippet": "Two men conduct a side-by-side food review of cheesesteaks from two rival Philadelphia restaurants, Dalessandro's Steaks and Chubby's Steaks.",
       "source": "Facebook",
       "context": "facebook.com",
-      "group": "Lucena",
-      "posted": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "ceca62753329"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/1358929614905508/posts/2341471199984673",
-      "url": "https://www.facebook.com/groups/1358929614905508/posts/2341471199984673",
-      "title": "Current diesel cost per mile for truckers in the US",
-      "snippet": "Baselines are commonly $1.25 to $1.50 per gallon. At $5.937 diesel and 6.5 mpg, that works out to roughly 68 to 72 cents per mile. If the rate confirmation",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Owner Operators and Truck Drivers",
-      "posted": "2026-11-17",
+      "group": "Cheesesteak Gurus",
+      "posted": "2026-11-16",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
       "queries": [
@@ -1915,19 +2507,81 @@
       "rules": {
         "accepted": false,
         "semantic_accepted": false,
-        "reason": "geography",
+        "reason": "keyword",
         "host": true,
-        "keyword": true,
+        "keyword": false,
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
-        "reason": "geography"
+        "reason": "keyword"
       }
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-18",
+      "group": "Lucena",
+      "id": "https://www.facebook.com/groups/3087689514867024/posts/4118896298413002",
+      "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": false,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "ceca62753329"
+      },
+      "snippet": "Cut your electricity bill with Coma Solar ・ 📞 CALL OR TEXT US NOW: 09762902329 ・ a message for inquiries and quotations! offers free",
+      "source": "Facebook",
+      "title": "Cut your electricity bill with Coma Solar - Facebook",
+      "url": "https://www.facebook.com/groups/3087689514867024/posts/4118896298413002"
+    },
+    {
+      "context": "facebook.com",
+      "first_seen": "2026-11-18",
+      "group": "Owner Operators and Truck Drivers",
+      "id": "https://www.facebook.com/groups/1358929614905508/posts/2341471199984673",
+      "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "ceca62753329"
+      },
+      "snippet": "Baselines are commonly $1.25 to $1.50 per gallon. At $5.937 diesel and 6.5 mpg, that works out to roughly 68 to 72 cents per mile. If the rate confirmation",
+      "source": "Facebook",
+      "title": "Current diesel cost per mile for truckers in the US",
+      "url": "https://www.facebook.com/groups/1358929614905508/posts/2341471199984673"
     },
     {
       "id": "https://www.facebook.com/groups/1603969713158309/posts/4837158706506044",
@@ -1952,7 +2606,38 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1134314374837162/posts/1660801612188433",
+      "url": "https://www.facebook.com/groups/1134314374837162/posts/1660801612188433",
+      "title": "Chester County buyers have more choices this fall—but well ...",
+      "snippet": "the county's median sold price reached $550,000, moving quickly. Median Sold Price (Detached): $650,000 ⬇️ 7.5% 10.3% from July 2024. All",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "NH Real Estate Deals",
+      "posted": "2026-11-16",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2014,7 +2699,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2023,18 +2708,49 @@
       }
     },
     {
+      "context": "facebook.com",
+      "first_seen": "2026-11-18",
+      "group": "Mandaluyong Bedspace / Room For Rent / Condo Sharing",
       "id": "https://www.facebook.com/groups/787507046316791/posts/1737614731306013",
-      "url": "https://www.facebook.com/groups/787507046316791/posts/1737614731306013",
-      "title": "Bedspace Utility Sharing app for fair and easy bill splitting - Facebook",
+      "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "hard_exclusion": true,
+        "host": true,
+        "keyword": true,
+        "lead": false,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
+        "version": "ceca62753329"
+      },
       "snippet": "✓ Track electricity and water expenses ✓ Split utility costs based on presence days ✓ Add fixed Internet charges ✓ Add one-time expenses",
       "source": "Facebook",
+      "title": "Bedspace Utility Sharing app for fair and easy bill splitting - Facebook",
+      "url": "https://www.facebook.com/groups/787507046316791/posts/1737614731306013"
+    },
+    {
+      "id": "https://www.facebook.com/groups/212103655504977/posts/29093323166956308",
+      "url": "https://www.facebook.com/groups/212103655504977/posts/29093323166956308",
+      "title": "Be cautious of IGS Energy reps claiming your home was flagged for ...",
+      "snippet": "To compare fixed rate electricity plans, look at the total cost per kWh including monthly fees and early termination fees, and use your state's official",
+      "source": "Facebook",
       "context": "facebook.com",
-      "group": "Mandaluyong Bedspace / Room For Rent / Condo Sharing",
-      "posted": "2026-11-17",
+      "group": "You know you're from New Carlisle if....",
+      "posted": "2026-11-12",
       "first_seen": "2026-11-18",
       "last_seen": "2026-11-18",
       "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -2045,7 +2761,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2054,66 +2770,35 @@
       }
     },
     {
-      "id": "https://www.facebook.com/groups/1775970472619353/posts/4910384955844540",
-      "url": "https://www.facebook.com/groups/1775970472619353/posts/4910384955844540",
-      "title": "Beaver County DJ's First Public Christmas Performance at Light Up ...",
-      "snippet": "This post from Beaver County Events is a promotional announcement for upcoming holiday activities in the Beaver County, Pennsylvania area. The",
-      "source": "Facebook",
       "context": "facebook.com",
-      "group": "The News Alerts of Beaver County",
-      "posted": "2026-11-14",
       "first_seen": "2026-11-18",
+      "group": "bridgeton and millville and vineland group",
+      "id": "https://www.facebook.com/groups/280237458748038/posts/28946639768347758",
       "last_seen": "2026-11-18",
+      "posted": "2026-11-17",
+      "production": {
+        "accepted": false,
+        "reason": "geography",
+        "source": "rules"
+      },
       "queries": [
-        "site:facebook.com/groups/1775970472619353 (\"electric bill\" OR \"gas bill\" OR \"supplier\" OR \"rate\")"
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
+        "hard_exclusion": false,
         "host": true,
-        "keyword": false,
-        "pennsylvania": true,
+        "keyword": true,
         "lead": false,
-        "hard_exclusion": true,
+        "pennsylvania": false,
+        "reason": "geography",
+        "semantic_accepted": false,
         "version": "ceca62753329"
       },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
-    },
-    {
-      "id": "https://www.facebook.com/groups/280237458748038/posts/28946639768347758",
-      "url": "https://www.facebook.com/groups/280237458748038/posts/28946639768347758",
-      "title": "Atlantic City Electric solar bill comparison 2025 vs 2026 - Facebook",
       "snippet": "Atlantic City Electric bill: $278.79 AFTER SOLAR. Current account credit: $4.74 • Accumulated energy credits: 3,175 kWh • Average monthly",
       "source": "Facebook",
-      "context": "facebook.com",
-      "group": "bridgeton and millville and vineland group",
-      "posted": "2026-11-17",
-      "first_seen": "2026-11-18",
-      "last_seen": "2026-11-18",
-      "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "geography",
-        "host": true,
-        "keyword": true,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": false,
-        "version": "ceca62753329"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "geography"
-      }
+      "title": "Atlantic City Electric solar bill comparison 2025 vs 2026 - Facebook",
+      "url": "https://www.facebook.com/groups/280237458748038/posts/28946639768347758"
     },
     {
       "context": "facebook.com",
@@ -2169,7 +2854,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2200,7 +2885,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2262,7 +2947,69 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/aldiaisleofshame/posts/2484252549132326",
+      "url": "https://www.facebook.com/groups/aldiaisleofshame/posts/2484252549132326",
+      "title": "ALDI peanut butter cups vs Reese's: A taste comparison - Facebook",
+      "snippet": "Aldi's peanut butter cups usually cost a few cents more than Reese's for the same number of cups, but the Aldi bag weighs more. One person",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "ALDI Aisle of Shame Community",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/879444284075827/posts/1497333698953546",
+      "url": "https://www.facebook.com/groups/879444284075827/posts/1497333698953546",
+      "title": "$5,500 MT2000 Loader Diesel Pennsylvania - Facebook",
+      "snippet": "PRICED TO COMPETE! At $9,988, this tractor was priced $962 below the lowest MT125 asking price we found advertised on TractorHouse as of",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Struck Magnatrac Mini Crawlers and Attachments FOR SALE",
+      "posted": "2026-11-14",
+      "first_seen": "2026-11-18",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "keyword",
+        "host": true,
+        "keyword": false,
+        "pennsylvania": true,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2324,7 +3071,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2355,7 +3102,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2386,7 +3133,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2448,7 +3195,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2479,7 +3226,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2572,7 +3319,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2665,7 +3412,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2696,7 +3443,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2789,7 +3536,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2820,7 +3567,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2882,7 +3629,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2913,7 +3660,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2944,7 +3691,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -2975,7 +3722,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3006,7 +3753,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3161,7 +3908,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3223,7 +3970,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3254,7 +4001,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3285,7 +4032,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3316,7 +4063,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3347,7 +4094,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3378,7 +4125,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3440,7 +4187,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3461,7 +4208,9 @@
       "last_seen": "2026-11-18",
       "queries": [
         "site:facebook.com/groups (\"electric supplier\") (\"Allegheny County\" OR \"Westmoreland County\")",
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
       ],
       "rules": {
         "accepted": false,
@@ -3472,7 +4221,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3574,35 +4323,36 @@
       "url": "https://www.facebook.com/groups/1471428613757670/posts/2197969577770233"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-11-17",
-      "group": "Everything EASTON",
       "id": "https://www.facebook.com/groups/300873505348496/posts/1479332127502622",
-      "last_seen": "2026-11-17",
+      "url": "https://www.facebook.com/groups/300873505348496/posts/1479332127502622",
+      "title": "Looking for advice about electric bill.",
+      "snippet": "At no fault of our own, we now owe about $1,000, and our monthly payment plan amount + monthly estimated usage bill is close to $500 for the next 6 months. So,",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Everything EASTON",
       "posted": "2026-11-16",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-17",
+      "last_seen": "2026-11-18",
       "queries": [
-        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")"
+        "site:facebook.com/groups (\"electric supplier\") (\"Lehigh Valley\" OR \"Poconos\")",
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": true,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "9153f2a3d170"
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "d154c4b1b168"
       },
-      "snippet": "Looking for advice about electric bill. There was a mix up with our meters for a few months after we moved in & we ended up with a big bill.",
-      "source": "Facebook",
-      "title": "Looking for advice about electric bill. - Facebook",
-      "url": "https://www.facebook.com/groups/300873505348496/posts/1479332127502622"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -3720,7 +4470,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3751,7 +4501,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3782,7 +4532,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3813,7 +4563,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3844,7 +4594,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3875,7 +4625,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3906,7 +4656,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3937,7 +4687,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -3968,7 +4718,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4031,7 +4781,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4062,7 +4812,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4124,7 +4874,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4155,7 +4905,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4217,7 +4967,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4279,7 +5029,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": false,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4310,7 +5060,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4372,7 +5122,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4403,7 +5153,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4465,7 +5215,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4496,7 +5246,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4527,7 +5277,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4558,7 +5308,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4589,7 +5339,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4682,7 +5432,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4713,7 +5463,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4775,7 +5525,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4868,7 +5618,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4899,7 +5649,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4930,7 +5680,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4961,7 +5711,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -4992,7 +5742,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -5085,7 +5835,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -5178,7 +5928,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -5271,12 +6021,44 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/2012425809076270/posts/4692903597695131",
+      "url": "https://www.facebook.com/groups/2012425809076270/posts/4692903597695131",
+      "title": "The last electric rate increase was for 2025",
+      "snippet": "The last electric rate increase was for 2025\nMy apology, the last base rate electric rate was in January of 2025 making the current agenda item the 2nd",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Ellwood City Facts Matter",
+      "posted": "2026-11-15",
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")",
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
       }
     },
     {
@@ -5426,7 +6208,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -5519,7 +6301,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -5550,7 +6332,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -5612,7 +6394,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -5714,35 +6496,36 @@
       "url": "https://www.facebook.com/groups/2344235839009461/posts/24624910007182059"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-11-16",
-      "group": "Welcome to Greenville, PA",
       "id": "https://www.facebook.com/groups/76008371357/posts/10165104761341358",
-      "last_seen": "2026-11-16",
+      "url": "https://www.facebook.com/groups/76008371357/posts/10165104761341358",
+      "title": "How to save on electricity bills with solar PPA programs in Greenville, PA",
+      "snippet": "On average with a locked in low rate, homeowners with PPAs end up paying 20% -30% less a month for electricity than they did prior to going solar. They",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Welcome to Greenville, PA",
       "posted": "2026-11-12",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-18",
       "queries": [
-        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
+        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")",
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": false,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": true,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "55944a3d623e"
+        "lead": true,
+        "hard_exclusion": false,
+        "version": "d154c4b1b168"
       },
-      "snippet": "Pa homeowners are saving up to $2750 a year on their bill! Here's how... The Federal government is incentivizing you to switch to solar energy.",
-      "source": "Facebook",
-      "title": "How to save on electricity bills with solar PPA programs ... - Facebook",
-      "url": "https://www.facebook.com/groups/76008371357/posts/10165104761341358"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "id": "https://www.facebook.com/groups/1313084745375387/posts/30381759828081159",
@@ -5767,7 +6550,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -5798,7 +6581,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -5838,66 +6621,36 @@
       "url": "https://www.facebook.com/groups/1313084745375387/posts/30438624569061351"
     },
     {
-      "context": "facebook.com",
-      "first_seen": "2026-11-16",
-      "group": "Ellwood City Facts Matter",
-      "id": "https://www.facebook.com/groups/2012425809076270/posts/4692903597695131",
-      "last_seen": "2026-11-16",
-      "posted": "2026-11-15",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
-      "queries": [
-        "site:facebook.com/groups (\"Penelec rate\" OR \"Met-Ed rate\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": true,
-        "host": true,
-        "keyword": true,
-        "lead": false,
-        "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "55944a3d623e"
-      },
-      "snippet": "Ellwood Electric: $11.00 Penelec: $10.46. Penelec: 13.37 cents/kWh. Penelec: $10.46 customer charge + (383 kWh x $0.1337) = $61.67",
-      "source": "Facebook",
-      "title": "For the second year in a row, Ellwood City Council will vote on ...",
-      "url": "https://www.facebook.com/groups/2012425809076270/posts/4692903597695131"
-    },
-    {
-      "context": "facebook.com",
-      "first_seen": "2026-11-16",
-      "group": "",
       "id": "https://www.facebook.com/groups/1128999828160318/posts/1836341570759470",
-      "last_seen": "2026-11-16",
+      "url": "https://www.facebook.com/groups/1128999828160318/posts/1836341570759470",
+      "title": "Concerned Citizens of the HBG Community - Facebook",
+      "snippet": "The program is an opportunity to understand why your electricity bills are increasing and what you can expect to see in the future.",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "",
       "posted": "2026-11-15",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
+      "first_seen": "2026-11-16",
+      "last_seen": "2026-11-18",
       "queries": [
-        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania",
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
       ],
       "rules": {
         "accepted": false,
-        "hard_exclusion": true,
+        "semantic_accepted": false,
+        "reason": "geography",
         "host": true,
         "keyword": true,
-        "lead": false,
         "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "55944a3d623e"
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
       },
-      "snippet": "The Energy Forum will include representatives from PPL Electric, conserve energy and water, customer assistance programs. PENNSYLVANIA, 2430 N. rd Street,",
-      "source": "Facebook",
-      "title": "Concerned Citizens of the HBG Community",
-      "url": "https://www.facebook.com/groups/1128999828160318/posts/1836341570759470"
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
     },
     {
       "context": "facebook.com",
@@ -6047,7 +6800,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -6234,7 +6987,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -6296,7 +7049,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -6327,7 +7080,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -6358,7 +7111,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -6389,7 +7142,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -6420,45 +7173,13 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "keyword"
       }
-    },
-    {
-      "context": "facebook.com",
-      "first_seen": "2026-11-15",
-      "group": "St. Thomas PA Community Bulletin Board",
-      "id": "https://www.facebook.com/groups/551603162371532/posts/1883374115861090",
-      "last_seen": "2026-11-18",
-      "posted": "2026-11-15",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
-      "queries": [
-        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")",
-        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": false,
-        "host": true,
-        "keyword": true,
-        "lead": false,
-        "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "fbf492ae33cc"
-      },
-      "snippet": "How can you lower your electric bill without turning off essential appliances like refrigerators? You can cut your electric bill by optimizing your fridge",
-      "source": "Facebook",
-      "title": "Tips to Lower Your Electric Bill in St. Thomas, PA",
-      "url": "https://www.facebook.com/groups/551603162371532/posts/1883374115861090"
     },
     {
       "context": "facebook.com",
@@ -6731,7 +7452,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -6762,7 +7483,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -6793,7 +7514,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -6824,7 +7545,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -6855,7 +7576,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -6886,7 +7607,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7013,7 +7734,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7044,7 +7765,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7137,7 +7858,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7199,7 +7920,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7230,7 +7951,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7292,7 +8013,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7323,7 +8044,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7487,6 +8208,39 @@
       "url": "https://www.facebook.com/groups/914150505364903/posts/29630990826587488"
     },
     {
+      "id": "https://www.facebook.com/groups/551603162371532/posts/1883374115861090",
+      "url": "https://www.facebook.com/groups/551603162371532/posts/1883374115861090",
+      "title": "Feight's Small Engine Repair on Facebook: \"Electric bills are getting out of control! My last electric bill was around $500 — more than my car …\"",
+      "snippet": "With electric bills this high, every bit of savings matters. Share this with someone who could use a few ideas to lower their electric bill!\n\n- Author: Feight's Small Engine Repair\n- Group: St. Thomas PA Community Bulletin Board\n- Posted: 2026-11-15T10:54:48+00:00\n- Reactions: 9\n- Comment count: 3\n-…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "St. Thomas PA Community Bulletin Board",
+      "posted": "2026-11-15",
+      "first_seen": "2026-11-15",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"PaPowerSwitch\" OR \"PA Power Switch\")",
+        "site:facebook.com/groups (\"electric supplier\" OR \"electric provider\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": false,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
       "id": "https://www.facebook.com/groups/664263460722346/posts/2649913022157370",
       "url": "https://www.facebook.com/groups/664263460722346/posts/2649913022157370",
       "title": "Extra Joycon Controller -2 Switch Games (Just Dance and Mario Kart)",
@@ -7509,7 +8263,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7540,7 +8294,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7571,7 +8325,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7633,7 +8387,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7664,7 +8418,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7695,7 +8449,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7726,7 +8480,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7757,7 +8511,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7788,7 +8542,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -7975,7 +8729,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8006,7 +8760,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8037,7 +8791,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8099,7 +8853,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8223,7 +8977,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8254,7 +9008,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8316,7 +9070,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8347,7 +9101,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8409,7 +9163,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8471,7 +9225,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8534,7 +9288,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8597,7 +9351,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8659,7 +9413,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8690,7 +9444,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8721,7 +9475,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8814,7 +9568,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8845,7 +9599,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8876,7 +9630,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -8907,7 +9661,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9063,7 +9817,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9125,7 +9879,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9156,7 +9910,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9251,7 +10005,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9375,7 +10129,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9437,7 +10191,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9468,7 +10222,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9499,7 +10253,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9530,7 +10284,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9623,7 +10377,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9716,7 +10470,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9840,7 +10594,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9871,7 +10625,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9964,7 +10718,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -9995,7 +10749,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -10088,7 +10842,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -10119,7 +10873,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -10212,7 +10966,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -10274,7 +11028,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -10553,7 +11307,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -10894,7 +11648,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -11049,7 +11803,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -11390,7 +12144,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -11483,7 +12237,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -11521,37 +12275,6 @@
       "source": "Facebook",
       "title": "Manahawkin Homeowner's $278.79 Electric Bill Drops to ...",
       "url": "https://www.facebook.com/groups/3583390791950559/posts/4627736127516015"
-    },
-    {
-      "context": "facebook.com",
-      "first_seen": "2026-11-13",
-      "group": "HAMMONTON NJ",
-      "id": "https://www.facebook.com/groups/1608942452942380/posts/2701468647023083",
-      "last_seen": "2026-11-13",
-      "posted": "2026-11-12",
-      "production": {
-        "accepted": false,
-        "reason": "geography",
-        "source": "rules"
-      },
-      "queries": [
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")"
-      ],
-      "rules": {
-        "accepted": false,
-        "hard_exclusion": false,
-        "host": true,
-        "keyword": true,
-        "lead": false,
-        "pennsylvania": false,
-        "reason": "geography",
-        "semantic_accepted": false,
-        "version": "6542865e263b"
-      },
-      "snippet": "Atlantic City Electric bill: $278.79. Accumulated energy credits: 3,175 kWh • Average monthly electricity savings: $167.38!",
-      "source": "Facebook",
-      "title": "Manahawkin Home Sees $278.79 to $0.00 Electric Bill",
-      "url": "https://www.facebook.com/groups/1608942452942380/posts/2701468647023083"
     },
     {
       "context": "facebook.com",
@@ -11763,7 +12486,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -11896,6 +12619,39 @@
       "url": "https://www.facebook.com/groups/896440472199217/posts/1693314429178480"
     },
     {
+      "id": "https://www.facebook.com/groups/1608942452942380/posts/2701468647023083",
+      "url": "https://www.facebook.com/groups/1608942452942380/posts/2701468647023083",
+      "title": "HAMMONTON NJ | One of my ACE Customers in Manahawkin signed up with me Last November, just two days after the grid opened up following years of being blacked out | Facebook",
+      "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n[](\n\n## HAMMONTON NJ · \n\nJoin\n\nFrank Matusik\n\n · \n\n2 days ago\n\nThursday, November 12, 2026 at 2:05 PM\n\n2d · \n\nSolar Savings: Manahawkin Home Sees $278.79 to $0.00 Electric Bill\n\nTitles are generated by AI from Meta\n\nOne of my ACE Customers in Manahawkin signed up wit…",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "HAMMONTON NJ",
+      "posted": "2026-11-12",
+      "first_seen": "2026-11-13",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"Penelec\" OR \"Met-Ed\")",
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
+      }
+    },
+    {
       "context": "facebook.com",
       "first_seen": "2026-11-13",
       "group": "Greenville, PA  Standing Together For A Better Future",
@@ -12011,7 +12767,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -12263,7 +13019,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -12387,7 +13143,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -12669,7 +13425,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -12732,7 +13488,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -12794,7 +13550,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -12918,7 +13674,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -12949,12 +13705,47 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
         "source": "rules",
         "reason": "keyword"
+      }
+    },
+    {
+      "id": "https://www.facebook.com/groups/1450561688607908/posts/4365419677122080",
+      "url": "https://www.facebook.com/groups/1450561688607908/posts/4365419677122080",
+      "title": "Wait until more Data centers come in. The increase is for the bigger ...",
+      "snippet": "All Pennsylvania-regulated electric utilities are adjusting their price to compare on Dec. 1 for residential non- shopping customers, the",
+      "source": "Facebook",
+      "context": "facebook.com",
+      "group": "Connellsville Township and Surrounding Areas Community Watch",
+      "posted": "2026-11-11",
+      "first_seen": "2026-11-12",
+      "last_seen": "2026-11-18",
+      "queries": [
+        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
+        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
+        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania",
+        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania",
+        "site:facebook.com/groups (\"price to compare\" OR \"rate to compare\") Pennsylvania"
+      ],
+      "rules": {
+        "accepted": false,
+        "semantic_accepted": false,
+        "reason": "geography",
+        "host": true,
+        "keyword": true,
+        "pennsylvania": false,
+        "lead": false,
+        "hard_exclusion": true,
+        "version": "d154c4b1b168"
+      },
+      "production": {
+        "accepted": false,
+        "source": "rules",
+        "reason": "geography"
       }
     },
     {
@@ -13073,7 +13864,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -13104,7 +13895,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -13228,7 +14019,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -13416,7 +14207,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -13540,7 +14331,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -13571,7 +14362,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -13788,7 +14579,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -13819,7 +14610,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -13881,7 +14672,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -13943,7 +14734,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -14005,7 +14796,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -14036,7 +14827,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -14160,7 +14951,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -14254,7 +15045,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -14409,7 +15200,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -14754,7 +15545,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -14817,7 +15608,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -14855,40 +15646,6 @@
       "source": "Facebook",
       "title": "Converting natural gas furnace to propane in Allegan County",
       "url": "https://www.facebook.com/groups/1871492486947365/posts/2371054870324455"
-    },
-    {
-      "id": "https://www.facebook.com/groups/1450561688607908/posts/4365419677122080",
-      "url": "https://www.facebook.com/groups/1450561688607908/posts/4365419677122080",
-      "title": "Connellsville Township and Surrounding Areas Community Watch | Wait until more Data centers come in | Facebook",
-      "snippet": "Log In\n\nLog In\n\nForgot Account?\n\n[](\n\n## Connellsville Township and Surrounding Areas Community Watch · \n\nJoin\n\nRobin Prickett\n\n · \n\nAdmin\n\n · \n\na day ago\n\nWednesday, November 11, 2026 at 8:11 PM\n\n1d · \n\nWait until more Data centers come in. The increase is for the bigger wires and tree removal on m…",
-      "source": "Facebook",
-      "context": "facebook.com",
-      "group": "Connellsville Township and Surrounding Areas Community Watch",
-      "posted": "2026-11-11",
-      "first_seen": "2026-11-12",
-      "last_seen": "2026-11-16",
-      "queries": [
-        "site:facebook.com/groups (\"electric bill\" OR \"energy bill\") (\"Pennsylvania\" OR \"PA\")",
-        "site:facebook.com/groups (\"high electric bill\" OR \"bill doubled\") (\"PECO\" OR \"PPL Electric\")",
-        "site:facebook.com/groups (\"natural gas bill\" OR \"gas rate\") (\"Columbia Gas\" OR \"PGW\") Pennsylvania",
-        "site:facebook.com/groups (\"PPL rate\" OR \"PPL supplier\") Pennsylvania"
-      ],
-      "rules": {
-        "accepted": false,
-        "semantic_accepted": false,
-        "reason": "keyword",
-        "host": true,
-        "keyword": false,
-        "pennsylvania": false,
-        "lead": false,
-        "hard_exclusion": true,
-        "version": "ceca62753329"
-      },
-      "production": {
-        "accepted": false,
-        "source": "rules",
-        "reason": "keyword"
-      }
     },
     {
       "context": "facebook.com",
@@ -14975,7 +15732,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -15006,7 +15763,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -15037,7 +15794,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -15161,7 +15918,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -15197,7 +15954,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": false,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -15321,7 +16078,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -15383,7 +16140,7 @@
         "pennsylvania": true,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
@@ -16783,7 +17540,7 @@
         "pennsylvania": false,
         "lead": false,
         "hard_exclusion": true,
-        "version": "ceca62753329"
+        "version": "d154c4b1b168"
       },
       "production": {
         "accepted": false,
